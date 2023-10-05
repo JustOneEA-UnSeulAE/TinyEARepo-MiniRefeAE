@@ -1441,6 +1441,7 @@ Next steps* for implementing the Canada Disability Benefit (CDB) program:&#xD;
 *Note: These steps are a summary, and further detailed planning and actions will be necessary to fully implement the CDB program.&#xD;
 </documentation>
     </element>
+    <element xsi:type="archimate:CourseOfAction" name="Engage With APM Team (Course of Action)" id="id-42a76a582a0c49e0bc48f1de3a8b1e60"/>
   </folder>
   <folder name="Business" id="id-fb9c94c240434273aa6d6f5df1a73407" type="business">
     <element xsi:type="archimate:BusinessEvent" name="EA Requests SAS Feedback" id="id-a7ebf3b84a7545f6a5b2e8eaca445cb6"/>
@@ -2191,6 +2192,9 @@ Moderators should have access to the Presenters' contact info, in case something
     <element xsi:type="archimate:BusinessService" name="Perform Technology Assessments (Business Service)" id="id-8f1bac474fb849bc92a8c512f9157325"/>
     <element xsi:type="archimate:BusinessProcess" name="Software Approval Process (Business Process)" id="id-7ad239ad874140ffbe8c8eb51fc7ef98"/>
     <element xsi:type="archimate:BusinessProcess" name="High Level Solution Process Flow (Business Process)" id="id-239206528abe4f69aeaf51d5c6e38298"/>
+    <element xsi:type="archimate:BusinessRole" name="Service Asset and Configuration Management (SACM) Team(Business Role)" id="id-b599d7707b83485e94ef3ccc07544bb8"/>
+    <element xsi:type="archimate:BusinessRole" name="APM Team (Business Role)" id="id-043b12555e534a4e9f4e5b86f5ee1aa9"/>
+    <element xsi:type="archimate:BusinessProcess" name="Update Application Contact Data (Business Process)" id="id-54472f510db440aaa51027cf456d1cd3"/>
   </folder>
   <folder name="Application" id="id-4c073bc2342b490eae44200c8635c571" type="application">
     <element xsi:type="archimate:DataObject" name="Drupal-Sourced Data (Data Object)" id="id-a36acbc1b6124a03991eae20826f88c9">
@@ -2480,6 +2484,17 @@ Language Weaver Cloud is part of a holistic ground to cloud Linguistic AI soluti
     <element xsi:type="archimate:ApplicationFunction" name="DTiG Best Practices / Frameworks (Application Function)" id="id-6ffd81ba694e4823b7c6f5eadc7aa60f"/>
     <element xsi:type="archimate:ApplicationFunction" name="DTiG New Peer-Reviewed, Multi-Disciplinary (Application Function)" id="id-cfe46824e3584931b9ea4035f30afa82"/>
     <element xsi:type="archimate:ApplicationService" name="Database (Application Service)" id="id-c03f68f246ff4595a586d39a55744c0c"/>
+    <element xsi:type="archimate:DataObject" name="Corporate Solutions Directory (Data Object)" id="id-ab5b7302d9fb48c8b2b205597da847b2"/>
+    <element xsi:type="archimate:DataObject" name="Configuration Management Database (CMDB) (Data Object)" id="id-8ddbbd3afa404e5aab285a219d18b108">
+      <documentation>Sent: Friday, August 18, 2023 11:05 AM&#xD;
+Subject: RE: EMAS: IT continuity&#xD;
+&#xD;
+The upcoming implementation of the departmental Configuration Management Database (CMDB) is *not* a replacement for the Corporate Solution Directory (CSD). They’re two very different things.&#xD;
+&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:DataObject" name="APM Data (Data Object)" id="id-9e6c8b6b3ce94f3db49e2cf2d004ba16"/>
+    <element xsi:type="archimate:DataObject" name="PeopleSoft Extracts (Data Object)" id="id-b3fdacdd040742618ad57bc34e0605bd"/>
   </folder>
   <folder name="Technology &amp; Physical" id="id-e073686aface40f7a970252f84a16b34" type="technology">
     <element xsi:type="archimate:Artifact" name="Model" id="id-cde5d10003e84d168bae6540d857644c"/>
@@ -2592,6 +2607,7 @@ Integrity Case Management system | In Production | 896 | https://dialogue.spprod
     <element xsi:type="archimate:TechnologyService" name="Database as a Service (Technology Service)" id="id-80ffd9896a054995b32c6c7a50c8bb09"/>
     <element xsi:type="archimate:SystemSoftware" name="QualiWare (System Software)" id="id-5c3be20f942049d4b1debaefa5e0b2e5"/>
     <element xsi:type="archimate:SystemSoftware" name="SharePoint Online (System Software)" id="id-d858ec67acc3404b99630b6f6003b633"/>
+    <element xsi:type="archimate:SystemSoftware" name="CMDB (System Software)" id="id-49d781f07ec843e6a41dd3bf20ad5465"/>
   </folder>
   <folder name="Motivation" id="id-f0d4d184e3724f9581f16c817692f2b0" type="motivation">
     <element xsi:type="archimate:Principle" name="GC EA Principles" id="id-9f1bfe4676814b5b9e0db7e61200311f"/>
@@ -4553,6 +4569,10 @@ departmental results of “persons with disabilities and their families have fin
     <element xsi:type="archimate:Outcome" name="Target Working-Age Persons with Disabilities Hold a Valid DTC Certificate (Income-Based) (Outcome)" id="id-597c5b897d4b4bc5bb483659e4d42903">
       <documentation>Benefit will target working-age persons with disabilities who hold a valid DTC certificate; the amount of the benefit will be based on income</documentation>
     </element>
+    <element xsi:type="archimate:Assessment" name="CSD is a Legacy Tool (Assessment)" id="id-b51d63c3da6c434a9c5b5d80bcd5180e"/>
+    <element xsi:type="archimate:Assessment" name="CSD Consumption Requires A Full Account of Information (Assessment)" id="id-7e471cd3bc614644a00d1cc6b4424a3f"/>
+    <element xsi:type="archimate:Assessment" name="Provides A Higher Level Of Reliability (Assessment)" id="id-ca14bf467b8c494db44ce0311d7241d7"/>
+    <element xsi:type="archimate:Assessment" name="Illustrates Advantages For Teams To Access Current HR Data (Assessment)" id="id-c4e87533f29d429e96a53a488d3e31f1"/>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Gap" name="Unmanaged Data (Gap)" id="id-ed4e79d466fd4551a90d4cbfb6784e74">
@@ -4690,6 +4710,14 @@ Finalizing preliminary privacy impact assessment. Need support from TBS, SSC and
 • Speak with FWD50 (large, local Ottawa conference)</documentation>
     </element>
     <element xsi:type="archimate:Deliverable" name="Recruit / Enlist Volunteers for Vacant Roles (Deliverable)" id="id-4c291127a94241a4a5b7feb1df6682b9"/>
+    <element xsi:type="archimate:Deliverable" name="CSD Decommissioning (Deliverable)" id="id-3e98496ca6154ce9a65d9c061c6587db"/>
+    <element xsi:type="archimate:Plateau" name="APM Tooling Phase, Bifrost (Plateau)" id="id-2c4c8efd358241e78ff1c7dda8b76930"/>
+    <element xsi:type="archimate:Deliverable" name="Change From Position Names To Position Numbers (Deliverable)" id="id-e26f3c1a6ac1453fa73cc64e0f67fc85"/>
+    <element xsi:type="archimate:Plateau" name="Proof of Concept (Plateau)" id="id-2c2d2e582ebc4ffda4a0e0a02dd37a14"/>
+    <element xsi:type="archimate:WorkPackage" name="Work Package END" id="id-1cbd93bb3a1145eebb21089824f9d50a"/>
+    <element xsi:type="archimate:WorkPackage" name="Work Package INTERIM" id="id-98b8c9416baa4e99a972321f1897f122"/>
+    <element xsi:type="archimate:WorkPackage" name="Work Package KICK OFF" id="id-46ecb07417bb4ecb9a13b2f628c83427"/>
+    <element xsi:type="archimate:Plateau" name="Start Of CSD Modernization (Plateau)" id="id-bb85c574ebd84a1c8e684d7bddce1672"/>
   </folder>
   <folder name="Other" id="id-3b6502d62be54bf79bb29134a011622f" type="other">
     <element xsi:type="archimate:Junction" name="Junction" id="id-483568e04e5345cc8bc005461b6854a2" type="or"/>
@@ -6044,6 +6072,21 @@ Cybersecurity breaches are on the rise, and strong controls to prevent, detect, 
     <element xsi:type="archimate:CompositionRelationship" id="id-d75e241c5dee44cea06c2b720687d53f" source="id-0935541f1bc347fe9390195b6a6d799e" target="id-65b37d1e0fe140d080a41ef2e248f5da"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-6d7eadecf2cd49f990d35d61618bd3db" source="id-0935541f1bc347fe9390195b6a6d799e" target="id-26e0343a055d4ca4ad3e0009773d9eab"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-5186816f571a4d928c81e29432688581" source="id-0935541f1bc347fe9390195b6a6d799e" target="id-ed90f9f86140496fbce9ae7beb138a35"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-b116f5135c2b446f8563d95e027aa361" source="id-b51d63c3da6c434a9c5b5d80bcd5180e" target="id-ab5b7302d9fb48c8b2b205597da847b2"/>
+    <element xsi:type="archimate:AccessRelationship" id="id-015c2c888cad4aa897e48eaba70b41bf" source="id-49d781f07ec843e6a41dd3bf20ad5465" target="id-8ddbbd3afa404e5aab285a219d18b108"/>
+    <element xsi:type="archimate:ServingRelationship" name="SUPPORT" id="id-51ea360a8bd84c93b05c59c580dff521" source="id-b599d7707b83485e94ef3ccc07544bb8" target="id-49d781f07ec843e6a41dd3bf20ad5465"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-154adefb747c4270ab78ea8b3054d460" source="id-7e471cd3bc614644a00d1cc6b4424a3f" target="id-42a76a582a0c49e0bc48f1de3a8b1e60"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-137a569a818e45199df6dc7ca39168e0" source="id-043b12555e534a4e9f4e5b86f5ee1aa9" target="id-42a76a582a0c49e0bc48f1de3a8b1e60"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-b5687fb6a1e04b929264d227581fd913" source="id-ca14bf467b8c494db44ce0311d7241d7" target="id-b3fdacdd040742618ad57bc34e0605bd"/>
+    <element xsi:type="archimate:AccessRelationship" id="id-a3272c257e6c4dd0b016defdf0539c7f" source="id-54472f510db440aaa51027cf456d1cd3" target="id-b3fdacdd040742618ad57bc34e0605bd"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-9468c4a3e1e34757b079ece01e8545cf" source="id-c4e87533f29d429e96a53a488d3e31f1" target="id-a3272c257e6c4dd0b016defdf0539c7f"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-74ac2878518f473c84f8069c1c6ab731" source="id-46ecb07417bb4ecb9a13b2f628c83427" target="id-e26f3c1a6ac1453fa73cc64e0f67fc85"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-a1157104b8754feda6f9954e1b88295e" source="id-2c2d2e582ebc4ffda4a0e0a02dd37a14" target="id-98b8c9416baa4e99a972321f1897f122"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-a3384d68f15c40c28f5be210376489d6" source="id-46ecb07417bb4ecb9a13b2f628c83427" target="id-2c2d2e582ebc4ffda4a0e0a02dd37a14"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-976cb2a04945450b8c8472e6e77ea8bd" source="id-98b8c9416baa4e99a972321f1897f122" target="id-2c4c8efd358241e78ff1c7dda8b76930"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-421cb72c331843779226f2a83d0f3230" source="id-2c4c8efd358241e78ff1c7dda8b76930" target="id-1cbd93bb3a1145eebb21089824f9d50a"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-37341ce968c44896af4b169aa88aba7a" source="id-1cbd93bb3a1145eebb21089824f9d50a" target="id-3e98496ca6154ce9a65d9c061c6587db"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-877ac3da5904467796d37513c950599f" source="id-bb85c574ebd84a1c8e684d7bddce1672" target="id-46ecb07417bb4ecb9a13b2f628c83427"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -9143,6 +9186,119 @@ Assistant Deputy Minister business owner:	Tammy Belanger&#xD;
 Date:	June 21, 2023&#xD;
 &#xD;
 &#xD;
+</documentation>
+      </element>
+    </folder>
+    <folder name="CMDB" id="id-be583f9b5add4b54b57d31ad5c6c7766">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="CSD Modernization" id="id-a8b0c60867b741798819cf6bf5d60cb1">
+        <child xsi:type="archimate:Note" id="id-7aad05f277d943f0bd2241e46c51c431" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="12" y="12" width="517" height="193"/>
+          <content>Project Name (En) New Corporate Solutions Directory (CSD)&#xD;
+Proposal Name (FR) &#xD;
+Project Name (En Short) &#xD;
+Project Name (Fr Short) &#xD;
+Project Number (Proposal ID) &#xD;
+Investment Category&#xD;
+Sponsoring Branch </content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-16942a5e4cde42838c11623c086e4e1a" targetConnections="id-cdf9c466f94b4da78654b72c43f4ed2f" archimateElement="id-ab5b7302d9fb48c8b2b205597da847b2">
+          <bounds x="241" y="383" width="110" height="75"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-934ac4506c66474c8bd3f66bb51ef261" targetConnections="id-74067008e33a4ff3a4a63a4fb3b4fe9d" archimateElement="id-8ddbbd3afa404e5aab285a219d18b108">
+          <bounds x="226" y="477" width="139" height="75"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-91fc97408fb74ee08e7869b966cd4737" targetConnections="id-0605bf9b8d4542d485601550d6380130" archimateElement="id-3e98496ca6154ce9a65d9c061c6587db">
+          <bounds x="1078" y="390" width="148" height="61"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-9be818f2eee84aa39eacd7f6e386f52b" archimateElement="id-b51d63c3da6c434a9c5b5d80bcd5180e">
+          <bounds x="84" y="393" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cdf9c466f94b4da78654b72c43f4ed2f" source="id-9be818f2eee84aa39eacd7f6e386f52b" target="id-16942a5e4cde42838c11623c086e4e1a" archimateRelationship="id-b116f5135c2b446f8563d95e027aa361"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3bfc3dee3dfb46c785b3c2a8150de95a" targetConnections="id-711799daf5ba4b3abc465902b428d1bf" archimateElement="id-49d781f07ec843e6a41dd3bf20ad5465">
+          <bounds x="99" y="487" width="90" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-74067008e33a4ff3a4a63a4fb3b4fe9d" source="id-3bfc3dee3dfb46c785b3c2a8150de95a" target="id-934ac4506c66474c8bd3f66bb51ef261" archimateRelationship="id-015c2c888cad4aa897e48eaba70b41bf"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-993fde4e7b3645cab87e85827dac01ba" archimateElement="id-b599d7707b83485e94ef3ccc07544bb8">
+          <bounds x="76" y="597" width="136" height="82"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-711799daf5ba4b3abc465902b428d1bf" source="id-993fde4e7b3645cab87e85827dac01ba" target="id-3bfc3dee3dfb46c785b3c2a8150de95a" archimateRelationship="id-51ea360a8bd84c93b05c59c580dff521"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-f4e59c9e83e14d0cbf97cda72474bb85" targetConnections="id-ed6cde557ccb458e958b3e48974a9826" archimateElement="id-2c4c8efd358241e78ff1c7dda8b76930">
+          <bounds x="934" y="296" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1a07f533d3744f4d80a44991bcab6824" source="id-f4e59c9e83e14d0cbf97cda72474bb85" target="id-6ba2002abdae4cb495f6cebc0d1f1e51" archimateRelationship="id-421cb72c331843779226f2a83d0f3230"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-84d486b82afe4d959cce51c9cc1b84ec" archimateElement="id-9e6c8b6b3ce94f3db49e2cf2d004ba16">
+          <bounds x="936" y="393" width="120" height="40"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-c57c879462d0464390f9dc2d7645b43d" archimateElement="id-7e471cd3bc614644a00d1cc6b4424a3f">
+          <bounds x="132" y="236" width="1020" height="37"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7decbef235944855a0fa948cd9f5de4d" source="id-c57c879462d0464390f9dc2d7645b43d" target="id-d13e5df80e554079aae700eb592a258a" archimateRelationship="id-154adefb747c4270ab78ea8b3054d460"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-9e1abaeb58f64e58af895f22458a4933" archimateElement="id-043b12555e534a4e9f4e5b86f5ee1aa9">
+          <bounds x="703" y="104" width="120" height="46"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-dee90c08f4d24c64bd301cb406044657" source="id-9e1abaeb58f64e58af895f22458a4933" target="id-d13e5df80e554079aae700eb592a258a" archimateRelationship="id-137a569a818e45199df6dc7ca39168e0"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-d13e5df80e554079aae700eb592a258a" targetConnections="id-7decbef235944855a0fa948cd9f5de4d id-dee90c08f4d24c64bd301cb406044657" archimateElement="id-42a76a582a0c49e0bc48f1de3a8b1e60">
+          <bounds x="564" y="176" width="397" height="29"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-52bd198068cb43e090d982033fde2a6d" targetConnections="id-e1e99d2cc93746859ab1cc648d8d3e33" archimateElement="id-e26f3c1a6ac1453fa73cc64e0f67fc85">
+          <bounds x="407" y="382" width="146" height="77"/>
+        </child>
+        <child xsi:type="archimate:Note" id="id-bd9549d870bc49b6b49f659d795e8799" textAlignment="1">
+          <bounds x="409" y="144" width="120" height="61"/>
+          <content>(EMAIL)&#xD;
+2023-08-18&#xD;
+v0.1.20230818</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-4d62ef6100f74e2ea990295e1525d60b" archimateElement="id-54472f510db440aaa51027cf456d1cd3">
+          <bounds x="652" y="588" width="149" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a77e356ff1284162afc2138c6e358dab" targetConnections="id-cbf90a07fec6470aafe04c480837fb19" source="id-4d62ef6100f74e2ea990295e1525d60b" target="id-82794f9cbe6b490399b4ebb4f8aa2b73" archimateRelationship="id-a3272c257e6c4dd0b016defdf0539c7f"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-82794f9cbe6b490399b4ebb4f8aa2b73" targetConnections="id-2d8b606da690418885649eaa79faaca1 id-a77e356ff1284162afc2138c6e358dab" archimateElement="id-b3fdacdd040742618ad57bc34e0605bd">
+          <bounds x="672" y="487" width="110" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-bfe89ecbbb09413cacc5308995f05770" archimateElement="id-ca14bf467b8c494db44ce0311d7241d7">
+          <bounds x="515" y="478" width="120" height="73"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2d8b606da690418885649eaa79faaca1" source="id-bfe89ecbbb09413cacc5308995f05770" target="id-82794f9cbe6b490399b4ebb4f8aa2b73" archimateRelationship="id-b5687fb6a1e04b929264d227581fd913"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-477b3f8c338d4af4962a41676824486d" targetConnections="id-40d66acd34774fad9a53def065e56149" archimateElement="id-2c2d2e582ebc4ffda4a0e0a02dd37a14">
+          <bounds x="588" y="296" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d314f144aaa041e995918ea287d7fe2b" source="id-477b3f8c338d4af4962a41676824486d" target="id-19991cb97a2249ad85fdaba17bc8284c" archimateRelationship="id-a1157104b8754feda6f9954e1b88295e"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3abd6859c2944a2b86c0117667c0ac89" archimateElement="id-c4e87533f29d429e96a53a488d3e31f1">
+          <bounds x="515" y="559" width="120" height="121"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cbf90a07fec6470aafe04c480837fb19" source="id-3abd6859c2944a2b86c0117667c0ac89" target="id-a77e356ff1284162afc2138c6e358dab" archimateRelationship="id-9468c4a3e1e34757b079ece01e8545cf"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-6ba2002abdae4cb495f6cebc0d1f1e51" targetConnections="id-1a07f533d3744f4d80a44991bcab6824" archimateElement="id-1cbd93bb3a1145eebb21089824f9d50a">
+          <bounds x="1092" y="296" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-0605bf9b8d4542d485601550d6380130" source="id-6ba2002abdae4cb495f6cebc0d1f1e51" target="id-91fc97408fb74ee08e7869b966cd4737" archimateRelationship="id-37341ce968c44896af4b169aa88aba7a"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-19991cb97a2249ad85fdaba17bc8284c" targetConnections="id-d314f144aaa041e995918ea287d7fe2b" archimateElement="id-98b8c9416baa4e99a972321f1897f122">
+          <bounds x="758" y="294" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ed6cde557ccb458e958b3e48974a9826" source="id-19991cb97a2249ad85fdaba17bc8284c" target="id-f4e59c9e83e14d0cbf97cda72474bb85" archimateRelationship="id-976cb2a04945450b8c8472e6e77ea8bd"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-ae700f1b48bf4d68a41efc478b335ab9" targetConnections="id-8131b039d7184231b8560640df01e46d" archimateElement="id-46ecb07417bb4ecb9a13b2f628c83427">
+          <bounds x="420" y="296" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e1e99d2cc93746859ab1cc648d8d3e33" source="id-ae700f1b48bf4d68a41efc478b335ab9" target="id-52bd198068cb43e090d982033fde2a6d" archimateRelationship="id-74ac2878518f473c84f8069c1c6ab731"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-40d66acd34774fad9a53def065e56149" source="id-ae700f1b48bf4d68a41efc478b335ab9" target="id-477b3f8c338d4af4962a41676824486d" archimateRelationship="id-a3384d68f15c40c28f5be210376489d6"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-4df3d65df4314e378b9b4274bb9b112f" archimateElement="id-bb85c574ebd84a1c8e684d7bddce1672">
+          <bounds x="236" y="296" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8131b039d7184231b8560640df01e46d" source="id-4df3d65df4314e378b9b4274bb9b112f" target="id-ae700f1b48bf4d68a41efc478b335ab9" archimateRelationship="id-877ac3da5904467796d37513c950599f"/>
+        </child>
+        <documentation>Sent: Friday, August 18, 2023 11:05 AM&#xD;
+Subject: RE: EMAS: IT continuity&#xD;
+&#xD;
+Sorry to interject, but there’s an element here I really need to clarify. The upcoming implementation of the departmental Configuration Management Database (CMDB) is *not* a replacement for the Corporate Solution Directory (CSD). They’re two very different things.&#xD;
+&#xD;
+Over the years since the CSD was introduced as a tool to support APM’s reporting to TBS, it became a de facto CMDB only because of the urgent need for one in the branch and the lack of a proper enterprise CMDB. The CSD was never designed or intended for that use, and with the upcoming implementation of the CMDB, we will finally be able to transition configuration data away from the CSD to something fit-for-purpose.&#xD;
+&#xD;
+That transition will also be a key milestone in the evolution of the CSD itself to tools that are more fit-for-purpose and specific to APM’s areas of responsibility, which is why we will be able to decommission that legacy CSD tool.&#xD;
+&#xD;
+In short, configuration management data will come from the CMDB (managed by Paul Lalonde) and the Service Asset and Configuration Management (SACM) team to be put in place to support it, while APM data will continue to come from the next phase (which we’re calling Bifrost) of our APM tooling journey. &#xD;
+&#xD;
+Obviously, it’s still vital that anyone currently consuming data or information from the CSD today have a full accounting of what they’re pulling, so that they can engage with the APM team accordingly. We don’t want anyone to be left unaware or unprepared for these transitions.&#xD;
+&#xD;
+Incidentally, I saw there was question in the EMAS chat about how to source contact data. As part of our APM tooling, we have changed from position names to position numbers, which allows us to update application  contact data with some measure of automation on a monthly basis using extracts from PeopleSoft. This provides a much higher level of reliability, since the data is coming from the authoritative source and no longer relies upon IT managers making manual updates to the corresponding records in the CSD. As a proof-of-concept, our success with this illustrates the advantages for other teams that need access to up-to-date HR data to follow in our footsteps.&#xD;
 </documentation>
       </element>
     </folder>
