@@ -4630,6 +4630,20 @@ percentage of decisions on applications for a Canada Pension Plan disability ben
 percentage of Old Age Security basic benefits paid within the first month of entitlement&#xD;
 </documentation>
     </element>
+    <element xsi:type="archimate:Assessment" name="Overall Message (Assessment)" id="id-6f40fb2044c842ce9953cff49a46c76e">
+      <documentation>Employment and Social Development Canada’s Benefits Delivery Modernization programme is the largest information technology project undertaken to date by the federal government. The programme had 2 key goals:&#xD;
+• migrate Old Age Security, Employment Insurance, and Canada Pension Plan benefits to a modern cloud‑based platform&#xD;
+• transform benefits delivery and the user experience to meet the needs of diverse groups, including seniors, people in remote locations, Indigenous peoples, and refugees&#xD;
+The information technology systems currently used to deliver these benefits to Canadians are between 20 and 60 years old and at risk of failing. If these systems were to fail, it could greatly affect the more than 10 million Canadians who rely on them to meet their daily needs.&#xD;
+We found that in the face of ongoing delays, cost increases, and staffing challenges, the department showed flexibility by adjusting its approach from working on both of the programme’s goals in tandem to prioritizing the migration of the aging systems to reduce the risk of system failure. However, this approach meant delaying the programme’s much‑needed transformation component, which is intended to improve how people access and receive these benefits, including reducing the occurrence of inaccurate payments. The programme is more than halfway into its initially planned timeline, and all 3 benefits are still operating on outdated systems with limitations.&#xD;
+As time goes on and estimated costs continue to rise, we are concerned that decision makers may scale back or eliminate the transformation component of the 3 benefits, resulting in a final product that does not consider the needs of millions of Canadians who rely on them. The Benefits Delivery Modernization programme is an opportunity for the federal government to demonstrate how it could improve the planning and execution of large, multi‑year information technology projects.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="Migrate Old Age Security, Employment Insurance, and Canada Pension Plan Benefits to a Modern Cloud‑Based Platform (Goal)" id="id-509393510810419ab1c0a88ac9b928e7">
+      <documentation>migrate Old Age Security, Employment Insurance, and Canada Pension Plan benefits to a modern cloud‑based platform</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="Transform Benefits Delivery and the UX to Meet the Needs of Diverse Groups (Goal)" id="id-04a6f5d993a440afaa4cac59310ad678">
+      <documentation>• transform benefits delivery and the user experience to meet the needs of diverse groups, including seniors, people in remote locations, Indigenous peoples, and refugees</documentation>
+    </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Gap" name="Unmanaged Data (Gap)" id="id-ed4e79d466fd4551a90d4cbfb6784e74">
@@ -9478,6 +9492,41 @@ Obviously, it’s still vital that anyone currently consuming data or informatio
 &#xD;
 Incidentally, I saw there was question in the EMAS chat about how to source contact data. As part of our APM tooling, we have changed from position names to position numbers, which allows us to update application  contact data with some measure of automation on a monthly basis using extracts from PeopleSoft. This provides a much higher level of reliability, since the data is coming from the authoritative source and no longer relies upon IT managers making manual updates to the corresponding records in the CSD. As a proof-of-concept, our success with this illustrates the advantages for other teams that need access to up-to-date HR data to follow in our footsteps.&#xD;
 </documentation>
+      </element>
+    </folder>
+    <folder name="BDM" id="id-0fb9a34bb698471ebfed65cf0f62612b">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="BDM OAG Report 10-2023" id="id-17249823ecc8439baf6f54e86e748b16">
+        <child xsi:type="archimate:Note" id="id-107f20d214974730855be3877ea739d6" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="12" y="12" width="601" height="145"/>
+          <content>Project Name (En) - The Benefits Delivery Modernization Programme&#xD;
+Proposal Name (FR)&#xD;
+Project Name (En Short) BDM / Project Name (Fr Short) MVP&#xD;
+&#xD;
+Independent Auditor's Report 2023, Report 8</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-d14ebfca91f9404eb89e570f8621eeab" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
+          <bounds x="624" y="12" width="193" height="145"/>
+          <content>OAG Report 8-2023</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-8cef4a204dd647c099833356793103f4" textAlignment="1">
+          <bounds x="697" y="96" width="120" height="61"/>
+          <content>(DRAFT)&#xD;
+2023-11-22&#xD;
+v0.1.20231122</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-e0a92abfc5b94bf28fb08917565bea57" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
+          <bounds x="852" y="24" width="149" height="108"/>
+          <content>DIAGRAM NOT ENDORSED</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-533304bb435d4273a94b1d5dc8e0da20" archimateElement="id-6f40fb2044c842ce9953cff49a46c76e">
+          <bounds x="12" y="168" width="409" height="253"/>
+          <child xsi:type="archimate:DiagramObject" id="id-0d63233b5f51421aabe9a79e9a29e4fa" archimateElement="id-04a6f5d993a440afaa4cac59310ad678">
+            <bounds x="12" y="108" width="209" height="58"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-38d8e0c5630d403d9fd1d84fa8cdf13c" archimateElement="id-509393510810419ab1c0a88ac9b928e7">
+            <bounds x="12" y="24" width="209" height="81"/>
+          </child>
+        </child>
       </element>
     </folder>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Top-Level Hierarchy of ArchiMate Concepts" id="id-d10f3fb17612466abc4e8fa9563db2a9">
