@@ -4923,7 +4923,9 @@ departmental results of “persons with disabilities and their families have fin
     <element xsi:type="archimate:Outcome" name="Focus on Take-up Among HT (Outcome)" id="id-a189964d446f4a2fb4ee5fb751767b61">
       <documentation>Focus on awareness of the CDB among eligible working-age persons with disabilities, take-up of the benefit among the eligible population, and meeting service standards in responding to applicant and client inquiries and in the processing of the benefit</documentation>
     </element>
-    <element xsi:type="archimate:Outcome" name="Outcome" id="id-185457ec01214128b5b1bdd8ad05416b"/>
+    <element xsi:type="archimate:Outcome" name="Advance ESDC Core Responsibilities And Departmental Results (Outcome)" id="id-185457ec01214128b5b1bdd8ad05416b">
+      <documentation>Advance the Department’s core responsibilities of “income security and social development”, and the associated departmental results of “persons with disabilities and their families have financial support” and “barriers to accessibility for people with disabilities are removed.”</documentation>
+    </element>
     <element xsi:type="archimate:Outcome" name="Target Working-Age Persons with Disabilities Hold a Valid DTC Certificate (Income-Based) (Outcome)" id="id-597c5b897d4b4bc5bb483659e4d42903">
       <documentation>Benefit will target working-age persons with disabilities who hold a valid DTC certificate; the amount of the benefit will be based on income</documentation>
     </element>
@@ -5075,6 +5077,24 @@ ISB ensures that the program and solution(s) are designed ensuring the integrity
     <element xsi:type="archimate:Outcome" name="Client Impact (Outcome)" id="id-587eba36ff874340a3312bdc18c9636a">
       <documentation>2.1.1 Client Impact&#xD;
 The CDB is expected to address the poverty gap for working-aged persons with disabilities and promote social and economic inclusion. Specifically, the CDB is expected to reduce poverty and support the financial security of working-age persons with disabilities, improving the clients Quality of Life domains of prosperity and society. This program is expected to impact up to 520,000 recipients in the first full year of the program. The estimated total including family members is approximately 1.34M.</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="Align With ESDC Primary Strategic Priority (Strengthen Income Security) (Outcome)" id="id-ad3588ac526042eab993c87ff6e38684">
+      <documentation>2.2.1 Primary Strategic Priority&#xD;
+In order to align with ESDC's Primary Strategic priority to &quot;Strengthen income security programs and services and work with provinces and territories in reducing poverty,&quot; the Government is proceeding with the implementation of a new Canada Disability Benefit to pool its efforts towards building a stronger and more inclusive Canada. This new benefit will improve the standard of living and the quality of life for all Canadians by continuing to advance actions under Canada's Disability Inclusion Action Plan.</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="Advance Actions Under Canada's Disability Inclusion Action Plan (Outcome)" id="id-33cc04f6e4ae4c7aa9026799c8bbfc09">
+      <documentation>2.2.1 Primary Strategic Priority&#xD;
+In order to align with ESDC's Primary Strategic priority to &quot;Strengthen income security programs and services and work with provinces and territories in reducing poverty,&quot; the Government is proceeding with the implementation of a new Canada Disability Benefit to pool its efforts towards building a stronger and more inclusive Canada. This new benefit will improve the standard of living and the quality of life for all Canadians by continuing to advance actions under Canada's Disability Inclusion Action Plan.</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="Deliver on Senior Level Commitment for CDB (Outcome)" id="id-23270e522e3d4f999ec50ef1015fa835">
+      <documentation>2.2.2 Senior Level Commitment&#xD;
+The Government first committed to implementing the Canada Disability Benefit (CDB) in the 2020 Speech from the Throne and has reiterated that commitment several times since, including in Ministerial mandate letters, announced in Budgets 2021 and 2023, and crucially, through the introduction of Bill C-22, the Canada Disability Benefit Act, in Parliament in June 2022. DM Jean-François Tremblay, COO Lori MacDonald, SADM Tammy Belanger and SADM Elisha Ram are regularly briefed on the CDB and have identified the benefit as a departmental priority.</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="Deliver on ESDC Core Responisbility (#2 Pensions and Benefits) To Ensure PwDs Have Financial Support (Outcome)" id="id-3e09e4be42bc4f71b7cf9fcc31fe8e22">
+      <documentation>2.2.3 Program Alignment Architecture&#xD;
+There are gaps in Canada’s social safety net and poverty among working-age persons with disabilities remains higher than those without disabilities. Building a more accessible Canada remains a top priority for the Government of Canada. At the centre of this work will be re-introducing legislation to create the Canada Disability Benefit, which would significantly reduce poverty in Canada and help ensure that working-age Canadians with disabilities live in dignity. Alongside this work, ESDC will continue to develop and implement the Disability Inclusion Action Plan and work toward the Accessible Canada Act goal of a barrier-free Canada by 2040.&#xD;
+&#xD;
+As per ESDC Departmental Results Framework 2023-24, CDB fits into ESDC core responsibility number 2 : Pensions and Benefits, as it aims to ensure that Persons with disabilities and their families have financial support.</documentation>
     </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
@@ -5576,6 +5596,7 @@ Cybersecurity breaches are on the rise, and strong controls to prevent, detect, 
     <element xsi:type="archimate:Grouping" name="OUT OF SCOPE" id="id-1a49aaa95256416aa92965c672b926f7"/>
     <element xsi:type="archimate:Grouping" name="REFERENCES (Grouping)" id="id-a33f839bbecb4454b69909de4d038045"/>
     <element xsi:type="archimate:Grouping" name="STAKEHOLDERS (Grouping)" id="id-4dcbe7cc60a04760864ccbe828dcc356"/>
+    <element xsi:type="archimate:Grouping" name="Organizational Objectives (Grouping)" id="id-9b664d05984c4fa283be046ef7eb0267"/>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
     <element xsi:type="archimate:SpecializationRelationship" id="id-1fc9998b537248f0ab8efd6853b77d65" source="id-bbea9bb53b0d449e8af710c22edf18bc" target="id-a7f8beac2a2c416c96b351c66b79510c"/>
@@ -6659,6 +6680,10 @@ Cybersecurity breaches are on the rise, and strong controls to prevent, detect, 
     <element xsi:type="archimate:CompositionRelationship" id="id-a937e76d72f440b79e32d2436e78d03d" source="id-556f5c13858540d0a9b482f5e5d410b7" target="id-00c20acad4974c90a8c52891fc14580b"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-3817845463724c24abd81508826342c4" source="id-556f5c13858540d0a9b482f5e5d410b7" target="id-828ce629e0664b49ad891ce8365af600"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-fcc770b04d9749d48b68440e6640b067" source="id-556f5c13858540d0a9b482f5e5d410b7" target="id-cadb6ab98a0d4ea084776a473f150644"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-13862957e8a04403a01c833abdd37175" source="id-9b664d05984c4fa283be046ef7eb0267" target="id-ad3588ac526042eab993c87ff6e38684"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a2d496d90b57464687b0b394d74d298b" source="id-9b664d05984c4fa283be046ef7eb0267" target="id-33cc04f6e4ae4c7aa9026799c8bbfc09"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-bd2918fc82304d3aaba3a78ab143dc3e" source="id-9b664d05984c4fa283be046ef7eb0267" target="id-3e09e4be42bc4f71b7cf9fcc31fe8e22"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-79ec89098f7e4e70923cd1d316b00afb" source="id-9b664d05984c4fa283be046ef7eb0267" target="id-23270e522e3d4f999ec50ef1015fa835"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -9774,13 +9799,13 @@ Sponsoring Branch DGPSI_BISB</content>
           <bounds x="660" y="9" width="193" height="167"/>
           <content>BUSINESS CASE&#xD;
 &#xD;
-...to 2.2</content>
+...to 2.3</content>
         </child>
         <child xsi:type="archimate:Note" id="id-c19062fea2294488ade9eb170aa2ffe8" textAlignment="1">
           <bounds x="733" y="115" width="120" height="61"/>
           <content>(DRAFT)&#xD;
 2023-11-22&#xD;
-v0.1.20231220</content>
+v0.1.20240102</content>
         </child>
         <child xsi:type="archimate:Note" id="id-ed7ae47e147f463898819108b58202c3" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
           <bounds x="865" y="32" width="149" height="108"/>
@@ -9996,6 +10021,25 @@ v0.1.20231220</content>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-f39f333ede1a494698292ae599a3cb67" targetConnections="id-04a1653ad7c84d1aa791dc02c89f5dc6" archimateElement="id-2123ddb7510143cab8d5ec1ef72aecb8">
             <bounds x="12" y="98" width="176" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3745d7c0206f4c0e9246de7081620239" textAlignment="1" archimateElement="id-9b664d05984c4fa283be046ef7eb0267">
+          <bounds x="1428" y="540" width="232" height="334"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-df20135c527c4b919ad155aa88c7b2df" source="id-3745d7c0206f4c0e9246de7081620239" target="id-5511a9a11a114a95a69621175e91ba3c" archimateRelationship="id-13862957e8a04403a01c833abdd37175"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4ef81be6035846379876caa67743d707" source="id-3745d7c0206f4c0e9246de7081620239" target="id-79f53890b1d8407c8002c2623cc16253" archimateRelationship="id-a2d496d90b57464687b0b394d74d298b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5ec927c5b9004b829dc171b6c505978a" source="id-3745d7c0206f4c0e9246de7081620239" target="id-cb24f10e31b845578132de5d959c6c81" archimateRelationship="id-bd2918fc82304d3aaba3a78ab143dc3e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4fed717df9d547b6869dfd75832175cd" source="id-3745d7c0206f4c0e9246de7081620239" target="id-4540c5094d0245ac9414e3638669ef82" archimateRelationship="id-79ec89098f7e4e70923cd1d316b00afb"/>
+          <child xsi:type="archimate:DiagramObject" id="id-5511a9a11a114a95a69621175e91ba3c" targetConnections="id-df20135c527c4b919ad155aa88c7b2df" archimateElement="id-ad3588ac526042eab993c87ff6e38684">
+            <bounds x="12" y="36" width="204" height="71"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-79f53890b1d8407c8002c2623cc16253" targetConnections="id-4ef81be6035846379876caa67743d707" archimateElement="id-33cc04f6e4ae4c7aa9026799c8bbfc09">
+            <bounds x="12" y="114" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-cb24f10e31b845578132de5d959c6c81" targetConnections="id-5ec927c5b9004b829dc171b6c505978a" archimateElement="id-3e09e4be42bc4f71b7cf9fcc31fe8e22">
+            <bounds x="12" y="238" width="204" height="84"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-4540c5094d0245ac9414e3638669ef82" targetConnections="id-4fed717df9d547b6869dfd75832175cd" archimateElement="id-23270e522e3d4f999ec50ef1015fa835">
+            <bounds x="12" y="175" width="204" height="55"/>
           </child>
         </child>
       </element>
