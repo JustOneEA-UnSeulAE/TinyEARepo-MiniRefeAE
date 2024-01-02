@@ -5084,7 +5084,7 @@ organizations, including through the provision of expertise and guidance. It wil
 &#xD;
 SSC provides necessary/critical IT infrastructure and security allowing the secure operation of the Service Canada-CRA data exchange as well as the backbone for the IT systems, services and solutions required for the successful development, implementation and ongoing operations of the program.</documentation>
     </element>
-    <element xsi:type="archimate:Stakeholder" name="Canada Revenu Agency (CRA) (Stakeholder)" id="id-907fcf38b0d74a90bc46373fa5a7404a">
+    <element xsi:type="archimate:Stakeholder" name="Canada Revenue Agency (CRA) (Stakeholder)" id="id-907fcf38b0d74a90bc46373fa5a7404a">
       <documentation>Canada Revenu Agency (CRA)&#xD;
 &#xD;
 CRA remains responsible for the administration of the DTC and related certification. A valid DTC is an eligibility requirement for the CDB. CRA will provide Service Canada with data elements necessary to determine eligibility and payment amounts which are necessary for program administration. Promotion of the DTC and related DTC integrity matters remain the responsibility of the CRA. The CRA is also responsible for developing their part of a secure bi-directional data link with Service Canada. </documentation>
@@ -6992,6 +6992,7 @@ Cybersecurity breaches are on the rise, and strong controls to prevent, detect, 
     <element xsi:type="archimate:CompositionRelationship" id="id-f3d8fc62e43b4e73aad7aab8c5f42d7d" source="id-ebc1701709714439b0c548bbfa88c608" target="id-ea66b0fb3aec4ab4bcf8dc67850bb3b3"/>
     <element xsi:type="archimate:RealizationRelationship" id="id-a9c67542723b4c3289f23ff25aadd9ae" source="id-d5cc8203fd684456a58d59383700169e" target="id-30279405e04a44a7952cf36a88eaa590"/>
     <element xsi:type="archimate:ServingRelationship" id="id-e1ae3c91c5fb411bb7ff13e5fe524186" source="id-3a53cc5ccd2741c189daf35d9f3de0fb" target="id-5e2703a69c6a450c8c932cc3d47907d8"/>
+    <element xsi:type="archimate:ServingRelationship" id="id-f0259b359b6046a9999ab6e53a11dafe" source="id-5e2703a69c6a450c8c932cc3d47907d8" target="id-faf0998487e241948ca24eb27b3bd589"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -10105,9 +10106,7 @@ Sponsoring Branch DGPSI_BISB</content>
         </child>
         <child xsi:type="archimate:Note" id="id-b4aab533f32b41ee9a69b657f586803d" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
           <bounds x="660" y="9" width="193" height="167"/>
-          <content>BUSINESS CASE&#xD;
-&#xD;
-...to 6.1.1</content>
+          <content>BUSINESS CASE</content>
         </child>
         <child xsi:type="archimate:Note" id="id-c19062fea2294488ade9eb170aa2ffe8" textAlignment="1">
           <bounds x="733" y="115" width="120" height="61"/>
@@ -10141,7 +10140,7 @@ v0.1.20240102</content>
         <child xsi:type="archimate:DiagramObject" id="id-e407d58f423445e4b348e826f78730dd" archimateElement="id-dcc8a9520819486fb5d39196a58bf2bf">
           <bounds x="1044" y="192" width="145" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-fd6d93ae105f41dd967da39b5e5a272b" archimateElement="id-faf0998487e241948ca24eb27b3bd589">
+        <child xsi:type="archimate:DiagramObject" id="id-fd6d93ae105f41dd967da39b5e5a272b" targetConnections="id-4dd71623c82c4a06bfc2d780146cb0f7" archimateElement="id-faf0998487e241948ca24eb27b3bd589">
           <bounds x="1045" y="416" width="165" height="73"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-51328c71988a4f86a6cee6432fb1c698" source="id-fd6d93ae105f41dd967da39b5e5a272b" target="id-feac10fa8c43493093ce2cd3b39e3192" archimateRelationship="id-9cb0bb945689489592d7278ba061a0bb"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-043b8489ff074bfbab8ca0d8cb78029e" source="id-fd6d93ae105f41dd967da39b5e5a272b" target="id-d19b60d3712c4523b7f68f54d046145d" archimateRelationship="id-127e97feffad4df9abae1f4f9b48d7f1"/>
@@ -10492,10 +10491,11 @@ v0.1.20240102</content>
           <bounds x="1923" y="854" width="137" height="104"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-ea6a255e638f4de5822ca61d2466fbd6" targetConnections="id-f09996cb87a34d51af0fa14bbae5ee20" archimateElement="id-5e2703a69c6a450c8c932cc3d47907d8">
-          <bounds x="1680" y="204" width="120" height="55"/>
+          <bounds x="865" y="530" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4dd71623c82c4a06bfc2d780146cb0f7" source="id-ea6a255e638f4de5822ca61d2466fbd6" target="id-fd6d93ae105f41dd967da39b5e5a272b" archimateRelationship="id-f0259b359b6046a9999ab6e53a11dafe"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-f475d7e208cd454d9203b58562f06d0f" archimateElement="id-3a53cc5ccd2741c189daf35d9f3de0fb">
-          <bounds x="1680" y="282" width="120" height="55"/>
+          <bounds x="865" y="608" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-f09996cb87a34d51af0fa14bbae5ee20" source="id-f475d7e208cd454d9203b58562f06d0f" target="id-ea6a255e638f4de5822ca61d2466fbd6" archimateRelationship="id-e1ae3c91c5fb411bb7ff13e5fe524186"/>
         </child>
       </element>
