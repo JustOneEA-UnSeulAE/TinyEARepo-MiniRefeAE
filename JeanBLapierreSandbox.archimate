@@ -1585,6 +1585,14 @@ Last Review Date</documentation>
     <element xsi:type="archimate:Capability" name="Manage French Streams (Capability)" id="id-94ee487f8c4a4e5a8fe23f8ea3142385">
       <documentation>- Many UofO Grad Students were keen, but not needed at DTiG 2022.</documentation>
     </element>
+    <element xsi:type="archimate:CourseOfAction" name="Write In Plain Language" id="id-219dd4b8ab8a40eca4e7c1dafa8f98c1"/>
+    <element xsi:type="archimate:CourseOfAction" name="Make Info Easy To Find-Read-Understand-Use" id="id-828bc9075be545b4947c28b62873105e"/>
+    <element xsi:type="archimate:CourseOfAction" name="Write For The Reader" id="id-efe997bbaed04c219f1a301c226fe8eb"/>
+    <element xsi:type="archimate:CourseOfAction" name="Use simple, short words" id="id-205387ea8a764e689231785875022518"/>
+    <element xsi:type="archimate:CourseOfAction" name="Avoid complex words, longer words" id="id-045a1cec40b24fe78244a1006f4ece91"/>
+    <element xsi:type="archimate:CourseOfAction" name="Use less formal language" id="id-5e03041d06af4868a31b20491ef73185"/>
+    <element xsi:type="archimate:CourseOfAction" name="Avoid abstract ideas or concepts" id="id-b5758f2bedf145a49666da8c4d7af9f4"/>
+    <element xsi:type="archimate:CourseOfAction" name="Remove filler words and redundant words" id="id-3e418f00e4854c03b778f8cc9dd34411"/>
   </folder>
   <folder name="Business" id="id-fb9c94c240434273aa6d6f5df1a73407" type="business">
     <element xsi:type="archimate:BusinessEvent" name="EA Requests SAS Feedback" id="id-a7ebf3b84a7545f6a5b2e8eaca445cb6"/>
@@ -2756,6 +2764,12 @@ Moderators should have access to the Presenters' contact info, in case something
     <element xsi:type="archimate:BusinessActor" name="CIO Association of Canada (Business Actor)" id="id-bb12e0fa6fb942ae8b17e54b51e9f1b9"/>
     <element xsi:type="archimate:BusinessActor" name="CSCAN (Business Actor)" id="id-8fed6954c38a4a3093d96e99324f09d5"/>
     <element xsi:type="archimate:BusinessRole" name="Confirmed DTiG 2024 Sponsors (Business Role)" id="id-5a3d7d279a114c8497bc7e16c0f11674"/>
+    <element xsi:type="archimate:BusinessCollaboration" name="ESDC DG's" id="id-9dedddc507604cfb9f158efc564534f8"/>
+    <element xsi:type="archimate:BusinessRole" name="Director, EA" id="id-7b22647cea8b48818366558401b67b69"/>
+    <element xsi:type="archimate:BusinessRole" name="Director, AER" id="id-8e6adb157ac749a985bbc22debf065ed"/>
+    <element xsi:type="archimate:BusinessRole" name="Director, Interop" id="id-69b6575f3c8545dbaa74e581474577ad"/>
+    <element xsi:type="archimate:BusinessRole" name="Director, IITB" id="id-76b921b841504652afb1708d7f1390e5"/>
+    <element xsi:type="archimate:BusinessRole" name="Director, D&amp;AS" id="id-2169167a79864bf9a22049c40c2e4d18"/>
   </folder>
   <folder name="Application" id="id-4c073bc2342b490eae44200c8635c571" type="application">
     <element xsi:type="archimate:DataObject" name="Drupal-Sourced Data (Data Object)" id="id-a36acbc1b6124a03991eae20826f88c9">
@@ -5552,6 +5566,24 @@ TBS	4&#xD;
 Transport Canada	8&#xD;
 Grand Total	99</documentation>
     </element>
+    <element xsi:type="archimate:Assessment" name="Plain Language" id="id-9ff62dc2975244f3be1d0f5138d2fff4"/>
+    <element xsi:type="archimate:Assessment" name="Clear &amp; Concise" id="id-573780050abe4ce08847099a8a3b487e"/>
+    <element xsi:type="archimate:Assessment" name="Easy To Follow" id="id-92ad8b01c1b7466ca367f9c594acb8c6"/>
+    <element xsi:type="archimate:Assessment" name="Organized to Help Readers Find &amp; Use Important Information" id="id-9e1ecd4f24ca4a6d8ff07ffc31b9ecc4"/>
+    <element xsi:type="archimate:Outcome" name="Expected Outcomes For Executive Readers" id="id-a95617b946c74660ac41daba761160fb"/>
+    <element xsi:type="archimate:Outcome" name="Provide Answers To Questions They Might Have Had" id="id-39f36d7732f5484bb59b69ff073b898c"/>
+    <element xsi:type="archimate:Outcome" name="Determine What Actions Might Be Taken" id="id-bebf4dae96704a16b677ab6d74f412ec"/>
+    <element xsi:type="archimate:Outcome" name="Understand What They Read" id="id-bf8d33bc72614da1b3fa2c256516cb2d"/>
+    <element xsi:type="archimate:Requirement" name="1. Identify your reader and your objectives" id="id-13434f9b744d441fae73951a8b27f393"/>
+    <element xsi:type="archimate:Requirement" name="2. Organize your ideas" id="id-cd0e9cc138634e3fa1af21116dbceca6"/>
+    <element xsi:type="archimate:Requirement" name="3. Use everyday words" id="id-05fd8697375648dfb79c7ee79c3613fc"/>
+    <element xsi:type="archimate:Requirement" name="4. Avoid noun strings, jargon and inflated language" id="id-9b7f835725d54350b7d6dd76cfcdf210"/>
+    <element xsi:type="archimate:Requirement" name="5. Write directly to the reader" id="id-76f19e61b75f4dc08690e8f5f10b81e8"/>
+    <element xsi:type="archimate:Requirement" name="6. Use bulleted lists" id="id-733627da1c21481f84d7124179e8e699"/>
+    <element xsi:type="archimate:Requirement" name="7. Avoid turning verbs into nouns" id="id-6d0a70ff797d4c59949b92f7d15faf09"/>
+    <element xsi:type="archimate:Requirement" name="8. Write short, simple sentences" id="id-9328a5358d0c4d0884bba9121d469697"/>
+    <element xsi:type="archimate:Requirement" name="9. Use the active voice" id="id-57e4b8c287774cf0b6bb53f3a68ce3b5"/>
+    <element xsi:type="archimate:Requirement" name="10. Use formatting and layout to highlight your information and keep your reader's attention" id="id-68d1f5d48a9b4a8880e436f674433579"/>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Gap" name="Unmanaged Data (Gap)" id="id-ed4e79d466fd4551a90d4cbfb6784e74">
@@ -5871,6 +5903,9 @@ Themes include (but are not limited to):&#xD;
     <element xsi:type="archimate:Deliverable" name="Identify Attendees and Poll Them For 2023 Guidance (Deliverable)" id="id-30caa90c2681441ba9961bf334b0b51e"/>
     <element xsi:type="archimate:Deliverable" name="Week Prior Walk-Through (Deliverable)" id="id-10ce1fa995a64a66ab0d5937a25b524d"/>
     <element xsi:type="archimate:Deliverable" name="Review All Speaker Decks In Advance (Deliverable)" id="id-8680fdff6e9643b4b1004f08bb8a2546"/>
+    <element xsi:type="archimate:Deliverable" name="1. Most newsworthy info: Who? What? When? Where? Why? How?" id="id-0c0734aa400644389a11cf0e438bae19"/>
+    <element xsi:type="archimate:Deliverable" name="2. Important details" id="id-3e6e2fe910dd4ee09cf69602aba2a774"/>
+    <element xsi:type="archimate:Deliverable" name="3. Other info" id="id-7b1aa47e17db4247add07077cee0d8fa"/>
   </folder>
   <folder name="Other" id="id-3b6502d62be54bf79bb29134a011622f" type="other">
     <element xsi:type="archimate:Junction" name="Junction" id="id-483568e04e5345cc8bc005461b6854a2" type="or"/>
@@ -6236,6 +6271,305 @@ Cybersecurity breaches are on the rise, and strong controls to prevent, detect, 
     <element xsi:type="archimate:Grouping" name="Conference Content Storage and Delivery (Grouping)" id="id-019166358c7848d68cf9f5093acfb0a1"/>
     <element xsi:type="archimate:Grouping" name="DTiG Conference Work Packages (Grouping)" id="id-64e723cabd614af7b227d5bc7753be4e"/>
     <element xsi:type="archimate:Grouping" name="DTiG Coference Chair Capability Grouping" id="id-85586bf216e146da875c3534bc97ed77"/>
+    <element xsi:type="archimate:Grouping" name="Ten Tips for plain language writing" id="id-20aebbdf44394e96bf1fd92482c3cab4">
+      <documentation>1. Identify your reader and your objectives&#xD;
+Ask:&#xD;
+&#xD;
+Who are your readers?&#xD;
+Why are you writing to them?&#xD;
+What do they want to know?&#xD;
+What action do they want to perform?&#xD;
+Example: Identify your reader and your objectives&#xD;
+Before:&#xD;
+Much of the history that we celebrate surrounds the voyageurs and the fur trade none of which may have transpired without the seemingly herculean efforts of courageous explorers like Cartier and Champlain but that still doesn't answer the original question &quot;Why is the park named after Samuel de Champlain?&quot;&#xD;
+&#xD;
+Author's name&#xD;
+Taken from Samuel de Champlain Provincial Park Information Guide 2015&#xD;
+After:&#xD;
+&quot;Come explore Samuel de Champlain Provincial Park and find out why this park takes his name&quot; or &quot;Samuel de Champlain Provincial Park—Explore the land Champlain discovered&quot;.&#xD;
+&#xD;
+2. Organize your ideas&#xD;
+Make an outline of your ideas.&#xD;
+Put important information first.&#xD;
+Organize the rest of the information in a logical order.&#xD;
+Put extra information at the end, and keep only if relevant.&#xD;
+Create headings and subheadings.&#xD;
+Use the inverted pyramid.&#xD;
+inverted pyramid: Most newsworthy info&#xD;
+Who? What? When? Where? Why? How?, Important details, Other info&#xD;
+Example: Organize your ideas&#xD;
+Before:&#xD;
+The forms you submitted to act as a third-party administrator will be carefully reviewed and assessed before an individual's, agency's or organization's request for trusteeship is granted or declined. It is important to note that Service Canada-appointed trustees and organizations undertake the responsibility to administer benefits in the best interest of the individuals they represent. When the review is complete, Service Canada will contact you to advise you if your request to act as a third-party administrator has been granted.&#xD;
+&#xD;
+Taken from an ESDC letter to Canadians&#xD;
+After:&#xD;
+Reviewing your request : Thank you for your application. A committee will review your request to be a third-party administrator and make a decision based on all the details you have provided.&#xD;
+&#xD;
+Receiving an answer: Once the committee reaches a decision, a Service Canada representative will contact you to give you the results.&#xD;
+&#xD;
+Note: [or remove this text altogether]&#xD;
+&#xD;
+Responsibility of third-party administrators: If you are appointed as a third-party administrator, you will be responsible to act in the best interest of the person you are representing.&#xD;
+&#xD;
+3. Use everyday words&#xD;
+Use simple, short words.&#xD;
+Avoid complex words, longer words.&#xD;
+Use less formal language.&#xD;
+Avoid abstract ideas or concepts.&#xD;
+Remove filler words and redundant words.&#xD;
+Example: Use everyday words&#xD;
+Before:&#xD;
+Failure of recollection is common. Innocent misrecollection is not uncommon.&#xD;
+&#xD;
+Taken from Jury Instructions, State of California, US Government, www.plainlanguage.gov&#xD;
+After:&#xD;
+People often forget things or make mistakes in what they remember.&#xD;
+&#xD;
+Exercise for Tip 3: Words to avoid&#xD;
+avoid	use&#xD;
+in order to, in an effort to, with a view to	to&#xD;
+regarding, with regard to	about&#xD;
+in the event that	if&#xD;
+until such time as	until&#xD;
+during such time as	while&#xD;
+prior to, in advance of, previous to	before&#xD;
+at the present time, at this point in time, at this juncture, at this moment	now, today&#xD;
+subsequent to	after&#xD;
+in view of the fact that, due to the fact that, because of the fact that	for&#xD;
+on the part of	by&#xD;
+a number of	some&#xD;
+a significant number of	many&#xD;
+an adequate number of	enough&#xD;
+a larger number of, in excess of	more than, over&#xD;
+an excessive number of	too many&#xD;
+the majority of, a large proportion of	most&#xD;
+the vast majority of	nearly all&#xD;
+approximately	about&#xD;
+utilize	use&#xD;
+enhance(d)	improve(d), increase(d)&#xD;
+has the ability to	can&#xD;
+conduct a review	review&#xD;
+provide opportunities for	allow&#xD;
+in proximity to	close to&#xD;
+advance planning, advance notice	planning, notice&#xD;
+moving forward	from now on, in the future&#xD;
+reach out to, touch base with	contact&#xD;
+within	in&#xD;
+How sentences sometimes get inflated&#xD;
+In a circle: You to Colleagues to Senior managers to Policy to Program to Legal to ADMO to MO to You...&#xD;
+From this...&#xD;
+In 2012, 500 new Canadians were able to find the jobs they wanted by enrolling in the Foreign Credential Recognition Program. (21 words)&#xD;
+&#xD;
+To this... in no time!&#xD;
+In 2012, the reporting of the Statistics Canada study entitled &quot;New Canadians and foreign credential recognition in Canada: The numbers for 2012 – A case study,&quot; among others, stipulated ipso facto that the filling of various employment opportunities that were sought by some 500 new Canadians who emigrated to Canada during the said period from across the globe came about through their enrolment in the federal government's Employment and Social Development's Foreign Credential Recognition Program, notwithstanding other circumstances that may have contributed to the situation. (84 words!)&#xD;
+&#xD;
+4. Avoid noun strings, jargon and inflated language&#xD;
+Avoid strings of three or more nouns:&#xD;
+Break up strings or rewrite by using alternate words to explain.&#xD;
+Avoid meaningless, formal or bureaucratic language or jargon:&#xD;
+Use simple words to explain complicated ideas.&#xD;
+Use specific examples to help illustrate complicated concepts.&#xD;
+Example: Avoid noun strings, jargon and inflated language&#xD;
+Before:&#xD;
+Given the magnitude of implementing this second enterprise resource planning system and the resulting transformation of system enabled business processes, an integrated and robust communication, engagement and change management plan was implemented, along with a targeted approach to training according to employee role and responsibility within the organization. Business processes were also aligned to system functionalities in time.&#xD;
+&#xD;
+Taken from a parliamentary report&#xD;
+After:&#xD;
+The Department's goal was to adjust business processes gradually as it brought the new human resources tool online. By planning for this change, sharing information with employees and encouraging participation in specialized training, the project team aimed for a smooth transition.&#xD;
+&#xD;
+Exercise for Tip 4: Avoid noun strings&#xD;
+Sentence&#xD;
+The committee discussed the program application fee increase proposal.&#xD;
+&#xD;
+Possible solution&#xD;
+The committee discussed the proposal to increase the application fee for the program.&#xD;
+&#xD;
+Exercise for Tip 4: Avoid jargon&#xD;
+Email&#xD;
+Subject:&#xD;
+Signature please&#xD;
+Importance:&#xD;
+High&#xD;
+We are informing you that we received a notification from C&amp;B that we are obliged to remit payment to you for the 9 hours of services rendered, as per the TBS agreement equivalent to 7.5 hours at the regular rate of pay and 1.5 hours at time and one-half. We cannot process this change until such time as we receive your approval. As a result, your signature is required on the attached form.&#xD;
+Thank you.&#xD;
+&#xD;
+Possible solution&#xD;
+Subject:&#xD;
+Correction to your rate of pay for (date); signature required&#xD;
+Importance:&#xD;
+High&#xD;
+We have corrected your rate of pay for the 9 hours of work you performed on (date).&#xD;
+&#xD;
+You are entitled to 7.5 hours at the regular rate and 1.5 hours at the overtime rate of time and one-half. Please sign the attached form, scan it and send it back to us by (date) to show that you accept the changes.&#xD;
+Thank you.&#xD;
+&#xD;
+5. Write directly to the reader&#xD;
+Identify who the reader is.&#xD;
+Write to the reader, not about the population the text is about.&#xD;
+Rather than naming the reader in the text, use &quot; you &quot;.&#xD;
+&#xD;
+Example: Write directly to the reader&#xD;
+Before:&#xD;
+Although there is no evidence that animals can transmit the disease to humans, prevention and identification of ticks in animal fur is the key to preventing infected ticks from being transported into houses and yards.&#xD;
+&#xD;
+Taken from a government health advisory&#xD;
+After:&#xD;
+There is no proof that you can get Lyme disease from your pets. But you can get it from the infected ticks they bring into your house or yard!&#xD;
+&#xD;
+Check your pets' fur often and remove any ticks that you find.&#xD;
+&#xD;
+Exercise for Tip 5: Writing to the reader using &quot;you&quot;&#xD;
+Sentence:&#xD;
+By October 1, registered voters will get a voter information card in the mail at the address we have on file for them.&#xD;
+&#xD;
+Possible solution&#xD;
+If you are a registered voter, you will get your voter information card in the mail by October 1 at the address we have on file.&#xD;
+&#xD;
+6. Use bulleted lists&#xD;
+Create bulleted lists to:&#xD;
+replace enumerated items in a sentence&#xD;
+show the steps involved in a process&#xD;
+make it easy to find information&#xD;
+Introduce your list with a full or partial sentence.&#xD;
+Use full sentences, phrases or single words or terms as your list items.&#xD;
+Start all phrases with the same type of word.&#xD;
+Example: Use bulleted lists&#xD;
+Before:&#xD;
+Applying for a new Social Insurance Number (SIN), confirming an existing SIN, or requesting an amendment to a SIN record must be done in person at your nearest Service Canada office. Original proof-of-identity documents will be required. If everything is in order, your request will be completed during your visit. For more information or to find your nearest Service Canada office, visit our website at www.servicecanada.gc.ca or call 1-800-622-6232.&#xD;
+&#xD;
+Taken from an ATIP response letter&#xD;
+After:&#xD;
+You must visit a Service Canada office in person with original proof-of-identity documents if you want to:&#xD;
+&#xD;
+apply for a new Social Insurance Number (SIN)&#xD;
+confirm an existing SIN&#xD;
+change information in a SIN record&#xD;
+If everything is in order, your request will be completed during your visit.&#xD;
+&#xD;
+For more information or to find your nearest Service Canada office:&#xD;
+&#xD;
+visit servicecanada.gc.ca&#xD;
+call 1-800-622-6232&#xD;
+7. Avoid turning verbs into nouns&#xD;
+Avoid&#xD;
+phrases that contain weak verbs and/or nouns with hidden verbs&#xD;
+&#xD;
+Use&#xD;
+strong verbs instead&#xD;
+&#xD;
+Example: Avoid turning verbs into nouns&#xD;
+Before:&#xD;
+The committee made a decision to bring about changes to the policy.&#xD;
+&#xD;
+After (better):&#xD;
+The committee decided to change the policy.&#xD;
+&#xD;
+After (better still):&#xD;
+The committee changed the policy.&#xD;
+&#xD;
+Exercise for Tip 7: Activating your sentence by reactivating your verbs&#xD;
+Sentence&#xD;
+The automation of a number of steps involved in the process will result in a reduction in the number of person hours.&#xD;
+&#xD;
+Possible solution&#xD;
+If we automate a few steps in the process, we will reduce the number of person hours.&#xD;
+&#xD;
+8. Write short, simple sentences&#xD;
+Reduce&#xD;
+the number of words in your sentences&#xD;
+the number of complex words&#xD;
+the number of sentences in your paragraphs&#xD;
+Include one idea per sentence.&#xD;
+Break up long sentences (two is often better than one!).&#xD;
+Use online tools to help estimate readability level.*&#xD;
+* Readability tools:&#xD;
+http://www.readabilityformulas.com/free-readability-formula-tests.php&#xD;
+Hemingway&#xD;
+Example: Write short, simple sentences&#xD;
+Before:&#xD;
+It is your responsibility to contact your loan providers to set up a repayment schedule before you have to start making payments after the six month non- repayment period, even though loan providers will try to contact you via mail or phone; it is still your obligation to set up and manage your loan payments should they not be able to reach you. (F-K = 26.5, G-F = 30)&#xD;
+&#xD;
+After (better):&#xD;
+It is your responsibility to contact your loan providers to set up a repayment schedule before the six month non-repayment period is over. Loan providers will try to contact you by mail or phone, but it is your obligation to set up and manage your loan payments. (F-K = 11.3, G-F = 15.5)&#xD;
+&#xD;
+After (better still):&#xD;
+It is up to you to repay your loan. You must contact your loan provider(s) before the six month non-repayment period is over to set up how and when you will repay your loan. (F-K = 6.8, G-F = 10.5)&#xD;
+&#xD;
+9. Use the active voice&#xD;
+Active:&#xD;
+The &quot;doer&quot; of the action is right up front.&#xD;
+&#xD;
+The dog ate the bone.&#xD;
+You must name your fear before you can banish it.&#xD;
+Passive:&#xD;
+The &quot;doer&quot; of the action is near the end of the sentence (or even missing).&#xD;
+&#xD;
+The bone was eaten. (by the dog?)&#xD;
+Named must your fear be before banish it you can. —Yoda quote&#xD;
+Example: Use the active voice&#xD;
+Before:&#xD;
+This is to inform you that the problem was rectified and the issuance of the Monthly Statement of Accounts has been re-established and will continue to be mailed to you on a monthly basis.&#xD;
+&#xD;
+After (better):&#xD;
+We have rectified the problem. We will begin to re-issue your Monthly Statement of Accounts and will continue to mail them to you.&#xD;
+&#xD;
+After (better still):&#xD;
+We have fixed the problem. From now on, you will receive a statement every month.&#xD;
+&#xD;
+Exercise for Tip 9: Spotting the passive voice and using the active voice instead&#xD;
+Sentence&#xD;
+A request must be made before a refund will be issued.&#xD;
+&#xD;
+Possible solution&#xD;
+&quot;You must request a refund before we can issue it.&quot; or &quot;You must ask for a refund before we can send it.&quot; or &quot;Please fill out the request form and mail it to Service Canada for your refund.&quot;&#xD;
+&#xD;
+10. Use formatting and layout to highlight your information and keep your reader's attention&#xD;
+Highlight important text.&#xD;
+Use headings and sub-headings.&#xD;
+Use relevant and meaningful images when appropriate.&#xD;
+Include colour to draw attention and create interest.&#xD;
+Leave some white space.&#xD;
+Choose your font wisely.&#xD;
+Use tables to display data when appropriate.&#xD;
+Increase the accessibility* of your texts.&#xD;
+Suggestions to increase accessibility&#xD;
+Fonts:&#xD;
+Use sans-serif fonts (e.g. Arial, Verdana) for web content, size 12.&#xD;
+Formatting:&#xD;
+Include space in your layout, bolded text and bullets for emphasis.&#xD;
+Avoid columns, italics, text boxes and tables, if they can be replaced by simple formatting instead.&#xD;
+Always apply heading styles to titles and subtitles and apply table headers to your table cells (using options in Word).&#xD;
+Colour:&#xD;
+Use high contrast colours for text and background, and use patterns along with contrasting colours in tables and graphs.&#xD;
+&#xD;
+See Color Contrast Testerand Color Contrast Spectrum to test combinations and WCAG 2.1 section 1.41. Use of Color for criteria.&#xD;
+&#xD;
+Images, tables and graphs:&#xD;
+Provide a) Alternative text (Alt text) or b) good captions and longer descriptions within the text body, below the images.&#xD;
+See the Canada.ca Content Style Guide (Images and videos) and Creating accessible Microsoft Word 2010 documents (Accessible Digital Office Document Project) for more information on accessibility.&#xD;
+&#xD;
+Alt text&#xD;
+Add a brief Alt text to all images and objects, if different from the caption or if no caption is included:&#xD;
+&#xD;
+Format picture, Alt Text configuration window&#xD;
+Right click your image/object&#xD;
+Select Format Picture/ Object/Chart Area; or select Table Properties for tables&#xD;
+Select Alt Text&#xD;
+Fill in a brief Description&#xD;
+Make sure you answer the question &quot;what information is the image or object conveying?&quot;&#xD;
+&#xD;
+Example: Use formatting and layout to highlight your information and keep your reader's attention&#xD;
+Before:&#xD;
+Take Chloe and Jade and their one-year-old daughter, Jess.&#xD;
+Their family net income is $65,000. They will get $3,950 a year in benefits in one simple payment per month. Tax free.&#xD;
+All Canadians deserve an opportunity to develop to their full potential.&#xD;
+Because when you have an economy that works for the middle class, you have a country that works for everyone.&#xD;
+Find out how the Canada Child Benefit can help your family at canada.ca/canada-child-benefit.&#xD;
+After:&#xD;
+The Canada Child Benefit. Long description below&#xD;
+Long Description&#xD;
+Meet this family of three: parents Chloe and Jade, and their child, Jess, who is under 6 years of age. They will receive $3,950 per year in Canada Child Benefit because their annual net family income is $65,000. Use the Canada Child Benefit calculator at Canada.ca/Canada-child-benefit to find out how much your family could get. Visit #CanadaChildBenefit and Canada.ca/ESDC for more information.</documentation>
+    </element>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
     <element xsi:type="archimate:SpecializationRelationship" id="id-1fc9998b537248f0ab8efd6853b77d65" source="id-bbea9bb53b0d449e8af710c22edf18bc" target="id-a7f8beac2a2c416c96b351c66b79510c"/>
@@ -7458,6 +7792,34 @@ Cybersecurity breaches are on the rise, and strong controls to prevent, detect, 
     <element xsi:type="archimate:CompositionRelationship" id="id-b6a0b3bec13a40cfa563def0127c769a" source="id-f6f7331d5bad4fada935fd1a78cf4fa7" target="id-802fb767cdf44da8b8c928e6ec3d2844"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-bfc00a84fc184681bccbf71ad181240f" source="id-019166358c7848d68cf9f5093acfb0a1" target="id-f6f7331d5bad4fada935fd1a78cf4fa7"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-e3121486742a4bb98d6c560491fbce88" source="id-94ee487f8c4a4e5a8fe23f8ea3142385" target="id-a597ccac422248b6a4345f5a7500f711"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5429eb521e29411ba99e071666bd1a9b" source="id-9ff62dc2975244f3be1d0f5138d2fff4" target="id-573780050abe4ce08847099a8a3b487e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-901adf2baba14aa6b1efd625d09446fa" source="id-9ff62dc2975244f3be1d0f5138d2fff4" target="id-92ad8b01c1b7466ca367f9c594acb8c6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-22002e81d97847fe8dc22017e1400108" source="id-9ff62dc2975244f3be1d0f5138d2fff4" target="id-9e1ecd4f24ca4a6d8ff07ffc31b9ecc4"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-1931c3daec9c4be7a64252d376bb82ce" source="id-a95617b946c74660ac41daba761160fb" target="id-39f36d7732f5484bb59b69ff073b898c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4dc92cafc8184774a90b162ac7cc359f" source="id-a95617b946c74660ac41daba761160fb" target="id-bf8d33bc72614da1b3fa2c256516cb2d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-371375028c2a4fcf872cfc90c8663b50" source="id-a95617b946c74660ac41daba761160fb" target="id-bebf4dae96704a16b677ab6d74f412ec"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ca3c39777bed498b9a6ad020f0d6d190" source="id-219dd4b8ab8a40eca4e7c1dafa8f98c1" target="id-828bc9075be545b4947c28b62873105e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-87f19378e3f34202a5cc2e8ff93d7de9" source="id-219dd4b8ab8a40eca4e7c1dafa8f98c1" target="id-efe997bbaed04c219f1a301c226fe8eb"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-973da34b672940eb93ac368f84ef22e5" source="id-219dd4b8ab8a40eca4e7c1dafa8f98c1" target="id-9ff62dc2975244f3be1d0f5138d2fff4"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-510084ca8e4b4f7bba3e23c874173d90" source="id-219dd4b8ab8a40eca4e7c1dafa8f98c1" target="id-a95617b946c74660ac41daba761160fb"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-27fdaf61d8da468d952411b7770ad7a2" source="id-20aebbdf44394e96bf1fd92482c3cab4" target="id-cd0e9cc138634e3fa1af21116dbceca6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5a7a917555904b11a426e228879071fa" source="id-20aebbdf44394e96bf1fd92482c3cab4" target="id-76f19e61b75f4dc08690e8f5f10b81e8"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-139d7a837fa2436084ad626a6e939013" source="id-20aebbdf44394e96bf1fd92482c3cab4" target="id-05fd8697375648dfb79c7ee79c3613fc"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ebb4c68b44314ccc9054a7a88a67b63a" source="id-20aebbdf44394e96bf1fd92482c3cab4" target="id-57e4b8c287774cf0b6bb53f3a68ce3b5"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-95a678bbfdc44f4d97300708b502e8bd" source="id-20aebbdf44394e96bf1fd92482c3cab4" target="id-6d0a70ff797d4c59949b92f7d15faf09"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3436f0ea19064ab09214fd7ea9a3830c" source="id-20aebbdf44394e96bf1fd92482c3cab4" target="id-13434f9b744d441fae73951a8b27f393"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-23f8db8ec8b747059dd370149fc74061" source="id-20aebbdf44394e96bf1fd92482c3cab4" target="id-733627da1c21481f84d7124179e8e699"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-f0cf30e41de94be7b741de7e5ddee66d" source="id-20aebbdf44394e96bf1fd92482c3cab4" target="id-9328a5358d0c4d0884bba9121d469697"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-1677044a50674d08b8d248cee9cd9be5" source="id-20aebbdf44394e96bf1fd92482c3cab4" target="id-68d1f5d48a9b4a8880e436f674433579"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-9a1b47f79be347eea7a7b955ee153c9e" source="id-20aebbdf44394e96bf1fd92482c3cab4" target="id-9b7f835725d54350b7d6dd76cfcdf210"/>
+    <element xsi:type="archimate:AggregationRelationship" id="id-8805af082dff4128b76caa7d35765126" source="id-9dedddc507604cfb9f158efc564534f8" target="id-7b22647cea8b48818366558401b67b69"/>
+    <element xsi:type="archimate:AggregationRelationship" id="id-bdec2c40e90d47d4b51499afc2d5f8dc" source="id-9dedddc507604cfb9f158efc564534f8" target="id-8e6adb157ac749a985bbc22debf065ed"/>
+    <element xsi:type="archimate:AggregationRelationship" id="id-3671af3abbbe4d629da134a6314dc298" source="id-9dedddc507604cfb9f158efc564534f8" target="id-69b6575f3c8545dbaa74e581474577ad"/>
+    <element xsi:type="archimate:AggregationRelationship" id="id-eb8a9a7008b149d88186c23530d7e50d" source="id-9dedddc507604cfb9f158efc564534f8" target="id-2169167a79864bf9a22049c40c2e4d18"/>
+    <element xsi:type="archimate:AggregationRelationship" id="id-3e0c0f6e8666447f81c56a9c5eb726e8" source="id-9dedddc507604cfb9f158efc564534f8" target="id-76b921b841504652afb1708d7f1390e5"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-870a4c96100d4233aa04433e27ab4e0b" source="id-13434f9b744d441fae73951a8b27f393" target="id-9dedddc507604cfb9f158efc564534f8"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-8f83a9a1bd734f64b2d5815266226005" source="id-cd0e9cc138634e3fa1af21116dbceca6" target="id-3e6e2fe910dd4ee09cf69602aba2a774"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-12abdc102ca940878bd800a64309e906" source="id-05fd8697375648dfb79c7ee79c3613fc" target="id-045a1cec40b24fe78244a1006f4ece91"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -11965,6 +12327,160 @@ v0.1.20231229</content>
           <bounds x="825" y="6" width="259" height="59"/>
           <content>DIAGRAM NOT ENDORSED</content>
         </child>
+      </element>
+    </folder>
+    <folder name="GC Language" id="id-43ad03cf472643fb9d735306dc35af0a">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="GC Plain Language Note-Taking" id="id-f70e388c803f4b2f9a2d92c5a1c23fab">
+        <child xsi:type="archimate:Note" id="id-7f1ddc856e34431dbfa2d2b2bba7249e" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
+          <bounds x="9" y="9" width="613" height="64"/>
+          <content>Taking Notes On Upcoming GC EARB Presentations For ESDC DG's&#xD;
+ESDC Impacts &amp; Opportunities</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-8877c3b569b949b49e0c67d6bd5196d1" font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="453" y="45" width="169" height="28"/>
+          <content>Version: 0.1.20240410</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-76a5005b2ce540979eb5feae7a666eac" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fillColor="#ff0000" textPosition="1">
+          <bounds x="640" y="9" width="169" height="49"/>
+          <content>DRAFT</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-ca32cc2c0f8d47d59d562716d2515958" targetConnections="id-6ef4c1b7b1b34c8b80d04ba82d92ab96" archimateElement="id-9ff62dc2975244f3be1d0f5138d2fff4">
+          <bounds x="9" y="144" width="182" height="169"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5aded04ccb2c4d019a80423c38ebd6f7" source="id-ca32cc2c0f8d47d59d562716d2515958" target="id-34e71bc4414743dfa31c9337dc1aaf48" archimateRelationship="id-5429eb521e29411ba99e071666bd1a9b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cfe3a68d4fa7495e8fe192c6ec990ae9" source="id-ca32cc2c0f8d47d59d562716d2515958" target="id-e96fe5fdc2c5430a9bb863a541939601" archimateRelationship="id-901adf2baba14aa6b1efd625d09446fa"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f9bbfdae007a45c5a879b7732a7b0672" source="id-ca32cc2c0f8d47d59d562716d2515958" target="id-4e4685cafe084211862ce2855d44c70a" archimateRelationship="id-22002e81d97847fe8dc22017e1400108"/>
+          <child xsi:type="archimate:DiagramObject" id="id-34e71bc4414743dfa31c9337dc1aaf48" targetConnections="id-5aded04ccb2c4d019a80423c38ebd6f7" archimateElement="id-573780050abe4ce08847099a8a3b487e">
+            <bounds x="12" y="36" width="157" height="25"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e96fe5fdc2c5430a9bb863a541939601" targetConnections="id-cfe3a68d4fa7495e8fe192c6ec990ae9" archimateElement="id-92ad8b01c1b7466ca367f9c594acb8c6">
+            <bounds x="12" y="72" width="157" height="25"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-4e4685cafe084211862ce2855d44c70a" targetConnections="id-f9bbfdae007a45c5a879b7732a7b0672" archimateElement="id-9e1ecd4f24ca4a6d8ff07ffc31b9ecc4">
+            <bounds x="12" y="108" width="157" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-34795ac3ce484255ab22e557beb8de95" targetConnections="id-390acda88314451db472f11c98b05ad4" archimateElement="id-a95617b946c74660ac41daba761160fb">
+          <bounds x="7" y="540" width="185" height="217"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c656df6f3d3f4f6092b257c0b5ad2392" source="id-34795ac3ce484255ab22e557beb8de95" target="id-4e7d26ea86ac4714a6ac8d4a1ec506dd" archimateRelationship="id-1931c3daec9c4be7a64252d376bb82ce"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-0bf158408b804b3d9e3f6c23412a16ff" source="id-34795ac3ce484255ab22e557beb8de95" target="id-0e5308867acb41f3b461f5ac530064ff" archimateRelationship="id-4dc92cafc8184774a90b162ac7cc359f"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ad8fb7c3f7774b57889f6e32782d2f8f" source="id-34795ac3ce484255ab22e557beb8de95" target="id-09b2e14e6e5047e7af51eaa2076f3cae" archimateRelationship="id-371375028c2a4fcf872cfc90c8663b50"/>
+          <child xsi:type="archimate:DiagramObject" id="id-4e7d26ea86ac4714a6ac8d4a1ec506dd" targetConnections="id-c656df6f3d3f4f6092b257c0b5ad2392" archimateElement="id-39f36d7732f5484bb59b69ff073b898c">
+            <bounds x="12" y="48" width="158" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0e5308867acb41f3b461f5ac530064ff" targetConnections="id-0bf158408b804b3d9e3f6c23412a16ff" archimateElement="id-bf8d33bc72614da1b3fa2c256516cb2d">
+            <bounds x="12" y="108" width="158" height="37"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-09b2e14e6e5047e7af51eaa2076f3cae" targetConnections="id-ad8fb7c3f7774b57889f6e32782d2f8f" archimateElement="id-bebf4dae96704a16b677ab6d74f412ec">
+            <bounds x="12" y="156" width="158" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-fecef30c7796457da2499cbb55bc23e2" archimateElement="id-219dd4b8ab8a40eca4e7c1dafa8f98c1">
+          <bounds x="15" y="348" width="169" height="168"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a3100eaa2c654258960ee7ae0a091c03" source="id-fecef30c7796457da2499cbb55bc23e2" target="id-019e67e7add94073825d2796bfbcda9f" archimateRelationship="id-ca3c39777bed498b9a6ad020f0d6d190"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d3f9fa9c646a435ba309388efdcf92e5" source="id-fecef30c7796457da2499cbb55bc23e2" target="id-b5c5f3a8ef6e4be2bce2294992c7a745" archimateRelationship="id-87f19378e3f34202a5cc2e8ff93d7de9"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6ef4c1b7b1b34c8b80d04ba82d92ab96" source="id-fecef30c7796457da2499cbb55bc23e2" target="id-ca32cc2c0f8d47d59d562716d2515958" archimateRelationship="id-973da34b672940eb93ac368f84ef22e5"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-390acda88314451db472f11c98b05ad4" source="id-fecef30c7796457da2499cbb55bc23e2" target="id-34795ac3ce484255ab22e557beb8de95" archimateRelationship="id-510084ca8e4b4f7bba3e23c874173d90"/>
+          <child xsi:type="archimate:DiagramObject" id="id-019e67e7add94073825d2796bfbcda9f" targetConnections="id-a3100eaa2c654258960ee7ae0a091c03" archimateElement="id-828bc9075be545b4947c28b62873105e">
+            <bounds x="12" y="98" width="142" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b5c5f3a8ef6e4be2bce2294992c7a745" targetConnections="id-d3f9fa9c646a435ba309388efdcf92e5" archimateElement="id-efe997bbaed04c219f1a301c226fe8eb">
+            <bounds x="12" y="48" width="142" height="39"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-99e13a88df124540a730085d566fe3cc" textAlignment="1" archimateElement="id-20aebbdf44394e96bf1fd92482c3cab4">
+          <bounds x="616" y="213" width="217" height="445"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-410bb1cd91484418b018f780b89a1c0f" source="id-99e13a88df124540a730085d566fe3cc" target="id-080f7a2d35ca471b9e0e669096b2aca1" archimateRelationship="id-27fdaf61d8da468d952411b7770ad7a2"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e73bbea31d3c4488a059cebd7930d8b2" source="id-99e13a88df124540a730085d566fe3cc" target="id-44f7edde4d7c47c7ac01b1a8df29b710" archimateRelationship="id-5a7a917555904b11a426e228879071fa"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d94cc58949b04e4989a021f43320e85d" source="id-99e13a88df124540a730085d566fe3cc" target="id-1c9f88b27e2e4709b28d94f884b3a57e" archimateRelationship="id-139d7a837fa2436084ad626a6e939013"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3d5aca1785834291af8357f935bf7172" source="id-99e13a88df124540a730085d566fe3cc" target="id-03b7364aa1594b39a8c21fc2c5f5da1e" archimateRelationship="id-ebb4c68b44314ccc9054a7a88a67b63a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5f8cc130b75445c7ac87a4b6ab40e8d8" source="id-99e13a88df124540a730085d566fe3cc" target="id-ccb9466cba924c4588d244d450f58df7" archimateRelationship="id-95a678bbfdc44f4d97300708b502e8bd"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-bd95af294ba64d279a3aa021966beb89" source="id-99e13a88df124540a730085d566fe3cc" target="id-30b7bbbf83dd49908c9f1e9f96eecb20" archimateRelationship="id-3436f0ea19064ab09214fd7ea9a3830c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-96df9c224e9845b0a664e5254b8b0e5d" source="id-99e13a88df124540a730085d566fe3cc" target="id-f5ec89e9affc4e029cc394049dc3717b" archimateRelationship="id-23f8db8ec8b747059dd370149fc74061"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-abb64e757a4147d682b705161e6cfb55" source="id-99e13a88df124540a730085d566fe3cc" target="id-39df03c1aff047aca33d2dff038f9656" archimateRelationship="id-f0cf30e41de94be7b741de7e5ddee66d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-0d13eef259f34dc79ce8fc38dba69a37" source="id-99e13a88df124540a730085d566fe3cc" target="id-80dcd5fdf89047b59039e49cfc7ac25a" archimateRelationship="id-1677044a50674d08b8d248cee9cd9be5"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9ec8e69b9bff43688ca1526017018305" source="id-99e13a88df124540a730085d566fe3cc" target="id-9eb24faae66f495788b673eee4b79456" archimateRelationship="id-9a1b47f79be347eea7a7b955ee153c9e"/>
+          <child xsi:type="archimate:DiagramObject" id="id-080f7a2d35ca471b9e0e669096b2aca1" targetConnections="id-410bb1cd91484418b018f780b89a1c0f" archimateElement="id-cd0e9cc138634e3fa1af21116dbceca6">
+            <bounds x="24" y="90" width="171" height="30"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-e45c7d00bbe34f73845023c3f10f9b62" source="id-080f7a2d35ca471b9e0e669096b2aca1" target="id-0942ce19216c4dcfb7d2506221cd42ca" archimateRelationship="id-8f83a9a1bd734f64b2d5815266226005"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-44f7edde4d7c47c7ac01b1a8df29b710" targetConnections="id-e73bbea31d3c4488a059cebd7930d8b2" archimateElement="id-76f19e61b75f4dc08690e8f5f10b81e8">
+            <bounds x="24" y="197" width="171" height="43"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1c9f88b27e2e4709b28d94f884b3a57e" targetConnections="id-d94cc58949b04e4989a021f43320e85d" archimateElement="id-05fd8697375648dfb79c7ee79c3613fc">
+            <bounds x="24" y="119" width="171" height="25"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-bcfbb0c8a47a44f9aa5f503e3f09d2d6" source="id-1c9f88b27e2e4709b28d94f884b3a57e" target="id-6673dd9c3bb64269a050705b869db935" archimateRelationship="id-12abdc102ca940878bd800a64309e906"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-03b7364aa1594b39a8c21fc2c5f5da1e" targetConnections="id-3d5aca1785834291af8357f935bf7172" archimateElement="id-57e4b8c287774cf0b6bb53f3a68ce3b5">
+            <bounds x="24" y="335" width="171" height="25"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ccb9466cba924c4588d244d450f58df7" targetConnections="id-5f8cc130b75445c7ac87a4b6ab40e8d8" archimateElement="id-6d0a70ff797d4c59949b92f7d15faf09">
+            <bounds x="24" y="264" width="171" height="36"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-30b7bbbf83dd49908c9f1e9f96eecb20" targetConnections="id-bd95af294ba64d279a3aa021966beb89" archimateElement="id-13434f9b744d441fae73951a8b27f393">
+            <bounds x="24" y="36" width="171" height="55"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-6218cf322c5d4fdb86d7c577c28e5c09" source="id-30b7bbbf83dd49908c9f1e9f96eecb20" target="id-36a34cd338a5457a98782285f2bda6b0" archimateRelationship="id-870a4c96100d4233aa04433e27ab4e0b"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f5ec89e9affc4e029cc394049dc3717b" targetConnections="id-96df9c224e9845b0a664e5254b8b0e5d" archimateElement="id-733627da1c21481f84d7124179e8e699">
+            <bounds x="24" y="239" width="171" height="26"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-39df03c1aff047aca33d2dff038f9656" targetConnections="id-abb64e757a4147d682b705161e6cfb55" archimateElement="id-9328a5358d0c4d0884bba9121d469697">
+            <bounds x="24" y="299" width="171" height="37"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-80dcd5fdf89047b59039e49cfc7ac25a" targetConnections="id-0d13eef259f34dc79ce8fc38dba69a37" archimateElement="id-68d1f5d48a9b4a8880e436f674433579">
+            <bounds x="24" y="359" width="171" height="73"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9eb24faae66f495788b673eee4b79456" targetConnections="id-9ec8e69b9bff43688ca1526017018305" archimateElement="id-9b7f835725d54350b7d6dd76cfcdf210">
+            <bounds x="24" y="143" width="171" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-36a34cd338a5457a98782285f2bda6b0" targetConnections="id-6218cf322c5d4fdb86d7c577c28e5c09" archimateElement="id-9dedddc507604cfb9f158efc564534f8">
+          <bounds x="832" y="105" width="120" height="29"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5f266594c4374a738e77977404e7fac1" source="id-36a34cd338a5457a98782285f2bda6b0" target="id-38a3571cdf1b42189ac07cea006ff6a9" archimateRelationship="id-8805af082dff4128b76caa7d35765126"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-273a128763b34f709e43edfd49fc8aba" source="id-36a34cd338a5457a98782285f2bda6b0" target="id-4f4b117a49554061a6d64f57fcc5ee4f" archimateRelationship="id-bdec2c40e90d47d4b51499afc2d5f8dc"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-dfb13d2f642c41b2aafde8537fa533ae" source="id-36a34cd338a5457a98782285f2bda6b0" target="id-8e0d2db2c49147c5a004bc56b77ecf4e" archimateRelationship="id-3671af3abbbe4d629da134a6314dc298"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-36b7c99704614088a7cf2ebaf56a7351" source="id-36a34cd338a5457a98782285f2bda6b0" target="id-17284c495ced4bbab806618bffec4034" archimateRelationship="id-eb8a9a7008b149d88186c23530d7e50d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2b1448bbc8864633b97e64c445e4a489" source="id-36a34cd338a5457a98782285f2bda6b0" target="id-4a95ffa2677d40038268679d6f951788" archimateRelationship="id-3e0c0f6e8666447f81c56a9c5eb726e8"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-38a3571cdf1b42189ac07cea006ff6a9" targetConnections="id-5f266594c4374a738e77977404e7fac1" archimateElement="id-7b22647cea8b48818366558401b67b69">
+          <bounds x="1012" y="59" width="132" height="24"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-4f4b117a49554061a6d64f57fcc5ee4f" targetConnections="id-273a128763b34f709e43edfd49fc8aba" archimateElement="id-8e6adb157ac749a985bbc22debf065ed">
+          <bounds x="1012" y="82" width="132" height="24"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-8e0d2db2c49147c5a004bc56b77ecf4e" targetConnections="id-dfb13d2f642c41b2aafde8537fa533ae" archimateElement="id-69b6575f3c8545dbaa74e581474577ad">
+          <bounds x="1012" y="105" width="132" height="24"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-4a95ffa2677d40038268679d6f951788" targetConnections="id-2b1448bbc8864633b97e64c445e4a489" archimateElement="id-76b921b841504652afb1708d7f1390e5">
+          <bounds x="1012" y="151" width="132" height="24"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-17284c495ced4bbab806618bffec4034" targetConnections="id-36b7c99704614088a7cf2ebaf56a7351" archimateElement="id-2169167a79864bf9a22049c40c2e4d18">
+          <bounds x="1012" y="128" width="132" height="24"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-6cdb3c95469b40cb82bbd6b993817564" archimateElement="id-0c0734aa400644389a11cf0e438bae19">
+          <bounds x="1164" y="105" width="181" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-0942ce19216c4dcfb7d2506221cd42ca" targetConnections="id-e45c7d00bbe34f73845023c3f10f9b62" archimateElement="id-3e6e2fe910dd4ee09cf69602aba2a774">
+          <bounds x="1172" y="159" width="165" height="37"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-799f2c75091a43ab85009cd8fd7c779d" archimateElement="id-7b1aa47e17db4247add07077cee0d8fa">
+          <bounds x="1183" y="195" width="143" height="29"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-4078baec6f984802852bf7bae970a13f" archimateElement="id-205387ea8a764e689231785875022518">
+          <bounds x="1056" y="240" width="154" height="43"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-6673dd9c3bb64269a050705b869db935" targetConnections="id-bcfbb0c8a47a44f9aa5f503e3f09d2d6" archimateElement="id-045a1cec40b24fe78244a1006f4ece91">
+          <bounds x="1056" y="282" width="154" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-d6eb2c9fcee8427797da59cb80399dd6" archimateElement="id-5e03041d06af4868a31b20491ef73185">
+          <bounds x="1056" y="336" width="154" height="43"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-53e4b2267482412086b0487c6c84a39c" archimateElement="id-b5758f2bedf145a49666da8c4d7af9f4">
+          <bounds x="1209" y="258" width="154" height="43"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-384f6e0d837d418c8c0f8baca56a749c" archimateElement="id-3e418f00e4854c03b778f8cc9dd34411">
+          <bounds x="1210" y="300" width="154" height="55"/>
+        </child>
+        <documentation>https://iservice.prv/eng/finance/disclosure/plain_language.shtml</documentation>
       </element>
     </folder>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Top-Level Hierarchy of ArchiMate Concepts" id="id-d10f3fb17612466abc4e8fa9563db2a9">
