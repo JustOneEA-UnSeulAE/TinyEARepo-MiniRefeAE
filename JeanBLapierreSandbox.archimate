@@ -76,91 +76,16 @@ Foundations investments include among others:&#xD;
  Implementing a process through the IT PMO to manage initiatives that fall off its current project management framework by adapting current oversight techniques and procedures to include any unfitted projects\activities; and,&#xD;
  Improving PMIS system and centralizing ESDC’s project data repository. The IT PMO and Enterprise PMO are actively running those projects.</documentation>
     </element>
-    <element xsi:type="archimate:Capability" name="Stakeholder Management (Capability)" id="id-357ede514a63446097808670b2f7b4f2"/>
     <element xsi:type="archimate:CourseOfAction" name="Recover OR Create New Google DTiG Account (Course of Action)" id="id-f5d6116909eb454bb474e0541bfe4f36"/>
     <element xsi:type="archimate:CourseOfAction" name="Add Web Links To Each Presentation Profile To Recording Video Stream, Deck PDF (Course of Action)" id="id-fab976ab315648b89a0ecb8ea3367abd"/>
-    <element xsi:type="archimate:CourseOfAction" name="Keep SharePoint Access and Permissions Up-To-Date (Course of Action)" id="id-1374066ddc254290810ae7c686a94a50">
-      <documentation>https://014gc.sharepoint.com/sites/SharePoint2010Migration/SitePages/FAQ.aspx&#xD;
-13. Will the site’s security groups migrate? &#xD;
-No. Active Directory lists that are on premise will not be migrated; however the Project Team will recreate them as Azure Active Directory groups with settings activated to enable Owners and Designers to manage their membership after they migrate.&#xD;
-&#xD;
-Please keep your access and permissions up-to-date. You should not wait until your site is scheduled for migration to perform this update.  &#xD;
-&#xD;
-https://dialogue/proj/ITCD-RMTI/SAS-SAS/_layouts/settings.aspx&#xD;
-</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Place Internal Links On iService (Course of Action)" id="id-0d8c9abd15c04589ad3ce2d061ff0f47">
-      <documentation>Should these internal links be included? &#xD;
-(users won't be able to access off the network anyways) -> Maybe include these on an internal site like iService.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="1. Develop Onboarding Inventory (Course of Action)" id="id-229d509a911e4039948745b59bd8f8b2">
-      <documentation>1. Develop an Inventory of Onboarding</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="2. Yearly Onboarding Survey (Course of Action)" id="id-bb6222ad806343aa9f21df9019899149">
-      <documentation>2. Yearly survey on Onboarding - with the 2021 April Survey as the baseline.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="3. Support Pilots (Course of Action)" id="id-fd62cc19a0594316a2a3813e3b96b306">
-      <documentation>3. Support Pilots (Ref. Section 2.3).</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="4. Prototype A &quot;One Click Away&quot; Platform (Course of Action)" id="id-de3d8f40a15443a6a6aa92e88b33b177">
-      <documentation>4. Explore use / develop a prototype platform &quot;One Click Away&quot; for Onboarding using Power tool.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Determine Project Scope (Course of Action)" id="id-fb3b2696dbf44f1399cc335a867fa568"/>
-    <element xsi:type="archimate:CourseOfAction" name="Leverage Marketplace Analytics Tool (Employee Profile Analytics) (Course of Action)" id="id-4b45127fcf9e4f0fab688918297b3453">
-      <documentation>Leverage Marketplace Analytics tool (employee profile analytics)</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Resourcing (Dedicated Support/Analytics Staffing) (Course of Action)" id="id-7668a7c95615486b9d44e8b44b19be3f"/>
-    <element xsi:type="archimate:CourseOfAction" name="Leverage Interactive Fact Findings Services (IFFS) Survey Info (Course of Action)" id="id-37c0319fd88044a5b2db1680c5a0eff6">
-      <documentation>Leverage information collected from IFFS (Interactive Fact Findings Services) surveys, end user support requests etc. </documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Leverage Performance Measurement Framework Info (Course of Action)" id="id-372e386dd6cb4bba8506df08097b31de">
-      <documentation>Leverage information collected from performance measurement framework (e.g., dashboard).</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Allow End Users To Submit Feedback and/or Participate In Surveys (Course of Action)" id="id-2630422e978b42debec9092808b039ba"/>
-    <element xsi:type="archimate:CourseOfAction" name="Update Non-EX Letter of Offer Template(s) (Course of Action)" id="id-ec3e7d738a3a43f09fd520cd550404e1">
-      <documentation>Update additional letter of offer template(s) (e.g., non-EX template).</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Update External Content (Course of Action)" id="id-b931918eb1c74a869a955054596bd1c8">
-      <documentation>Update external content - iterate through use cases, employee types or personas and confer with business content owners.&#xD;
-Provide functionality to allow end users to submit feedback and/or participate in surveys. &#xD;
-Resource component (Dedicated support/analytics staffing). **&#xD;
-Leverage information collected from IFFS (Interactive Fact Findings Services) surveys, end user support requests etc. &#xD;
-Leverage information collected from performance measurement framework (e.g., dashboard). &#xD;
-Leverage Marketplace Analytics tool (employee profile analytics)&#xD;
-Update additional letter of offer template(s) (e.g., non-EX template).&#xD;
-</documentation>
-    </element>
     <element xsi:type="archimate:CourseOfAction" name="Strengthen Our Healthcare System And Public Health Supports For All Canadians" id="id-c0675a0a7bb64f5996ceab57977b134e">
       <documentation>To build a healthy future, we must also strengthen our healthcare system and public health supports for all Canadians, especially seniors, veterans, persons with disabilities, vulnerable members of our communities, and those who have faced discrimination by the very system that is meant to heal.</documentation>
     </element>
     <element xsi:type="archimate:CourseOfAction" name="Work Collaboratively With Provinces, Territories, and Other Partners To Deliver Real Results" id="id-d62778f05a0d4459b40bad6741bb3d01">
       <documentation>The Government will work collaboratively with provinces, territories, and other partners to deliver real results on what Canadians need.</documentation>
     </element>
-    <element xsi:type="archimate:CourseOfAction" name="CERB &amp; Wage Subsidy Support" id="id-8f22724adb174c71b120b04e26be262e">
-      <documentation>Close to 9 million Canadians were helped with the Canada Emergency Response Benefit and over 3.5 million jobs were supported by the wage subsidy.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Help Provinces Increase Testing Capacity" id="id-cef237cbb8874cc084704dc82f011d99">
-      <documentation>The federal government will be there to help the provinces increase their testing capacity. Canadians should not be waiting in line for hours to get a test.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Pursue Faster Testing Technology" id="id-09856aea9ef24a2cb01883cd4ace4db6">
-      <documentation>At the same time, the Government is pursuing every technology and every option for faster tests for Canadians from coast to coast to coast. As soon as tests are approved for safe use in Canada, the Government will do everything it can to see them deployed.</documentation>
-    </element>
     <element xsi:type="archimate:CourseOfAction" name="Improve Data Collection Across Health Systems To Inform Future Decisions" id="id-c30d5c0c26fc4f4aa877e2774da21d82">
       <documentation>There is work to be done. On accessibility. On care in rural communities. On delayed procedures. On mental health and addiction treatment. On long-term care. On improving data collection across health systems to inform future decisions and get the best possible results.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Target Additional Financial Support to Affected Businesses" id="id-f468cee89d3a48b79f9c41dfe274859f">
-      <documentation>Local public health authorities are the backbone of our nation’s efforts to stop outbreaks before they start. As members of the communities they protect, they know the devastating economic impact a lockdown order can have.&#xD;
-To prevent small clusters from becoming major outbreaks, communities may need to enact short-term closure orders. To make that decision easier for the public health authorities, and to help ease the impact that science- and evidence-based decisions can have on local businesses in the short term, the Government will work to target additional financial support directly to businesses which have to temporarily shut down as a result of a local public health decision.&#xD;
-This will ensure that decisions are made with the health of Canadians as the first priority.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Support Health Care Systems Capacity" id="id-6437cff396be492f8db4bd108162c7c0">
-      <documentation>The Government has already invested over $19 billion for a Safe Restart Agreement with provinces and territories, to support everything from the capacity of health care systems to securing PPE.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Safe Return To Class Fund Investment" id="id-cfe4794f6bd34672b4d3976d082022c6">
-      <documentation>To address the challenges faced by provinces and territories as they reopen classrooms, the federal government invested $2 billion in the Safe Return to Class Fund, along with new funding for First Nations communities. This is money to keep kids – and staff – safe in the classroom, whether that’s by helping schools buy cleaning supplies or upgrade ventilation.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Personal Support Worker Wage Top-Up" id="id-fc2f4268c9dd4ce7a036b642b51411c6">
-      <documentation>These commitments build on federal investments to support people who are most at risk and those who care for them, including with the federal wage top-up for personal support workers. People on the frontlines who have been looking after seniors do vital work and the Government will continue to have their backs.</documentation>
     </element>
     <element xsi:type="archimate:CourseOfAction" name="COVID Alert app" id="id-041973a3d2064189a67030d4b938466a">
       <documentation>Already, people are doing their part by wearing masks. That’s important, and we can build on that commitment. Working with private sector partners, the federal government created the COVID Alert app. Canadians living in Ontario, Newfoundland and Labrador, New Brunswick, and Saskatchewan now have an extra tool to keep themselves and others safe. The Government hopes all the others will sign on so that people in all parts of the country can both do their part and be better protected.</documentation>
@@ -173,20 +98,6 @@ This will ensure that decisions are made with the health of Canadians as the fir
     </element>
     <element xsi:type="archimate:CourseOfAction" name="Mandated Vaccination for Domestic Travel" id="id-dff5c9425baf412f95ad8d73f9b6f4a1">
       <documentation>Already, the Government has mandated vaccination for federal and federally-regulated workers, and for everyone travelling within Canada by plane, train, or ship. It has also ensured a standardized Canadian proof of vaccination for domestic and international use.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Canada Emergency Response Benefit" id="id-320b955b2a51490b9b677b2abfd0a2aa">
-      <documentation>This is not the time for austerity. Canada entered this crisis in the best fiscal position of its peers. And the Government is using that fiscal firepower, on things like the Canada Emergency Response Benefit and the Canada Emergency Wage Subsidy, so that Canadians, businesses, and our entire economy have the support needed to weather the storm.&#xD;
-&#xD;
-The CERB helped people stay healthy at home while being able to keep food on the table.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Canada Emergency Wage Subsidy" id="id-d969855d01274558966183451790308b">
-      <documentation>This is not the time for austerity. Canada entered this crisis in the best fiscal position of its peers. And the Government is using that fiscal firepower, on things like the Canada Emergency Response Benefit and the Canada Emergency Wage Subsidy, so that Canadians, businesses, and our entire economy have the support needed to weather the storm.&#xD;
-&#xD;
-The CEWS helped people keep their jobs, or be rehired if they had been laid off.&#xD;
-&#xD;
-One way the Government will create these jobs is by extending the Canada Emergency Wage Subsidy right through to next summer. The Government will work with businesses and labour to ensure the program meets the needs of the health and economic situation as it evolves.&#xD;
-&#xD;
-Small businesses are the lifeblood of communities and the backbone of the economy. The Government introduced a range of supports for Canadian businesses, from help with payroll through the Canada Emergency Wage Subsidy to assistance with expenses through interest-free loans.</documentation>
     </element>
     <element xsi:type="archimate:CourseOfAction" name="Rebuild An Economy That Works For Everyone" id="id-6aa0fc417f0d42e3bc0420a937e85c9d">
       <documentation>The best thing we can do for the economy remains ending the pandemic for good. But as we do, we should rebuild an economy that works for everyone. At the height of the lockdowns, the Government made historic, necessary investments so families could keep paying the rent and small businesses could stay afloat.</documentation>
@@ -214,13 +125,6 @@ Inflation is a challenge that countries around the world are facing. And while C
     </element>
     <element xsi:type="archimate:CourseOfAction" name="Deliver $10-A-Day Child Care" id="id-b9700d0a26fd411daa7ff4d8a0e8bf03">
       <documentation>Four jurisdictions have not yet reached agreements on child care. Two are territories with unique infrastructure challenges, and the Government will keep working together to ensure we meet the needs of the North. The Government will continue working with the remaining two provinces to finalize agreements that will deliver $10-a-day child care for families who so badly need it.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Canada Emergency Business Account Expansion" id="id-0eb7616f5e9347c188df54610e38221c"/>
-    <element xsi:type="archimate:CourseOfAction" name="Business Credit Availability Program Improvement" id="id-46558f94c475437a9336b44ff5e0aa85"/>
-    <element xsi:type="archimate:CourseOfAction" name="Support For Hardest-Hit Industries" id="id-f96557f3b3fb484592a19c675c6ced86">
-      <documentation>And introducing further support for industries that have been the hardest&#xD;
-hit, including travel and tourism, hospitality, and cultural industries&#xD;
-like the performing arts.</documentation>
     </element>
     <element xsi:type="archimate:CourseOfAction" name="Invest In Innovation and Good, Green Jobs" id="id-43974d501b044351af41d75aee31d401">
       <documentation>Building a resilient economy means investing in people. But the work does not stop there.&#xD;
@@ -252,126 +156,6 @@ That means moving to cap and cut oil and gas sector emissions, while acceleratin
 &#xD;
 That means moving to cap and cut oil and gas sector emissions, while accelerating our path to a 100 percent net-zero electricity future.</documentation>
     </element>
-    <element xsi:type="archimate:CourseOfAction" name="Legislate Net-Zero Emmissions By 2050" id="id-46fb654cbd6c4509bcfdc1ba81b08875">
-      <documentation>Canadians also know climate change threatens our health, way of life, and&#xD;
-planet. They want climate action now, and that is what the Government&#xD;
-will continue to deliver.&#xD;
-The Government will immediately bring forward a plan to exceed Canada’s&#xD;
-2030 climate goal. The Government will also legislate Canada’s goal of net-zero&#xD;
-emissions by 2050.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Create Jobs Cutting Energy Costs" id="id-528af586956a4ac18870d436d33c69b0">
-      <documentation>As part of its plan, the Government will:&#xD;
-• Create thousands of jobs retrofitting homes and buildings, cutting energy costs for Canadian families and businesses</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Expand Urban Parks" id="id-e6562fd88eba4246aadc784dd2f69708">
-      <documentation>This pandemic has reminded Canadians of the importance of nature. The&#xD;
-Government will work with municipalities as part of a new commitment to&#xD;
-expand urban parks, so that everyone has access to green space. This will be&#xD;
-done while protecting a quarter of Canada’s land and a quarter of Canada’s&#xD;
-oceans in five years, and using nature-based solutions to fight climate change,&#xD;
-including by planting two billion trees.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Deliver More Trainsit" id="id-7dc29c0c3d484086b4b270549132545a">
-      <documentation>• Help deliver more transit and active transit options;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Recognize Key Partner Efforts To Reduce Emissions" id="id-8e4f4254ba4b4d488e8b1c9dc18ca1f8">
-      <documentation>• And recognize farmers, foresters, and ranchers as key partners in the&#xD;
-fight against climate change, supporting their efforts to reduce emissions&#xD;
-and build resilience.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Black Entrepreneurship Program" id="id-2f5cfb36f3b54c39b7bf69199298d93e">
-      <documentation>The Government has invested in economic empowerment through the&#xD;
-Black Entrepreneurship Program, while working to close the gaps in services&#xD;
-for Indigenous communities.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Anti-Racism Strategy for 2019-2022" id="id-d5c416850c1f44c188b24c19c963bdc3">
-      <documentation>Important steps were taken with the release of&#xD;
-Canada’s Anti-Racism Strategy for 2019-2022, the creation of an anti-racism&#xD;
-secretariat, and the appointment of the first-ever Minister focused specifically&#xD;
-on diversity and inclusion. This is all good, but much more needs to be done&#xD;
-for permanent, transformative change to take shape.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Action Online Hate" id="id-b44cbb7120f04103ac6dec88bfb8bce8">
-      <documentation>The Government will redouble its efforts by:&#xD;
-• Taking action on online hate;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="GC-Wide Data Collection Approach" id="id-39621bbaee6d4e9cbd595c124d2862c0">
-      <documentation>The Government will redouble its efforts by:&#xD;
-• Building a whole-of-federal-government approach around better collection of disaggregated data;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Support Black Culture &amp; Heritage" id="id-bb02256abab54062a8acc1878a1c48fa">
-      <documentation>The Government will redouble its efforts by:&#xD;
-• Taking new steps to support the artistic and economic contributions of Black Canadian culture and heritage.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Eliminate Discriminatory Justice" id="id-5e20326699744a39a4f89637f48ac461">
-      <documentation>The Government will take steps to ensure that the strong hand of criminal&#xD;
-justice is used where it is needed to keep people safe, but not where it would be&#xD;
-discriminatory or counterproductive.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Enhance Civilian Oversight of Law Enforcement" id="id-0a75ce5d22fd4860b5f70f1165b6680d">
-      <documentation>The Government will:&#xD;
-• Move forward on enhanced civilian oversight of our law enforcement agencies, including the RCMP;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Modernize Law Enforcement Training" id="id-48ae53c2c73a45bd9f265037576c9b49">
-      <documentation>The Government will:&#xD;
-• Modernize training for police and law enforcement, including addressing standards around the use of force;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Shift To Community-Led Policing" id="id-4d0b841620de4f73897c0165b97b206c">
-      <documentation>The Government will:&#xD;
-• Move forward on RCMP reforms, with a shift toward community-led policing;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Co-Develop First Nations Policing Framework" id="id-c9f21d35d65f415194eb12f0d74b8e3f">
-      <documentation>The Government will:&#xD;
-• And accelerate work to co-develop a legislative framework for First Nations policing as an essential service.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Strengthen the Official Languages Act" id="id-4dc7cae802f449a29b3bf05aa96a4ff3"/>
-    <element xsi:type="archimate:CourseOfAction" name="Invest In International Development" id="id-9255b2be8f5643c09a470d9a36688b0e">
-      <documentation>The Government will invest more in international development while supporting&#xD;
-developing countries on their economic recoveries and resilience.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Ensure Worldwide Access To A Vaccine" id="id-98a11dbd831d41458291d20c5cfc0b7a">
-      <documentation>Canada will also support work to ensure that people around the world have access to a vaccine. We cannot eliminate this pandemic in Canada unless we end it everywhere.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Stand Up For Human Rights &amp; The Rule Of Law" id="id-098507da808e4a69b1891df3959d1d87">
-      <documentation>The Government will also continue to stand up for human rights and the rule&#xD;
-of law. It is unacceptable that any citizen be arbitrarily detained. Michael Kovrig&#xD;
-and Michael Spavor must be brought home. This is something for which all&#xD;
-Canadians stand united.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Fight For Free Trade" id="id-f57f239b34654368aecd295434d39e97">
-      <documentation>The Government will continue to fight for free trade, including by leading the Ottawa Group to reform the World Trade Organization.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Keep Canada Competitive" id="id-7f94dc5ef90a4f72bf6b0ef4ff557c6b">
-      <documentation>The Government will continue to bring in newcomers and support family&#xD;
-reunification. We know that there is an economic and human advantage to&#xD;
-having families together.&#xD;
-As part of both the short-term economic recovery and a long-term plan for&#xD;
-growth, the Government will leverage the advantage we have on immigration&#xD;
-to keep Canada competitive on the world stage.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Distinctions-Based Mental Health &amp; Wellness Strategy" id="id-26f7a69640164ec1a915647345f6924e"/>
-    <element xsi:type="archimate:CourseOfAction" name="Accelerate National Action Plan For The National Inquiry into Missing &amp; Murdered Indigenous Women &amp; Girls’ Calls For Justice" id="id-051376e2b2714a4c8112a32bd3212323">
-      <documentation>Accelerating work on the National Action Plan in response to the National&#xD;
-Inquiry into Missing and Murdered Indigenous Women and Girls’ Calls&#xD;
-for Justice, as well as implementation of the Truth and Reconciliation&#xD;
-Commission’s Calls to Action;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Implement The Truth &amp; Reconciliation Commission’s Calls To Action" id="id-1826f5aafd9e4d298603560a9f89cac5"/>
-    <element xsi:type="archimate:CourseOfAction" name="Indigenous Infrastructure" id="id-52f29d08022a4066a56797faf29a12e3">
-      <documentation>And continuing to close the infrastructure gap in Indigenous communities,&#xD;
-working on a distinctions-basis with First Nations, Inuit, and the&#xD;
-Métis Nation to accelerate the government’s 10-year commitment.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Meet Clean Water Committments" id="id-5ecb98e7585746f8afc13738d7f8d895">
-      <documentation>The Government will also:&#xD;
-• Make additional resiliency investments to meet the clean drinking water commitment in First Nations communities;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Support Capacity Building" id="id-85c03928e14547bf89262e51c4b85261">
-      <documentation>The Government will also:&#xD;
-• Support additional capacity-building for First Nations, Inuit, and the Métis Nation.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Enact UN Declaration" id="id-81e9368fba7b4d09abdbb73393a1f80d"/>
     <element xsi:type="archimate:CourseOfAction" name="Action On Reconciliation" id="id-0e7a8b838cc043858abb0c7aa4ac4695"/>
     <element xsi:type="archimate:CourseOfAction" name="Action On Our Collective Health and Well-Being" id="id-bf5af85e1eb34e5987405bb126a9bb9f">
       <documentation>Action on our collective health and well-being.&#xD;
@@ -888,190 +672,6 @@ That is why the Government will continue increasing immigration levels and reduc
       <documentation>Investing in affordable child care – just like housing – is not just good for families. It helps grow the entire economy. And so does immigration.&#xD;
 That is why the Government will continue increasing immigration levels and reducing wait times, while supporting family reunification and delivering a world-leading refugee resettlement program.</documentation>
     </element>
-    <element xsi:type="archimate:CourseOfAction" name="Black Entrepreneurship Program (copy)" id="id-9d2a59e0916f4719b1529c33527644d8">
-      <documentation>The Government has invested in economic empowerment through the&#xD;
-Black Entrepreneurship Program, while working to close the gaps in services&#xD;
-for Indigenous communities.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Anti-Racism Strategy for 2019-2022 (copy)" id="id-e381bfee56024220b66fde26b06eb3c9">
-      <documentation>Important steps were taken with the release of&#xD;
-Canada’s Anti-Racism Strategy for 2019-2022, the creation of an anti-racism&#xD;
-secretariat, and the appointment of the first-ever Minister focused specifically&#xD;
-on diversity and inclusion. This is all good, but much more needs to be done&#xD;
-for permanent, transformative change to take shape.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Action Online Hate (copy)" id="id-67f718942a1b465bbd509e5c4d6e28f8">
-      <documentation>The Government will redouble its efforts by:&#xD;
-• Taking action on online hate;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="GC-Wide Data Collection Approach (copy)" id="id-ca0cb63c42f34bf59a9635a915a6e915">
-      <documentation>The Government will redouble its efforts by:&#xD;
-• Building a whole-of-federal-government approach around better collection of disaggregated data;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Support Black Culture &amp; Heritage (copy)" id="id-bdbb64a881f54ce5a1754fa119f89937">
-      <documentation>The Government will redouble its efforts by:&#xD;
-• Taking new steps to support the artistic and economic contributions of Black Canadian culture and heritage.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Eliminate Discriminatory Justice (copy)" id="id-a6975b3cc007411ab1cf374e3a27b39a">
-      <documentation>The Government will take steps to ensure that the strong hand of criminal&#xD;
-justice is used where it is needed to keep people safe, but not where it would be&#xD;
-discriminatory or counterproductive.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Enhance Civilian Oversight of Law Enforcement (copy)" id="id-d2b465b3e0fe49e29937a7177cf96fa4">
-      <documentation>The Government will:&#xD;
-• Move forward on enhanced civilian oversight of our law enforcement agencies, including the RCMP;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Modernize Law Enforcement Training (copy)" id="id-29f30c9831f04d6e835ca33500f6b15d">
-      <documentation>The Government will:&#xD;
-• Modernize training for police and law enforcement, including addressing standards around the use of force;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Shift To Community-Led Policing (copy)" id="id-04c19c1bfafe4aee8ce380a62bfc2a94">
-      <documentation>The Government will:&#xD;
-• Move forward on RCMP reforms, with a shift toward community-led policing;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Co-Develop First Nations Policing Framework (copy)" id="id-947f45bedc224fdf9bb80e8daf460909">
-      <documentation>The Government will:&#xD;
-• And accelerate work to co-develop a legislative framework for First Nations policing as an essential service.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Strengthen the Official Languages Act (copy)" id="id-93c5473027cd4d52a6716d7f65889a31"/>
-    <element xsi:type="archimate:CourseOfAction" name="Invest In International Development (copy)" id="id-cc87454e7daf440d84c36cd127cfcbf1">
-      <documentation>The Government will invest more in international development while supporting&#xD;
-developing countries on their economic recoveries and resilience.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Ensure Worldwide Access To A Vaccine (copy)" id="id-6d2d210cdb3d4ba9b874cb1ef39725c9">
-      <documentation>Canada will also support work to ensure that people around the world have access to a vaccine. We cannot eliminate this pandemic in Canada unless we end it everywhere.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Stand Up For Human Rights &amp; The Rule Of Law (copy)" id="id-abb16fdeaaff4d31b80354fc3c3ef2bb">
-      <documentation>The Government will also continue to stand up for human rights and the rule&#xD;
-of law. It is unacceptable that any citizen be arbitrarily detained. Michael Kovrig&#xD;
-and Michael Spavor must be brought home. This is something for which all&#xD;
-Canadians stand united.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Fight For Free Trade (copy)" id="id-dc8e2e28024c4ec38a399630ffa155b8">
-      <documentation>The Government will continue to fight for free trade, including by leading the Ottawa Group to reform the World Trade Organization.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Keep Canada Competitive (copy)" id="id-a8da77536f81462d9b3a7956ecb27797">
-      <documentation>The Government will continue to bring in newcomers and support family&#xD;
-reunification. We know that there is an economic and human advantage to&#xD;
-having families together.&#xD;
-As part of both the short-term economic recovery and a long-term plan for&#xD;
-growth, the Government will leverage the advantage we have on immigration&#xD;
-to keep Canada competitive on the world stage.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Distinctions-Based Mental Health &amp; Wellness Strategy (copy)" id="id-0f4ba420f0f043d9b6cd50c818e0d6e8"/>
-    <element xsi:type="archimate:CourseOfAction" name="Accelerate National Action Plan For The National Inquiry into Missing &amp; Murdered Indigenous Women &amp; Girls’ Calls For Justice (copy)" id="id-f1e847b6bf83464abc5a047110d03543">
-      <documentation>Accelerating work on the National Action Plan in response to the National&#xD;
-Inquiry into Missing and Murdered Indigenous Women and Girls’ Calls&#xD;
-for Justice, as well as implementation of the Truth and Reconciliation&#xD;
-Commission’s Calls to Action;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Implement The Truth &amp; Reconciliation Commission’s Calls To Action (copy)" id="id-2b92d9eb13c044ca9ecc2f84b581ca51"/>
-    <element xsi:type="archimate:CourseOfAction" name="Indigenous Infrastructure (copy)" id="id-64437739ca2a490e9eab8b8c02301a30">
-      <documentation>And continuing to close the infrastructure gap in Indigenous communities,&#xD;
-working on a distinctions-basis with First Nations, Inuit, and the&#xD;
-Métis Nation to accelerate the government’s 10-year commitment.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Meet Clean Water Committments (copy)" id="id-e8a19ae3b7a7494c96cf951f04e5c60b">
-      <documentation>The Government will also:&#xD;
-• Make additional resiliency investments to meet the clean drinking water commitment in First Nations communities;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Support Capacity Building (copy)" id="id-4f39fa8a875d4a36b65f11f9622e673e">
-      <documentation>The Government will also:&#xD;
-• Support additional capacity-building for First Nations, Inuit, and the Métis Nation.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Enact UN Declaration (copy)" id="id-dac07d5cabce4f169f25c911b6535a22"/>
-    <element xsi:type="archimate:CourseOfAction" name="Black Entrepreneurship Program (copy) (copy)" id="id-435cd1f6bc514c4f9073d4d54a502fa0">
-      <documentation>The Government has invested in economic empowerment through the&#xD;
-Black Entrepreneurship Program, while working to close the gaps in services&#xD;
-for Indigenous communities.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Anti-Racism Strategy for 2019-2022 (copy) (copy)" id="id-f1b2319cde4d4d14bf0d0b9f72b66de2">
-      <documentation>Important steps were taken with the release of&#xD;
-Canada’s Anti-Racism Strategy for 2019-2022, the creation of an anti-racism&#xD;
-secretariat, and the appointment of the first-ever Minister focused specifically&#xD;
-on diversity and inclusion. This is all good, but much more needs to be done&#xD;
-for permanent, transformative change to take shape.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Action Online Hate (copy) (copy)" id="id-d21ef91680fa4e8e82fcf0813b79e37f">
-      <documentation>The Government will redouble its efforts by:&#xD;
-• Taking action on online hate;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="GC-Wide Data Collection Approach (copy) (copy)" id="id-3c14f927ca1b45dbaabf3a9bb5edcbcc">
-      <documentation>The Government will redouble its efforts by:&#xD;
-• Building a whole-of-federal-government approach around better collection of disaggregated data;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Support Black Culture &amp; Heritage (copy) (copy)" id="id-d4eadd3c9e8f49e6886c83322700f68d">
-      <documentation>The Government will redouble its efforts by:&#xD;
-• Taking new steps to support the artistic and economic contributions of Black Canadian culture and heritage.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Eliminate Discriminatory Justice (copy) (copy)" id="id-c9aa8829ceac4ad8ac3326fc5fc0fb24">
-      <documentation>The Government will take steps to ensure that the strong hand of criminal&#xD;
-justice is used where it is needed to keep people safe, but not where it would be&#xD;
-discriminatory or counterproductive.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Enhance Civilian Oversight of Law Enforcement (copy) (copy)" id="id-3ba4be7412ac429cb95ef653e936184c">
-      <documentation>The Government will:&#xD;
-• Move forward on enhanced civilian oversight of our law enforcement agencies, including the RCMP;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Modernize Law Enforcement Training (copy) (copy)" id="id-efff72ae55a1436e96685c62283bc9fd">
-      <documentation>The Government will:&#xD;
-• Modernize training for police and law enforcement, including addressing standards around the use of force;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Shift To Community-Led Policing (copy) (copy)" id="id-5228204047184390961e43b097d6fbf7">
-      <documentation>The Government will:&#xD;
-• Move forward on RCMP reforms, with a shift toward community-led policing;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Co-Develop First Nations Policing Framework (copy) (copy)" id="id-dadda907cb814b7f9ea1f8c354044732">
-      <documentation>The Government will:&#xD;
-• And accelerate work to co-develop a legislative framework for First Nations policing as an essential service.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Strengthen the Official Languages Act (copy) (copy)" id="id-a1932da15d2f41558627cb96f2beffe3"/>
-    <element xsi:type="archimate:CourseOfAction" name="Invest In International Development (copy) (copy)" id="id-e853832a5d4c4893bf2704273c516946">
-      <documentation>The Government will invest more in international development while supporting&#xD;
-developing countries on their economic recoveries and resilience.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Ensure Worldwide Access To A Vaccine (copy) (copy)" id="id-fc0b7ff097fb4e5587c85bb0d14b9395">
-      <documentation>Canada will also support work to ensure that people around the world have access to a vaccine. We cannot eliminate this pandemic in Canada unless we end it everywhere.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Stand Up For Human Rights &amp; The Rule Of Law (copy) (copy)" id="id-89853bc2f54b497395d90d1255ac1e1f">
-      <documentation>The Government will also continue to stand up for human rights and the rule&#xD;
-of law. It is unacceptable that any citizen be arbitrarily detained. Michael Kovrig&#xD;
-and Michael Spavor must be brought home. This is something for which all&#xD;
-Canadians stand united.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Fight For Free Trade (copy) (copy)" id="id-90cc16d99d4f4e4fb1cde310331b3310">
-      <documentation>The Government will continue to fight for free trade, including by leading the Ottawa Group to reform the World Trade Organization.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Keep Canada Competitive (copy) (copy)" id="id-c5d2a1f7da7d4006aca0bd0c242e1df7">
-      <documentation>The Government will continue to bring in newcomers and support family&#xD;
-reunification. We know that there is an economic and human advantage to&#xD;
-having families together.&#xD;
-As part of both the short-term economic recovery and a long-term plan for&#xD;
-growth, the Government will leverage the advantage we have on immigration&#xD;
-to keep Canada competitive on the world stage.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Distinctions-Based Mental Health &amp; Wellness Strategy (copy) (copy)" id="id-c95fd9b41af4466abc64d13a4c10ca7a"/>
-    <element xsi:type="archimate:CourseOfAction" name="Accelerate National Action Plan For The National Inquiry into Missing &amp; Murdered Indigenous Women &amp; Girls’ Calls For Justice (copy) (copy)" id="id-8e74006f185549539e9fee8fc9ed4619">
-      <documentation>Accelerating work on the National Action Plan in response to the National&#xD;
-Inquiry into Missing and Murdered Indigenous Women and Girls’ Calls&#xD;
-for Justice, as well as implementation of the Truth and Reconciliation&#xD;
-Commission’s Calls to Action;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Implement The Truth &amp; Reconciliation Commission’s Calls To Action (copy) (copy)" id="id-3f70f459d07e4f9184e10aa07f71f046"/>
-    <element xsi:type="archimate:CourseOfAction" name="Indigenous Infrastructure (copy) (copy)" id="id-6228f9942066444eaf9da8b0317a03b8">
-      <documentation>And continuing to close the infrastructure gap in Indigenous communities,&#xD;
-working on a distinctions-basis with First Nations, Inuit, and the&#xD;
-Métis Nation to accelerate the government’s 10-year commitment.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Meet Clean Water Committments (copy) (copy)" id="id-f6acaca57ded4755b3ad67a56643c651">
-      <documentation>The Government will also:&#xD;
-• Make additional resiliency investments to meet the clean drinking water commitment in First Nations communities;</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Support Capacity Building (copy) (copy)" id="id-8934662f13c74ac2a71a9b0e96fc4adc">
-      <documentation>The Government will also:&#xD;
-• Support additional capacity-building for First Nations, Inuit, and the Métis Nation.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Enact UN Declaration (copy) (copy)" id="id-d9ccf84a886147d9a23e01c0c7858325"/>
     <element xsi:type="archimate:CourseOfAction" name="Invest In Public Transit" id="id-25dcc8de81c94567ac73a6caa8411678">
       <documentation>Investing in public transit and mandating the sale of zero emissions vehicles will help us breathe cleaner air.</documentation>
     </element>
@@ -1130,9 +730,6 @@ The Government is committed to moving forward with a 10-year National Action Pla
 Everyone should be – and feel – safe.&#xD;
 &#xD;
 The Government will continue combatting hate and racism, including with a renewed Anti-Racism Strategy.</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Increase The Price On Pollution (copy)" id="id-c5c43a2cadf043a793644af6fb1e0e6c">
-      <documentation>Increasing the price on pollution while putting more money back in Canadians’ pockets will deliver a cleaner environment and a stronger economy.</documentation>
     </element>
     <element xsi:type="archimate:CourseOfAction" name="Fight Systemic Racism, Sexism, Discrimination, Misconduct, and Abuse, Including In Core Institutions" id="id-4deeac97fa4f4001910c8aa145f13d61">
       <documentation>Canadians understand that equity, justice, and diversity are the means and the ends to living together.&#xD;
@@ -1233,75 +830,12 @@ https://sftweb.pwgsc.gc.ca/guides/MSFT%20Requirements%20Gathering%20Checklist.do
 This guide provides operational procedures in running the SFT Client and using the MSFT Service.&#xD;
 https://sftweb.pwgsc.gc.ca/guides/SFT_Operations-User_Guide.pdf</documentation>
     </element>
-    <element xsi:type="archimate:Capability" name="Secure Multilingual Employee Collaboration" id="id-db5010a870e14f3da8127c18c48515d2"/>
-    <element xsi:type="archimate:Capability" name="Multilingual Community Interaction Enablement" id="id-ff9d47f01a7d44e59b84f461ebdc223f"/>
-    <element xsi:type="archimate:Capability" name="Multilingual Capabilities Added to Communication Channels" id="id-5836faca63c948c599d48f628dccc917"/>
-    <element xsi:type="archimate:Capability" name="Personalized Enterprise Translation Portal" id="id-c914d37d7fe349c3bc3e5af7a78b363f"/>
-    <element xsi:type="archimate:Capability" name="Instant Translation of Content" id="id-26bb5e70f60042268024245e2b52a839"/>
     <element xsi:type="archimate:Resource" name="Report To PCO: A Data Strategy Roadmap For The Federal Service" id="id-166b039e53ce4450aa1b50e751d6e0ff"/>
     <element xsi:type="archimate:Resource" name="Government of Canada Digital Standards" id="id-e99aeee02822428397dff1038ef24923"/>
     <element xsi:type="archimate:Resource" name="GC Digital Operations Strategic Plan 2021-2024" id="id-b1b35295611a4bdba33f0d94586054cf"/>
     <element xsi:type="archimate:Resource" name="GC Policy on Service and Digital" id="id-d9c1e8edee3b4f0eaa3b0ba9563ab115"/>
-    <element xsi:type="archimate:CourseOfAction" name="Create An Integrated Approach To Service Delivery" id="id-45e6f876a4814b98861470d4e3acb083">
-      <documentation>A Service Delivery Hub (SDH) was created to modernize technology to allow Service Canada to create an integrated approach to service delivery, resulting in improved, seamless and timely service delivery for clients.</documentation>
-    </element>
-    <element xsi:type="archimate:Capability" name="Workforce Management" id="id-996b8bc519d64db6a52af80707baf116">
-      <documentation>Two major components of the strategy are workforce management and workload management.</documentation>
-    </element>
-    <element xsi:type="archimate:Capability" name="Workload Management" id="id-2350ec838b2a4068b4dcf12e23392b4a">
-      <documentation>Two major components of the strategy are workforce management and workload management.</documentation>
-    </element>
-    <element xsi:type="archimate:Capability" name="A. Content Hosting In Common Space On One Instance" id="id-45013186afde43ee9655ce96bf523d78">
-      <documentation>a) Hosting of content in common space on a single instance;&#xD;
-b) OGD branded sub-school &quot;condo&quot; model on a single instance;&#xD;
-c) OGDs working directly with D2L to implement separate instances;&#xD;
-d) Federating with learning platforms deployed by OGDs&#xD;
-</documentation>
-    </element>
-    <element xsi:type="archimate:Capability" name="B. OGD Branded Sub-school &quot;Condo&quot; Model on One Instance" id="id-10ed4eedda614ffb8b4c424e701610f5">
-      <documentation>a) Hosting of content in common space on a single instance;&#xD;
-b) OGD branded sub-school &quot;condo&quot; model on a single instance;&#xD;
-c) OGDs working directly with D2L to implement separate instances;&#xD;
-d) Federating with learning platforms deployed by OGDs&#xD;
-</documentation>
-    </element>
-    <element xsi:type="archimate:Capability" name="C. OGDs May Work Directly With D2L To Implement Separate Instance" id="id-ef02fcd148d3461e826bc14c68aab77c">
-      <documentation>a) Hosting of content in common space on a single instance;&#xD;
-b) OGD branded sub-school &quot;condo&quot; model on a single instance;&#xD;
-c) OGDs working directly with D2L to implement separate instances;&#xD;
-d) Federating with learning platforms deployed by OGDs&#xD;
-</documentation>
-    </element>
-    <element xsi:type="archimate:Capability" name="D. Federate with Learning Platforms Deployed by OGDs" id="id-ae1fdcf1c6d14f29a1ad56e8b58afedf">
-      <documentation>a) Hosting of content in common space on a single instance;&#xD;
-b) OGD branded sub-school &quot;condo&quot; model on a single instance;&#xD;
-c) OGDs working directly with D2L to implement separate instances;&#xD;
-d) Federating with learning platforms deployed by OGDs&#xD;
-</documentation>
-    </element>
-    <element xsi:type="archimate:Capability" name="Support Global Learning Technology Interoperability Standards" id="id-d96606fcccc34ca888a27ad871a5169e">
-      <documentation>D2L supports global learning technology interoperability standards, such as SCORM/xAPI, LTI and IMS common cartridge, enabling reusabilty and interoperability.</documentation>
-    </element>
-    <element xsi:type="archimate:Capability" name="Enable Reusability" id="id-b23c885846524fe8acdca5c9b1a6e612"/>
-    <element xsi:type="archimate:Capability" name="Enable Interoperability" id="id-3a7bacf465114978855777a7d007e850">
-      <documentation>D2L supports global learning technology interoperability standards, such as SCORM/xAPI, LTI and IMS common cartridge, enabling reusabilty and interoperability.</documentation>
-    </element>
-    <element xsi:type="archimate:Capability" name="Allow For SSO Credentials, Learner Attributes, Learning Content, Common Learner Record" id="id-7b3f78818a484e8c809abeab774d6c51">
-      <documentation>Single sign-on credentials, learner attributes, learning content, common learner record.</documentation>
-    </element>
     <element xsi:type="archimate:Capability" name="Provide Self-Service or API-Based Access to Data / Reports About Own Employees / Learners" id="id-b69c0edfd47244248b3c5dae8bd0a9cf">
       <documentation>Provide OGDs with self-service or API based access to data/reports about own employees/learners</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Carry Out Pilots with GCPass / Sign-In Canada, GCExchange, DCAM (ADFS)" id="id-856d34d0f4d24d2387a210ac001ad692">
-      <documentation>Carry out pilots with GCPass/Sign-in Canada, GCExchange, DCAM (ADFS) in 2021</documentation>
-    </element>
-    <element xsi:type="archimate:CourseOfAction" name="Complete Security Assessment and Authorization in partnership with TBS, SSC and CCCS" id="id-31116dc640d34411841058f059b0b122">
-      <documentation>Complete Security Assessment and Authorization in partnership with TBS, SSC and CCCS</documentation>
-    </element>
-    <element xsi:type="archimate:Resource" name="NIIS Business Requirements For CCT Pension Forms (2022)" id="id-a517133b8d34440a83b39f53985ef957">
-      <documentation>Business Solutions Operations&#xD;
-NIIS BR (Pension forms) for IITB / NIIS&#xD;
-Updated: March 9, 2022</documentation>
     </element>
     <element xsi:type="archimate:Resource" name="New Worker Info" id="id-7e18e41783424eafab1c481ee5a98183"/>
     <element xsi:type="archimate:Resource" name="Team Information" id="id-7f04a9caab694457bbcf9fc9a239d684"/>
@@ -1622,6 +1156,48 @@ You must name your fear before you can banish it.</documentation>
     <element xsi:type="archimate:CourseOfAction" name="Highlight important text" id="id-9438765c03fc4c01997e970db2f9b652"/>
     <element xsi:type="archimate:CourseOfAction" name="Include colour to draw attention and create interest" id="id-ce38bb0065c446e1b7db926ccd6e5286"/>
     <element xsi:type="archimate:CourseOfAction" name="Use tables to display data when appropriate" id="id-71f6087e402749b1ab80e53e8cefe219"/>
+    <element xsi:type="archimate:ValueStream" name="Chapter 1: More Affordable Homes (Value Stream)" id="id-499f8162c5254d299620a4cb34f2ed06"/>
+    <element xsi:type="archimate:ValueStream" name="1.1 Building More Homes (Value Stream)" id="id-7a055a5ddf4f4fcfac3f31515d92b745"/>
+    <element xsi:type="archimate:ValueStream" name="Chapter 2: Lifting Up Every Generation (Value Stream)" id="id-45c83a5f684542a88a1cab279641fc76"/>
+    <element xsi:type="archimate:ValueStream" name="2.3 A Fair Chance for Millennials and Gen Z (Value Stream)" id="id-d841bb0e9df54bc9a87dddf5048e1e20"/>
+    <element xsi:type="archimate:ValueStream" name="3.1 Affordable Groceries (Value Stream)" id="id-cd345997a34643a1aef0b80102fbe828"/>
+    <element xsi:type="archimate:ValueStream" name="1.2 Making it Easier to Own or Rent a Home (Value Stream)" id="id-ceb674de8a9940208adcb9ce48da442a"/>
+    <element xsi:type="archimate:ValueStream" name="2.1 Taking Care of Every Generation (Value Stream)" id="id-5ae031cae79f438d9c6b70d19f58f7ee"/>
+    <element xsi:type="archimate:ValueStream" name="2.4 A Stronger, More Secure Retirement (Value Stream)" id="id-448d2bb5ab44448cb99dbfcb37fa16ef"/>
+    <element xsi:type="archimate:ValueStream" name="3.2 Fairer Prices, Fewer Fees (Value Stream)" id="id-f23ac9a0dcba491da9c0add1eef6d314"/>
+    <element xsi:type="archimate:ValueStream" name="1.3 Helping Canadians Who Can't Afford a Home (Value Stream)" id="id-10df1aa3588941beb691e82035d3cc6a"/>
+    <element xsi:type="archimate:ValueStream" name="2.2 The Best Start for Every Child (Value Stream)" id="id-65fdf29bb9ee456c8f2519c0eec2c3b2"/>
+    <element xsi:type="archimate:ValueStream" name="Chapter 3: Lowering Everyday Costs (Value Stream)" id="id-34c7596517064ed3bc957f09803b2ce2"/>
+    <element xsi:type="archimate:ValueStream" name="3.3 Lower Banking Fees, Better Finances (Value Stream)" id="id-d05077dd58cc4a239a93c2a486436383"/>
+    <element xsi:type="archimate:ValueStream" name="4.1 Boosting Research, Innovation, and Productivity (Value Stream)" id="id-fe841581f5c44125a2ef8af27019d9e8"/>
+    <element xsi:type="archimate:ValueStream" name="Chapter 4: Economic Growth for Every Generation (Value Stream)" id="id-6a92bc6affb24b368cba4af8faa25501"/>
+    <element xsi:type="archimate:ValueStream" name="4.3 Growing Businesses to Create More Jobs (Value Stream)" id="id-a0994bdb5d394d0981293465bfed9159"/>
+    <element xsi:type="archimate:ValueStream" name="4.2 Attracting Investment for a Net-Zero Economy (Value Stream)" id="id-94eceeee878343fe8e838ca4741129d4"/>
+    <element xsi:type="archimate:ValueStream" name="Chapter 5: Safer, Healthier Communities (Value Stream)" id="id-2d3660a7d1ac4677850ef77c26f0c219"/>
+    <element xsi:type="archimate:ValueStream" name="Chapter 6: A Fair Future for Indigenous Peoples (Value Stream)" id="id-357715a1da774027b660fe72de3def92"/>
+    <element xsi:type="archimate:ValueStream" name="Chapter 7: Protecting Canadians and Defending Democracy (Value Stream)" id="id-20434072e36b4da5bee7c3da9541ffc0"/>
+    <element xsi:type="archimate:ValueStream" name="Chapter 8: Tax Fairness for Every Generation (Value Stream)" id="id-609aecd90730498caecbce30bab98fa8"/>
+    <element xsi:type="archimate:ValueStream" name="6.2 Advancing Indigenous Self-Determination (Value Stream)" id="id-cccf3c68c6ec49b9bca7c310276f21db"/>
+    <element xsi:type="archimate:ValueStream" name="6.3 Advancing Economic Reconciliation (Value Stream)" id="id-6c8f91e4144748d7a638cbe54d2e602d"/>
+    <element xsi:type="archimate:ValueStream" name="7.3 Upholding Canadian Values Around the World (Value Stream)" id="id-552eed8b907d4240af40db6d9f2ca16e"/>
+    <element xsi:type="archimate:ValueStream" name="6.1 Investing in a Brighter Future for Indigenous Peoples (Value Stream)" id="id-0cb68dced0a54b3ab18923786a8d42af"/>
+    <element xsi:type="archimate:ValueStream" name="7.1 Protecting Canadians, at Home and Abroad (Value Stream)" id="id-97d1799442b6404b8bb7f80c4e4d4b7d"/>
+    <element xsi:type="archimate:ValueStream" name="8.1 Tax Fairness (Value Stream)" id="id-ae5f7c1ff5fe4f92a5d58ddf18d2ced5"/>
+    <element xsi:type="archimate:ValueStream" name="6.4 Healthy Indigenous Communities (Value Stream)" id="id-75da60224c494f42bad72e22a6a09fb7"/>
+    <element xsi:type="archimate:ValueStream" name="7.2 Economic Security for Canada and Our Allies (Value Stream)" id="id-e514914ee5fc4c80b31e28675c4a40b4"/>
+    <element xsi:type="archimate:ValueStream" name="8.2 Modernizing Canada's Tax System and Better Services for Canadians (Value Stream)" id="id-584f75f4c7f9432e85bb4ab909945dda"/>
+    <element xsi:type="archimate:ValueStream" name="6.5 Safe Indigenous Communities (Value Stream)" id="id-b28bccb1f3094a3f8689a2a3f104de5b"/>
+    <element xsi:type="archimate:ValueStream" name="4.4 A Strong Workforce for a Strong Economy (Value Stream)" id="id-93e95b6834a14a3aaa2ffd1412a12466"/>
+    <element xsi:type="archimate:ValueStream" name="8.3 Effective, Efficient Government (Value Stream)" id="id-443ec937212746ccaf1b1a0a6d01ebf7"/>
+    <element xsi:type="archimate:ValueStream" name="5.3 Safer Communities (Value Stream)" id="id-49d7c772973e4407a9f4ec690772cd36"/>
+    <element xsi:type="archimate:ValueStream" name="5.2 Vibrant and Inclusive Communities (Value Stream)" id="id-01d5df2973e64e03b75d33a33f4f803a"/>
+    <element xsi:type="archimate:ValueStream" name="5.1 A Clean and Safe Environment for the Next Generation (Value Stream)" id="id-7cf5fe305308442d864cc943abfe7dcf"/>
+    <element xsi:type="archimate:ValueStream" name="5.4 Infrastructure for Growing Communities (Value Stream)" id="id-2b9224abbd0f44e4af067dd6dd9369e1"/>
+    <element xsi:type="archimate:CourseOfAction" name="Annex 2: Debt Management Strategy (Course of Action)" id="id-244280d34696459485d13359c9208d41"/>
+    <element xsi:type="archimate:CourseOfAction" name="Introduction (Course of Action)" id="id-3206c0294c7e41b89b47e113856d702a"/>
+    <element xsi:type="archimate:CourseOfAction" name="Planned Borrowing Activities for 2024-25 (Course of Action)" id="id-4657529a1c9a4d73b6dde8e9a07ad617"/>
+    <element xsi:type="archimate:CourseOfAction" name="Maturity Date Cycles and Benchmark Bond Target Range Sizes (Course of Action)" id="id-b7114f3de2cd40d89b0cb311c138104c"/>
+    <element xsi:type="archimate:CourseOfAction" name="Annex 3: Legislative Measures (Course of Action)" id="id-cda8c0bcfa144ebf996e42dc15adce82"/>
   </folder>
   <folder name="Business" id="id-fb9c94c240434273aa6d6f5df1a73407" type="business">
     <element xsi:type="archimate:BusinessEvent" name="EA Requests SAS Feedback" id="id-a7ebf3b84a7545f6a5b2e8eaca445cb6"/>
@@ -2799,6 +2375,8 @@ Moderators should have access to the Presenters' contact info, in case something
     <element xsi:type="archimate:BusinessRole" name="Director, Interop" id="id-69b6575f3c8545dbaa74e581474577ad"/>
     <element xsi:type="archimate:BusinessRole" name="Director, IITB" id="id-76b921b841504652afb1708d7f1390e5"/>
     <element xsi:type="archimate:BusinessRole" name="Director, D&amp;AS" id="id-2169167a79864bf9a22049c40c2e4d18"/>
+    <element xsi:type="archimate:BusinessObject" name="Statement on Gender, Diversity, and Inclusion (Business Object)" id="id-e696125e82304f469ea05023cbdd81b5"/>
+    <element xsi:type="archimate:BusinessObject" name="Tax Measures: Supplementary Information (Business Object)" id="id-830e38077e854ec7888c704c89cfe24d"/>
   </folder>
   <folder name="Application" id="id-4c073bc2342b490eae44200c8635c571" type="application">
     <element xsi:type="archimate:DataObject" name="Drupal-Sourced Data (Data Object)" id="id-a36acbc1b6124a03991eae20826f88c9">
@@ -5672,6 +5250,12 @@ Increase the accessibility* of your texts.</documentation>
     <element xsi:type="archimate:Requirement" name="Comprehensive" id="id-3656d9c8b62d4af880ceaaef6d6e623a"/>
     <element xsi:type="archimate:Requirement" name="Targeted" id="id-7871d55632a547e787eeed5ce395e78f"/>
     <element xsi:type="archimate:Requirement" name="Consistent" id="id-23cee91ac2854167af04df702605e51e"/>
+    <element xsi:type="archimate:Assessment" name="Annex 1: Details of Economic and Fiscal Projections (Assessment)" id="id-c5dea42b9c9f48f792ec8fb067f80782"/>
+    <element xsi:type="archimate:Assessment" name="Economic Projections (Assessment)" id="id-0dc791239dd4436ebe644d4652f6092a"/>
+    <element xsi:type="archimate:Assessment" name="Changes to Fiscal Projections Since FES 2023 (Assessment)" id="id-49fedb1039534864a2c9ecf9838ac8c3"/>
+    <element xsi:type="archimate:Assessment" name="Supplementary Information (Assessment)" id="id-30d38e24c1844e8aaece0dbc3355b837"/>
+    <element xsi:type="archimate:Assessment" name=" (Assessment)" id="id-ea23fe3a4274487cbfc6cde85fcb8bb3"/>
+    <element xsi:type="archimate:Assessment" name=" (Assessment)" id="id-87ce43e6153046bb8bb2488a884d6776"/>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Gap" name="Unmanaged Data (Gap)" id="id-ed4e79d466fd4551a90d4cbfb6784e74">
@@ -6054,119 +5638,23 @@ The Enterprise Architecture Framework provide details on the requirements set ou
 &#xD;
 The Enterprise Architecture Framework will be published on Canada.ca. Until then here is the EA Framework.</documentation>
     </element>
-    <element xsi:type="archimate:Grouping" name="REQUIREMENTS ELICITATION" id="id-ff779787479e4452b7cb1134dd5b5625"/>
-    <element xsi:type="archimate:Grouping" name="REQUIREMENTS VALIDATION" id="id-c49c80f43cde4398a47fa6e02a3a53f1">
-      <documentation>1.4.2	Validation&#xD;
-The following tasks were performed to verify and validate the requirements defined in this document: &#xD;
-•	Business Requirements vetted through shareholder groups. &#xD;
-•	Business Requirements initially challenged through SSC’s CSPV checklist.&#xD;
-•	Business Requirements were reviewed by the Implementation Lead to ensure that the scope of work is achievable given the current SDIV capability. &#xD;
-The following stakeholder roles were engaged in verification and validation activities:&#xD;
-•	CSLP Program&#xD;
-•	NLSC (National Student Loans Centre)&#xD;
-•	R&amp;A (Registration and Authentication)&#xD;
-•	Innovation, Information and Technology Branch (IITB)&#xD;
-•	EIS (Enterprise Identity Services)&#xD;
-•	PASRB (Public Affairs and Stakeholder Relations Branch)&#xD;
-•	PMD (Privacy Management Division)&#xD;
-•	CFOB (Chief Financial Officer Branch) or IITB&#xD;
-•	LSU (Legal Services Unit)&#xD;
-•	SSC (Shared Services Canada)</documentation>
-    </element>
     <element xsi:type="archimate:Grouping" name="DTiG 2022 Conference Leadership (Grouping)" id="id-30af4b03598743398e4347d50049ff48">
       <documentation>https://digitaltransform.ca/2022/conference-organizing-committee/</documentation>
     </element>
     <element xsi:type="archimate:Grouping" name="DTiG Conference Roles (Grouping)" id="id-af983a7d9daf4a50aaa2b010645ef98a"/>
     <element xsi:type="archimate:Grouping" name="Conference Content Storage and Delivery (Grouping)" id="id-e3d6befaba72433c94f7bf2d4000b498"/>
     <element xsi:type="archimate:Grouping" name="DTiG Conference Work Packages (Grouping)" id="id-997796e837ff40629c4e721249470c63"/>
-    <element xsi:type="archimate:Grouping" name="ESDC HRSB EX Onboarding Hosting Platform Requirements (Grouping)" id="id-00610a8d804b45c08306818b49efa78d"/>
-    <element xsi:type="archimate:Grouping" name="Information Management Lifecycle (Grouping)" id="id-a9161994a92c41b6b9efbba5722e7eae">
-      <documentation>https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SitePages/IM-GI.aspx</documentation>
-    </element>
-    <element xsi:type="archimate:Grouping" name="SharePoint Online Roles (From Migration Page) (Grouping)" id="id-b330bbaf3d5d45b788ff48f515fd321e"/>
-    <element xsi:type="archimate:Grouping" name="SharePoint (365) Online Groups (Grouping)" id="id-962e859d9d1d46a79387d4f696f5478a"/>
-    <element xsi:type="archimate:Grouping" name="SharePoint 2010 Permission Levels (Grouping)" id="id-2f33e5f6ac8b4f32947cff5739de54aa">
-      <documentation>From: Domond, Christine C [NC]&#xD;
-Sent: July 20, 2021 11:40 AM&#xD;
-Subject: ticket 8013542 - FULL Access (Addition to SP2010 Group SAS_Owners)&#xD;
-&#xD;
-SharePoint Permission Levels&#xD;
-The first step to managing permissions in SharePoint is to understand what actions the various permission levels authorize a person to perform. As a DesignerPlus, you will be granting the Read, Contribute and Design permission levels to people using your SharePoint site – the rest of the permission levels are described for your information only. &#xD;
-</documentation>
-    </element>
-    <element xsi:type="archimate:Grouping" name="SharePoint 2010 High-Level Roles (From SharePoint 2010 Support Team) (Grouping)" id="id-2baf06581b74470db26a17c3316b9720"/>
-    <element xsi:type="archimate:Grouping" name="Published Content (Grouping)" id="id-bf00c57eab914980b9de19d4b58b4231"/>
-    <element xsi:type="archimate:Grouping" name="Draft or Working Copy of Content (NOT YET Published) (Grouping)" id="id-6f992c9f5da04f09979a3536e48a496e"/>
-    <element xsi:type="archimate:Grouping" name="Onboarding Opportunity Identifier Roles (Grouping)" id="id-eb341c6873d54774a8ff8aec3050e61a"/>
-    <element xsi:type="archimate:Grouping" name="Onboarding Opportunity Goals (Grouping)" id="id-4b0e8b94f0964f4b9e969663bda73f29"/>
-    <element xsi:type="archimate:Grouping" name="The Team (Grouping)" id="id-7881c303c5ea4fb69b33c8b60ebe5fab"/>
-    <element xsi:type="archimate:Grouping" name="Phase I Assessments (Grouping)" id="id-bf4067e345b04b73b2d5bb6a5fa684d5">
-      <documentation>See Appendix A, &quot;ETLT-Onboarding-16082021.pptx&quot;</documentation>
-    </element>
-    <element xsi:type="archimate:Grouping" name="Phase I Onboarding Partners (Grouping)" id="id-3c849648c2df4602aead601ebf23ce37">
-      <documentation>See Appendix B, &quot;ETLT-Onboarding-16082021.pptx&quot;</documentation>
-    </element>
-    <element xsi:type="archimate:Grouping" name="Phase I Quick Wins (Grouping)" id="id-74e98b111db14fc4b51d20c8d73f704f"/>
-    <element xsi:type="archimate:Grouping" name="Final Report Audience (Grouping)" id="id-71ec84b3e42a4b979e16eb0f53b9c3a8"/>
-    <element xsi:type="archimate:Grouping" name="Key Recommendations (Grouping)" id="id-799d6a4a5539473981e98935ab9c6796"/>
-    <element xsi:type="archimate:Grouping" name="Target Deliverables (Grouping)" id="id-2c92e043661643039d7e19b33b79b218"/>
-    <element xsi:type="archimate:Grouping" name="MVP 2 (Client Support) (Grouping)" id="id-2a42a90dd8f24af3b545de43e3dd570b">
-      <documentation>Update external content - iterate through use cases, employee types or personas and confer with business content owners.&#xD;
-Provide functionality to allow end users to submit feedback and/or participate in surveys. &#xD;
-Resource component (Dedicated support/analytics staffing). **&#xD;
-Leverage information collected from IFFS (Interactive Fact Findings Services) surveys, end user support requests etc. &#xD;
-Leverage information collected from performance measurement framework (e.g., dashboard). &#xD;
-Leverage Marketplace Analytics tool (employee profile analytics)&#xD;
-Update additional letter of offer template(s) (e.g., non-EX template).</documentation>
-    </element>
     <element xsi:type="archimate:Grouping" name="GET THE PANDEMIC UNDER CONTROL" id="id-d0d1fe968c4d4eeba2baa0a0180c34ed">
       <documentation>Priority number one remains getting the pandemic under control. The best way to do that is vaccination.&#xD;
 Already, the Government has mandated vaccination for federal and federally-regulated workers, and for everyone travelling within Canada by plane, train, or ship. It has also ensured a standardized Canadian proof of vaccination for domestic and international use. &#xD;
 The Government is securing next generation COVID-19 vaccines, boosters, and doses for kids from 5 to 11.&#xD;
 And around the world, Canada will continue working with its partners to ensure fair and equitable access to vaccines and other resources.</documentation>
     </element>
-    <element xsi:type="archimate:Grouping" name="CANADA'S TOP SCIENTIFIC MINDS" id="id-11ac8ce6fddf42d5803722a436015744">
-      <documentation>From the Vaccine Task Force that provides the best advice on vaccine purchasing&#xD;
-and roll-out, to the Immunity Task Force looking at how COVID-19 is affecting&#xD;
-vulnerable populations, Canada’s top scientific minds are guiding the&#xD;
-Government every step of the way.</documentation>
-    </element>
     <element xsi:type="archimate:Grouping" name="END THE PANDEMIC FOR GOOD" id="id-e18ab68444e74f999696eb58612dceef"/>
     <element xsi:type="archimate:Grouping" name="MAKE LIFE MORE AFFORDABLE FOR CANADIANS: HOUSING" id="id-cc39c0d7acee4178b008ebf500991755"/>
     <element xsi:type="archimate:Grouping" name="MAKE LIFE MORE AFFORDABLE FOR CANADIANS: CHILD CARE" id="id-432c70d072024550bd0b580d255a8bb2"/>
     <element xsi:type="archimate:Grouping" name="A MORE RESILIENT, SUSTAINABLE, &amp; COMPETITIVE ECONOMY" id="id-05193a7f6f01452c9e1b68b4aec73d0c"/>
     <element xsi:type="archimate:Grouping" name="FIGHT CLIMATE CHANGE" id="id-fb2297e33ab44c0abffec4a9cc19bf4d"/>
-    <element xsi:type="archimate:Grouping" name="ADDRESSING SYSTEMIC RACISM" id="id-01bcb8292f0a4f97bf8812b97cf0575c"/>
-    <element xsi:type="archimate:Grouping" name="PROTECTING TWO OFFICIAL LANGUAGES" id="id-0ef605561e59411ba799311348f8efa9">
-      <documentation>Our two official languages are woven into the fabric of our country.&#xD;
-The defence of the rights of Francophones outside Quebec, and the defence of the rights of the Anglophone minority within Quebec, is a priority for the Government.&#xD;
-The Government of Canada must also recognize that the situation of French is unique. There are almost 8 million Francophones in Canada within a region of over 360 million inhabitants who are almost exclusively Anglophone. The Government therefore has the responsibility to protect and promote French not only outside of Quebec, but also within Quebec.</documentation>
-    </element>
-    <element xsi:type="archimate:Grouping" name="CANADA IN THE WORLD" id="id-1f4706126fba44fe98e8f17fef6d1eb1">
-      <documentation>We must take action on all of these priorities at home. But we must also address&#xD;
-the world in which we live.&#xD;
-COVID-19 has accelerated the existing trends toward a more fragmented global&#xD;
-order. It remains in Canada’s interest to create and maintain bilateral and&#xD;
-multilateral relationships to advance peace and economic prosperity.</documentation>
-    </element>
-    <element xsi:type="archimate:Grouping" name="A WELCOMING CANADA" id="id-ed5d9630d22a4074aa4fc775024441f5">
-      <documentation>Immigration remains a driver of Canada’s economic growth.&#xD;
-With other countries rejecting global talent that could help their economy,&#xD;
-Canada has an opportunity as we recover to become the world’s top destination&#xD;
-for talent, capital, and jobs. When people choose Canada, help build Canada,&#xD;
-and make sacrifices in support of Canada, we should make it easier for them to&#xD;
-formally become Canadian.&#xD;
-Earlier this year, the Government announced measures to grant permanent&#xD;
-residency to people who, although not Canadian citizens, had cared for the most&#xD;
-vulnerable in long-term care homes and other medical facilities.</documentation>
-    </element>
-    <element xsi:type="archimate:Grouping" name="RECONCILIATION" id="id-6716b89d01d14f40a45084140260a1ac">
-      <documentation>Throughout the pandemic, the Government has made it a priority to support&#xD;
-Indigenous communities, which has helped contain the spread of COVID-19&#xD;
-and kept people safe. That is something the Government will continue to do.&#xD;
-The Government will walk the shared path of reconciliation with Indigenous&#xD;
-Peoples, and remain focused on implementing the commitments made in 2019.</documentation>
-    </element>
     <element xsi:type="archimate:Grouping" name="VACCINE EFFORTS" id="id-984b4024d37e4dd293d3a025b44edac9"/>
     <element xsi:type="archimate:Grouping" name="CANADA'S TOP SCIENTIFIC MINDS" id="id-0f8c928e1ba7415cbbe92f5cdded8099">
       <documentation>From the Vaccine Task Force that provides the best advice on vaccine purchasing&#xD;
@@ -6220,68 +5708,6 @@ Peoples, and remain focused on implementing the commitments made in 2019.</docum
       <documentation>Investing in affordable child care – just like housing – is not just good for families. It helps grow the entire economy. And so does immigration.&#xD;
 That is why the Government will continue increasing immigration levels and reducing wait times, while supporting family reunification and delivering a world-leading refugee resettlement program.</documentation>
     </element>
-    <element xsi:type="archimate:Grouping" name="ADDRESSING SYSTEMIC RACISM (copy)" id="id-c86fcc260b82425e8d57f75921c44a2b"/>
-    <element xsi:type="archimate:Grouping" name="PROTECTING TWO OFFICIAL LANGUAGES (copy)" id="id-2ecc859952964c58a740ea8ef159a8a6">
-      <documentation>Our two official languages are woven into the fabric of our country.&#xD;
-The defence of the rights of Francophones outside Quebec, and the defence of the rights of the Anglophone minority within Quebec, is a priority for the Government.&#xD;
-The Government of Canada must also recognize that the situation of French is unique. There are almost 8 million Francophones in Canada within a region of over 360 million inhabitants who are almost exclusively Anglophone. The Government therefore has the responsibility to protect and promote French not only outside of Quebec, but also within Quebec.</documentation>
-    </element>
-    <element xsi:type="archimate:Grouping" name="CANADA IN THE WORLD (copy)" id="id-e8b522f0ab94441698ab3413183d1b4c">
-      <documentation>We must take action on all of these priorities at home. But we must also address&#xD;
-the world in which we live.&#xD;
-COVID-19 has accelerated the existing trends toward a more fragmented global&#xD;
-order. It remains in Canada’s interest to create and maintain bilateral and&#xD;
-multilateral relationships to advance peace and economic prosperity.</documentation>
-    </element>
-    <element xsi:type="archimate:Grouping" name="A WELCOMING CANADA (copy)" id="id-b83a153d0f3c494f88882e76f5ddc6c4">
-      <documentation>Immigration remains a driver of Canada’s economic growth.&#xD;
-With other countries rejecting global talent that could help their economy,&#xD;
-Canada has an opportunity as we recover to become the world’s top destination&#xD;
-for talent, capital, and jobs. When people choose Canada, help build Canada,&#xD;
-and make sacrifices in support of Canada, we should make it easier for them to&#xD;
-formally become Canadian.&#xD;
-Earlier this year, the Government announced measures to grant permanent&#xD;
-residency to people who, although not Canadian citizens, had cared for the most&#xD;
-vulnerable in long-term care homes and other medical facilities.</documentation>
-    </element>
-    <element xsi:type="archimate:Grouping" name="RECONCILIATION (copy)" id="id-c4550571e7a140859e98fcfb2dd883af">
-      <documentation>Throughout the pandemic, the Government has made it a priority to support&#xD;
-Indigenous communities, which has helped contain the spread of COVID-19&#xD;
-and kept people safe. That is something the Government will continue to do.&#xD;
-The Government will walk the shared path of reconciliation with Indigenous&#xD;
-Peoples, and remain focused on implementing the commitments made in 2019.</documentation>
-    </element>
-    <element xsi:type="archimate:Grouping" name="ADDRESSING SYSTEMIC RACISM (copy) (copy)" id="id-553f00b8555644779b580efb33b295da"/>
-    <element xsi:type="archimate:Grouping" name="PROTECTING TWO OFFICIAL LANGUAGES (copy) (copy)" id="id-a5f05b26ba57421889fbaceda4d2318e">
-      <documentation>Our two official languages are woven into the fabric of our country.&#xD;
-The defence of the rights of Francophones outside Quebec, and the defence of the rights of the Anglophone minority within Quebec, is a priority for the Government.&#xD;
-The Government of Canada must also recognize that the situation of French is unique. There are almost 8 million Francophones in Canada within a region of over 360 million inhabitants who are almost exclusively Anglophone. The Government therefore has the responsibility to protect and promote French not only outside of Quebec, but also within Quebec.</documentation>
-    </element>
-    <element xsi:type="archimate:Grouping" name="CANADA IN THE WORLD (copy) (copy)" id="id-e164a25cfcee430698bbe7d2806841d1">
-      <documentation>We must take action on all of these priorities at home. But we must also address&#xD;
-the world in which we live.&#xD;
-COVID-19 has accelerated the existing trends toward a more fragmented global&#xD;
-order. It remains in Canada’s interest to create and maintain bilateral and&#xD;
-multilateral relationships to advance peace and economic prosperity.</documentation>
-    </element>
-    <element xsi:type="archimate:Grouping" name="A WELCOMING CANADA (copy) (copy)" id="id-b01fbf954a874700a89c2e41172c06d1">
-      <documentation>Immigration remains a driver of Canada’s economic growth.&#xD;
-With other countries rejecting global talent that could help their economy,&#xD;
-Canada has an opportunity as we recover to become the world’s top destination&#xD;
-for talent, capital, and jobs. When people choose Canada, help build Canada,&#xD;
-and make sacrifices in support of Canada, we should make it easier for them to&#xD;
-formally become Canadian.&#xD;
-Earlier this year, the Government announced measures to grant permanent&#xD;
-residency to people who, although not Canadian citizens, had cared for the most&#xD;
-vulnerable in long-term care homes and other medical facilities.</documentation>
-    </element>
-    <element xsi:type="archimate:Grouping" name="RECONCILIATION (copy) (copy)" id="id-e9493c460da6418b8651c63ba8749c82">
-      <documentation>Throughout the pandemic, the Government has made it a priority to support&#xD;
-Indigenous communities, which has helped contain the spread of COVID-19&#xD;
-and kept people safe. That is something the Government will continue to do.&#xD;
-The Government will walk the shared path of reconciliation with Indigenous&#xD;
-Peoples, and remain focused on implementing the commitments made in 2019.</documentation>
-    </element>
     <element xsi:type="archimate:Grouping" name="STRENGTHEN GUN CONTROL" id="id-2fceb6a4de7046adad67cfb1949a0a05"/>
     <element xsi:type="archimate:Grouping" name="ACTION PLAN ON GENDER-BASED VIOLENCE" id="id-914f8ef6ee484161ae5bde4343a0a926"/>
     <element xsi:type="archimate:Grouping" name="A MORE JUST CANADA" id="id-9533aebcd4e444328ce40dbd2786bcf9"/>
@@ -6300,28 +5726,11 @@ Operational Security Standard: Management of Information Technology Security (MI
 http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12328</documentation>
     </element>
     <element xsi:type="archimate:Grouping" name="Mandate Letters For ESDC Ministers" id="id-a3598e9bb37040de8c27f6f94297bd1a"/>
-    <element xsi:type="archimate:Grouping" name="LITE-2021-IITB-47 REQUIREMENTS" id="id-2dde2944368e4de58f73d40dc26e7293"/>
-    <element xsi:type="archimate:Grouping" name="LITE-2021-IITB-47 LANGUAGE WEAVER CLOUD CAPABILITIES" id="id-30561fc50b7f4cc78414dc8a913b22f9"/>
-    <element xsi:type="archimate:Grouping" name="Microsoft M365 Tenant" id="id-0afb290105bb47978ea342b422b793be"/>
-    <element xsi:type="archimate:Grouping" name="RWS Language Cloud - Intelligent Translation Management" id="id-cb361de3cc1845459fab6f26486a133a"/>
     <element xsi:type="archimate:Junction" name="Junction" id="id-0f35110de1d04f3bb5e329467e86d7da"/>
     <element xsi:type="archimate:Junction" name="Junction" id="id-446fc5e71c014f699e086b88137bb2df"/>
-    <element xsi:type="archimate:Grouping" name="Dynamics 365" id="id-d772d7df25c843c7bfc4ae863c9d79db"/>
-    <element xsi:type="archimate:Grouping" name="SIN CRUD Microservice" id="id-387a97a564094e61b39d4a4fa30a9425"/>
     <element xsi:type="archimate:Junction" name="Junction" id="id-ac35ac77b6fb44aa8f90d2440d92ef73"/>
     <element xsi:type="archimate:Grouping" name="ESDC Tools" id="id-2418d3e51fbe40498c388945d6f4c823"/>
     <element xsi:type="archimate:Grouping" name="PSPC (TermiumPLUS) Team Tools" id="id-2b5aa84ca7eb4d94a6a66cb07046f3ad"/>
-    <element xsi:type="archimate:Grouping" name="WMBI Guiding Principles" id="id-b178abb47e2245c5ad11c7469b6d9786"/>
-    <element xsi:type="archimate:Grouping" name="Value Proposition" id="id-375608ad534448eeb853f177a86762a3"/>
-    <element xsi:type="archimate:Grouping" name="KEY BENEFITS" id="id-9049b81c25984f598429a87e5d750255"/>
-    <element xsi:type="archimate:Grouping" name="Other Key Stakeholder Representatives" id="id-bad1ff99700b47fbbd4f753299c166d7"/>
-    <element xsi:type="archimate:Grouping" name="WMBI TASK TEAM" id="id-82a324b70ff54fedbb01e77143671f33"/>
-    <element xsi:type="archimate:Grouping" name="PROPOSED WORK PLAN" id="id-dfd82da792ca4e88875102bd04440f7a"/>
-    <element xsi:type="archimate:Grouping" name="INITIAL ASSUMPTIONS and CONSIDERATIONS" id="id-da5457a5d0554c3dbc894eadfec02053"/>
-    <element xsi:type="archimate:Grouping" name="PROJECT GOALS" id="id-a5b53a04f6f24e7f920c97c45dd03189"/>
-    <element xsi:type="archimate:Grouping" name="Optional OGC Capabilities" id="id-e34b42575dcf462caf25f930314fcc81">
-      <documentation>CSPS has significant expertise with educational technologies. Opportunity to partner with departments on hosted or federated approaches.</documentation>
-    </element>
     <element xsi:type="archimate:Grouping" name="SAS Team On Boarding Information" id="id-65d30cb8215f400b94f6e297776a6b99"/>
     <element xsi:type="archimate:Grouping" name="OAG Audit of Cyber Security of Personal Information in the Cloud - KEY FINDINGS" id="id-4f532e6ad98d4566b4f84807d03ce1b6">
       <documentation>KEY FINDINGS&#xD;
@@ -6807,17 +6216,6 @@ use a standardized approach so that people can scan content quickly and easily w
     <element xsi:type="archimate:TriggeringRelationship" id="id-6b4f40a115dc441fbd9785d1fe40c293" source="id-8f469cb184a14e4b818657c3734340e4" target="id-07a39b75179f4a2986609e69235b5e9e"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-ab98088c56a64d4baade83f1db8394aa" source="id-0b259207e80640af8355fcdfcc227304" target="id-8a3152cbea384297b4dd7a46f70075f6"/>
     <element xsi:type="archimate:TriggeringRelationship" id="id-6c35883826434fdca72fee3cdb5958b1" source="id-07a39b75179f4a2986609e69235b5e9e" target="id-8a3152cbea384297b4dd7a46f70075f6"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-71111717d24d4596b28b1bced4c480e4" source="id-ff779787479e4452b7cb1134dd5b5625" target="id-7d50f7192f1d484e848bebef4737b354"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-66e8c1ad2cb144e795aaedf93e6c6c26" source="id-c49c80f43cde4398a47fa6e02a3a53f1" target="id-e54c9ef1d1894f718c241615323b5215"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-246cbec01a9d4f5d86b121921b1cf55b" source="id-c49c80f43cde4398a47fa6e02a3a53f1" target="id-b221ead568b94ae28405810c8bb1726c"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-72477984ead94d6fb1016e0cc24aeaec" source="id-c49c80f43cde4398a47fa6e02a3a53f1" target="id-c03fd2db8e6f4ddf8e8f30bf0fc2a697"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-2365645a128d445bacbaa33b8348b9f0" source="id-c49c80f43cde4398a47fa6e02a3a53f1" target="id-f5d449d8fa2d4c78b3b5f146f22e0dfa"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-07d60cdffc6344869f4b48c03b1b9ccf" source="id-c49c80f43cde4398a47fa6e02a3a53f1" target="id-4ae8a8373bd04cd1b1b5b53dd7ec6a3f"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-ddc6f9b0654c469e80a6492ea5c65efe" source="id-c49c80f43cde4398a47fa6e02a3a53f1" target="id-5a3b73e010d24683925e9348d3a418cd"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-8619e8d76021477182abcfd5ef203e59" source="id-c49c80f43cde4398a47fa6e02a3a53f1" target="id-d666481fe6a840c2a3bd40d38e0c7754"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-eecb176ebc43420f8dd91796ee06f918" source="id-c49c80f43cde4398a47fa6e02a3a53f1" target="id-4d4e1a598a164d80a1a86413885bb2c6"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-2d297fa5b92d43efb770070d42a2c56a" source="id-c49c80f43cde4398a47fa6e02a3a53f1" target="id-d8f9b6f8639c44009172ca9666f69ac5"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-401ae05d89894a9db58a694898c384ba" source="id-c49c80f43cde4398a47fa6e02a3a53f1" target="id-25c6d0bd4b3f429682466581901ff803"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-e3e07ef5cffa4af68ede8a650ffe36d1" source="id-9690b18530684db7ab09618306b99622" target="id-7f87be3c1de34625861365d385242501"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-2857c52a77434ee980dde97409a1629a" source="id-a1a85fb3533b446e941cf97baa5df427" target="id-7f87be3c1de34625861365d385242501"/>
     <element xsi:type="archimate:ServingRelationship" id="id-2804bd23e3004dae9e9b013188e46b81" source="id-0d908211ef0241899928d80fbd2a7305" target="id-6eadc07afe414fda9c1605d7cfb59467"/>
@@ -6914,59 +6312,17 @@ use a standardized approach so that people can scan content quickly and easily w
     <element xsi:type="archimate:AccessRelationship" name="Accessed By" id="id-a54d3a0273da4196bfe1f316e2ea029c" source="id-be3b8d1ae50249bdaaafe12211fe16fc" target="id-cc396ab26c3b4f3f9fc5433e5c00e78c"/>
     <element xsi:type="archimate:TriggeringRelationship" id="id-bb3e7f78bc334dad872b100c80c17abc" source="id-b88cf79ce80845b6b3f99f958cc2ef73" target="id-1ba35ea0dbcc4ad8b15e5b6fda37b005"/>
     <element xsi:type="archimate:TriggeringRelationship" id="id-2558fa5f6dd94887837e0a0bfd7c1005" source="id-1ba35ea0dbcc4ad8b15e5b6fda37b005" target="id-be3b8d1ae50249bdaaafe12211fe16fc"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-16c88919811b4d8d97e6f274f3db041a" source="id-00610a8d804b45c08306818b49efa78d" target="id-df6bc06539244513a0c2abeae5fba13b"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-41069d8e4311494ebf669e1544de909e" source="id-00610a8d804b45c08306818b49efa78d" target="id-e17c9573edc24ab7868cad476a82031b"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-310c09dd3ed84090916740ae7d1221d8" source="id-00610a8d804b45c08306818b49efa78d" target="id-2c92f9a82df14a23933bed7380b74fbe"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-fe6e3f5855844a8584b4085ed1ffaa4d" source="id-00610a8d804b45c08306818b49efa78d" target="id-fdfd638ba2344d7390f7e5b487b13b7d"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-4557c19e9e6142dd88f4af875e130041" source="id-00610a8d804b45c08306818b49efa78d" target="id-38e4f8d42e694f17b02098e2060d18dd"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-c92886f30ed5468fa84558ec517eaa55" source="id-00610a8d804b45c08306818b49efa78d" target="id-1b8127c0259641da955062ac0917d04e"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-ccb46e916a4f4f2da4526f1030ebbb9c" source="id-00610a8d804b45c08306818b49efa78d" target="id-053ff40dbb364465bad2cacd74cb9e65"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-261960957fa34da3875951cb3ad6c302" source="id-00610a8d804b45c08306818b49efa78d" target="id-8a233ba972ab422d9db17e5e05fe117c"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-37698df4ad664613a10dee21acd5d70e" source="id-00610a8d804b45c08306818b49efa78d" target="id-8463340fbcae452ea9c1606331ccd099"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-534d263070d7468098ae10f2b64defb7" source="id-00610a8d804b45c08306818b49efa78d" target="id-4154b4f46b3c450ba742119596e91941"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-e222b8b4afd84434b29f6f21eec6affb" source="id-00610a8d804b45c08306818b49efa78d" target="id-f2041242d7784d9fba2c8f0da164fc94"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-f27ed8bb436d4a0082f1e57750161fba" source="id-00610a8d804b45c08306818b49efa78d" target="id-48badaa5ce984b85bfbae54cff48b0b6"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-4b70b87888924834aa539643f93ba3db" source="id-00610a8d804b45c08306818b49efa78d" target="id-201b6f4a667840f2be2571924af7771f"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-86940146e58342ba99ce36956b5db4af" source="id-00610a8d804b45c08306818b49efa78d" target="id-f2b619af929644f39a8129364c4be704"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-30521bc7040f4c31bb525636ebd66c4c" source="id-2baf06581b74470db26a17c3316b9720" target="id-2960ac50eda84823998a331d8ab1eb57"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-c30c31043ae54071a6d57a9256d39891" source="id-962e859d9d1d46a79387d4f696f5478a" target="id-a5c2d72651324169814e06b65b20e1cd"/>
     <element xsi:type="archimate:FlowRelationship" id="id-2ca2772d15b84d819723f26f365e3570" source="id-c6aaa6f646a14bbaa2fffc829393e7c1" target="id-c1ebdd0135644052b6378717de6fe923"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-90fb4703dd5f429a9e4792a4adf463d6" source="id-962e859d9d1d46a79387d4f696f5478a" target="id-01eba859b7bc42b1a27114de7e871ef5"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-695e586795984a1c88e4313d22bd3175" source="id-a9161994a92c41b6b9efbba5722e7eae" target="id-9ed42c223d8c465e97f164ffaca12c08"/>
     <element xsi:type="archimate:FlowRelationship" id="id-6dfff86d01f64e81b23bf7ce8c750086" source="id-d3e82f1c39004f04b208ade5227e67d7" target="id-4c0ab54b6bac4d95a85f1849954f4460"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-916e3c05fb4b48f1a79300e40f7d5ff1" source="id-2baf06581b74470db26a17c3316b9720" target="id-e4629399357e4152841ef6f33f225046"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-5dd288080f5a45a88829989c0b56fba0" source="id-2f33e5f6ac8b4f32947cff5739de54aa" target="id-1378ab84f6fe4caaa9681ff4b4f6b204"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-defd9085e0b64c5b8e9aa5b9e2669c76" source="id-bfa0eaef052a4cc0be532536ba7f3312" target="id-460e3089ae4e448b85e084b2011012b8"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-3a12c29fb27b46b0824611a202233623" source="id-e07547f2c2d44448b0c61b627c670d02" target="id-460e3089ae4e448b85e084b2011012b8"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-13d374df666e405c8a19dc274a2b6965" source="id-b330bbaf3d5d45b788ff48f515fd321e" target="id-ea4af6f7866b49468d1d02a0519236f4"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-f1b8dafdc77443128a4b9fc20869d1aa" source="id-2f33e5f6ac8b4f32947cff5739de54aa" target="id-3cf4996ad0ff482c9559c433b2d512c1"/>
     <element xsi:type="archimate:ServingRelationship" id="id-3f4f07909c3b4bee884fedf4ce5810f1" source="id-aa4561d1423044409c9a3b68bb495926" target="id-bc58d54d9a46408e989d52191b77dce0"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-78d9587b40d04ad6ad15754d103bba74" source="id-b330bbaf3d5d45b788ff48f515fd321e" target="id-c8f6ce00910c446cb1f1698227e407bf"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-943ad94c95d34f9d9d0a448da1f0add0" source="id-b330bbaf3d5d45b788ff48f515fd321e" target="id-772c597953104efb9bb493ef3a4b18be"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-8c307f2f4f4b4b868acf0a50e0c4f91a" source="id-a9161994a92c41b6b9efbba5722e7eae" target="id-7e15198272f64f3a9f439f1639916a72"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-7dd317848e4d40d3aa688b699621309c" source="id-962e859d9d1d46a79387d4f696f5478a" target="id-2f33e5f6ac8b4f32947cff5739de54aa"/>
     <element xsi:type="archimate:FlowRelationship" id="id-c83486391617416ca51b7b336b8850e1" source="id-7e15198272f64f3a9f439f1639916a72" target="id-c6aaa6f646a14bbaa2fffc829393e7c1"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-0c415ed76fda48be92a5ac825674428e" source="id-a9161994a92c41b6b9efbba5722e7eae" target="id-d3e82f1c39004f04b208ade5227e67d7"/>
     <element xsi:type="archimate:FlowRelationship" id="id-a87ffc9bb6bf43019a7a19abb98f8902" source="id-d816d6095b134c4b8a1aae930a477dbc" target="id-7e15198272f64f3a9f439f1639916a72"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-77f8acc825444cab8e20ed90abe144f4" source="id-2baf06581b74470db26a17c3316b9720" target="id-8843ab880c344e2f9f3e43ea0c65c4ae"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-f34a5331189449f6af7cae06bac69f71" source="id-2f33e5f6ac8b4f32947cff5739de54aa" target="id-e95910dac9354ba89312b7087dddc952"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-c676d1c104fe4f298ccc240fc89b9b1c" source="id-962e859d9d1d46a79387d4f696f5478a" target="id-586723216caf4f6584baedd5d053a05c"/>
     <element xsi:type="archimate:FlowRelationship" id="id-e715b85f8cc34290a44eab2207d39d3d" source="id-9ed42c223d8c465e97f164ffaca12c08" target="id-d816d6095b134c4b8a1aae930a477dbc"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-49f17bb6bf5d4946a32505a6475f1b59" source="id-b330bbaf3d5d45b788ff48f515fd321e" target="id-cf0bfd40e6554c6fa10655d22caf0621"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-cdfa559edf36462a8ce4808c8a3e2944" source="id-962e859d9d1d46a79387d4f696f5478a" target="id-164f01c2fb7f4b5e811b09e1101c62b3"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-dcb823d5fa004f4c9fd14c2b23a94a58" source="id-a9161994a92c41b6b9efbba5722e7eae" target="id-4c0ab54b6bac4d95a85f1849954f4460"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-3e3b92e5d53942d29eb8a564ac37ae2a" source="id-a9161994a92c41b6b9efbba5722e7eae" target="id-c6aaa6f646a14bbaa2fffc829393e7c1"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-37901d8096c44ad89fc051585e94120e" source="id-a9161994a92c41b6b9efbba5722e7eae" target="id-d816d6095b134c4b8a1aae930a477dbc"/>
     <element xsi:type="archimate:FlowRelationship" id="id-76b6614eec5049a5965fd1877341ebe8" source="id-c1ebdd0135644052b6378717de6fe923" target="id-d3e82f1c39004f04b208ade5227e67d7"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-add325542ebd478697cbbaddb9b0671c" source="id-2f33e5f6ac8b4f32947cff5739de54aa" target="id-460e3089ae4e448b85e084b2011012b8"/>
     <element xsi:type="archimate:ServingRelationship" id="id-4f39caffd41944b0840364059b66e63a" source="id-20d8b2f74eb94f1bb451da90f5a7d0b1" target="id-aa4561d1423044409c9a3b68bb495926"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-b03f4025bb7a422abda2ce5cb2e2d140" source="id-b330bbaf3d5d45b788ff48f515fd321e" target="id-e871c53c95424f25adc65c6bfcb9de42"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-c1286203e750487689880a99f176cee8" source="id-2f33e5f6ac8b4f32947cff5739de54aa" target="id-94b30ccc36024e65a60c51f619dc97c1"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-967e393d8a1148389c47a8dec6f3efcc" source="id-2f33e5f6ac8b4f32947cff5739de54aa" target="id-6caccfb39d204b448bc4a319f92d7f7c"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-7bdaf3f2fb214e97b8171668e1298231" source="id-b330bbaf3d5d45b788ff48f515fd321e" target="id-ea26300ba822459cb697579851f91061"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-ed160265b6814335a11ef604a32270c9" source="id-c51a0145689e4381ba241879725f66cd" target="id-3cf4996ad0ff482c9559c433b2d512c1"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-4263ec9f2d99429cb63d8f148e56522d" source="id-2f33e5f6ac8b4f32947cff5739de54aa" target="id-078ec76a28c94a54891f44e1b57f6e3e"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-58f8c8d2e53045b6aff6171b94be181a" source="id-a9161994a92c41b6b9efbba5722e7eae" target="id-c1ebdd0135644052b6378717de6fe923"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-cf5080921cc34346a410c515706c7c90" source="id-26e57e53d49b4528bfb055c0a22e7cd3" target="id-a5c2d72651324169814e06b65b20e1cd"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-ee04218073a041e1a0e9428f7e94c168" source="id-a233cb096b2747a99bf6d66698edf34e" target="id-61270775fc2b4abcba2175710bcb3474"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-d078eff228904bdaaa81552b77766c60" source="id-a233cb096b2747a99bf6d66698edf34e" target="id-496c194def8a4fbc9f329ea42dd70e06"/>
@@ -6978,15 +6334,12 @@ use a standardized approach so that people can scan content quickly and easily w
     <element xsi:type="archimate:CompositionRelationship" id="id-8e1b5bb4441c4318869ef481d0686313" source="id-cc396ab26c3b4f3f9fc5433e5c00e78c" target="id-dc39bcb5d4f641a386547601fd92a0b7"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-5911624a7cd449909f86395ba29fb7f2" source="id-cc396ab26c3b4f3f9fc5433e5c00e78c" target="id-cb56484870aa46519c43041dc4babeb0"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-2d883c8d13b740538f0e40614632db18" source="id-cc396ab26c3b4f3f9fc5433e5c00e78c" target="id-30914917b0534b6383b698a517d9be23"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-ecab99b5531b475db2d0ce4a9bca83a6" source="id-cc396ab26c3b4f3f9fc5433e5c00e78c" target="id-0d8c9abd15c04589ad3ce2d061ff0f47"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-0ae335b441de4cb4860c3c6f02f3da44" source="id-c51a0145689e4381ba241879725f66cd" target="id-d67153d3e93044848729a867da526a86"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-0fb5745353bf41dbac771dc0107b4f58" source="id-d67153d3e93044848729a867da526a86" target="id-e95910dac9354ba89312b7087dddc952"/>
     <element xsi:type="archimate:ServingRelationship" id="id-c20ed262f8a54df886a6cf2333c62e53" source="id-aa4561d1423044409c9a3b68bb495926" target="id-c232947410de43cc8504dfcc5d736270"/>
     <element xsi:type="archimate:ServingRelationship" id="id-a57e55c5dd5e4b9daf08c59e54ef037d" source="id-c232947410de43cc8504dfcc5d736270" target="id-aa4561d1423044409c9a3b68bb495926"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-df7fea9c32f24cbeb71f5923bb1bc3d0" source="id-4d9cf9abb617412984c3bc154c37f6af" target="id-586723216caf4f6584baedd5d053a05c"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-eea256116d2f45eaaae4acfc016d8139" source="id-252b622fa5f54896804968524ed3a28a" target="id-94b30ccc36024e65a60c51f619dc97c1"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-ce759878a122451e81c4d340a0677e31" source="id-bf00c57eab914980b9de19d4b58b4231" target="id-a233cb096b2747a99bf6d66698edf34e"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-fe185580ab6546259aaedfdd6fda0a70" source="id-bf00c57eab914980b9de19d4b58b4231" target="id-cc396ab26c3b4f3f9fc5433e5c00e78c"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-80af001d6633434e9256b88903b3f3d7" source="id-8c22d4beaf5048a08fdfc586cc88af4f" target="id-bd956a4cc0644ee785dc5e08539fcf94"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-175aafb45d6a44ff9b3dd0f8c87207b5" source="id-57d203f226194ee39d035522066ba43c" target="id-6bc8808ecb4045568f660b9478569d9d"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-2e552d71b7c341a7a4475c8a32e13ec4" source="id-8c22d4beaf5048a08fdfc586cc88af4f" target="id-b76a8fae41754e2db1ce3934cc78e05c"/>
@@ -6996,134 +6349,38 @@ use a standardized approach so that people can scan content quickly and easily w
     <element xsi:type="archimate:CompositionRelationship" id="id-73dafde00c15455997b67bdc0d9f46c4" source="id-57d203f226194ee39d035522066ba43c" target="id-d48712f1b3204e318439efa4066d93bd"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-0dcbdaed4c00460ba73edb97ad6ee408" source="id-57d203f226194ee39d035522066ba43c" target="id-df0fa6d8a572449ab0c84f5e721439f0"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-557a03bec45f4acdb4c0a07b8b03b84b" source="id-8c22d4beaf5048a08fdfc586cc88af4f" target="id-63e36dccb2b445f794ab3af8c0df97dc"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-463138c53fc74f1cb24e8969ddb94798" source="id-6f992c9f5da04f09979a3536e48a496e" target="id-57d203f226194ee39d035522066ba43c"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-039af07f0ea24b5a8045af452ce262f0" source="id-6f992c9f5da04f09979a3536e48a496e" target="id-8c22d4beaf5048a08fdfc586cc88af4f"/>
-    <element xsi:type="archimate:FlowRelationship" name="Published" id="id-7a9107e353f842b6b5249e26d5eb07c7" source="id-6f992c9f5da04f09979a3536e48a496e" target="id-bf00c57eab914980b9de19d4b58b4231"/>
-    <element xsi:type="archimate:AssignmentRelationship" name="Content Management" id="id-d140273b228a4ca7b6cb9fb777dacb03" source="id-d67153d3e93044848729a867da526a86" target="id-6f992c9f5da04f09979a3536e48a496e"/>
-    <element xsi:type="archimate:AssignmentRelationship" name="Publish" id="id-cffe35a9926141f4b63a99ce06a40b0c" source="id-ff28206dd7254031951e879a76edae4d" target="id-bf00c57eab914980b9de19d4b58b4231"/>
-    <element xsi:type="archimate:AssignmentRelationship" name="RBAC, Operations" id="id-5ae9b2c90ddc4404a9767e2b1d265bcb" source="id-a577656556634acfbb5f61bdd555e7c3" target="id-bf00c57eab914980b9de19d4b58b4231"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-823236b89fd24025ab94c483e234396b" source="id-eb341c6873d54774a8ff8aec3050e61a" target="id-1b7b9e8548294717b4aaf4bf1cd44c4a"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-454cc43d15c24960a33383f29ee8df26" source="id-eb341c6873d54774a8ff8aec3050e61a" target="id-0d2ee98ae10941f783cbdc3f9e368a76"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-98b8a6c453f14a4e8e52d8465e2008aa" source="id-4b0e8b94f0964f4b9e969663bda73f29" target="id-f9052568159640c79b43fa2f006cbb97"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-4339924e274140a19d2d48e981d53a43" source="id-4b0e8b94f0964f4b9e969663bda73f29" target="id-e6d3c3e2a7c043d9ade001ffe6039323"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-adb3cddb26a645bf801fe64efece242b" source="id-eb341c6873d54774a8ff8aec3050e61a" target="id-4b0e8b94f0964f4b9e969663bda73f29"/>
     <element xsi:type="archimate:InfluenceRelationship" id="id-7d3a0356ba8b45e181961b754c661ae3" source="id-4154b4f46b3c450ba742119596e91941" target="id-f9052568159640c79b43fa2f006cbb97" strength="+"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-596b0d413ba045d18b3ccc0a406788ab" source="id-7881c303c5ea4fb69b33c8b60ebe5fab" target="id-77f2e700c1954459a3ed40f148051c7e"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-e227c7a5705d465487ced4ae10ddf1b0" source="id-7881c303c5ea4fb69b33c8b60ebe5fab" target="id-a9068f94aea741b3818f03c2d80c76ac"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-4762f2abb8994c10aeacdc1a57f4c66e" source="id-7881c303c5ea4fb69b33c8b60ebe5fab" target="id-bc355649648141feb44f3049382a4617"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-9911dbd3a2ee48738ea703cf6d368c74" source="id-7881c303c5ea4fb69b33c8b60ebe5fab" target="id-244580306d0d41d5bba17e555c2e872f"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-e57c2c1b9766448db199f8bc40dab8a3" source="id-7881c303c5ea4fb69b33c8b60ebe5fab" target="id-c88c0b8290144de8a0ed4a66bb15c583"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-9deb2ecf55d942df8c4b2697205ceb8a" source="id-7881c303c5ea4fb69b33c8b60ebe5fab" target="id-36315f78602b442593ebf4af75dbc5cd"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-d544c11e1f0643bebf93f3e1ec240a84" source="id-7881c303c5ea4fb69b33c8b60ebe5fab" target="id-edad8b97652f40e088d932998be74cf4"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-9a2066f6eed448d39221954dc99bef6c" source="id-7881c303c5ea4fb69b33c8b60ebe5fab" target="id-8821088735c74ec29c068c232794cebf"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-bbd261c0498f400e9abdff49b7cec19c" source="id-bf4067e345b04b73b2d5bb6a5fa684d5" target="id-9c280dd047004e749a71bc88ea8758f9"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-0d0f2fd05ac544f7a7817255b7e390b4" source="id-bf4067e345b04b73b2d5bb6a5fa684d5" target="id-e9b9179a2671456695f30017daa5f57c"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-83cbfe9ab5ac49ca88a4ffc5fbf668e9" source="id-bf4067e345b04b73b2d5bb6a5fa684d5" target="id-80a9cfbcb79f4a2c97c371cffe47813d"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-e3b989f817214caa8c0fd64f81568e1c" source="id-bf4067e345b04b73b2d5bb6a5fa684d5" target="id-ac71cac65e474f73800039a0385ad603"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-c5c16c76c01943a3950d269c0cb5164e" source="id-bf4067e345b04b73b2d5bb6a5fa684d5" target="id-61e9ab81d42d4316b7b86aa84417c844"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-d263836057d144ce93a3cc7ae09b5688" source="id-bf4067e345b04b73b2d5bb6a5fa684d5" target="id-bc78c48af71842e2af71b79739db946e"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-e352735740694ddfbe4377efdfc9f928" source="id-bf4067e345b04b73b2d5bb6a5fa684d5" target="id-9b40e04828fd4885bb3ea396a0c645bd"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-9109e143202a43cab579d55e0437d633" source="id-3c849648c2df4602aead601ebf23ce37" target="id-f83300384e224fc5a59a2e9db5609968"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-c31d6322dc2443e2906f87d64d687bb8" source="id-3c849648c2df4602aead601ebf23ce37" target="id-828b5be80aca46a08420a1504831e280"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-98e43229367647eca9dce1d340663e75" source="id-3c849648c2df4602aead601ebf23ce37" target="id-c57cfab74f2248aaab632e8f8e3f03e5"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-78e894c185014dbd99868d9b581c1710" source="id-3c849648c2df4602aead601ebf23ce37" target="id-546018f13331470798d8bf3bd5804c3e"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-d6850a5c005c493b8280592945420b97" source="id-3c849648c2df4602aead601ebf23ce37" target="id-a58a61ef196f423ab5decbac52a12fff"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-75f93f6846714613807def2253a5c727" source="id-3c849648c2df4602aead601ebf23ce37" target="id-d5ff9cd4f3ee473487938e7a07dbbc1b"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-ea898856f4a04a2186c147e4460ade56" source="id-3c849648c2df4602aead601ebf23ce37" target="id-b6e21ef5b652435e8c88ebbecbdd8b34"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-6cd1918ef8b64936994f19dbe2dce2e6" source="id-3c849648c2df4602aead601ebf23ce37" target="id-1d5b4cb8c55147cb8f58be6fb0b776ee"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-d0525c3199804f96b39571fdeda5e036" source="id-3c849648c2df4602aead601ebf23ce37" target="id-d5883330d6234753a218c028cbb470ca"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-a57d2cbbf10c47cf830467097b6aeb3d" source="id-3c849648c2df4602aead601ebf23ce37" target="id-8b3a1e53f9a849ad90221a35f5a5dbaa"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-b2dd5091e5174c48b880ecdea3994982" source="id-74e98b111db14fc4b51d20c8d73f704f" target="id-de3d8f40a15443a6a6aa92e88b33b177"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-554a87b75bbb44faa9284b957b0ba0fa" source="id-74e98b111db14fc4b51d20c8d73f704f" target="id-fd62cc19a0594316a2a3813e3b96b306"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-5fb41ba7db86403d9e7ddf0ef6178dc9" source="id-74e98b111db14fc4b51d20c8d73f704f" target="id-bb6222ad806343aa9f21df9019899149"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-4625f2a10b5a4ed7a0746c65ab574220" source="id-74e98b111db14fc4b51d20c8d73f704f" target="id-229d509a911e4039948745b59bd8f8b2"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-c510bcf36b064e29934d05b7c7fe005b" source="id-54ef4df7279b4e02a7182be5e7148cdf" target="id-74e98b111db14fc4b51d20c8d73f704f"/>
-    <element xsi:type="archimate:FlowRelationship" name="Survey Results" id="id-b049ad44e59e466899e56dc6bdeabdd4" source="id-bf4067e345b04b73b2d5bb6a5fa684d5" target="id-b6a4a8d7a38347a088e7cfecd359f5f0"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-7299113d9fe04ad08ad6a64e90284d8d" source="id-71ec84b3e42a4b979e16eb0f53b9c3a8" target="id-ee3df5a1e3264f41bef6e92ca6b7f493"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-2b643ce328974a499cd1c106f819be52" source="id-71ec84b3e42a4b979e16eb0f53b9c3a8" target="id-6c89298ce954425b978207a5362f5d91"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-cdf854b0c33e48ebac5f6839ccadf4d1" source="id-71ec84b3e42a4b979e16eb0f53b9c3a8" target="id-8c06413dd7e64945b31bf03a99472e4e"/>
-    <element xsi:type="archimate:FlowRelationship" name="Final Report" id="id-cf483142b7a14c3ab92355beffda7cca" source="id-bf4067e345b04b73b2d5bb6a5fa684d5" target="id-71ec84b3e42a4b979e16eb0f53b9c3a8"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-59a0630ebaa64aa1b9e8d3e8f7071325" source="id-799d6a4a5539473981e98935ab9c6796" target="id-74e98b111db14fc4b51d20c8d73f704f"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-cd29efe72f784ab7bc54f198bbe73c73" source="id-799d6a4a5539473981e98935ab9c6796" target="id-54ef4df7279b4e02a7182be5e7148cdf"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-8a98eb7c88724b619dc3840c82e5f7d2" source="id-799d6a4a5539473981e98935ab9c6796" target="id-fb3b2696dbf44f1399cc335a867fa568"/>
-    <element xsi:type="archimate:FlowRelationship" id="id-4604f82511bd44f18e91e2fbec88f88f" source="id-bf4067e345b04b73b2d5bb6a5fa684d5" target="id-799d6a4a5539473981e98935ab9c6796"/>
-    <element xsi:type="archimate:AssignmentRelationship" id="id-49d221286d2a4b77b8f441dbcf44eb20" source="id-4e82154de43d4a15bec488d14eb90c58" target="id-6f992c9f5da04f09979a3536e48a496e"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-6631acd172c64e0eba5e82abef8d93dd" source="id-7d3e4f70f7d642b9b3c0b40ce2e7d674" target="id-0f752a000e9d41bcac163d49ea80a11d"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-b6d8bc39a45549b9b6d442aa5fa4c596" source="id-50e62bb5314c4701b7618d548614f3fe" target="id-1051baa03afa48f49d58477f9703da0d"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-7265c82f5c444eedb1fdfc95c67daee6" source="id-2c92e043661643039d7e19b33b79b218" target="id-ea072e6c6aa14a9f825627c9019b8028"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-40ce85df89e04664a9f708ebcd2f5660" source="id-2c92e043661643039d7e19b33b79b218" target="id-204427fb3bb84af7a317bb279762509f"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-352efa20b10b4c90974edc9f26c600ad" source="id-25e77aaa5416405a8eb665712677c134" target="id-37c0319fd88044a5b2db1680c5a0eff6"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-bdff48b549284bcab546db8c4ba66f7e" source="id-2a42a90dd8f24af3b545de43e3dd570b" target="id-b931918eb1c74a869a955054596bd1c8"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-83b7fb5936f447e38e89aff52b610f4a" source="id-2a42a90dd8f24af3b545de43e3dd570b" target="id-37c0319fd88044a5b2db1680c5a0eff6"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-5047709e6c594abb940f338f9e452529" source="id-2a42a90dd8f24af3b545de43e3dd570b" target="id-2630422e978b42debec9092808b039ba"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-812c1d45d60241ba9ecc6d0855df74c5" source="id-2a42a90dd8f24af3b545de43e3dd570b" target="id-ec3e7d738a3a43f09fd520cd550404e1"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-b6ac74047181480ab257ca2a838da797" source="id-2a42a90dd8f24af3b545de43e3dd570b" target="id-372e386dd6cb4bba8506df08097b31de"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-0a40465f8aa247a990ab53b5f5c9812c" source="id-2a42a90dd8f24af3b545de43e3dd570b" target="id-4b45127fcf9e4f0fab688918297b3453"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-aac49bf07382407aa67d5b34ac90656a" source="id-2a42a90dd8f24af3b545de43e3dd570b" target="id-7668a7c95615486b9d44e8b44b19be3f"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-b3cf4442ff1d4a7aacbe90910ac33bef" source="id-c9fe1d42736547d9aef5dae2b3ea01a7" target="id-4d9cf9abb617412984c3bc154c37f6af"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-b09445f4291d47c9ad08deecf7ea8a79" source="id-c9fe1d42736547d9aef5dae2b3ea01a7" target="id-252b622fa5f54896804968524ed3a28a"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-ef97f3b0826b4474a7b977539d1a4823" source="id-01bcb8292f0a4f97bf8812b97cf0575c" target="id-d5c416850c1f44c188b24c19c963bdc3"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-0a56b1ea087e43aca040778c6c0b1a77" source="id-8f22724adb174c71b120b04e26be262e" target="id-39656dc5e91c413eb4747397206fdce5"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-4c037128728d49f582b834a2edd0ff16" source="id-01bcb8292f0a4f97bf8812b97cf0575c" target="id-c9f21d35d65f415194eb12f0d74b8e3f"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-38da6234b710458c84a1ba83eeb4c78b" source="id-ed5d9630d22a4074aa4fc775024441f5" target="id-7f94dc5ef90a4f72bf6b0ef4ff557c6b"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-8e1032664a6d4919a0d7eed0012f6d68" source="id-05193a7f6f01452c9e1b68b4aec73d0c" target="id-43974d501b044351af41d75aee31d401"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-14b639fa1c2d4cdaa04a82447af31f55" source="id-01bcb8292f0a4f97bf8812b97cf0575c" target="id-5e20326699744a39a4f89637f48ac461"/>
     <element xsi:type="archimate:RealizationRelationship" id="id-ca4275cd31ac400983e9a2340987ddf4" source="id-d62778f05a0d4459b40bad6741bb3d01" target="id-39656dc5e91c413eb4747397206fdce5"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-9d756ed5c0514959a196a1e147cd95f0" source="id-39656dc5e91c413eb4747397206fdce5" target="id-11ac8ce6fddf42d5803722a436015744"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-36f527f557134437bd1029cfed2e5d71" source="id-cfe4794f6bd34672b4d3976d082022c6" target="id-39656dc5e91c413eb4747397206fdce5"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-cb5a4dc42b31481a8bdd7048fc32e96a" source="id-fb2297e33ab44c0abffec4a9cc19bf4d" target="id-aaa8bffaf30843b5aecd3f9059c8eb73"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-256175200f354c2599ab8853479850c5" source="id-d24f0854442d42a3a0472f6ec77c7204" target="id-05193a7f6f01452c9e1b68b4aec73d0c"/>
     <element xsi:type="archimate:RealizationRelationship" id="id-ca1def2b6807447ca6dbf3b732c52c98" source="id-c0675a0a7bb64f5996ceab57977b134e" target="id-39656dc5e91c413eb4747397206fdce5"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-a05443178a1b40bf908e89ef9f3eaaee" source="id-01bcb8292f0a4f97bf8812b97cf0575c" target="id-39621bbaee6d4e9cbd595c124d2862c0"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-602eeff88f674a5c846d8d546b216686" source="id-cc39c0d7acee4178b008ebf500991755" target="id-2d1ce5fd5ab64646bf68e6ae48c392ff"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-87430e2481aa410d9754297940431ae6" source="id-39656dc5e91c413eb4747397206fdce5" target="id-d0d1fe968c4d4eeba2baa0a0180c34ed"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-dc660b9dcdf544789e1fde483049d4e2" source="id-d969855d01274558966183451790308b" target="id-e1b0d12666eb4fe0b72c02c288970418"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-1750e559288e4638822a07d12436f8a9" source="id-11ac8ce6fddf42d5803722a436015744" target="id-d0d1fe968c4d4eeba2baa0a0180c34ed"/>
     <element xsi:type="archimate:RealizationRelationship" id="id-ae43bb21f53f41148ffc74eb30e40563" source="id-041973a3d2064189a67030d4b938466a" target="id-39656dc5e91c413eb4747397206fdce5"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-cde8851f194d4418955c544f429687fe" source="id-6437cff396be492f8db4bd108162c7c0" target="id-39656dc5e91c413eb4747397206fdce5"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-2f92be1617874e38bd632b89ba35a80b" source="id-e18ab68444e74f999696eb58612dceef" target="id-e5deded9ffa440a5be171bba0b203c44"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-b9e6791ce14041fba6d3e0e94c82557c" source="id-d0d1fe968c4d4eeba2baa0a0180c34ed" target="id-c7c9605d391345c18655d110e56b9696"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-d16d8f76b63f4ca998a3ba8dfdf30e88" source="id-6716b89d01d14f40a45084140260a1ac" target="id-52f29d08022a4066a56797faf29a12e3"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-a6ad59ee70204356b452b88d332069c3" source="id-fc2f4268c9dd4ce7a036b642b51411c6" target="id-39656dc5e91c413eb4747397206fdce5"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-19cbd03e7a884190ad82f96caf1f6fc4" source="id-0ef605561e59411ba799311348f8efa9" target="id-4dc7cae802f449a29b3bf05aa96a4ff3"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-eb3a500e6e3142a086ccceaad6e2af7b" source="id-6716b89d01d14f40a45084140260a1ac" target="id-5ecb98e7585746f8afc13738d7f8d895"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-5f5128efbc13452594c55a9e7a26d5b6" source="id-01bcb8292f0a4f97bf8812b97cf0575c" target="id-48ae53c2c73a45bd9f265037576c9b49"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-4bf48d240a124144beaddac74a6ffda2" source="id-6716b89d01d14f40a45084140260a1ac" target="id-1826f5aafd9e4d298603560a9f89cac5"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-b5a6d8a68bcc4cc4b593e44a4c6bee45" source="id-432c70d072024550bd0b580d255a8bb2" target="id-604dbcf30f3f4594a975f7c36f9bc5c6"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-30145293788e4932badab5409f82be07" source="id-6716b89d01d14f40a45084140260a1ac" target="id-85c03928e14547bf89262e51c4b85261"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-eaf2483e4409414dbbd3dbf1ece1c547" source="id-05193a7f6f01452c9e1b68b4aec73d0c" target="id-045a7b8d7fac44339fd982e7cc63d2b9"/>
     <element xsi:type="archimate:RealizationRelationship" id="id-15621dc68edf4d04a31f133ed7161cb9" source="id-c30d5c0c26fc4f4aa877e2774da21d82" target="id-39656dc5e91c413eb4747397206fdce5"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-94986dc002d6441183f33738c8d892b8" source="id-320b955b2a51490b9b677b2abfd0a2aa" target="id-e1b0d12666eb4fe0b72c02c288970418"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-6815f71b6bc04c6bba919fcc7032dbb1" source="id-05193a7f6f01452c9e1b68b4aec73d0c" target="id-c93f938fa23c42a5b688d41be322ad5a"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-167cb2bb37ab4697a5a72a4882d1800f" source="id-6716b89d01d14f40a45084140260a1ac" target="id-81e9368fba7b4d09abdbb73393a1f80d"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-dcdf7990185e4c41b85b4356966684df" source="id-d0d1fe968c4d4eeba2baa0a0180c34ed" target="id-dbc4cfdc20664ad7a973b4803bbfdac3"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-92c16e72f8c140298652beebde0f463a" source="id-11ac8ce6fddf42d5803722a436015744" target="id-88e8d3343e6648b285537daacdedd34a"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-ad6508836e72484ca6c1f8f8478d89ae" source="id-cc39c0d7acee4178b008ebf500991755" target="id-58c33a9f9b884787bf7ddad685cdffd0"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-456ef0e5f21d4bdab305376fa0ccce2a" source="id-01bcb8292f0a4f97bf8812b97cf0575c" target="id-2f5cfb36f3b54c39b7bf69199298d93e"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-e499d331cdff4e60bbed63b20dc004da" source="id-d24f0854442d42a3a0472f6ec77c7204" target="id-fb2297e33ab44c0abffec4a9cc19bf4d"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-27c62ab02d844ce7937a9a491d58da93" source="id-1f4706126fba44fe98e8f17fef6d1eb1" target="id-098507da808e4a69b1891df3959d1d87"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-03205d12d02549ef9f9ff9e38b057e92" source="id-e1b0d12666eb4fe0b72c02c288970418" target="id-e18ab68444e74f999696eb58612dceef"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-09aae8734bb34efab0c9af75ea8a5593" source="id-d0d1fe968c4d4eeba2baa0a0180c34ed" target="id-dff5c9425baf412f95ad8d73f9b6f4a1"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-203da8769c96400cbbbff4121a4d2da4" source="id-432c70d072024550bd0b580d255a8bb2" target="id-b9700d0a26fd411daa7ff4d8a0e8bf03"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-2180c4ffbae346b2adef8f06e7bde93b" source="id-1f4706126fba44fe98e8f17fef6d1eb1" target="id-98a11dbd831d41458291d20c5cfc0b7a"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-7c342aa2450a491795ba849d110be0be" source="id-6716b89d01d14f40a45084140260a1ac" target="id-26f7a69640164ec1a915647345f6924e"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-1272e5ba628e45399fa6a7785ef1de02" source="id-e18ab68444e74f999696eb58612dceef" target="id-25b3873492284c978e289c0232a1c060"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-7a4a6fb55d174c71a6b1851f171a2364" source="id-01bcb8292f0a4f97bf8812b97cf0575c" target="id-b44cbb7120f04103ac6dec88bfb8bce8"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-2714a13baabd435dbd4ecd0eeec34fb0" source="id-cef237cbb8874cc084704dc82f011d99" target="id-39656dc5e91c413eb4747397206fdce5"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-61b57bcc21a44475a79f6473e5bf1b82" source="id-09856aea9ef24a2cb01883cd4ace4db6" target="id-39656dc5e91c413eb4747397206fdce5"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-5743fb7bba8145098eeac7636c32663c" source="id-01bcb8292f0a4f97bf8812b97cf0575c" target="id-4d0b841620de4f73897c0165b97b206c"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-29967db4f1fd4ac28113dcc30992effa" source="id-e18ab68444e74f999696eb58612dceef" target="id-6aa0fc417f0d42e3bc0420a937e85c9d"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-2203147c0f744ecc98fcd04b3a3855bb" source="id-1f4706126fba44fe98e8f17fef6d1eb1" target="id-9255b2be8f5643c09a470d9a36688b0e"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-2cf9e920f5eb4919b1f6aea8197b5c30" source="id-f468cee89d3a48b79f9c41dfe274859f" target="id-39656dc5e91c413eb4747397206fdce5"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-833a1e96c4804f5da25cca94af488d75" source="id-fb2297e33ab44c0abffec4a9cc19bf4d" target="id-bcc94185a59548d4b6e1511d597006fa"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-93b3234cb25545d1bd8dd00be058a940" source="id-05193a7f6f01452c9e1b68b4aec73d0c" target="id-c26729a5a3f44752a6b64f514a9fdac5"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-0dd91b9c7fbd4defbe504623ed97e90c" source="id-e1b0d12666eb4fe0b72c02c288970418" target="id-432c70d072024550bd0b580d255a8bb2"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-4077116c925045f392ce7abc125c9f5f" source="id-6716b89d01d14f40a45084140260a1ac" target="id-051376e2b2714a4c8112a32bd3212323"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-9e15af0d8e6c49b6b32031e18617dbaf" source="id-1f4706126fba44fe98e8f17fef6d1eb1" target="id-f57f239b34654368aecd295434d39e97"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-7b1ac88f2b394e91ab542014ca863222" source="id-e1b0d12666eb4fe0b72c02c288970418" target="id-cc39c0d7acee4178b008ebf500991755"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-ab84c2612a9943a2bc47979bc111dec2" source="id-432c70d072024550bd0b580d255a8bb2" target="id-a1ebc7327c5e4c8ab2519797df1adb5a"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-99c1493b50ed4e378dab76814dc23b7c" source="id-01bcb8292f0a4f97bf8812b97cf0575c" target="id-bb02256abab54062a8acc1878a1c48fa"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-36f9a1600b3d4081bfc29fc39fb640d9" source="id-01bcb8292f0a4f97bf8812b97cf0575c" target="id-0a75ce5d22fd4860b5f70f1165b6680d"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-4ccb8865fd6d441eb7052a8be28b18fc" source="id-d0d1fe968c4d4eeba2baa0a0180c34ed" target="id-92710df1e22f4511818a7c2ad6664df7"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-8fbea483a97d4d19af7808c3efde0c89" source="id-d0d1fe968c4d4eeba2baa0a0180c34ed" target="id-1adbf6579ba34ebc8d5b5a4a0940ce0e"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-aac13ab410c14bdb8b590fa5fbe70d28" source="id-d0d1fe968c4d4eeba2baa0a0180c34ed" target="id-a13d3ac7f0ad41b1a7750618649020bc"/>
@@ -7270,52 +6527,6 @@ use a standardized approach so that people can scan content quickly and easily w
     <element xsi:type="archimate:AggregationRelationship" id="id-eb83c30147d04d08be410f1770806254" source="id-10d8bf29d29843d78fc3729e327baf50" target="id-96ef4d0b0bd643e48b7f3b682d017c7c"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-e4899956f6ba4d8fab42d8168da7c8c5" source="id-e1b0d12666eb4fe0b72c02c288970418" target="id-10d8bf29d29843d78fc3729e327baf50"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-a8cb0ff056d44df3813911ce0aa0c801" source="id-10d8bf29d29843d78fc3729e327baf50" target="id-1a7747d500074dd282c9d3eec457ecab"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-94f99cc898bf4c93930910cd1806406b" source="id-c86fcc260b82425e8d57f75921c44a2b" target="id-a6975b3cc007411ab1cf374e3a27b39a"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-aac525a438f44ac8a5d7a93d69a05992" source="id-c4550571e7a140859e98fcfb2dd883af" target="id-f1e847b6bf83464abc5a047110d03543"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-55f4946ead3347a58e1bd273b5e1c50d" source="id-c86fcc260b82425e8d57f75921c44a2b" target="id-d2b465b3e0fe49e29937a7177cf96fa4"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-62b36203846d49fe90a3389c78526f69" source="id-c4550571e7a140859e98fcfb2dd883af" target="id-4f39fa8a875d4a36b65f11f9622e673e"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-944afd6b35e94a5dbe714e420bd490cf" source="id-c86fcc260b82425e8d57f75921c44a2b" target="id-e381bfee56024220b66fde26b06eb3c9"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-b388150392c4454fb9d53ab6edcf07be" source="id-c4550571e7a140859e98fcfb2dd883af" target="id-64437739ca2a490e9eab8b8c02301a30"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-290d05d46e5243d4903a7613caaa2fb7" source="id-2ecc859952964c58a740ea8ef159a8a6" target="id-93c5473027cd4d52a6716d7f65889a31"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-838205e5f2fc41da8c99c6b61c695354" source="id-c86fcc260b82425e8d57f75921c44a2b" target="id-04c19c1bfafe4aee8ce380a62bfc2a94"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-16d073afe0f6423da28128f37484eb0f" source="id-e8b522f0ab94441698ab3413183d1b4c" target="id-abb16fdeaaff4d31b80354fc3c3ef2bb"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-161725c6e8ac417089e8380103377771" source="id-c4550571e7a140859e98fcfb2dd883af" target="id-dac07d5cabce4f169f25c911b6535a22"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-ba753cc4ad2a487e833e88659e8d6062" source="id-c86fcc260b82425e8d57f75921c44a2b" target="id-bdbb64a881f54ce5a1754fa119f89937"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-c256ec227bd748a3b93aed491b9f0c13" source="id-c86fcc260b82425e8d57f75921c44a2b" target="id-29f30c9831f04d6e835ca33500f6b15d"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-6f736299974c47619aa283be430bc0a2" source="id-c86fcc260b82425e8d57f75921c44a2b" target="id-67f718942a1b465bbd509e5c4d6e28f8"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-c462cbc38517445993def0ceabf2af5c" source="id-b83a153d0f3c494f88882e76f5ddc6c4" target="id-a8da77536f81462d9b3a7956ecb27797"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-d8f7341e7c944afe948ab118e537b038" source="id-c4550571e7a140859e98fcfb2dd883af" target="id-0f4ba420f0f043d9b6cd50c818e0d6e8"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-d2627edde7ad4cf4b9ee53e280359436" source="id-e8b522f0ab94441698ab3413183d1b4c" target="id-dc8e2e28024c4ec38a399630ffa155b8"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-d8745597dd7c47d88778cb4b9f53c5b6" source="id-c86fcc260b82425e8d57f75921c44a2b" target="id-947f45bedc224fdf9bb80e8daf460909"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-57a75e77bd3a4bf4840960d4bc58d5a6" source="id-c86fcc260b82425e8d57f75921c44a2b" target="id-ca0cb63c42f34bf59a9635a915a6e915"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-ac3f52bb834846489c85610c5adf5b5a" source="id-e8b522f0ab94441698ab3413183d1b4c" target="id-cc87454e7daf440d84c36cd127cfcbf1"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-6239c89362214739abf0314f25deef16" source="id-c4550571e7a140859e98fcfb2dd883af" target="id-2b92d9eb13c044ca9ecc2f84b581ca51"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-894e03a7d2564a1181b7ca87896c2759" source="id-e8b522f0ab94441698ab3413183d1b4c" target="id-6d2d210cdb3d4ba9b874cb1ef39725c9"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-d19832c3a91644919c9d2236f2c65bde" source="id-c4550571e7a140859e98fcfb2dd883af" target="id-e8a19ae3b7a7494c96cf951f04e5c60b"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-3164075725cc48c5932ad6985f1a56d4" source="id-c86fcc260b82425e8d57f75921c44a2b" target="id-9d2a59e0916f4719b1529c33527644d8"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-d715cd3ca8b84264b974b2a4b4b110a2" source="id-e164a25cfcee430698bbe7d2806841d1" target="id-fc0b7ff097fb4e5587c85bb0d14b9395"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-c1a219068d5644dfab76e519aed3706a" source="id-a5f05b26ba57421889fbaceda4d2318e" target="id-a1932da15d2f41558627cb96f2beffe3"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-8b75015458244a2db034c0977a97c649" source="id-553f00b8555644779b580efb33b295da" target="id-f1b2319cde4d4d14bf0d0b9f72b66de2"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-ba15f241857e44eea44483b25cfae736" source="id-e9493c460da6418b8651c63ba8749c82" target="id-6228f9942066444eaf9da8b0317a03b8"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-66fe66d423e4431eb70d26f6040d9352" source="id-e164a25cfcee430698bbe7d2806841d1" target="id-90cc16d99d4f4e4fb1cde310331b3310"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-63beeae4e8be49b4a8202cce9ddda5ec" source="id-b01fbf954a874700a89c2e41172c06d1" target="id-c5d2a1f7da7d4006aca0bd0c242e1df7"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-49ad3d735c7b4679a89584c4def884de" source="id-553f00b8555644779b580efb33b295da" target="id-435cd1f6bc514c4f9073d4d54a502fa0"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-eb2d0ebb281c44cf95f46db477bf9f2d" source="id-553f00b8555644779b580efb33b295da" target="id-3ba4be7412ac429cb95ef653e936184c"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-6f72e29e75ab4cfb9a2c3abec03dd675" source="id-e164a25cfcee430698bbe7d2806841d1" target="id-89853bc2f54b497395d90d1255ac1e1f"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-53ad72380e124827adb03082da92bbb6" source="id-553f00b8555644779b580efb33b295da" target="id-efff72ae55a1436e96685c62283bc9fd"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-66bbabcd8be445998de7c4898f8ca225" source="id-553f00b8555644779b580efb33b295da" target="id-3c14f927ca1b45dbaabf3a9bb5edcbcc"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-df05291f5a5c489b9e040a3113cf9cf4" source="id-e9493c460da6418b8651c63ba8749c82" target="id-c95fd9b41af4466abc64d13a4c10ca7a"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-b9bec7faa2034082aa2c523b120f9018" source="id-553f00b8555644779b580efb33b295da" target="id-d4eadd3c9e8f49e6886c83322700f68d"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-6ed9e5fce909478d85a46658e6b25281" source="id-553f00b8555644779b580efb33b295da" target="id-5228204047184390961e43b097d6fbf7"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-3839163df9c94407b349f4de692a4cae" source="id-e9493c460da6418b8651c63ba8749c82" target="id-8934662f13c74ac2a71a9b0e96fc4adc"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-b5d13c699cc344fb99e8a6cc70db8785" source="id-553f00b8555644779b580efb33b295da" target="id-c9aa8829ceac4ad8ac3326fc5fc0fb24"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-0140e57226a8484fb10dec0261c25361" source="id-e9493c460da6418b8651c63ba8749c82" target="id-f6acaca57ded4755b3ad67a56643c651"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-30a2b87bbef244e59ae78c7aded2056c" source="id-e164a25cfcee430698bbe7d2806841d1" target="id-e853832a5d4c4893bf2704273c516946"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-631595d26d4c417c92480d2d3c94535d" source="id-e9493c460da6418b8651c63ba8749c82" target="id-d9ccf84a886147d9a23e01c0c7858325"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-b5717ab636784f6ba22cfc0f8a7336da" source="id-e9493c460da6418b8651c63ba8749c82" target="id-3f70f459d07e4f9184e10aa07f71f046"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-53d9d88606c74b7982903c15d2ae5500" source="id-553f00b8555644779b580efb33b295da" target="id-d21ef91680fa4e8e82fcf0813b79e37f"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-916c19b142d24b1ea7ed0e44596cc0ef" source="id-553f00b8555644779b580efb33b295da" target="id-dadda907cb814b7f9ea1f8c354044732"/>
-    <element xsi:type="archimate:AggregationRelationship" id="id-8e7430f1da3442f4bd818641e992645a" source="id-e9493c460da6418b8651c63ba8749c82" target="id-8e74006f185549539e9fee8fc9ed4619"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-4550b3c819c74ec2abe49106d1d1e536" source="id-fb2297e33ab44c0abffec4a9cc19bf4d" target="id-25dcc8de81c94567ac73a6caa8411678"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-99dd8e189d4049e5a42755c94072d029" source="id-fb2297e33ab44c0abffec4a9cc19bf4d" target="id-f00bb1822eda4e41a22eb8fb67ed02f7"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-6889f508c1d443d9b44b51818fb39dba" source="id-fb2297e33ab44c0abffec4a9cc19bf4d" target="id-c32a4171b9714cbeaf87f5b0493437a4"/>
@@ -7400,10 +6611,6 @@ use a standardized approach so that people can scan content quickly and easily w
     <element xsi:type="archimate:CompositionRelationship" id="id-094bd0f911984692be3d58714fcdf632" source="id-a3598e9bb37040de8c27f6f94297bd1a" target="id-654d1914e2d142fa850e357bc2e03636"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-31e3a82dfc0842bda8f5f85741b99693" source="id-a3598e9bb37040de8c27f6f94297bd1a" target="id-f58350936c9246bbbe230a2ad342ba92"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-8ba4f0269a6a42808da91015c0fc9917" source="id-a3598e9bb37040de8c27f6f94297bd1a" target="id-0c08306c5ecd483ca37824356aca95a6"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-11eca6090f08456bb03b896c1aa35cb2" source="id-2dde2944368e4de58f73d40dc26e7293" target="id-f90c588b227d41f18f4dcdfd63cc58bc"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-2de949f4efb042beb42fd0d9f6a8a4fe" source="id-2dde2944368e4de58f73d40dc26e7293" target="id-67481c17664c4a88b99892fe94bf3b97"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-27cda3b92f8c494c9b3e23ef3c925edd" source="id-2dde2944368e4de58f73d40dc26e7293" target="id-3ba1b266644c47d99f9ec3f7def7beaa"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-7eae7dd801d24c96a839be7779d808b4" source="id-2dde2944368e4de58f73d40dc26e7293" target="id-e20452708c20457697bd80c7b691e542"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-ed1bd5dac6af4f43b6fb90026a4d036f" source="id-5aaa791226a94853944c7d8ee525a05c" target="id-6d46d65124144ff6ae09e489751a5a0a"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-3def7789d9a448d58435ce0f5ec6a614" source="id-5aaa791226a94853944c7d8ee525a05c" target="id-f493d127f4a6416d860cb68147ada454"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-225a7c775ed440f081a77f81b0aa236b" source="id-6c1c781b3ddf4c80a63c5908b4daa840" target="id-fcd8d2fa0f4f46ce92d3096e7db56a0e"/>
@@ -7418,14 +6625,8 @@ use a standardized approach so that people can scan content quickly and easily w
     <element xsi:type="archimate:CompositionRelationship" id="id-7be73ac689ff4e68bcf8f2591dfa6883" source="id-35a4a9e6e2c24963bb5ccec767011f01" target="id-50ed4ed925524ff7a63e432e28b29878"/>
     <element xsi:type="archimate:AccessRelationship" id="id-573653475d144d4eaddf4ce7fdba9b6b" source="id-35a4a9e6e2c24963bb5ccec767011f01" target="id-9975d4fadcf14f3dbd20b9619a6011b7"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-7e1ea65f144a42ad8b3fdc4b8bb7ff3d" source="id-35a4a9e6e2c24963bb5ccec767011f01" target="id-5fd5253ead8f4685b861ddeede3229a3"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-a795bf9e200142dfa9086460bfea1e34" source="id-2831a4378c67451595e03637c23eb8e3" target="id-cb361de3cc1845459fab6f26486a133a"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-808f6fd1cf554146a52610cf4dc91f62" source="id-2831a4378c67451595e03637c23eb8e3" target="id-29e0b0ab25f346f3b5e4b62d536bd617"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-f7269c55574c4551bdeacedf4d4052f2" source="id-b26e3dd2c82a44dda1a3b1b52086e540" target="id-48fb075799d84b12bff20415c448f5cb"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-ea16d61de8c145149800d7b9c757c989" source="id-30561fc50b7f4cc78414dc8a913b22f9" target="id-c914d37d7fe349c3bc3e5af7a78b363f"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-f176a578a9ba45e09f19e32ba52cf789" source="id-30561fc50b7f4cc78414dc8a913b22f9" target="id-5836faca63c948c599d48f628dccc917"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-317bf319b2844fdfa84dd4021cb52f8e" source="id-30561fc50b7f4cc78414dc8a913b22f9" target="id-ff9d47f01a7d44e59b84f461ebdc223f"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-04a5302c3e16412d947d7a8e6b42f450" source="id-30561fc50b7f4cc78414dc8a913b22f9" target="id-26bb5e70f60042268024245e2b52a839"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-4a2b6a01ee45467c95751bf617fc8dbf" source="id-30561fc50b7f4cc78414dc8a913b22f9" target="id-db5010a870e14f3da8127c18c48515d2"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-ad8d6a5c90b4475e877989ff3f2c1def" source="id-6c1c781b3ddf4c80a63c5908b4daa840" target="id-20f4bd55c4404f9d9af586efa23f2288"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-4f63159b337d4d6c806df19a9c1bcce9" source="id-5f8020ff787641afbfe2c99260e398da" target="id-35a4a9e6e2c24963bb5ccec767011f01"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-32938daa75004520856e8ff4d1cf8b16" source="id-5f8020ff787641afbfe2c99260e398da" target="id-b26e3dd2c82a44dda1a3b1b52086e540"/>
@@ -7437,22 +6638,16 @@ use a standardized approach so that people can scan content quickly and easily w
     <element xsi:type="archimate:TriggeringRelationship" id="id-537c1e225f95446c991df90214001c5a" source="id-5201ddadbbe647e19d71e277a85595db" target="id-6e68db27827d49adbd39545744163542"/>
     <element xsi:type="archimate:TriggeringRelationship" id="id-69c694c16a084f9ab4178fe6bd8c2291" source="id-6e68db27827d49adbd39545744163542" target="id-617d5d7d7b48422cb0609702ecdc0107"/>
     <element xsi:type="archimate:ServingRelationship" id="id-25dd3c0bd3be48fd9a9038f3655f32d9" source="id-35a4a9e6e2c24963bb5ccec767011f01" target="id-6e68db27827d49adbd39545744163542"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-80d69f277820418f95b01bc61f4019ea" source="id-b26e3dd2c82a44dda1a3b1b52086e540" target="id-30561fc50b7f4cc78414dc8a913b22f9"/>
     <element xsi:type="archimate:ServingRelationship" id="id-e982e537d05841baaeedd27308eeb01a" source="id-b26e3dd2c82a44dda1a3b1b52086e540" target="id-6e68db27827d49adbd39545744163542"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-d8598d470aa74e928c1d775b753aaebb" source="id-418d90a065974ffbb66b363a3280cbff" target="id-b26e3dd2c82a44dda1a3b1b52086e540"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-815d04f42070468a8b2f26e2e590cfe3" source="id-984d3cb278444e5ebebf6f4b1ec48e4f" target="id-35a4a9e6e2c24963bb5ccec767011f01"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-9675adf964d24f85b012585965e9a7c2" source="id-984d3cb278444e5ebebf6f4b1ec48e4f" target="id-b26e3dd2c82a44dda1a3b1b52086e540"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-3a8cf68447964642b7a8c8eeeecf08f7" source="id-984d3cb278444e5ebebf6f4b1ec48e4f" target="id-160160e6934742d0a50082734d4559cc"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-d65b64b36258404b9d3e1f52f64083a2" source="id-0160e3af4872421d961ef3a673e0f843" target="id-160160e6934742d0a50082734d4559cc"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-9cde4ff373a4420f9edfb76dd65e5abf" source="id-0afb290105bb47978ea342b422b793be" target="id-f72ee88178a74332b40d3a6b8ac5c325"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-338d9115c7ee4120978e0aeb8da216d9" source="id-0afb290105bb47978ea342b422b793be" target="id-b614a53672b94fcaadf981e06f727f85"/>
     <element xsi:type="archimate:AssociationRelationship" name="Issues Collaboration" id="id-edf6940caf9d414aaf5bac3a70398116" source="id-6ba368f7bc8348df8581f2d25491c872" target="id-5f8020ff787641afbfe2c99260e398da"/>
     <element xsi:type="archimate:FlowRelationship" name="Submit" id="id-f457867a0f8f4afa8a0566318a53ffe3" source="id-912ef70a4e054c168830673403169bc3" target="id-35a4a9e6e2c24963bb5ccec767011f01"/>
     <element xsi:type="archimate:ServingRelationship" name="Manage" id="id-e149132ecaee434aa13bbcb0edd6cb8f" source="id-35a4a9e6e2c24963bb5ccec767011f01" target="id-5201ddadbbe647e19d71e277a85595db"/>
     <element xsi:type="archimate:RealizationRelationship" id="id-1bac73c8baae4a53a2f07233c5ad277d" source="id-d9689b2f61ed4493951c37c76b7e42cb" target="id-160160e6934742d0a50082734d4559cc"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-77f8564a0f3e4db4baa77b0eeef50f0d" source="id-cb361de3cc1845459fab6f26486a133a" target="id-35a4a9e6e2c24963bb5ccec767011f01"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-8a4f368116284700ac9209b41d8d59b6" source="id-cb361de3cc1845459fab6f26486a133a" target="id-5fd5253ead8f4685b861ddeede3229a3"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-418a65d66e6a470289b373018bc84691" source="id-cb361de3cc1845459fab6f26486a133a" target="id-b26e3dd2c82a44dda1a3b1b52086e540"/>
     <element xsi:type="archimate:TriggeringRelationship" id="id-d8b5125742ed471e9cd2b7b6999ce599" source="id-617d5d7d7b48422cb0609702ecdc0107" target="id-276c02d358f04e38aa8520774b5366ef"/>
     <element xsi:type="archimate:TriggeringRelationship" id="id-654f284e44bb4db7aa59165fcbb26591" source="id-d5911e8cf5664fabaec77854bc80ca12" target="id-5201ddadbbe647e19d71e277a85595db"/>
     <element xsi:type="archimate:TriggeringRelationship" id="id-c99692028fdb4cc19003e0ebef6f3ad5" source="id-1b24c2cd6eec43e3b6f5797473f2d88d" target="id-bdfd52c7f0914587abfd6587209094e2"/>
@@ -7486,65 +6681,16 @@ use a standardized approach so that people can scan content quickly and easily w
     <element xsi:type="archimate:AssociationRelationship" id="id-da675e1f539740b091f7303e5a9e7add" source="id-231ac503f6dc4110a0bb998850a54b18" target="id-3e5cf47c31d149ada3f23e88d9ea421c"/>
     <element xsi:type="archimate:AccessRelationship" id="id-77d5438b655a4b10876b23f8de9ce525" source="id-190795d1a0914181987b6ab57feca2a2" target="id-3e5cf47c31d149ada3f23e88d9ea421c"/>
     <element xsi:type="archimate:FlowRelationship" id="id-13b50e4597894c0bbf98c8e66010e1ca" source="id-ec7a98232e104370917231d29203eeeb" target="id-190795d1a0914181987b6ab57feca2a2"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-92f85ad845a3455ba4aa5878612c3dce" source="id-60e7f964cc73498bb0ad5f62fe849fa0" target="id-45e6f876a4814b98861470d4e3acb083"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-e29bd1d95d9b483b8b1ca558a07affcd" source="id-6336f9efb65943e0af81f0188abeb167" target="id-45e6f876a4814b98861470d4e3acb083"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-b23f11bd83fc4c4f8620a7ce2a85b01e" source="id-0f4b8d2060614db0ab617d8d63f3e367" target="id-ca67fc2c2f0d4d3d95f0e14c2f007530"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-d2b026816cdc4e77949fbaec5b36dca2" source="id-0f4b8d2060614db0ab617d8d63f3e367" target="id-b79362e25f3942de969d5d6fd441db15"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-0a85cca39af443aea4b185ad41911f9b" source="id-0f4b8d2060614db0ab617d8d63f3e367" target="id-d35c99a620984a4985c2f9b34b08d310"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-16d306003a844f4cb70fa1dc9377b91a" source="id-b178abb47e2245c5ad11c7469b6d9786" target="id-c9edfb98e53e4cccaac8c34463820e22"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-bc27e2df9aad40e3a0b457e789bfe28e" source="id-b178abb47e2245c5ad11c7469b6d9786" target="id-2bfd8b63f65d483daae9038ee4e398fc"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-63e8e64e814c4a54a1b80d3fb52a984a" source="id-b178abb47e2245c5ad11c7469b6d9786" target="id-e6dba24ca71b494d927dbd5b6d673a7e"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-ba6b15a0b60d4ee1965ccdede6c49745" source="id-b178abb47e2245c5ad11c7469b6d9786" target="id-55471edfeb064cd59c4ce70d87f4c83d"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-b3f1dc15d1cd4d5aa5b72f8f247613f4" source="id-b178abb47e2245c5ad11c7469b6d9786" target="id-a05c4e17fdf34251b5c94cacedf989f3"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-28516722d3ba44fb9faadb903ed5cf0a" source="id-6fea45944aa4411c8079d59bf542ad2c" target="id-800e954d1f8443d69efdedf0bf083f3b"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-399c31f5ae044b578bf9caf8cf1305d9" source="id-6fea45944aa4411c8079d59bf542ad2c" target="id-b960402235cb49d783515e2026096379"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-b9a3768e42cc4327afec5a70084d2735" source="id-6fea45944aa4411c8079d59bf542ad2c" target="id-87ab07ee13604a2e9e0c43badb4f301f"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-2bfa6cf17e6c439bb734ce8b9cf67994" source="id-375608ad534448eeb853f177a86762a3" target="id-6fea45944aa4411c8079d59bf542ad2c"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-0ed45d9958a0400f92d041692bc3b0a9" source="id-375608ad534448eeb853f177a86762a3" target="id-800e954d1f8443d69efdedf0bf083f3b"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-a56fe208500648d88b6268272474baab" source="id-375608ad534448eeb853f177a86762a3" target="id-b960402235cb49d783515e2026096379"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-874defdd45fb422f97241e18b615b72b" source="id-375608ad534448eeb853f177a86762a3" target="id-87ab07ee13604a2e9e0c43badb4f301f"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-de43166dea62472887cc7637da0550d0" source="id-9049b81c25984f598429a87e5d750255" target="id-fe9cdd5ae5734289a7600f951e9e1549"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-a8aced5e75564d389a0cf7b562eecc4e" source="id-9049b81c25984f598429a87e5d750255" target="id-7021c08016fb4e249aa7dc74396e4f03"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-638c03639a7e444cbe777757c05c808a" source="id-9049b81c25984f598429a87e5d750255" target="id-79ef45b9340d40cfbaeef019965cd215"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-37370b1d74344a1eb5dca8de44225a43" source="id-9049b81c25984f598429a87e5d750255" target="id-ff4c6f2dfd394e50b1d409a0d7efd114"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-e79b7505e40943df8a4e56e85ade4400" source="id-9049b81c25984f598429a87e5d750255" target="id-fed97190c92343ff873493adfe27dd5d"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-da075dc2385d4984bf9322381af75181" source="id-9049b81c25984f598429a87e5d750255" target="id-86decbb8168d4950b3df456f6c0b1276"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-f7c9009813814b678a279b97356516bd" source="id-9049b81c25984f598429a87e5d750255" target="id-d08e7cef2adb4effba138fbde345d9ca"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-51806968d4564848a9446ccdd296a482" source="id-9049b81c25984f598429a87e5d750255" target="id-1ff4beeafbfb4b7f877c77cfcf387f54"/>
     <element xsi:type="archimate:ServingRelationship" id="id-b8ebe04712e4400e9f0c017135748948" source="id-ee8df05b59424fc7a5daa66a11dfffff" target="id-1cd967aa2c1f43cf840c943b73aae284"/>
     <element xsi:type="archimate:ServingRelationship" id="id-e835c933de9a4f1995724484c711cc31" source="id-f6fe72fb11a542caaf37351941b04485" target="id-4ca69fd33773402bac6e988dd7ce9664"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-b6d23369dff74e5e92bf8a420a0bbab6" source="id-bad1ff99700b47fbbd4f753299c166d7" target="id-f3e2bf85f5614cd9ae6957e6f80034fc"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-1f20cd42df284bd39237f18a0f7f15dd" source="id-bad1ff99700b47fbbd4f753299c166d7" target="id-44a7962a22704760b643bd824f446bf6"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-489093b976094a24bcd5004ad55279ce" source="id-bad1ff99700b47fbbd4f753299c166d7" target="id-442f17956b324eb1b65b08f6c1445e08"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-36225d9b360c438c8d8f5cb7a6e47c19" source="id-82a324b70ff54fedbb01e77143671f33" target="id-2a5f3b5080e3413084b0f44f3c3d24a4"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-bf4d141249e44d75aab1f38828ef2c7c" source="id-82a324b70ff54fedbb01e77143671f33" target="id-a566be4cfa3e4e1d968b72c83e2e4be5"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-9e8609822cfb4e429682927e67556497" source="id-82a324b70ff54fedbb01e77143671f33" target="id-bad1ff99700b47fbbd4f753299c166d7"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-756500b57f51437cbef2c0cfd60f20be" source="id-dfd82da792ca4e88875102bd04440f7a" target="id-6ac2be84006e4f6db57a951920d78c55"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-6ee8ee0892eb443e894bbbeb5614c4ec" source="id-dfd82da792ca4e88875102bd04440f7a" target="id-2ea365482a14425ca7c537b40e0ab07f"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-432b0eeb32a54f00abab024149c8eab6" source="id-dfd82da792ca4e88875102bd04440f7a" target="id-c55ae103ed2549e689cbf0688e0f42b4"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-30782e09b4394fc5af6e38bf14122183" source="id-dfd82da792ca4e88875102bd04440f7a" target="id-3c1d2edf88b5451781b503f40369379e"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-a8685bae3ffd4868b9afaa68340e8d71" source="id-da5457a5d0554c3dbc894eadfec02053" target="id-5225082aca0542a2bbb47e9e041f1066"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-3bb3efbdce9b4c37b8ac34ae1c9ec56a" source="id-da5457a5d0554c3dbc894eadfec02053" target="id-830ff443a7f74f9dbbdf93df4c259f0f"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-50f1a435ee314230b16305e92e68f7c1" source="id-da5457a5d0554c3dbc894eadfec02053" target="id-968e2da7c6804190b140fceb5905095a"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-32b5c5c467a041d7871cb6ca88272f13" source="id-da5457a5d0554c3dbc894eadfec02053" target="id-b6e2de4adb4146ec8ce3cc10b8d42ba2"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-40bff9c258754d1db9db2d6155b1b00d" source="id-da5457a5d0554c3dbc894eadfec02053" target="id-1137d8f5a7b0465594a950d91ba723e6"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-cbc42425d5b84b8a8392b49e59cf78d7" source="id-da5457a5d0554c3dbc894eadfec02053" target="id-ee29439ef2e449319268f723b6e48e0d"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-50ab8ea80d4543a69bbbc137f2b97cbd" source="id-da5457a5d0554c3dbc894eadfec02053" target="id-42011e924f0a422b8bbc5b283912e851"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-1af04fd803434969813b570038a89e9d" source="id-da5457a5d0554c3dbc894eadfec02053" target="id-1039affff1c74252ac89184e2894a6c2"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-e54bf20b2140421d8cd37c412559808b" source="id-b7929cee47624772bf77106622465efc" target="id-15ce262139a04a1886030bd9baeee685"/>
     <element xsi:type="archimate:AssignmentRelationship" id="id-50db68e2db7648cc87781d0a68af70b3" source="id-b024c0979fd14a2f9eeea4832d79b6c4" target="id-052be2ea8efc439e8a84681d2bccf7c1"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-e3f466ded58c4589b80f5d3e87193f8e" source="id-a5b53a04f6f24e7f920c97c45dd03189" target="id-276c531d7bab4c5085822074cd8b2b0b"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-dc6c4b93a9c34219b411ab8fb77ec0f9" source="id-a5b53a04f6f24e7f920c97c45dd03189" target="id-679c08fc3b86432e9fb2bf382d4e55fc"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-4348140c9f984ac496a219891bd95206" source="id-a5b53a04f6f24e7f920c97c45dd03189" target="id-16b84c9badfe458ab626097ddd676971"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-eb6e55dafad0420899340ba02fbd0cd7" source="id-a5b53a04f6f24e7f920c97c45dd03189" target="id-bb2944e6bba94c52a219bff7056cbb6f"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-825cdb861adf442b8d6dcdebf13ce03a" source="id-a5b53a04f6f24e7f920c97c45dd03189" target="id-e0aa7f26ed6c4de0ac686721d7379f85"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-9c40218f559642568d36db06423bc6e6" source="id-a5b53a04f6f24e7f920c97c45dd03189" target="id-cd48a4ba8ccc4f29a84d553168b241d8"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-a3a5b90cb778458585bc6c58a775f6af" source="id-a5b53a04f6f24e7f920c97c45dd03189" target="id-2e3c558dea1b4d4b823de4ccef264db6"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-aac26b78987f47239802c964e919a118" source="id-a5b53a04f6f24e7f920c97c45dd03189" target="id-697deddfa1194268928d5adc6136a041"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-78743ce27ec4425496be3e28aab68921" source="id-e34b42575dcf462caf25f930314fcc81" target="id-10ed4eedda614ffb8b4c424e701610f5"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-6ecb21c0fffb4921bceec8d69a876490" source="id-e34b42575dcf462caf25f930314fcc81" target="id-ef02fcd148d3461e826bc14c68aab77c"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-b3ca1f27128e49659cef0b0c1265c634" source="id-e34b42575dcf462caf25f930314fcc81" target="id-ae1fdcf1c6d14f29a1ad56e8b58afedf"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-123269f47b4d4f29b76a9c653825e995" source="id-e34b42575dcf462caf25f930314fcc81" target="id-45013186afde43ee9655ce96bf523d78"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-d969f27b6e5443eca0ac7d92fe090458" source="id-07536104666a47948dc7e9c094a9d2e1" target="id-0d9cd44248584c8884ae3e1a02045014"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-067e5382b4c145589739f92c72203054" source="id-07536104666a47948dc7e9c094a9d2e1" target="id-9f2dcfd2358246628f539857e4ca6f2a"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-db238176e011463daf3ab38ad86ef45b" source="id-07536104666a47948dc7e9c094a9d2e1" target="id-f9f23fad535845cdba2e2349f97b7a66"/>
@@ -7932,6 +7078,41 @@ use a standardized approach so that people can scan content quickly and easily w
     <element xsi:type="archimate:AssociationRelationship" id="id-d4fe74a88f5c4b19bfdc4c066d7f0629" source="id-9328a5358d0c4d0884bba9121d469697" target="id-89ae8aeead1d41089b9d41ac7303676b"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-2a57a60d83464b29a9caa29c2a6c4acd" source="id-856c16f1154f4e8e979aa35c09524269" target="id-57e4b8c287774cf0b6bb53f3a68ce3b5"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-dfbcd8979cd342e780f71def35712ac2" source="id-68d1f5d48a9b4a8880e436f674433579" target="id-f173e15472d244da80c2f3d0fbc3b6a7"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-17344db7db244736930b7abf46eb66d2" source="id-499f8162c5254d299620a4cb34f2ed06" target="id-ceb674de8a9940208adcb9ce48da442a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-0ea5149181934690b1b5eb26805ba900" source="id-499f8162c5254d299620a4cb34f2ed06" target="id-7a055a5ddf4f4fcfac3f31515d92b745"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d8789da6c2db4112a63370aa6e4cd01f" source="id-499f8162c5254d299620a4cb34f2ed06" target="id-10df1aa3588941beb691e82035d3cc6a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-58b95ed20d0648319ecb188d8ccc04ed" source="id-45c83a5f684542a88a1cab279641fc76" target="id-448d2bb5ab44448cb99dbfcb37fa16ef"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-23d8f45265a54c04a37118a7081089a4" source="id-45c83a5f684542a88a1cab279641fc76" target="id-65fdf29bb9ee456c8f2519c0eec2c3b2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d5b7a5fb7da049daa730fe61e90211d0" source="id-45c83a5f684542a88a1cab279641fc76" target="id-d841bb0e9df54bc9a87dddf5048e1e20"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d682532c336b48909c3523b2de11f2f6" source="id-45c83a5f684542a88a1cab279641fc76" target="id-5ae031cae79f438d9c6b70d19f58f7ee"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-fb54943a350c4cd6917a62b3b7afebd5" source="id-34c7596517064ed3bc957f09803b2ce2" target="id-f23ac9a0dcba491da9c0add1eef6d314"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-bb5811a9dbdb4bcf99e5cd1646e569a7" source="id-34c7596517064ed3bc957f09803b2ce2" target="id-d05077dd58cc4a239a93c2a486436383"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4d74bc0ca8a44ae089700d75ca798c90" source="id-34c7596517064ed3bc957f09803b2ce2" target="id-cd345997a34643a1aef0b80102fbe828"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c3ac9d4f195640d8a0a441214f1a4b7e" source="id-6a92bc6affb24b368cba4af8faa25501" target="id-93e95b6834a14a3aaa2ffd1412a12466"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7a26649202324386bac3e35591568e80" source="id-6a92bc6affb24b368cba4af8faa25501" target="id-fe841581f5c44125a2ef8af27019d9e8"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-061618bb1efb46e79341b73292f4a921" source="id-6a92bc6affb24b368cba4af8faa25501" target="id-94eceeee878343fe8e838ca4741129d4"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-dc970a18f4ff40fcacc025e1a262517d" source="id-6a92bc6affb24b368cba4af8faa25501" target="id-a0994bdb5d394d0981293465bfed9159"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ae98d8987a5a4ec1983ff7f56af8e8dc" source="id-2d3660a7d1ac4677850ef77c26f0c219" target="id-49d7c772973e4407a9f4ec690772cd36"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6ebb973f7a4146bda320f318bda888c1" source="id-2d3660a7d1ac4677850ef77c26f0c219" target="id-7cf5fe305308442d864cc943abfe7dcf"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-0c939c78d0f54158ba1b71a3642bcd7a" source="id-2d3660a7d1ac4677850ef77c26f0c219" target="id-2b9224abbd0f44e4af067dd6dd9369e1"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-44955bb98e1a4ce1b7a895c4ec3a71e7" source="id-2d3660a7d1ac4677850ef77c26f0c219" target="id-01d5df2973e64e03b75d33a33f4f803a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-1fffd725cf7048f7b99f8da664a2d350" source="id-357715a1da774027b660fe72de3def92" target="id-75da60224c494f42bad72e22a6a09fb7"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-0b34939751cc476bb32913a014e8ff16" source="id-357715a1da774027b660fe72de3def92" target="id-b28bccb1f3094a3f8689a2a3f104de5b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a618056485f74084a6246da11524ebb8" source="id-357715a1da774027b660fe72de3def92" target="id-6c8f91e4144748d7a638cbe54d2e602d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a4db00de74f946bcb5fcf32b3fad7e4c" source="id-357715a1da774027b660fe72de3def92" target="id-0cb68dced0a54b3ab18923786a8d42af"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-84817c439b39400399299c31e0fd4d81" source="id-357715a1da774027b660fe72de3def92" target="id-cccf3c68c6ec49b9bca7c310276f21db"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4457f97c929f4c079cf23d0391a4ee68" source="id-20434072e36b4da5bee7c3da9541ffc0" target="id-552eed8b907d4240af40db6d9f2ca16e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-287c670c730a4bd3aa2a25857b2df582" source="id-20434072e36b4da5bee7c3da9541ffc0" target="id-97d1799442b6404b8bb7f80c4e4d4b7d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-15850a3548ed485784dc41f79bc2e570" source="id-20434072e36b4da5bee7c3da9541ffc0" target="id-e514914ee5fc4c80b31e28675c4a40b4"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ae3822c29f254964849a42f608bf3cf5" source="id-609aecd90730498caecbce30bab98fa8" target="id-ae5f7c1ff5fe4f92a5d58ddf18d2ced5"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-bc6440e0de2640dba5338c5a41b0f0aa" source="id-609aecd90730498caecbce30bab98fa8" target="id-443ec937212746ccaf1b1a0a6d01ebf7"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b5453272a7a54c2aa5f93b3c2881fc42" source="id-609aecd90730498caecbce30bab98fa8" target="id-584f75f4c7f9432e85bb4ab909945dda"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-f673734a1d7e4a61a5726277f49970a9" source="id-c5dea42b9c9f48f792ec8fb067f80782" target="id-0dc791239dd4436ebe644d4652f6092a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-9985fcac913b45a6930edd0282628273" source="id-c5dea42b9c9f48f792ec8fb067f80782" target="id-49fedb1039534864a2c9ecf9838ac8c3"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3948b7880dc64841b4f1a795e5613732" source="id-c5dea42b9c9f48f792ec8fb067f80782" target="id-30d38e24c1844e8aaece0dbc3355b837"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c9dcad55a0b34e03a7e9f37687829f15" source="id-244280d34696459485d13359c9208d41" target="id-3206c0294c7e41b89b47e113856d702a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-0db997a3758742fe9c5c7a1b44a36fa9" source="id-244280d34696459485d13359c9208d41" target="id-b7114f3de2cd40d89b0cb311c138104c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d3f6c7170a70454f91137df0f8a0f02b" source="id-244280d34696459485d13359c9208d41" target="id-4657529a1c9a4d73b6dde8e9a07ad617"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -12705,6 +11886,204 @@ ESDC Impacts &amp; Opportunities</content>
 · Use bulleted lists</content>
         </child>
         <documentation>https://iservice.prv/eng/finance/disclosure/plain_language.shtml</documentation>
+      </element>
+    </folder>
+    <folder name="GC Budget" id="id-27a91e8eef9940ef8769295215c1343f">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="GC BUDGET 2024" id="id-20a5282c0a894b72a612d8c4ec711411">
+        <child xsi:type="archimate:Note" id="id-eeb7564feaa749f0a18dee181acf5531" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
+          <bounds x="7" y="8" width="450" height="62"/>
+          <content>Canada: Budget 2024 (High Level)&#xD;
+Fairness for every generation</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-0b2478be50e440c397c7507c1e889b59" font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#ffffff">
+          <bounds x="288" y="42" width="169" height="28"/>
+          <content>Version: 0.1.20240416</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-cff10db90981410cb5ff9d6d953c8a1a" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fillColor="#ff0000" textPosition="1">
+          <bounds x="468" y="14" width="169" height="49"/>
+          <content>DRAFT</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-6d1b1bb5d59c40799e3ef9ddac8d0e64" archimateElement="id-499f8162c5254d299620a4cb34f2ed06">
+          <bounds x="8" y="84" width="191" height="265"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-22ce1c80cc4c4728bf249d78cb8ff6c9" source="id-6d1b1bb5d59c40799e3ef9ddac8d0e64" target="id-b2fea752ed844ec6a11c2528de5ffe66" archimateRelationship="id-17344db7db244736930b7abf46eb66d2"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3b64b8ad9785458991827d912c2bec3d" source="id-6d1b1bb5d59c40799e3ef9ddac8d0e64" target="id-c5a5f312522d4c6da3e9ef4d32f9097e" archimateRelationship="id-0ea5149181934690b1b5eb26805ba900"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-42b83ca1a52c4e12a833f50a8f63f4b9" source="id-6d1b1bb5d59c40799e3ef9ddac8d0e64" target="id-95be4c17e01f40d499e460f029483c36" archimateRelationship="id-d8789da6c2db4112a63370aa6e4cd01f"/>
+          <child xsi:type="archimate:DiagramObject" id="id-b2fea752ed844ec6a11c2528de5ffe66" targetConnections="id-22ce1c80cc4c4728bf249d78cb8ff6c9" archimateElement="id-ceb674de8a9940208adcb9ce48da442a">
+            <bounds x="12" y="120" width="167" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-c5a5f312522d4c6da3e9ef4d32f9097e" targetConnections="id-3b64b8ad9785458991827d912c2bec3d" archimateElement="id-7a055a5ddf4f4fcfac3f31515d92b745">
+            <bounds x="12" y="62" width="167" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-95be4c17e01f40d499e460f029483c36" targetConnections="id-42b83ca1a52c4e12a833f50a8f63f4b9" archimateElement="id-10df1aa3588941beb691e82035d3cc6a">
+            <bounds x="12" y="181" width="167" height="73"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-bb0a9d36b4e94ecb99f2a77d486ad1e6" archimateElement="id-45c83a5f684542a88a1cab279641fc76">
+          <bounds x="215" y="84" width="191" height="293"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-024dd73fff9b425e9e729dc4a06ccc16" source="id-bb0a9d36b4e94ecb99f2a77d486ad1e6" target="id-e54a34aacbbc4e24ab1be2b734587c7f" archimateRelationship="id-58b95ed20d0648319ecb188d8ccc04ed"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-397674ef29e94c25a85fc9a3c0d05ad5" source="id-bb0a9d36b4e94ecb99f2a77d486ad1e6" target="id-80e72962c9724272afb8aa9559d9f8ce" archimateRelationship="id-23d8f45265a54c04a37118a7081089a4"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d8528a64d4e84b7e96032317ad40e12a" source="id-bb0a9d36b4e94ecb99f2a77d486ad1e6" target="id-cd18147aa8fb469c8e725036448f116d" archimateRelationship="id-d5b7a5fb7da049daa730fe61e90211d0"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e5a4f244fded4f5ebf36130cc6bbf24a" source="id-bb0a9d36b4e94ecb99f2a77d486ad1e6" target="id-55f934a213224b7bb82756330eda678d" archimateRelationship="id-d682532c336b48909c3523b2de11f2f6"/>
+          <child xsi:type="archimate:DiagramObject" id="id-e54a34aacbbc4e24ab1be2b734587c7f" targetConnections="id-024dd73fff9b425e9e729dc4a06ccc16" archimateElement="id-448d2bb5ab44448cb99dbfcb37fa16ef">
+            <bounds x="12" y="228" width="167" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-80e72962c9724272afb8aa9559d9f8ce" targetConnections="id-397674ef29e94c25a85fc9a3c0d05ad5" archimateElement="id-65fdf29bb9ee456c8f2519c0eec2c3b2">
+            <bounds x="12" y="105" width="167" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-cd18147aa8fb469c8e725036448f116d" targetConnections="id-d8528a64d4e84b7e96032317ad40e12a" archimateElement="id-d841bb0e9df54bc9a87dddf5048e1e20">
+            <bounds x="12" y="168" width="167" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-55f934a213224b7bb82756330eda678d" targetConnections="id-e5a4f244fded4f5ebf36130cc6bbf24a" archimateElement="id-5ae031cae79f438d9c6b70d19f58f7ee">
+            <bounds x="12" y="48" width="167" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-e03c28b2428d48a8a783f09e5d70e61a" archimateElement="id-34c7596517064ed3bc957f09803b2ce2">
+          <bounds x="419" y="84" width="191" height="253"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f745e9ebddb74a66ac4c3d9ecf45c593" source="id-e03c28b2428d48a8a783f09e5d70e61a" target="id-baabb0cb30394035b569adb6a0c489f2" archimateRelationship="id-fb54943a350c4cd6917a62b3b7afebd5"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b924569cc792423cb2b8093dfe76d823" source="id-e03c28b2428d48a8a783f09e5d70e61a" target="id-e4b3d2d2a3974082adb39d51f5ae76fa" archimateRelationship="id-bb5811a9dbdb4bcf99e5cd1646e569a7"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-82d7d6f48c114a6f9101ef1f0de43263" source="id-e03c28b2428d48a8a783f09e5d70e61a" target="id-ad9c4919353b45fcb73f43de6d6cbc38" archimateRelationship="id-4d74bc0ca8a44ae089700d75ca798c90"/>
+          <child xsi:type="archimate:DiagramObject" id="id-baabb0cb30394035b569adb6a0c489f2" targetConnections="id-f745e9ebddb74a66ac4c3d9ecf45c593" archimateElement="id-f23ac9a0dcba491da9c0add1eef6d314">
+            <bounds x="12" y="119" width="167" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e4b3d2d2a3974082adb39d51f5ae76fa" targetConnections="id-b924569cc792423cb2b8093dfe76d823" archimateElement="id-d05077dd58cc4a239a93c2a486436383">
+            <bounds x="12" y="180" width="167" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ad9c4919353b45fcb73f43de6d6cbc38" targetConnections="id-82d7d6f48c114a6f9101ef1f0de43263" archimateElement="id-cd345997a34643a1aef0b80102fbe828">
+            <bounds x="12" y="60" width="167" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-441cda0808ae4f22acd7885474c415ed" archimateElement="id-6a92bc6affb24b368cba4af8faa25501">
+          <bounds x="623" y="84" width="191" height="318"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ff1d270d72524b0b90e77720bdd8491b" source="id-441cda0808ae4f22acd7885474c415ed" target="id-4ecbf47456e14ecd834fe06446c91bdb" archimateRelationship="id-c3ac9d4f195640d8a0a441214f1a4b7e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3838610557934e93ab664eb9c1fd4a7e" source="id-441cda0808ae4f22acd7885474c415ed" target="id-fcd644fad4f048b69fef4a0f0f522391" archimateRelationship="id-7a26649202324386bac3e35591568e80"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5535aae0675b4a5b82681d443c5ff4d5" source="id-441cda0808ae4f22acd7885474c415ed" target="id-294f80ba268d4abc8c3200e6d6fe1606" archimateRelationship="id-061618bb1efb46e79341b73292f4a921"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-18e4fa1f8bd946ca92c8c626f0ab4eb6" source="id-441cda0808ae4f22acd7885474c415ed" target="id-5eadd819861b42278c4ee4ae4ea3acb0" archimateRelationship="id-dc970a18f4ff40fcacc025e1a262517d"/>
+          <child xsi:type="archimate:DiagramObject" id="id-4ecbf47456e14ecd834fe06446c91bdb" targetConnections="id-ff1d270d72524b0b90e77720bdd8491b" archimateElement="id-93e95b6834a14a3aaa2ffd1412a12466">
+            <bounds x="8" y="253" width="176" height="56"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-fcd644fad4f048b69fef4a0f0f522391" targetConnections="id-3838610557934e93ab664eb9c1fd4a7e" archimateElement="id-fe841581f5c44125a2ef8af27019d9e8">
+            <bounds x="8" y="61" width="176" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-294f80ba268d4abc8c3200e6d6fe1606" targetConnections="id-5535aae0675b4a5b82681d443c5ff4d5" archimateElement="id-94eceeee878343fe8e838ca4741129d4">
+            <bounds x="8" y="120" width="176" height="70"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5eadd819861b42278c4ee4ae4ea3acb0" targetConnections="id-18e4fa1f8bd946ca92c8c626f0ab4eb6" archimateElement="id-a0994bdb5d394d0981293465bfed9159">
+            <bounds x="10" y="194" width="176" height="56"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-addccaf925bf4959bd4e826188f062eb" archimateElement="id-2d3660a7d1ac4677850ef77c26f0c219">
+          <bounds x="828" y="84" width="191" height="288"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-41b821478be14ad8bc29ffd2bf42d944" source="id-addccaf925bf4959bd4e826188f062eb" target="id-22d765b9a74849c798eea28d6ec8ece6" archimateRelationship="id-ae98d8987a5a4ec1983ff7f56af8e8dc"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-807b41e525b74d52a9d7e532b8fc9cb2" source="id-addccaf925bf4959bd4e826188f062eb" target="id-ef6eb4b9652c4a4986ba5c8a787e92b7" archimateRelationship="id-6ebb973f7a4146bda320f318bda888c1"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-eac69e1de6e748a79b6da4dcb28042c3" source="id-addccaf925bf4959bd4e826188f062eb" target="id-4a3cc75d1f9b403c9045db7b9f7be423" archimateRelationship="id-0c939c78d0f54158ba1b71a3642bcd7a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cb0e41961e1040d09662f41409516347" source="id-addccaf925bf4959bd4e826188f062eb" target="id-7ef185eb907f4f50bde1ef642be79593" archimateRelationship="id-44955bb98e1a4ce1b7a895c4ec3a71e7"/>
+          <child xsi:type="archimate:DiagramObject" id="id-22d765b9a74849c798eea28d6ec8ece6" targetConnections="id-41b821478be14ad8bc29ffd2bf42d944" archimateElement="id-49d7c772973e4407a9f4ec690772cd36">
+            <bounds x="8" y="177" width="173" height="41"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ef6eb4b9652c4a4986ba5c8a787e92b7" targetConnections="id-807b41e525b74d52a9d7e532b8fc9cb2" archimateElement="id-7cf5fe305308442d864cc943abfe7dcf">
+            <bounds x="8" y="61" width="173" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-4a3cc75d1f9b403c9045db7b9f7be423" targetConnections="id-eac69e1de6e748a79b6da4dcb28042c3" archimateElement="id-2b9224abbd0f44e4af067dd6dd9369e1">
+            <bounds x="8" y="221" width="173" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7ef185eb907f4f50bde1ef642be79593" targetConnections="id-cb0e41961e1040d09662f41409516347" archimateElement="id-01d5df2973e64e03b75d33a33f4f803a">
+            <bounds x="8" y="120" width="173" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-008b3f1802f64970936d33a66d72740e" archimateElement="id-357715a1da774027b660fe72de3def92">
+          <bounds x="8" y="364" width="191" height="348"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-575d134289a04b4e92c542568336e01d" source="id-008b3f1802f64970936d33a66d72740e" target="id-e5ab01fde1d94eb98a0b3ee0873e3c4b" archimateRelationship="id-1fffd725cf7048f7b99f8da664a2d350"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1088a146e6aa46c694e76c49339ad40d" source="id-008b3f1802f64970936d33a66d72740e" target="id-bd17cc46bd424ce5b2bb03a035102fe0" archimateRelationship="id-0b34939751cc476bb32913a014e8ff16"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8c67e592eafc4218b6f0b9eb8657823a" source="id-008b3f1802f64970936d33a66d72740e" target="id-037b13e9a9764081b1cfd3825eb7dbbc" archimateRelationship="id-a618056485f74084a6246da11524ebb8"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-311f8c6405f8418391b083144df15dbf" source="id-008b3f1802f64970936d33a66d72740e" target="id-1c1e241ec68540c89f3be3b8a4d91242" archimateRelationship="id-a4db00de74f946bcb5fcf32b3fad7e4c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-212d2a90670543ce8e01951d878ee820" source="id-008b3f1802f64970936d33a66d72740e" target="id-8f8e5585543348d5b61130bc33ecd0f0" archimateRelationship="id-84817c439b39400399299c31e0fd4d81"/>
+          <child xsi:type="archimate:DiagramObject" id="id-e5ab01fde1d94eb98a0b3ee0873e3c4b" targetConnections="id-575d134289a04b4e92c542568336e01d" archimateElement="id-75da60224c494f42bad72e22a6a09fb7">
+            <bounds x="12" y="238" width="167" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-bd17cc46bd424ce5b2bb03a035102fe0" targetConnections="id-1088a146e6aa46c694e76c49339ad40d" archimateElement="id-b28bccb1f3094a3f8689a2a3f104de5b">
+            <bounds x="12" y="298" width="167" height="37"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-037b13e9a9764081b1cfd3825eb7dbbc" targetConnections="id-8c67e592eafc4218b6f0b9eb8657823a" archimateElement="id-6c8f91e4144748d7a638cbe54d2e602d">
+            <bounds x="12" y="178" width="167" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1c1e241ec68540c89f3be3b8a4d91242" targetConnections="id-311f8c6405f8418391b083144df15dbf" archimateElement="id-0cb68dced0a54b3ab18923786a8d42af">
+            <bounds x="12" y="60" width="167" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-8f8e5585543348d5b61130bc33ecd0f0" targetConnections="id-212d2a90670543ce8e01951d878ee820" archimateElement="id-cccf3c68c6ec49b9bca7c310276f21db">
+            <bounds x="12" y="121" width="167" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-523435fb959e45779dffadaf8172d339" archimateElement="id-20434072e36b4da5bee7c3da9541ffc0">
+          <bounds x="215" y="396" width="191" height="246"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a04211f6121f4d0bb56192ad35c5c9ac" source="id-523435fb959e45779dffadaf8172d339" target="id-1309461f78854f81b32a35bd4e049e97" archimateRelationship="id-4457f97c929f4c079cf23d0391a4ee68"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a7d9a8565bd241d69b7932edf0b10c79" source="id-523435fb959e45779dffadaf8172d339" target="id-33501e1975fc4f3fb3cc29d07d8293a8" archimateRelationship="id-287c670c730a4bd3aa2a25857b2df582"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-318fc224d8bf407da0dcea51edfa62fd" source="id-523435fb959e45779dffadaf8172d339" target="id-2e4efe659a654b1d9c637bdb7c4e157f" archimateRelationship="id-15850a3548ed485784dc41f79bc2e570"/>
+          <child xsi:type="archimate:DiagramObject" id="id-1309461f78854f81b32a35bd4e049e97" targetConnections="id-a04211f6121f4d0bb56192ad35c5c9ac" archimateElement="id-552eed8b907d4240af40db6d9f2ca16e">
+            <bounds x="12" y="180" width="167" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-33501e1975fc4f3fb3cc29d07d8293a8" targetConnections="id-a7d9a8565bd241d69b7932edf0b10c79" archimateElement="id-97d1799442b6404b8bb7f80c4e4d4b7d">
+            <bounds x="12" y="60" width="167" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-2e4efe659a654b1d9c637bdb7c4e157f" targetConnections="id-318fc224d8bf407da0dcea51edfa62fd" archimateElement="id-e514914ee5fc4c80b31e28675c4a40b4">
+            <bounds x="12" y="120" width="167" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-77aacda2d2bd497398ff7e2614013af2" archimateElement="id-609aecd90730498caecbce30bab98fa8">
+          <bounds x="419" y="348" width="191" height="265"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a6b532b955dc41b2923394f292ffa83d" source="id-77aacda2d2bd497398ff7e2614013af2" target="id-0785d0612fa349dfbbe82f9c267e7238" archimateRelationship="id-ae3822c29f254964849a42f608bf3cf5"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-77b6d73340f242ff93e4e35cd66bfe93" source="id-77aacda2d2bd497398ff7e2614013af2" target="id-7aabfb514f71453994d6b3ca80d15bca" archimateRelationship="id-bc6440e0de2640dba5338c5a41b0f0aa"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-50fe6cab71bb480f9133c165c4e85e46" source="id-77aacda2d2bd497398ff7e2614013af2" target="id-67b9d7b9c9e5452dbb4d58c57de48d6b" archimateRelationship="id-b5453272a7a54c2aa5f93b3c2881fc42"/>
+          <child xsi:type="archimate:DiagramObject" id="id-0785d0612fa349dfbbe82f9c267e7238" targetConnections="id-a6b532b955dc41b2923394f292ffa83d" archimateElement="id-ae5f7c1ff5fe4f92a5d58ddf18d2ced5">
+            <bounds x="12" y="60" width="167" height="41"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7aabfb514f71453994d6b3ca80d15bca" targetConnections="id-77b6d73340f242ff93e4e35cd66bfe93" archimateElement="id-443ec937212746ccaf1b1a0a6d01ebf7">
+            <bounds x="12" y="196" width="167" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-67b9d7b9c9e5452dbb4d58c57de48d6b" targetConnections="id-50fe6cab71bb480f9133c165c4e85e46" archimateElement="id-584f75f4c7f9432e85bb4ab909945dda">
+            <bounds x="12" y="105" width="167" height="85"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-e76a84c156374c888dc74d79f18ec5dc" archimateElement="id-c5dea42b9c9f48f792ec8fb067f80782">
+          <bounds x="623" y="420" width="191" height="253"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-faa0c3ef10954404b8554cf58387270f" source="id-e76a84c156374c888dc74d79f18ec5dc" target="id-93a0389c69fe4d7888936dc051abf31f" archimateRelationship="id-f673734a1d7e4a61a5726277f49970a9"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3546c7f7209c463ebd7c45580a2b19de" source="id-e76a84c156374c888dc74d79f18ec5dc" target="id-09a4a3669c214e06a067fd55c4aa17f1" archimateRelationship="id-9985fcac913b45a6930edd0282628273"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c77e9dd330514d569abebcf07e5ed21b" source="id-e76a84c156374c888dc74d79f18ec5dc" target="id-8bc5d1421b574716ab6658fde9860f63" archimateRelationship="id-3948b7880dc64841b4f1a795e5613732"/>
+          <child xsi:type="archimate:DiagramObject" id="id-93a0389c69fe4d7888936dc051abf31f" targetConnections="id-faa0c3ef10954404b8554cf58387270f" archimateElement="id-0dc791239dd4436ebe644d4652f6092a">
+            <bounds x="12" y="60" width="167" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-09a4a3669c214e06a067fd55c4aa17f1" targetConnections="id-3546c7f7209c463ebd7c45580a2b19de" archimateElement="id-49fedb1039534864a2c9ecf9838ac8c3">
+            <bounds x="12" y="120" width="167" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-8bc5d1421b574716ab6658fde9860f63" targetConnections="id-c77e9dd330514d569abebcf07e5ed21b" archimateElement="id-30d38e24c1844e8aaece0dbc3355b837">
+            <bounds x="12" y="180" width="167" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-083ec0a51da24ea0b4070487403a3b75" archimateElement="id-244280d34696459485d13359c9208d41">
+          <bounds x="829" y="386" width="191" height="227"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1c5abd33e0f544649cf78668cb66f704" source="id-083ec0a51da24ea0b4070487403a3b75" target="id-e8b0814e54ed4566a861e087e2897250" archimateRelationship="id-c9dcad55a0b34e03a7e9f37687829f15"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6141122cac24421eb2a28699dee4e8a1" source="id-083ec0a51da24ea0b4070487403a3b75" target="id-caf92b962dec40ac8c741c8e0f138739" archimateRelationship="id-0db997a3758742fe9c5c7a1b44a36fa9"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7c4b4fabbddf49fe8913e9d709aa343f" source="id-083ec0a51da24ea0b4070487403a3b75" target="id-18395fa2e1bf4a0fbcf4edb2c543f32a" archimateRelationship="id-d3f6c7170a70454f91137df0f8a0f02b"/>
+          <child xsi:type="archimate:DiagramObject" id="id-e8b0814e54ed4566a861e087e2897250" targetConnections="id-1c5abd33e0f544649cf78668cb66f704" archimateElement="id-3206c0294c7e41b89b47e113856d702a">
+            <bounds x="10" y="54" width="173" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-caf92b962dec40ac8c741c8e0f138739" targetConnections="id-6141122cac24421eb2a28699dee4e8a1" archimateElement="id-b7114f3de2cd40d89b0cb311c138104c">
+            <bounds x="10" y="161" width="173" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-18395fa2e1bf4a0fbcf4edb2c543f32a" targetConnections="id-7c4b4fabbddf49fe8913e9d709aa343f" archimateElement="id-4657529a1c9a4d73b6dde8e9a07ad617">
+            <bounds x="10" y="100" width="173" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-62d3f4081b4f48af8de5b7a56b16228b" archimateElement="id-cda8c0bcfa144ebf996e42dc15adce82">
+          <bounds x="829" y="624" width="191" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-202cbd467b7144c1b4df1d44acd905b1" archimateElement="id-e696125e82304f469ea05023cbdd81b5">
+          <bounds x="215" y="648" width="191" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-135a09cc58424ee59937cc77313bc602" archimateElement="id-830e38077e854ec7888c704c89cfe24d">
+          <bounds x="419" y="624" width="191" height="55"/>
+        </child>
+        <documentation>https://budget.canada.ca/2024/home-accueil-en.html&#xD;
+https://budget.canada.ca/2024/home-accueil-fr.html</documentation>
       </element>
     </folder>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Top-Level Hierarchy of ArchiMate Concepts" id="id-d10f3fb17612466abc4e8fa9563db2a9">
