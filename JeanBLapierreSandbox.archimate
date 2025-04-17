@@ -1198,6 +1198,10 @@ You must name your fear before you can banish it.</documentation>
     <element xsi:type="archimate:CourseOfAction" name="Planned Borrowing Activities for 2024-25 (Course of Action)" id="id-4657529a1c9a4d73b6dde8e9a07ad617"/>
     <element xsi:type="archimate:CourseOfAction" name="Maturity Date Cycles and Benchmark Bond Target Range Sizes (Course of Action)" id="id-b7114f3de2cd40d89b0cb311c138104c"/>
     <element xsi:type="archimate:CourseOfAction" name="Annex 3: Legislative Measures (Course of Action)" id="id-cda8c0bcfa144ebf996e42dc15adce82"/>
+    <element xsi:type="archimate:CourseOfAction" name="Align EDA SPO Site with CDOB Site Standard (Course of Action)" id="id-12ef0a2f298a4d628afea69a49f006ff"/>
+    <element xsi:type="archimate:CourseOfAction" name="Analyze, Design, Create ADO Types Required For EDA Work Tracking and Analytics (Course of Action)" id="id-b61e7b08517d434a881c5c653b726270"/>
+    <element xsi:type="archimate:CourseOfAction" name="Develop Non-Gate 2 Artifacts To Capture EDA Content (Course of Action)" id="id-7c54ff144bb44cfbb00e8d35f0d4b7fb"/>
+    <element xsi:type="archimate:CourseOfAction" name="Work With BPMO-EPMO To Incorporate EDA Artifacts Into Stage-Gate LC Suites (Course of Action)" id="id-6db81c62483a4d11864be089be88caf3"/>
   </folder>
   <folder name="Business" id="id-fb9c94c240434273aa6d6f5df1a73407" type="business">
     <element xsi:type="archimate:BusinessEvent" name="EA Requests SAS Feedback" id="id-a7ebf3b84a7545f6a5b2e8eaca445cb6"/>
@@ -5578,6 +5582,25 @@ Themes include (but are not limited to):&#xD;
     <element xsi:type="archimate:Deliverable" name="1. Most newsworthy info: Who? What? When? Where? Why? How?" id="id-0c0734aa400644389a11cf0e438bae19"/>
     <element xsi:type="archimate:Deliverable" name="2. Important details" id="id-3e6e2fe910dd4ee09cf69602aba2a774"/>
     <element xsi:type="archimate:Deliverable" name="3. Other info" id="id-7b1aa47e17db4247add07077cee0d8fa"/>
+    <element xsi:type="archimate:Gap" name="Lack of EA Repository EDA Content (Gap)" id="id-871b620719134e14892af66c4297e326"/>
+    <element xsi:type="archimate:WorkPackage" name="Create EA Repository Template For SADD's EDA Content (Work Package)" id="id-c188a92ed4c949c3b2a74a0dfc8437e8"/>
+    <element xsi:type="archimate:WorkPackage" name="EARB Initiative--Input EDA Content for EDA Project Container (Work Package)" id="id-121472f58f8b4ba4ad40a72ad540f19f"/>
+    <element xsi:type="archimate:Gap" name="Lack of SOP For EDA SPO Content Management(Gap)" id="id-5ff60e5cf06e42a28c425421fa969152"/>
+    <element xsi:type="archimate:WorkPackage" name="Create EDA SPO Admin Playbook (Work Package)" id="id-2c365ebdb8074c00b616d24ac23b8043"/>
+    <element xsi:type="archimate:WorkPackage" name="Create SPO Guide For CDOB Content Consumer (Work Package)" id="id-8b225803f2c54683b6abd367b52dff85"/>
+    <element xsi:type="archimate:WorkPackage" name="Administer, Curate EDA SPO Content (Work Package)" id="id-a87564c3fb714d1790521bb86ba750d7"/>
+    <element xsi:type="archimate:Gap" name="Lack of Aligned ADO Types For EDA Business and Work (Gap)" id="id-a80290492f7b46c6a583b31f429cf17b"/>
+    <element xsi:type="archimate:Gap" name="Lack of Governance &amp; Oversight Artifacts (non-Gate 2) (Gap)" id="id-68fb05432bf649f5a51f6ffec1e33094"/>
+    <element xsi:type="archimate:WorkPackage" name="Analysis of GC EA Framwork, ESDC SDLC-PMLC Artifacts Mapped to ESDC Gates (Work Package)" id="id-307cdb4e7a714ef9a4f037688cbe52d7"/>
+    <element xsi:type="archimate:WorkPackage" name="Work With CDOB Colleagues On EDRM Suite Of Tools, Framework (Work Package)" id="id-bd86d3bee271485ab36f87e855fd3004">
+      <documentation> - Ensure clarity around objects: numbering / identifying convention&#xD;
+ - Ensure self-service content is mature and curated&#xD;
+ - Ensure adoption at EARB</documentation>
+    </element>
+    <element xsi:type="archimate:Deliverable" name="Work on EDFP for EARB, GC EARB(Deliverable)" id="id-48c47fae84df41b2b018d2959966b417"/>
+    <element xsi:type="archimate:Deliverable" name="Analyze, Design, Input ABB's, SBB's of EDFP (Deliverable)" id="id-70bf2e33bde24d5989b7960b1bc58db9"/>
+    <element xsi:type="archimate:Deliverable" name="Repatriate BI&amp;A Reference Architecture (Deliverable)" id="id-02ca5a11decc478d808f9d95d5c756f2"/>
+    <element xsi:type="archimate:Deliverable" name="Analyze, Develop (Adopt), Input AI Reference Architecture(Deliverable)" id="id-32df609ccde84365a77ec4703954dab5"/>
   </folder>
   <folder name="Other" id="id-3b6502d62be54bf79bb29134a011622f" type="other">
     <element xsi:type="archimate:Junction" name="Junction" id="id-483568e04e5345cc8bc005461b6854a2" type="or"/>
@@ -7113,6 +7136,7 @@ use a standardized approach so that people can scan content quickly and easily w
     <element xsi:type="archimate:CompositionRelationship" id="id-c9dcad55a0b34e03a7e9f37687829f15" source="id-244280d34696459485d13359c9208d41" target="id-3206c0294c7e41b89b47e113856d702a"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-0db997a3758742fe9c5c7a1b44a36fa9" source="id-244280d34696459485d13359c9208d41" target="id-b7114f3de2cd40d89b0cb311c138104c"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-d3f6c7170a70454f91137df0f8a0f02b" source="id-244280d34696459485d13359c9208d41" target="id-4657529a1c9a4d73b6dde8e9a07ad617"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-1d0d6f5ec48d4b36af5beccf0ca70f60" source="id-2c365ebdb8074c00b616d24ac23b8043" target="id-a87564c3fb714d1790521bb86ba750d7"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -12084,6 +12108,89 @@ Fairness for every generation</content>
         </child>
         <documentation>https://budget.canada.ca/2024/home-accueil-en.html&#xD;
 https://budget.canada.ca/2024/home-accueil-fr.html</documentation>
+      </element>
+    </folder>
+    <folder name="CDOB-EDA How We Work" id="id-6bc3d130505346c0ab5ebfe1ade10b0e">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="EDA FY2025-26 Outcomes" id="id-83de9092f2cd440a9ce0cdb5870185c9">
+        <child xsi:type="archimate:Note" id="id-5966ec4b8595494d9939419584708891" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="12" y="12" width="577" height="121"/>
+          <content>Archimate View: EDA: FY 2025-2026 Work Plan&#xD;
+For discussion:&#xD;
+Performance Measures, Outcomes, Linkages To Executive Plans&#xD;
+Sponsoring Branch CDOB_DGDPD</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-efa137cac54b41f6a20a13ca5a688e46" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
+          <bounds x="588" y="12" width="193" height="121"/>
+          <content>BUSINESS CASE</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-5721a502b6b145c29e760a07d19863d9" textAlignment="1">
+          <bounds x="661" y="72" width="120" height="61"/>
+          <content>(DRAFT)&#xD;
+2025-04-17&#xD;
+v0.1.20250417</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-4e90f9fd0f71436898abfe93f33212f9" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
+          <bounds x="792" y="19" width="149" height="108"/>
+          <content>DIAGRAM NOT ENDORSED</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1388c154363a49d08eb0c6f5743fe94e" archimateElement="id-871b620719134e14892af66c4297e326">
+          <bounds x="24" y="168" width="136" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b0497ff3514447f3a05fbb852663b638" archimateElement="id-c188a92ed4c949c3b2a74a0dfc8437e8">
+          <bounds x="17" y="234" width="149" height="67"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-681766ced53d456c9a91eb8c6c837879" archimateElement="id-121472f58f8b4ba4ad40a72ad540f19f">
+          <bounds x="17" y="312" width="149" height="85"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-e71650a767b94faa83fc66f122791171" archimateElement="id-5ff60e5cf06e42a28c425421fa969152">
+          <bounds x="180" y="168" width="146" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-f5713d8cc04243b285b3c6e627271379" archimateElement="id-2c365ebdb8074c00b616d24ac23b8043">
+          <bounds x="174" y="234" width="157" height="145"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-63b4dd44b5ec4c14baa384478c91a986" source="id-f5713d8cc04243b285b3c6e627271379" target="id-9babdf672d964e668f5fe6dc600b08b0" archimateRelationship="id-1d0d6f5ec48d4b36af5beccf0ca70f60"/>
+          <child xsi:type="archimate:DiagramObject" id="id-9babdf672d964e668f5fe6dc600b08b0" targetConnections="id-63b4dd44b5ec4c14baa384478c91a986" archimateElement="id-a87564c3fb714d1790521bb86ba750d7">
+            <bounds x="12" y="60" width="133" height="73"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3ebf7a900e974017997c6360e87de17c" archimateElement="id-8b225803f2c54683b6abd367b52dff85">
+          <bounds x="186" y="384" width="134" height="85"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-50f2fa8f0fea4a3ca6827d13c1308653" archimateElement="id-12ef0a2f298a4d628afea69a49f006ff">
+          <bounds x="187" y="473" width="134" height="85"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-9d625a8eaf1241f18fe7f5d6b76f35f1" archimateElement="id-a80290492f7b46c6a583b31f429cf17b">
+          <bounds x="348" y="151" width="146" height="72"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-19bcb0981838458293d53271d4392fc9" archimateElement="id-b61e7b08517d434a881c5c653b726270">
+          <bounds x="348" y="232" width="146" height="117"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-4bcfa229e9f04868a65ce57ea9c69403" archimateElement="id-68fb05432bf649f5a51f6ffec1e33094">
+          <bounds x="504" y="151" width="145" height="72"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b6c4bae0e9364ef09d933dca7a5c92a2" archimateElement="id-307cdb4e7a714ef9a4f037688cbe52d7">
+          <bounds x="504" y="230" width="145" height="95"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-fa91384abd6342ecb35aca02fb017497" archimateElement="id-7c54ff144bb44cfbb00e8d35f0d4b7fb">
+          <bounds x="504" y="336" width="145" height="85"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-5fed2cb65d494381b2959ff99c65ff6a" archimateElement="id-6db81c62483a4d11864be089be88caf3">
+          <bounds x="504" y="432" width="145" height="126"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-cd3173d1f67c404585b026ce0ce3c102" archimateElement="id-bd86d3bee271485ab36f87e855fd3004">
+          <bounds x="660" y="230" width="145" height="87"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-6c2b7c33dce54813bfe153a2a8f5c2f2" archimateElement="id-48c47fae84df41b2b018d2959966b417">
+          <bounds x="816" y="230" width="143" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a3c97e89322e4d65a130a78b9fef4f99" archimateElement="id-70bf2e33bde24d5989b7960b1bc58db9">
+          <bounds x="17" y="408" width="149" height="73"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-cdb56dab47c7436d916a37ee6c7ba42b" archimateElement="id-02ca5a11decc478d808f9d95d5c756f2">
+          <bounds x="17" y="485" width="149" height="73"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1c01a55b09cf49108052381201be5bd6" archimateElement="id-32df609ccde84365a77ec4703954dab5">
+          <bounds x="17" y="564" width="149" height="85"/>
+        </child>
       </element>
     </folder>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Top-Level Hierarchy of ArchiMate Concepts" id="id-d10f3fb17612466abc4e8fa9563db2a9">
