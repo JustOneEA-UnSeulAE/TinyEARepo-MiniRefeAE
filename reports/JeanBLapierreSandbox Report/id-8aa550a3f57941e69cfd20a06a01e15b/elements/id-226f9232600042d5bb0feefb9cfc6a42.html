@@ -1,14 +1,14 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html class="frame" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 	<title>EA Requests EA Assessment</title>
 
-	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
-	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
 	<!-- BOOTSTRAP -->
 	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
-	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
 	<!-- REPORT SPECIFIC -->
 	<link type="text/css" rel="stylesheet" href="../../css/model.css">
 	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
@@ -40,6 +40,9 @@
                     <!-- Properties -->
                     <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
 
+                    <!-- Analysis -->
+                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
+
 				</ul>
 
 				<!-- Tab panes -->
@@ -56,6 +59,45 @@
 								</tr>
 							</thead>
 							<tbody>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr id="used-in-views-id-3038c43d7316483bb416ecfa67fb50b5">
+																	<td><a href="../views/id-3038c43d7316483bb416ecfa67fb50b5.html" target="view" title="ESDC EARB EA Assessment (TARGET) Draft"> ESDC EARB EA Assessment (TARGET) Draft </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr><tr id="used-in-views-id-2611458f992e4439ac3b043467b855d4">
+																	<td><a href="../views/id-2611458f992e4439ac3b043467b855d4.html" target="view" title="ESDC EARB EA Assessment (CURRENT)"> ESDC EARB EA Assessment (CURRENT) </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+											<td><a href="../elements/id-c4bc871968c1436e8c3732e2e50136ca.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-TriggeringRelationship" /></td>
+											<td><a href="../elements/id-226f9232600042d5bb0feefb9cfc6a42.html" target="element"> EA Requests EA Assessment</a></td>
+											<td><a href="../elements/id-562921234d2447639360f5eb81a5f7eb.html" target="element"> Junction</a></td>
+										</tr>
 							</tbody>
 						</table>
 					</div>
