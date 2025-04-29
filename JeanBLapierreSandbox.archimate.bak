@@ -1206,6 +1206,41 @@ You must name your fear before you can banish it.</documentation>
     <element xsi:type="archimate:CourseOfAction" name="Work to Understand, Align With CSD Replacement, Bifrost (Course of Action)" id="id-47944f70a78843de91462f1863534520"/>
     <element xsi:type="archimate:CourseOfAction" name="Leverage EDRM as EARB 'Data Heat Map' (Course of Action)" id="id-bffe9fe982cc429b9f866deb36da340f"/>
     <element xsi:type="archimate:CourseOfAction" name="Promote Adoption of EDRM For In-Flight Initiatives (Course of Action)" id="id-635e5a59fc1b4dc7bd77c7878e6afd7d"/>
+    <element xsi:type="archimate:Resource" name="AI Strategy for the Federal Public Service 2025-2027: Expectations for federal organizations (Resource)" id="id-bf839bd3512746358315203b938bca92">
+      <documentation>https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/gc-ai-strategy-expectations-federal-organizations.html&#xD;
+&#xD;
+Stratégie en matière d’intelligence artificielle pour la fonction publique fédérale 2025-2027 : Attentes à l’égard des organisations fédérales&#xD;
+https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai/gc-ai-strategie-attentes-egard-organisations-federales.html</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="2023-2026 Data Strategy (Course of Action)" id="id-56230978fea94e8e941abac4dea1e553">
+      <documentation>2023-2026 Data Strategy&#xD;
+https://www.canada.ca/en/treasury-board-secretariat/corporate/reports/2023-2026-data-strategy.html#toc-5&#xD;
+Developing and implementing common data stewardship practices, using the Government’s data holdings to derive insights for decision making, and building both specialist capacity and data literacy within the public service through access to tools and training. Given the dependence of AI on quality data, the implementation of the Data Strategy will be a critical enabler for the success of the AI Strategy.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Application Hosting Strategy (Course of Action)" id="id-e42e0eb027af47b1ad2e068be3a1ed98">
+      <documentation>Application Hosting Strategy&#xD;
+https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/2024-application-hosting-strategy.html&#xD;
+Explains how the Government of Canada will optimize its use of cloud to maximize business value, reduce technical debt, and continue to evolve its service-focused culture.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Digital Ambition (Course of Action)" id="id-97067fd1983646b0819b22036d011aaf">
+      <documentation>Digital Ambition&#xD;
+https://www.canada.ca/en/government/system/digital-government/canada-digital-ambition.html&#xD;
+Foresees the use of AI as part of the goal of delivering modern services with a digital mindset. It identifies the need for responsible AI, fairness and transparency to allow Canada to benefit from efficiency gains while countering potential harms from ungoverned AI. It also identifies the importance of transparency and preserving privacy in the handling of personal data to maintain the trust of Canadians.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Canadian Sovereign AI Compute Strategy (Course of Action)" id="id-090c941216104cfb8e5527e0593aabe7">
+      <documentation>Canadian Sovereign AI Compute Strategy&#xD;
+https://ised-isde.canada.ca/site/ised/en/canadian-sovereign-ai-compute-strategy&#xD;
+Invests in public and commercial computing infrastructure to support the Canadian AI ecosystem and safeguard Canadian data and intellectual property.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Enterprise Cyber Security Strategy (Course of Action)" id="id-31b5142296234123a32482345e41637c">
+      <documentation>Enterprise Cyber Security Strategy&#xD;
+https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html&#xD;
+Sets out a risk-based, whole-of-government approach to ensure that the Government can quickly and effectively combat cyber threats and address vulnerabilities. It aims to help safeguard government systems, protect Canadians’ information and strengthen the resilience of digital government to ensure the continued delivery of secure and reliable digital services. foster the right skills, knowledge, and culture to support cyber security.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Relevant strategies and policy" id="id-d1bf0abe67f24c4bb9a9e05ce05b2303">
+      <documentation>Relevant strategies and policy&#xD;
+The Strategy builds on existing commitments in other strategies to the responsible adoption of AI and its enablers such as infrastructure, data, cybersecurity, and talent.</documentation>
+    </element>
   </folder>
   <folder name="Business" id="id-fb9c94c240434273aa6d6f5df1a73407" type="business">
     <element xsi:type="archimate:BusinessEvent" name="EA Requests SAS Feedback" id="id-a7ebf3b84a7545f6a5b2e8eaca445cb6"/>
@@ -5313,6 +5348,304 @@ Increase the accessibility* of your texts.</documentation>
     <element xsi:type="archimate:Value" name="Better use of existing data that can be reused to auto-populate requests" id="id-5f58c91b69bd422d82a9dfff7ad8de08"/>
     <element xsi:type="archimate:Value" name="Ability to improve classification/staffing processes through better use of data and analytics" id="id-35ddf587a579469c8f94378917f3c634"/>
     <element xsi:type="archimate:Value" name="Supporting information can be provided to managers throughout the process to support the classification / staffing request" id="id-5f6c62aee1b24a34ac1fb229facf7bfd"/>
+    <element xsi:type="archimate:Principle" name="Building central AI capacity to optimize and coordinate government-wide AI implementation and knowledge sharing (Principle)" id="id-2b027d6a6e164d7e9064843d2229b16e"/>
+    <element xsi:type="archimate:Principle" name="Establishing relevant and up-to-date policy, legislation and governance to support innovation while mitigating risks (Principle)" id="id-3440abac03624ee3aaaf392d94bab99c"/>
+    <element xsi:type="archimate:Principle" name="Providing training and talent development pathways (Principle)" id="id-889633864640452e9706120af77d8f0b"/>
+    <element xsi:type="archimate:Principle" name="Building public trust through transparency and strong accountability (Principle)" id="id-93b8c6311dac4cca8312b0436c7c433c"/>
+    <element xsi:type="archimate:Stakeholder" name="Treasury Board of Canada Secretariat (Stakeholder)" id="id-56e2b2b3a654460f8c94fc04373690bb"/>
+    <element xsi:type="archimate:Requirement" name="E1. Identify and prepare to report on their existing AI use cases and those in development, including actualized and estimated impacts of AI adoption (Requirement)" id="id-4037c6a6bedf4d30b0d401d81721206c"/>
+    <element xsi:type="archimate:Requirement" name="E2. Identify key business problems where AI could be applied (Requirement)'" id="id-68719aa3444f43fca9b18ea48cc3e9e1"/>
+    <element xsi:type="archimate:Requirement" name="E3. Ensure employees have access to approved AI tools and the training required for safe, secure, and responsible use (Requirement)" id="id-9911cec696b048c2aaca6cf420b6aac7"/>
+    <element xsi:type="archimate:Requirement" name="E6. Review compliance with existing policy requirements or expectations related to AI and enablers, as set out in the 2023–2026 Data Strategy for the Federal Public Service, the Directive on Automated Decision Making, the Directive on Digital Talent, and the Policy on Service and Digital (Requirement)" id="id-74f23e24f75543d3905fe96029827502"/>
+    <element xsi:type="archimate:Requirement" name="E4. Ensure that AI project teams have access to the necessary infrastructure and compute resources to support AI research and development (Requirement)" id="id-a2e2516e68fc4dd7af392a2e2a83a7cd"/>
+    <element xsi:type="archimate:Requirement" name="E5. Review the alignment between their departmental policies and strategies on AI and its enablers and the AI Strategy (Requirement)" id="id-2e5c1e6f27fa465588537af5f8666b95"/>
+    <element xsi:type="archimate:Requirement" name="E7. Review expectations on inclusive consultation within the Trust and Transparency Strategy, the Digital Standards, and the duty to consult and Principles respecting the Government of Canada’s relationship with Indigenous peoples (Requirement)" id="id-d5c16531b9cb4d7498ea398a1f74d1ed"/>
+    <element xsi:type="archimate:Requirement" name="E10. Familiarize themselves with resources such as the list of interested AI suppliers and open-source software (Requirement)" id="id-de8fcce7e7144c31a223b591f27c7d06"/>
+    <element xsi:type="archimate:Requirement" name="E9. Review technical and non-technical talent needs for AI adoption (Requirement)" id="id-ca1a478df8a146fd98e5299602c7be0f"/>
+    <element xsi:type="archimate:Requirement" name="E8. Identify departmental policy, process, and technical barriers to AI adoption (Requirement)" id="id-5b0ea0e6dcc94ca5958173608ebf82ee"/>
+    <element xsi:type="archimate:Requirement" name="Expectations of all federal organizations" id="id-4ff912e2561a48e6960d6dd8bb266b40"/>
+    <element xsi:type="archimate:Principle" name="Human centred (Principle)" id="id-43d1650c116946db8a61524ba8bca871">
+      <documentation>Human centred&#xD;
+We focus on the needs of those we serve and the public servants who serve them in deciding where we adopt AI and how we integrate it into our work.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Collaborative (Principle)" id="id-6624212894f84a819a9f2f764e2cc40d">
+      <documentation>Collaborative&#xD;
+We work together on AI adoption with Indigenous and Canadian partners, other Canadian and international jurisdictions, and our public service colleagues.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Responsible (Principle)" id="id-b06377bdc7ad438d8ec122b20e7d1ab8">
+      <documentation>Responsible&#xD;
+We inform clients and public servants when and how we use AI so that they trust that our use of AI respects privacy and is justified, responsible, fair, safe, and secure.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Ready (Principle)" id="id-103ae41b4aaa4c9bbbe5b12aa8b83f0c">
+      <documentation>Ready&#xD;
+We have the data, infrastructure, tools, culture, talent, skills and policy we need for responsible, safe, secure, and successful AI adoption.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Priority 1: Central AI capacity (Value)" id="id-6a15c606efb440699bc6024e6cf340a9">
+      <documentation>Priority 1: Central AI capacity&#xD;
+A common theme heard from government departments during consultations was a need for a central hub to support project implementation and share knowledge. AI accelerators or specialist technical teams able to support project teams with technical development are increasingly being established within departments. However, there is an unmet need for guidance on many other aspects of AI implementation. These include identifying use cases, evaluating data readiness, assessing risk, determining whether to build or buy solutions, and navigating assessment, governance, and procurement processes. Departments also commonly expressed a need for a convenor to share knowledge, code, scalable tools, and lessons learned from departmental experience.&#xD;
+&#xD;
+Learn more about: AI Accelerators in the Government of Canada&#xD;
+Over the past decade, more and more Government of Canada departments have established their own AI accelerators or centres of expertise to promote departmental adoption. Some examples of these include:&#xD;
+&#xD;
+National Research Council’s (NRC) AI Accelerator and Digital Technologies programs&#xD;
+The NRC has promoted AI adoption across federal departments and agencies through its AI Accelerator and Digital Technologies programs, completing over 100 projects in the past five years. These initiatives span national security, digital privacy, digital health, scientific discovery, logistics, geospatial analytics, and Indigenous languages, improving public services, productivity, and situational awareness. With over 110 AI specialists and access to advanced computation facilities and global partnerships, the NRC supports and enhances AI initiatives across the Government of Canada, driving innovation and adoption for a more secure and technologically advanced nation.&#xD;
+&#xD;
+Shared Services Canada’s Artificial Intelligence (AI) Program and AI Centre of Excellence (AICoE)&#xD;
+The AI Program and the AICoE Incubate AI use cases, promote the use of AI, break down silos and foster digital innovation. Established in 2019, the AI Program has incubated more than 15 use cases, including CANChat. The AI CoE supports Government of Canada exploration of AI and intelligent automation, providing a central repository for sharing best practices, training materials, and strategic guidance. It convenes AI and intelligent automation working groups to explore challenges and identify opportunities and solutions to accelerate responsible adoption. The AI CoE also provides guidance to departments embarking on AI adoption and contributes to Algorithmic Impact Assessment peer review and the development of policy.&#xD;
+&#xD;
+Natural Resources Canada's Digital Accelerator&#xD;
+NRCan works with scientists, economists and researchers to pilot advanced solutions and tools, including AI, strengthen digital expertise and literacy in the department and sector, and future-proof the department and its partners. Its projects include platforms or tools for accelerated materials discovery, mineral detection, industrial systems performance optimization, and grid optimization for electric vehicles.&#xD;
+&#xD;
+Key actions&#xD;
+Establish an AI Centre of Expertise for the Government of Canada&#xD;
+The AI Centre of Expertise (AI CoE) will complement services offered by existing accelerators and centres, focusing on project support, knowledge sharing, and strategic guidance to support AI adoption and experimentation. It will provide project guidance, advise on common processes, and share best practice, experience, knowledge and code. It will also encourage interdepartmental or whole-of-government collaboration on solutions for common needs. The AI CoE will help business teams to:&#xD;
+&#xD;
+Identify high-value use cases for AI integration. This may include helping departments evaluate factors like task and data suitability; infrastructure, model, and data requirements and limitations; cost/benefit analysis; privacy, accessibility, environmental, and equity considerations; risk identification, evaluation, and mitigation; workforce impacts; and how to evaluate project success against objectives.&#xD;
+Support data readiness: This would include supporting the implementation of the 2023-2026 Data Strategy for the Federal Public Service as a critical enabler for AI adoption. The AI CoE could advise departments on preparing their data for AI use or training and identifying Government of Canada datasets that could be combined to enable AI.&#xD;
+Support with procurement, governance, assessments, review processes, and other requirements. This would include providing guidance on options for procurement; algorithmic, accessibility, language, privacy, and environmental impact assessments; transparency, reporting, ethics, bias, peer review, GBA Plus analysis, and Indigenous Data Sovereignty requirements; securing AI and understanding risks; and processes for explanation and recourse. It will also include providing input into the development of a governance framework (see Priority 2) and the creation of standard language to inform vendors of their role in responsible AI adoption.&#xD;
+In addition to supporting project teams, the AI CoE will act as:&#xD;
+&#xD;
+A convenor for government-wide knowledge sharing. It will share successful initiatives to prevent duplication of effort, maximize return on investment, and promote awareness and adoption of existing approved solutions. This will include sharing government-developed code and solutions, project documentation, information, policy, and instruments; soliciting feedback, use cases, and lessons learned from departments; and encouraging the scaling of successful projects. It will also work with the Canada School of Public Service (CSPS) to identify and promote training priorities and provide input into new policy or procurement vehicles.&#xD;
+An accelerator for AI solutions to meet common Government of Canada needs. Working with departments, the AI CoE will identify potential solutions that meet government-wide needs that could be broadly scaled and support their development.&#xD;
+A monitor of progress on AI adoption. The AI CoE will develop frameworks for progress and impact of Government of Canada AI adoption that can be used to benchmark, monitor, and report on the progress and compliance with policy and standards.&#xD;
+Enable common infrastructure&#xD;
+The Government of Canada and departments will ensure the provision of common infrastructure to enable AI adoption and will promote the adoption of existing approved enterprise solutions. This includes:&#xD;
+&#xD;
+high-performance computing (HPC) and cloud infrastructure that is available, secure, and scalable to meet the demands of AI projects. &#xD;
+common data and information management systems and practices to support sharing, scaling, and agentic capabilities across Government of Canada platforms.&#xD;
+access to approved models, services, and application programming interfaces (APIs) within common Government of Canada cloud platforms to build or deploy systems.&#xD;
+access to common AI solutions and capabilities in vendor solutions through a standard Government of Canada platform service.&#xD;
+Where possible, they will support Canadian suppliers and vendors in order to promote the growth of the Canadian AI industry and ensure secure sovereign infrastructure and solutions.&#xD;
+&#xD;
+Identify and develop a lighthouse project&#xD;
+This project will be either a new initiative or one currently at pilot stage that would meet an enterprise-wide need and could be readily scaled. Its development, testing, and delivery will be undertaken collaboratively by the AI CoE and lead department. It will serve as:&#xD;
+&#xD;
+A test case to identify barriers and project teams’ needs for support during development and obstacles to subsequent customization and scaling.&#xD;
+A pilot for the development of government-wide governance processes (see Priority 2 ).&#xD;
+An opportunity to develop templates and examples of project documentation.&#xD;
+A demonstration of the value of AI use cases.&#xD;
+Learn more about: The lighthouse project&#xD;
+The Strategy proposes the development of a lighthouse project that would both meet an enterprise-wide need and provide an opportunity to develop and test Government of Canada governance and support processes for AI adoption.&#xD;
+&#xD;
+As its first lighthouse project, TBS will work with the Translation Bureau at Public Services and Procurement Canada (PSPC) to scale its self-serve language hub pilot across the Government of Canada.&#xD;
+&#xD;
+The Translation Bureau has developed a self-serve language hub pilot to provide PSPC employees with access to a variety of secure, real-time AI-driven language tools, trained with Canadian data. These include automated translation tools that can be used to provide instant translations of low-risk and low-value documents. The service operates in a secure cloud up to Protected B, with all data centralized within the Bureau and housed in Canada.&#xD;
+&#xD;
+For users, this would provide a secure and approved one-stop shop for linguistic needs. For the Government, availability of an approved automated tool would reduce translation costs without compromising data security or sovereignty or product quality. Use of the Translation Bureau’s repository of 8 billion words (2 TB) to train the model would ensure a high level of consistency, quality, and customization to the specificities of Canadian culture, identity and realities.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Priority 2: Policy, legislation and governance (Value)" id="id-50e26c179d574e5eb9ffffea8db520ad">
+      <documentation>Priority 2: Policy, legislation, and governance&#xD;
+Responsible AI adoption needs clear, up-to-date legislation and policy. Together, they mark out not only the necessary guardrails for identifying and mitigating risk, but also the space within which developers are free to experiment and innovate. Clear legislation and policy help to build public trust, overcome institutional resistance to AI innovation and enable governments to move further and faster.&#xD;
+&#xD;
+As in many jurisdictions, some Canadian legislation and federal policy has not been revised for the AI era. Some law or policy is silent on areas needed to govern AI, while others may introduce unintended bias in data collection or obstruct AI adoption unnecessarily and unintentionally. Incremental development has created a patchwork of policies that are difficult for AI project teams to understand and navigate, and no common model for AI governance yet exists within the Government of Canada. These challenges must be addressed to build public confidence in the Government of Canada’s ability to deliver AI-enabled services.&#xD;
+&#xD;
+Learn more about: AI-ready law and policy&#xD;
+Policy, law, and regulations must support the use of AI and must be kept updated to ensure that they remain relevant and effective as technology evolves.  In response, the Government of Canada and leading jurisdictions worldwide have begun to incorporate commitments to scheduled review cycles into key laws and policy instruments, a new best practice that should be more widely adopted.&#xD;
+&#xD;
+The Government of Canada’s Directive on Automated Decision-Making and associated Algorithmic Impact Assessment tool are reviewed every two years. &#xD;
+Amendments made in 2019 to the Access to Information Act include a 5-year review cycle.&#xD;
+The EU AI Act includes provisions for an annual review of both its list of high-risk AI systems and the AI practices it prohibits.&#xD;
+Even without a specified review cycle, other jurisdictions regularly review and amend key legislation and policy:&#xD;
+&#xD;
+Australia has conducted regular reviews of its Privacy Act 1988 to address emerging privacy issues and technological developments, with four major reviews since its enactment.&#xD;
+The EU regularly reviews its General Data Protection Regulation (GDPR) and other technology-related laws to adapt to new technological advancements and challenges.&#xD;
+Lastly, some jurisdictions have developed guidance to ensure that all new legislation supports new technologies by design.&#xD;
+&#xD;
+Denmark’s digital-ready legislation program has established mandatory assessment against seven principles for digitally-ready legislation to ensure that new laws and regulations are compatible with digital technologies and can be efficiently administered using digital tools.&#xD;
+Key actions&#xD;
+Establish common AI governance and risk management frameworks&#xD;
+Drawing on international and Government of Canada best practice, the Government of Canada will establish common governance and risk management frameworks for the AI lifecycle to provide clear guidance to AI project teams. These frameworks will balance risk with the pace required for innovation; be scaled to system risk, sensitivity, and impact; and will be designed to adapt as technology changes. They will address potential risks associated with AI use, such as data privacy and security, bias detection and mitigation, model interpretability and explainability, environmental impact, and human involvement. The frameworks will incorporate Canadian requirements, such as the need to advance Indigenous Data Sovereignty and provide technologies in both official languages. They will also lay out the security, trust, and reliability controls necessary to ensure the continued maintenance and resilience of these systems, including system shutdown measures to respond to emergencies. This work will support ongoing efforts to harmonize data standards, increase interoperability, and support other enablers.&#xD;
+&#xD;
+In addition, it will include a government-wide governance structure responsible for implementing the governance framework. This will include an AI ethics review board responsible for providing guidance on responsible AI and for evaluating higher risk and impact projects at key stages of the project lifecycle. The governance structure will make use of existing Government of Canada governance bodies and organizations such as the Canada AI Safety Institute wherever possible. In addition to providing project governance, these bodies and organizations will help identify high-value AI use cases, regularly reprioritize the AI Strategy's actions, and prioritize and oversee the AI Strategy's implementation.&#xD;
+&#xD;
+Address policy and legislative alignment, gaps, and barriers&#xD;
+The Government of Canada will review and propose changes to instruments that create unnecessary obstacles to AI adoption. It will fill identified policy gaps, such as clarifying the responsibilities of chief information, data and privacy officers for AI adoption, and the acceptable use of AI by outside organizations in their interactions with the Government of Canada. It will also address legal and policy ambiguities related to privacy and training data and the application of the national security exemption. The Government of Canada will update procurement policies, instruments and processes to make them more responsive to pace and requirements of AI procurement. It will also consider ways in which the Government of Canada can better align internal AI policy with the Pan Canadian AI Strategy to support the Canadian AI sector, with the United Nations Declaration Act commitments to Indigenous Data Sovereignty, and with international treaties, legislation and norms.&#xD;
+&#xD;
+This work will lead to the development of clear and concrete commitments to revise specific instruments within a set timeline, and an agile process to review and update policy, guidance, tools and resources to respond to technological, legislative and social change. The Government of Canada will also review the policy landscape for opportunities to synthesize or interpret existing policy to increase usability.&#xD;
+&#xD;
+Adopt a “think AI” approach&#xD;
+The Government of Canada will optimize its AI adoption by embedding a “think AI” approach to its policies, programs and services. The intent is not to adopt AI at all costs or in contexts where its use would not be responsible or useful. Rather, the goal is to challenge departments to identify key business problems that could be transformed using AI, consider AI options before defaulting to traditional IT or HR approaches, and make planned investments in AI and its enablers.&#xD;
+&#xD;
+To support this, the Government of Canada will require departments to:&#xD;
+&#xD;
+Identify three areas, programs or services with business problems that have a high potential to be solved using AI.&#xD;
+Consider solutions and resourcing requirements for AI and its enablers at the outset of initiatives. This will include changes to Treasury Board submissions, Memoranda to Cabinet, and budget and off-cycle funding proposals to incorporate data, AI, compute, and other relevant requirements.&#xD;
+Prioritize AI infrastructure and secure adoption in departmental integrated IT planning processes.&#xD;
+Develop their own AI strategies to ensure alignment and effective use of resources.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Priority 3: Talent and training (Value)" id="id-3db2193f082f47888beda2e3603503bc">
+      <documentation>Priority 3: Talent and training&#xD;
+To adopt AI responsibly, we need people with the right technical and non-technical skills. Although Canada is a global leader in AI research, demand for AI skills significantly outpaces supply. Within the Government of Canada, there is a 30% vacancy rate for digital roles, threatening delivery and leading to a costly dependence on external contractors. As it plans for increased AI adoption, the Government of Canada must consider how it will meet its AI talent needs through training, upskilling, and recruitment so that it can optimize its use of AI to serve Canadians better.&#xD;
+&#xD;
+Key actions&#xD;
+Develop a training plan&#xD;
+Building on existing offerings from CSPS, the Government of Canada will develop a training plan for existing public servants. The developed training plan will be evergreen to match the pace of AI development. Through this plan, the Government of Canada will consider ways that AI may reshape the workforce, working with employees and their bargaining agents to prepare public servants for this change through retraining.&#xD;
+&#xD;
+The training plan will incorporate both general training and training tailored to specific personas with varying roles, levels and responsibilities. The general training will be directed at increasing understanding of and confidence in using AI, including embedded AI capabilities; developing skills associated with responsible, secure, and effective use, including effective prompt engineering; and establishing leadership programs to achieve a culture that promotes AI adoption. The tailored training will address both more specific and advanced technical skills, and the behavioural skills needed for successful adoption, such risk identification and management, and effective leadership of AI projects and teams.&#xD;
+&#xD;
+Benchmark talent needs&#xD;
+The Government of Canada will benchmark both talent requirements for AI and its employees’ existing AI knowledge and skills across the enterprise. These benchmarks will enable the development of learner personas with accompanying training plans and identify employees who could be offered further training.&#xD;
+&#xD;
+Develop a talent plan&#xD;
+Since not all talent needs can be met through training, the Government of Canada will need to develop a plan to recruit and retain talent. This plan will explore obstacles to recruitment and retention and ways to establish flexible data science career pathways for AI practitioners. It will also consider ways to expand interchanges, apprenticeships, co-op programs, and partnerships with AI institutes and research centres to create a talent pipeline. It will consider ways to make efficient use of AI talent through flexible assignments, and competitions and challenges to meet some project-based needs.&#xD;
+&#xD;
+Learn more about: AI and data talent pathways&#xD;
+To meet the challenge of AI talent needs, both departmental and government-wide initiatives are being developed to improve recruitment, retention, and reskilling:&#xD;
+&#xD;
+Digital Talent Strategy and Platform:&#xD;
+The Government of Canada is committed to strengthening AI talent and adoption through the Government of Canada Digital Talent Strategy. Its targeted initiatives include centralized AI-specific recruitment campaigns for data science graduates and the Digital Talent Platform, which simplifies the application process for individuals looking for digital careers in the Government of Canada and helps managers to find pre-qualified digital talent that matches their needs. The Strategy also focuses on developing and retaining AI talent through learning platforms, training opportunities, and partnerships with educational institutions and the Canada School of Public Service.&#xD;
+&#xD;
+Training:&#xD;
+CSPS offers a range of courses, events, and resources on AI designed to provide users with a grounding in the knowledge and skills needed for successful and responsible use. These include a data and AI learning pathway, courses, job aids, articles, and videos, and an AI event series.&#xD;
+&#xD;
+Co-op programs and internships:&#xD;
+Co-op programs are widely used by the Government of Canada as a source of new talent but have also been reimagined to support specific AI initiatives. Agriculture and Agri-Food Canada established an AI talent pipeline with three post-secondary institutions. Through it, AAFC hired 13 co-op students in 2023-24 and supported in-class projects with the institutions. From this partnership, students received course credit and employment experience, while AAFC received an AI model, with ownership of both IP and data. The Canadian Food Inspection Agency, Employment and Social Development Canada, Natural Resources Canada, and Statistics Canada have become partners with Mila, offering opportunities to recruit Mila students for internships or post-graduation roles.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Priority 4: Engagement, transparency, and value to Canadians (Value)" id="id-df6c392d106546069917fcb593891e1f">
+      <documentation>Priority 4: Engagement, accountability, and transparency, and value to Canadians&#xD;
+Despite the increasing use of AI in Canada, levels of mistrust in AI and its use are high. In public consultations on the AI Strategy, participants expressed a desire for more engagement in the process of designing and developing government AI systems, especially by those more greatly impacted by algorithmic bias or barriers to access. They asked for greater transparency about the government’s AI use through labelling of AI-generated products and information on systems in use, and for information about ways to seek explanations or recourse for decisions.&#xD;
+&#xD;
+Key actions&#xD;
+Strengthen accountability and transparency on AI use&#xD;
+The Government of Canada will continue to strengthen and clarify accountabilities for AI use in policy and in notifications about AI use. These will include new requirements and standard language for the disclosure of AI use, explanations of how an AI system reaches a decision, and information about rights and protections, including how to seek explanations or recourse and how to report problems. Lastly, the Government of Canada will identify those AI capabilities that it will not pursue.&#xD;
+&#xD;
+As part of these efforts, the Government of Canada will prioritize the establishment of a public register of its AI systems. The register will include information about all AI systems that fall within a defined scope, drawing wherever possible on information already collected through Algorithmic Impact Assessments and Personal Information Banks. The scope of the register will be defined and publicized on the register itself and will follow best practice for registers in other jurisdictions, which exclude embedded AI systems and any systems covered by specific policy prohibiting publication. The register will include information about what and how data is being used, how it was trained, and what quality assurance and privacy and security measures are in place. Where information about systems cannot be published, the Government of Canada will develop and publish alternative oversight processes.&#xD;
+&#xD;
+Demonstrate impact and value to Canadians&#xD;
+To ensure good stewardship of public resources, the Government of Canada will develop metrics and performance indicators to demonstrate the impact and value of AI initiatives to those we serve. This will track both the cost-effectiveness and cost-efficiency of AI projects through a range of financial and non-monetary metrics, including costs of implementation, efficiencies and cost savings achieved, service improvements, increased client satisfaction, or increased program uptake.&#xD;
+&#xD;
+The Government of Canada will also develop a framework to track AI adoption. This framework will incorporate metrics for the deployment of AI solutions overall, but also for metrics such as collaboration, sharing, or scaling of solutions to avoid duplication of effort, maximize investment, and reduce costs. The metrics will also track departmental investments in the enablers of AI, including data, infrastructure, and talent.&#xD;
+&#xD;
+Commit to engagement on AI&#xD;
+In keeping with its commitments to meaningful public engagement through the Directive on Open Government, and with the duty to consult, the Government of Canada commits to early and meaningful public and stakeholder engagement on AI initiatives of significant public interest or concern. This will include targeted engagement of communities that face greater impacts, risks or barriers from AI systems and union and employee engagement on workforce impacts. It will also include client participation in system design to ensure that AI systems do not create or perpetuate barriers to access for clients. The Government of Canada will also provide mechanisms for ongoing public feedback and questions on AI used by the federal government.&#xD;
+&#xD;
+Learn more about: Public AI registers&#xD;
+Public AI registers are standardized, searchable databases that document the decisions, assumptions, and processes involved in the lifecycle of AI algorithms used by government organizations. AI registers usually include:&#xD;
+&#xD;
+A non-technical overview of the AI application’s goals, use cases, and impacts.&#xD;
+The organizations responsible for the system.&#xD;
+Stage and date of system development.&#xD;
+Some registers also include information on&#xD;
+&#xD;
+Data origins, management, processing, and quality issues.&#xD;
+Model architecture, key features, parameters, performance, and source code.&#xD;
+Bias, accessibility, and how those impacted were involved in system development.&#xD;
+Risk levels and mitigation, risk-benefit trade-offs, and impact assessments.&#xD;
+Human oversight in development, decision cycles, and monitoring.&#xD;
+How those impacted can seek an explanation for decisions.&#xD;
+Relevant privacy policies, information and system governance models, supplier contracts, and audit reports.&#xD;
+Most registers exclude AI that is embedded within commercial products, such as virtual assistants or spell checkers, but encourage organizations to default to reporting systems if unsure whether they qualify. They also exclude systems that fall under law or policy prohibiting public disclosure, which may be reported to oversight bodies instead.&#xD;
+&#xD;
+From 2020 to 2024, under Executive Order 14110, the US government required all federal agencies to publish an annual inventory of their planned, new, and existing AI use cases, with exclusions only for very simple rule-based systems, robotic process automation, and defence systems. Other jurisdictions with AI registers include the Netherlands and Scotland, state governments of Texas, Vermont, Washington, and Catalonia, and municipalities of Amsterdam, Helsinki and San Jose.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Building central AI capacity to optimize and coordinate government-wide AI implementation and knowledge sharing (Value)" id="id-f4245fe5e793427393097f0e7bc318e0"/>
+    <element xsi:type="archimate:Value" name="Establishing relevant and up-to-date policy, legislation and governance to support innovation while mitigating risks (Value)" id="id-f1c7b43de3684203a728ec05c86a4a71"/>
+    <element xsi:type="archimate:Value" name="Building public trust through transparency and strong accountability (Value)" id="id-8260b44483dc43558ba84b0e97001945"/>
+    <element xsi:type="archimate:Value" name="Federal Public Service AI Strategy Key Priorities" id="id-27d4f9564ddd4a748eafa0ffdd9515ab"/>
+    <element xsi:type="archimate:Value" name="Providing training and talent development pathways (Value)" id="id-f11e140e95f94749a0735f759c81b6fc"/>
+    <element xsi:type="archimate:Value" name="AI Strategy for the Federal Public Service 2025-2027: Priority areas" id="id-6ba5df5ffbc647259c6ddf1282f08e2a">
+      <documentation>Priority areas&#xD;
+Canada’s AI Strategy for the Federal Public Service focuses on four priority areas:&#xD;
+&#xD;
+Priority 1: Central AI capacity&#xD;
+Priority 2: Policy, legislation and governance&#xD;
+Priority 3: Talent and training&#xD;
+Priority 4: Engagement, transparency, and value to Canadians&#xD;
+These priorities were developed in collaboration with a working group of departments that have responsibilities for AI policy or implementation. They were discussed throughout our consultation with partners, stakeholders and the public and in policy consultations across the Government of Canada. They address what we heard as the most pressing needs to advance responsible adoption of AI across the Government of Canada.&#xD;
+&#xD;
+Each of these priorities has a set of accompanying actions. These have been chosen because they are concrete, can be achieved or initiated within the AI Strategy’s two-year timeline, and have the greatest potential to advance responsible AI adoption within the public service. These actions include both ongoing and new work. Some will build on work already begun, or scale innovations and emerging best practices. Others are new actions to respond to emerging needs and known barriers that must be addressed if AI adoption is to succeed.&#xD;
+&#xD;
+These priorities and the associated actions reflect the time when the AI Strategy was developed. Because the future pace and direction of AI development is highly uncertain, what we and our partners, stakeholders, and clients identify as priorities may be very different at the end of the Strategy’s lifespan.&#xD;
+&#xD;
+To remain relevant in this rapidly changing landscape, the AI Strategy and its implementation plan will be reviewed frequently and will be renewed in 2027. Progress on implementation will be reported on a quarterly tracker. In this way we will model the agility needed for AI adoption, adapting our priorities to meet new needs while continuing to collaborate with users and engage those we serve.</documentation>
+    </element>
+    <element xsi:type="archimate:Driver" name="Policy on Service and Digital (Driver)" id="id-72ca0df3d6ca47c4a53784f16b70e86f">
+      <documentation>https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32603</documentation>
+    </element>
+    <element xsi:type="archimate:Driver" name="Values and Ethics Code for the Public Sector (Driver)" id="id-d45e7ab2ff8746cfa2a12429f0d77e7c">
+      <documentation>https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=25049</documentation>
+    </element>
+    <element xsi:type="archimate:Driver" name="Guide on the use of generative artificial intelligence (Driver)" id="id-e2141bada2384ddca04e527664e820cb">
+      <documentation>https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html</documentation>
+    </element>
+    <element xsi:type="archimate:Driver" name="Directive on Digital Talent (Driver)" id="id-f8e2791f477f4369a215688873f02130">
+      <documentation>https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32749</documentation>
+    </element>
+    <element xsi:type="archimate:Driver" name="Government of Canada Enterprise Architecture Framework (Driver)" id="id-d7b1fbaa72d442b6a1ab2b92763029e9">
+      <documentation>https://www.canada.ca/en/government/system/digital-government/policies-standards/government-canada-enterprise-architecture-framework.html</documentation>
+    </element>
+    <element xsi:type="archimate:Driver" name="Policy on Government Security (Driver)" id="id-c81c07ab60054370b115c2ca87138478">
+      <documentation>https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16578</documentation>
+    </element>
+    <element xsi:type="archimate:Driver" name="Digital Standards Playbook (Driver)" id="id-5c3b79fcff544cfdb1e96322188b06b2">
+      <documentation>https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html</documentation>
+    </element>
+    <element xsi:type="archimate:Driver" name="Directive on Automated Decision Making (Driver)" id="id-3d4d2cbbf3804f8399090a6d18d841d2">
+      <documentation>https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592</documentation>
+    </element>
+    <element xsi:type="archimate:Driver" name="Policy on Privacy Protection (Driver)" id="id-e3f14dfa13fa46359993ad28078a23e9"/>
+    <element xsi:type="archimate:Driver" name="Directive on Open Government (Driver)" id="id-67f6a1389cc341118cfeaae0340fd762"/>
+    <element xsi:type="archimate:Driver" name="Accessible Canada Act (Driver)" id="id-00b601030a804e49a66c321e4cfdc815"/>
+    <element xsi:type="archimate:Driver" name="United Nations Declaration on the Rights of Indigenous Peoples Act Action Plan 2023-2028 (Driver)" id="id-acd395d87cdb4519b1da39b12b85a95d"/>
+    <element xsi:type="archimate:Driver" name="Policies" id="id-e0224b74b4b744b7b2a08dd76f332d7f">
+      <documentation>Policies&#xD;
+The AI Strategy should also be read in the context of relevant laws and policies:&#xD;
+&#xD;
+Policy on Service and Digital&#xD;
+Directive on Automated Decision Making&#xD;
+Values and Ethics Code for the Public Sector&#xD;
+Guide on the use of generative artificial intelligence&#xD;
+Government of Canada Enterprise Architecture Framework&#xD;
+Directive on Digital Talent&#xD;
+Digital Standards Playbook &#xD;
+Policy on Government Security&#xD;
+Policy on Privacy Protection&#xD;
+Directive on Open Government&#xD;
+Accessible Canada Act&#xD;
+United Nations Declaration on the Rights of Indigenous Peoples Act Action Plan 2023-2028&#xD;
+&#xD;
+Together, these policies create a framework for responsible, secure and successful AI adoption.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Engagement and inclusive design (Assessment)" id="id-aaabb822a2e945fab249ef0748cd75c8">
+      <documentation>Engagement and inclusive design&#xD;
+Participants highlighted the importance of engagement and partnerships with academia, civil society, Indigenous partners, industry, and other jurisdictions on AI adoption. They also suggested holding regular public consultations to gather feedback and ensure that AI initiatives are aligned with public expectations and collaborating with international and multilateral partners to align approaches. AI systems must be designed to meet the needs of all users, especially marginalized communities, requiring engagement with groups which have specific access or accessibility needs.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Assessment" id="id-ae488c06ebfd4b1d8817ef24df8ccca1"/>
+    <element xsi:type="archimate:Assessment" name="Assessment" id="id-e32d3ab8a20c41cbba495e6af9b363ba"/>
+    <element xsi:type="archimate:Assessment" name="Assessment" id="id-3658084d53a44ee1997bc99a7e432b25"/>
+    <element xsi:type="archimate:Assessment" name="Assessment" id="id-f126a47b1bf342ceb49d5a33ab4e8d71"/>
+    <element xsi:type="archimate:Assessment" name="Assessment" id="id-0e08eb5212294698982d2709d77360a1"/>
+    <element xsi:type="archimate:Assessment" name="Assessment" id="id-d9730f12de32452db443a12f603e76ee"/>
+    <element xsi:type="archimate:Assessment" name="Assessment" id="id-069ee98d83ef4965bb26b50e8012558e"/>
+    <element xsi:type="archimate:Assessment" name="Key findings" id="id-ff20eba52e4e4547b788769049dce9ed">
+      <documentation>Key findings&#xD;
+https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/consultations-ai-strategy-federal-public-service-what-we-heard.html&#xD;
+The findings of these engagements can be found in the What We Heard report. Key themes heard from participants included:&#xD;
+&#xD;
+Engagement and inclusive design&#xD;
+Participants highlighted the importance of engagement and partnerships with academia, civil society, Indigenous partners, industry, and other jurisdictions on AI adoption. They also suggested holding regular public consultations to gather feedback and ensure that AI initiatives are aligned with public expectations and collaborating with international and multilateral partners to align approaches. AI systems must be designed to meet the needs of all users, especially marginalized communities, requiring engagement with groups which have specific access or accessibility needs.&#xD;
+&#xD;
+Ethical use&#xD;
+Respondents said comprehensive ethical guidelines for AI use in the federal public service were essential. These guidelines should cover fairness, transparency, accountability, and bias prevention. Respondents suggested regular ethical audits to ensure compliance with the guidelines and prevent harmful biases.&#xD;
+&#xD;
+Preparing the workforce&#xD;
+Participants saw a need for comprehensive retraining programs to equip public servants with the skills to work with AI technologies, and to consult bargaining agents on retraining and impacts on public service workforce.&#xD;
+&#xD;
+Infrastructure and data readiness&#xD;
+High-performance computing and cloud infrastructure should be available, secure and scalable to meet the demands of AI projects. The Government of Canada also needs continued investment in data governance frameworks to ensure that data is clean, accurate, and available for AI applications.&#xD;
+&#xD;
+Environmental impact&#xD;
+The Government of Canada should minimize the environmental impact of its AI use by deploying AI appropriately and choosing solutions that demonstrate responsible environmental practices.&#xD;
+&#xD;
+Transparency and accountability&#xD;
+Participants wanted clear communication about how and when AI is used, with labels for AI-generated content and published information about AI systems. They also wanted ways to seek explanations and recourse for system decisions.&#xD;
+&#xD;
+Potential uses for AI&#xD;
+Participants identified many administrative uses for AI, such as drafting and translating text, managing documents and inboxes, and scheduling personnel processes. They saw potential to use AI to generate insights from large public health, environmental, and economic data sets, and to extract information from legal and policy documents and public consultations to inform decisions. They also proposed using AI to make service and legal case processing more efficient.&#xD;
+&#xD;
+No-go areas&#xD;
+Areas cited by participants where AI should not be used included decisions on criminal justice cases, hiring, and social service eligibility, because of the risk of bias and the need for explainability and individual discretion. Participants also felt AI should not be used for mass data collection or surveillance, or to make policy decisions without human input.</documentation>
+    </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Gap" name="Unmanaged Data (Gap)" id="id-ed4e79d466fd4551a90d4cbfb6784e74">
@@ -7293,6 +7626,42 @@ use a standardized approach so that people can scan content quickly and easily w
     <element xsi:type="archimate:CompositionRelationship" id="id-9807978663974479892aab3bcf0ae2e3" source="id-c501672a50f84f70bbc54978320f48e8" target="id-15c01df67f984622a482a631aa65d4b9"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-2444a599f54a41dc9ca41cb2d3ae7e5e" source="id-c501672a50f84f70bbc54978320f48e8" target="id-5f58c91b69bd422d82a9dfff7ad8de08"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-eb6a22747ad84677b38703d8e70866c5" source="id-c501672a50f84f70bbc54978320f48e8" target="id-35ddf587a579469c8f94378917f3c634"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-80980a1d8be84ed9883ac4719fa6fb3c" source="id-56e2b2b3a654460f8c94fc04373690bb" target="id-bf839bd3512746358315203b938bca92"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5a2725475c7b4e3693ec7f5d7c30cd6c" source="id-4ff912e2561a48e6960d6dd8bb266b40" target="id-68719aa3444f43fca9b18ea48cc3e9e1"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-748404aeb3dc4a67a9c9985d92ae1141" source="id-4ff912e2561a48e6960d6dd8bb266b40" target="id-74f23e24f75543d3905fe96029827502"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-356775d64a564c00adeb27ed118cf6a7" source="id-4ff912e2561a48e6960d6dd8bb266b40" target="id-2e5c1e6f27fa465588537af5f8666b95"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ae2c3c58b28f4051a84ac23a27b2b8c8" source="id-4ff912e2561a48e6960d6dd8bb266b40" target="id-ca1a478df8a146fd98e5299602c7be0f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6e88e3f3a15e41e59096d35c473d8cf0" source="id-4ff912e2561a48e6960d6dd8bb266b40" target="id-4037c6a6bedf4d30b0d401d81721206c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ee7b593b3a3743a682179148f168719d" source="id-4ff912e2561a48e6960d6dd8bb266b40" target="id-a2e2516e68fc4dd7af392a2e2a83a7cd"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e0c858663db74b85b9a4209e26dee99b" source="id-4ff912e2561a48e6960d6dd8bb266b40" target="id-9911cec696b048c2aaca6cf420b6aac7"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4594044f73fb4f6eb642ac96f89119b7" source="id-4ff912e2561a48e6960d6dd8bb266b40" target="id-d5c16531b9cb4d7498ea398a1f74d1ed"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-770eb39744144bbc8d1b67ac35f4d2ff" source="id-4ff912e2561a48e6960d6dd8bb266b40" target="id-de8fcce7e7144c31a223b591f27c7d06"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7671f89c6b68487ab6042909c9767af4" source="id-4ff912e2561a48e6960d6dd8bb266b40" target="id-5b0ea0e6dcc94ca5958173608ebf82ee"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-0a5ca025ed8f493ca7ad70d5fcc13cef" source="id-6ba5df5ffbc647259c6ddf1282f08e2a" target="id-df6c392d106546069917fcb593891e1f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-0aabc8bd4e89496eaad0a9d3c9935ca7" source="id-6ba5df5ffbc647259c6ddf1282f08e2a" target="id-3db2193f082f47888beda2e3603503bc"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2f34fd57968943cebe7fffe869447fe9" source="id-6ba5df5ffbc647259c6ddf1282f08e2a" target="id-6a15c606efb440699bc6024e6cf340a9"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-122f264241c34575955d0092ca035619" source="id-6ba5df5ffbc647259c6ddf1282f08e2a" target="id-50e26c179d574e5eb9ffffea8db520ad"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-aa8418b4968942e69e24e2eb0285fbff" source="id-27d4f9564ddd4a748eafa0ffdd9515ab" target="id-f11e140e95f94749a0735f759c81b6fc"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-65edc095f35b4524b82f88cd9f050eed" source="id-27d4f9564ddd4a748eafa0ffdd9515ab" target="id-8260b44483dc43558ba84b0e97001945"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-aba52bd74c1749dab41ffe2efac7ea03" source="id-27d4f9564ddd4a748eafa0ffdd9515ab" target="id-f4245fe5e793427393097f0e7bc318e0"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-896b259dab154698b9160c40200e2f8a" source="id-27d4f9564ddd4a748eafa0ffdd9515ab" target="id-f1c7b43de3684203a728ec05c86a4a71"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c61f2dc2d160403fa79744b981387340" source="id-d1bf0abe67f24c4bb9a9e05ce05b2303" target="id-56230978fea94e8e941abac4dea1e553"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4d0247a782194db190386b0e8b08d685" source="id-d1bf0abe67f24c4bb9a9e05ce05b2303" target="id-e42e0eb027af47b1ad2e068be3a1ed98"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6f649b33a96e4eff9dc9ce9c526fc637" source="id-d1bf0abe67f24c4bb9a9e05ce05b2303" target="id-31b5142296234123a32482345e41637c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b0c4097e57674eb6bc69b754b3a26449" source="id-d1bf0abe67f24c4bb9a9e05ce05b2303" target="id-090c941216104cfb8e5527e0593aabe7"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-23db4a347c724c8f808abf3c0e6869a6" source="id-d1bf0abe67f24c4bb9a9e05ce05b2303" target="id-97067fd1983646b0819b22036d011aaf"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-74b00ca0bfec492bb485dff76f6e170b" source="id-e0224b74b4b744b7b2a08dd76f332d7f" target="id-00b601030a804e49a66c321e4cfdc815"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a4ddec3a69a545beb2716541d6e49808" source="id-e0224b74b4b744b7b2a08dd76f332d7f" target="id-e2141bada2384ddca04e527664e820cb"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c1182a19f2d14c6eb588f768e7fb332a" source="id-e0224b74b4b744b7b2a08dd76f332d7f" target="id-5c3b79fcff544cfdb1e96322188b06b2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7eb6462b7fa045a3b22b6d3950a7670b" source="id-e0224b74b4b744b7b2a08dd76f332d7f" target="id-f8e2791f477f4369a215688873f02130"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e6760a3bb2f14f39a4b1432c61f41f27" source="id-e0224b74b4b744b7b2a08dd76f332d7f" target="id-d45e7ab2ff8746cfa2a12429f0d77e7c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e6b38f2edf044db6b35892b059bb7d74" source="id-e0224b74b4b744b7b2a08dd76f332d7f" target="id-3d4d2cbbf3804f8399090a6d18d841d2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b69583ae9e494deb9ba1292c1a936c73" source="id-e0224b74b4b744b7b2a08dd76f332d7f" target="id-67f6a1389cc341118cfeaae0340fd762"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-9ef6f1a2f490480eabb928555f068460" source="id-e0224b74b4b744b7b2a08dd76f332d7f" target="id-72ca0df3d6ca47c4a53784f16b70e86f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5dc7e10ee19249709eaab64f0a92a5c4" source="id-e0224b74b4b744b7b2a08dd76f332d7f" target="id-d7b1fbaa72d442b6a1ab2b92763029e9"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-482bd8e452bd4f63804a56e1e7462a8f" source="id-e0224b74b4b744b7b2a08dd76f332d7f" target="id-c81c07ab60054370b115c2ca87138478"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e85685b856db45c2b271f0d7e68f1590" source="id-e0224b74b4b744b7b2a08dd76f332d7f" target="id-acd395d87cdb4519b1da39b12b85a95d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3e4ad5cfe12145ea8f4cb5ce4f918a2e" source="id-e0224b74b4b744b7b2a08dd76f332d7f" target="id-e3f14dfa13fa46359993ad28078a23e9"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -11801,6 +12170,224 @@ v0.1.20231229</content>
           <content>DIAGRAM NOT ENDORSED</content>
         </child>
       </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="GC AI Strategy For FPS" id="id-81240327773e429aa4a94d716f36e1ea">
+        <child xsi:type="archimate:Note" id="id-a73d2ec2a11c4cb0aec64de8ad05fdbd" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="10" y="23" width="867" height="63"/>
+          <content>Name (En) - GC's Artificial Intelligence Strategy for the Federal Public Service 2025-27&#xD;
+Name (FR) - Stratégie en matière d’IA pour la fonction publique fédérale 2025-27</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-6dcd848c9281406ea974d17a5346839f" textAlignment="1">
+          <bounds x="757" y="31" width="120" height="55"/>
+          <content>(DRAFT)&#xD;
+2025-03-04&#xD;
+v0.1.20250429</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-b67d5296ab814fc9a5c5629d989aa36a" font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
+          <bounds x="888" y="25" width="259" height="59"/>
+          <content>DIAGRAM NOT ENDORSED</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-f6a3ce8a8acb46878977295481f806b1" archimateElement="id-56e2b2b3a654460f8c94fc04373690bb">
+          <bounds x="997" y="95" width="128" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-fc8c3f0221224dcdb53251f846a5b6c4" source="id-f6a3ce8a8acb46878977295481f806b1" target="id-990705e0af81414bacdfa095018342b9" archimateRelationship="id-80980a1d8be84ed9883ac4719fa6fb3c"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-990705e0af81414bacdfa095018342b9" targetConnections="id-fc8c3f0221224dcdb53251f846a5b6c4" archimateElement="id-bf839bd3512746358315203b938bca92">
+          <bounds x="984" y="168" width="153" height="118"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-c46166a091fc4c6c89b4cc3f036836c1" archimateElement="id-4ff912e2561a48e6960d6dd8bb266b40">
+          <bounds x="348" y="108" width="613" height="397"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cd5d4aae844449d19db1fcbe2aee2443" source="id-c46166a091fc4c6c89b4cc3f036836c1" target="id-1b813ce9ce7a45c3aa39f5048a7488a0" archimateRelationship="id-5a2725475c7b4e3693ec7f5d7c30cd6c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4d2c4d486175414a8f3cb17db9079236" source="id-c46166a091fc4c6c89b4cc3f036836c1" target="id-b4178d1688784fb3b8fc47f78c7d9de1" archimateRelationship="id-748404aeb3dc4a67a9c9985d92ae1141"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-46ca31b5a5d341c5982f58599b6af64f" source="id-c46166a091fc4c6c89b4cc3f036836c1" target="id-bff88e73beae41efba088725eab966c5" archimateRelationship="id-356775d64a564c00adeb27ed118cf6a7"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-aaee1d36d9634e67b1e18ffe38733117" source="id-c46166a091fc4c6c89b4cc3f036836c1" target="id-455353b32b2b4c30b92ea5dcb6fde5a8" archimateRelationship="id-ae2c3c58b28f4051a84ac23a27b2b8c8"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b925b0aecf414ce78e99d050572bb17e" source="id-c46166a091fc4c6c89b4cc3f036836c1" target="id-442d24a520a64bd0a3db6ab58b183bca" archimateRelationship="id-6e88e3f3a15e41e59096d35c473d8cf0"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a0b19b7953aa4fcc9c2142685ec87ead" source="id-c46166a091fc4c6c89b4cc3f036836c1" target="id-7ba6d6b4ca3f4171a78580520f9dff80" archimateRelationship="id-ee7b593b3a3743a682179148f168719d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b3a9497a3cb048cbbc31d0b29c7eb239" source="id-c46166a091fc4c6c89b4cc3f036836c1" target="id-9a4321eadbd847f8a0e9678ecfb8df7d" archimateRelationship="id-e0c858663db74b85b9a4209e26dee99b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ecab5048d5ea43debee4d0d47da2c5b0" source="id-c46166a091fc4c6c89b4cc3f036836c1" target="id-3df94ff4836f45c48b2032522568b1e0" archimateRelationship="id-4594044f73fb4f6eb642ac96f89119b7"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-897e54f2aecb47d99fcfb2fccd3c4545" source="id-c46166a091fc4c6c89b4cc3f036836c1" target="id-ac57683c46984cb595a228d298b20080" archimateRelationship="id-770eb39744144bbc8d1b67ac35f4d2ff"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d49bcfd473de4d8b849b47fdd56e1e2d" source="id-c46166a091fc4c6c89b4cc3f036836c1" target="id-04bf30dbc6644244872cd32255428c60" archimateRelationship="id-7671f89c6b68487ab6042909c9767af4"/>
+          <child xsi:type="archimate:DiagramObject" id="id-1b813ce9ce7a45c3aa39f5048a7488a0" targetConnections="id-cd5d4aae844449d19db1fcbe2aee2443" archimateElement="id-68719aa3444f43fca9b18ea48cc3e9e1">
+            <bounds x="12" y="111" width="297" height="43"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b4178d1688784fb3b8fc47f78c7d9de1" targetConnections="id-4d2c4d486175414a8f3cb17db9079236" archimateElement="id-74f23e24f75543d3905fe96029827502">
+            <bounds x="308" y="36" width="297" height="117"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-bff88e73beae41efba088725eab966c5" targetConnections="id-46ca31b5a5d341c5982f58599b6af64f" archimateElement="id-2e5c1e6f27fa465588537af5f8666b95">
+            <bounds x="12" y="291" width="297" height="76"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-455353b32b2b4c30b92ea5dcb6fde5a8" targetConnections="id-aaee1d36d9634e67b1e18ffe38733117" archimateElement="id-ca1a478df8a146fd98e5299602c7be0f">
+            <bounds x="308" y="291" width="297" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-442d24a520a64bd0a3db6ab58b183bca" targetConnections="id-b925b0aecf414ce78e99d050572bb17e" archimateElement="id-4037c6a6bedf4d30b0d401d81721206c">
+            <bounds x="12" y="36" width="297" height="76"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7ba6d6b4ca3f4171a78580520f9dff80" targetConnections="id-a0b19b7953aa4fcc9c2142685ec87ead" archimateElement="id-a2e2516e68fc4dd7af392a2e2a83a7cd">
+            <bounds x="12" y="216" width="297" height="76"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9a4321eadbd847f8a0e9678ecfb8df7d" targetConnections="id-b3a9497a3cb048cbbc31d0b29c7eb239" archimateElement="id-9911cec696b048c2aaca6cf420b6aac7">
+            <bounds x="12" y="153" width="297" height="64"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3df94ff4836f45c48b2032522568b1e0" targetConnections="id-ecab5048d5ea43debee4d0d47da2c5b0" archimateElement="id-d5c16531b9cb4d7498ea398a1f74d1ed">
+            <bounds x="308" y="153" width="297" height="100"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ac57683c46984cb595a228d298b20080" targetConnections="id-897e54f2aecb47d99fcfb2fccd3c4545" archimateElement="id-de8fcce7e7144c31a223b591f27c7d06">
+            <bounds x="308" y="330" width="297" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-04bf30dbc6644244872cd32255428c60" targetConnections="id-d49bcfd473de4d8b849b47fdd56e1e2d" archimateElement="id-5b0ea0e6dcc94ca5958173608ebf82ee">
+            <bounds x="308" y="252" width="297" height="40"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-8a7b7f2539ed41ca8a16348cc23d1b37" archimateElement="id-43d1650c116946db8a61524ba8bca871">
+          <bounds x="348" y="528" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1dfc43e7d7fd495788d1e47b3c6d4562" archimateElement="id-6624212894f84a819a9f2f764e2cc40d">
+          <bounds x="348" y="582" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-162a0549d85840b4974fcea7e1957ff9" archimateElement="id-b06377bdc7ad438d8ec122b20e7d1ab8">
+          <bounds x="467" y="582" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-2d613a42143f475eb7ff7e54e70044cb" archimateElement="id-103ae41b4aaa4c9bbbe5b12aa8b83f0c">
+          <bounds x="467" y="528" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-549a0c3ac6444d288ea525b020e33dd9" archimateElement="id-27d4f9564ddd4a748eafa0ffdd9515ab">
+          <bounds x="12" y="108" width="325" height="277"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-15041abac3ad4775bb5e3abe7d657b06" source="id-549a0c3ac6444d288ea525b020e33dd9" target="id-aa5da29c4cbf4bb8bd36b370ae058a87" archimateRelationship="id-aa8418b4968942e69e24e2eb0285fbff"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f41a515fb85d456abfa6272baa38a299" source="id-549a0c3ac6444d288ea525b020e33dd9" target="id-5a74bc1229ed432293f648c8c167c92f" archimateRelationship="id-65edc095f35b4524b82f88cd9f050eed"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-52f6a714b9ee471a9f9220799cabd161" source="id-549a0c3ac6444d288ea525b020e33dd9" target="id-2886974d80fc4d90ae90ec2e4b953d80" archimateRelationship="id-aba52bd74c1749dab41ffe2efac7ea03"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-16a5f3e73e1942daa3d16ad527d4bd63" source="id-549a0c3ac6444d288ea525b020e33dd9" target="id-48feec2de6dc454295a00e75f5c154cd" archimateRelationship="id-896b259dab154698b9160c40200e2f8a"/>
+          <child xsi:type="archimate:DiagramObject" id="id-aa5da29c4cbf4bb8bd36b370ae058a87" targetConnections="id-15041abac3ad4775bb5e3abe7d657b06" archimateElement="id-f11e140e95f94749a0735f759c81b6fc">
+            <bounds x="12" y="159" width="297" height="43"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5a74bc1229ed432293f648c8c167c92f" targetConnections="id-f41a515fb85d456abfa6272baa38a299" archimateElement="id-8260b44483dc43558ba84b0e97001945">
+            <bounds x="12" y="213" width="297" height="49"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-2886974d80fc4d90ae90ec2e4b953d80" targetConnections="id-52f6a714b9ee471a9f9220799cabd161" archimateElement="id-f4245fe5e793427393097f0e7bc318e0">
+            <bounds x="12" y="24" width="297" height="58"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-48feec2de6dc454295a00e75f5c154cd" targetConnections="id-16a5f3e73e1942daa3d16ad527d4bd63" archimateElement="id-f1c7b43de3684203a728ec05c86a4a71">
+            <bounds x="12" y="93" width="297" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-87b97217dfb84ebb9201260d5a743009" archimateElement="id-6ba5df5ffbc647259c6ddf1282f08e2a">
+          <bounds x="36" y="396" width="229" height="325"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a8a3ee0ff470451fac96da1059c1fd45" source="id-87b97217dfb84ebb9201260d5a743009" target="id-47efb9e04c354e61a8cac86b943f1d1b" archimateRelationship="id-0a5ca025ed8f493ca7ad70d5fcc13cef"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7e6b48c43e164510bf56e12f800608cc" source="id-87b97217dfb84ebb9201260d5a743009" target="id-66d25d55148f4706963d1f3cdca40c69" archimateRelationship="id-0aabc8bd4e89496eaad0a9d3c9935ca7"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6154b3e6391c45aca924e5509e150b29" source="id-87b97217dfb84ebb9201260d5a743009" target="id-a33e464803fe4e608bb2edc074713f2b" archimateRelationship="id-2f34fd57968943cebe7fffe869447fe9"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-eee20996232144d2913b49ce7abe1e08" source="id-87b97217dfb84ebb9201260d5a743009" target="id-16e7528a53fc4cbcb7090fb4d8c6a2f9" archimateRelationship="id-122f264241c34575955d0092ca035619"/>
+          <child xsi:type="archimate:DiagramObject" id="id-47efb9e04c354e61a8cac86b943f1d1b" targetConnections="id-a8a3ee0ff470451fac96da1059c1fd45" archimateElement="id-df6c392d106546069917fcb593891e1f">
+            <bounds x="24" y="245" width="174" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-66d25d55148f4706963d1f3cdca40c69" targetConnections="id-7e6b48c43e164510bf56e12f800608cc" archimateElement="id-3db2193f082f47888beda2e3603503bc">
+            <bounds x="24" y="178" width="174" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a33e464803fe4e608bb2edc074713f2b" targetConnections="id-6154b3e6391c45aca924e5509e150b29" archimateElement="id-6a15c606efb440699bc6024e6cf340a9">
+            <bounds x="24" y="48" width="174" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-16e7528a53fc4cbcb7090fb4d8c6a2f9" targetConnections="id-eee20996232144d2913b49ce7abe1e08" archimateElement="id-50e26c179d574e5eb9ffffea8db520ad">
+            <bounds x="24" y="114" width="174" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-89bc94ebeaa2459ca91da5aa43204c01" archimateElement="id-d1bf0abe67f24c4bb9a9e05ce05b2303">
+          <bounds x="1176" y="23" width="205" height="337"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-682ccff6dea3494aa63b66839838db11" source="id-89bc94ebeaa2459ca91da5aa43204c01" target="id-1c1ef58287a84af781a23790fd7b5fe1" archimateRelationship="id-c61f2dc2d160403fa79744b981387340"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4b2b106d120c4641bfc5eb4ad48e58e4" source="id-89bc94ebeaa2459ca91da5aa43204c01" target="id-b6db27815ee942b595d46935fbdfa373" archimateRelationship="id-4d0247a782194db190386b0e8b08d685"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2b0033fd0c5a49bab9c80fdee5262393" source="id-89bc94ebeaa2459ca91da5aa43204c01" target="id-3f08b2333eb144869b5f515efc44f5e0" archimateRelationship="id-6f649b33a96e4eff9dc9ce9c526fc637"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8ba370e584584b06964b06606d286682" source="id-89bc94ebeaa2459ca91da5aa43204c01" target="id-ec1be60a040947a0aea759a5e100fbf4" archimateRelationship="id-b0c4097e57674eb6bc69b754b3a26449"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-498cfc9d0e8d4790a5f4c2aa4bc1fbdf" source="id-89bc94ebeaa2459ca91da5aa43204c01" target="id-9c40f909d0014431b27e39a76e72291c" archimateRelationship="id-23db4a347c724c8f808abf3c0e6869a6"/>
+          <child xsi:type="archimate:DiagramObject" id="id-1c1ef58287a84af781a23790fd7b5fe1" targetConnections="id-682ccff6dea3494aa63b66839838db11" archimateElement="id-56230978fea94e8e941abac4dea1e553">
+            <bounds x="12" y="42" width="176" height="39"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b6db27815ee942b595d46935fbdfa373" targetConnections="id-4b2b106d120c4641bfc5eb4ad48e58e4" archimateElement="id-e42e0eb027af47b1ad2e068be3a1ed98">
+            <bounds x="12" y="134" width="176" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3f08b2333eb144869b5f515efc44f5e0" targetConnections="id-2b0033fd0c5a49bab9c80fdee5262393" archimateElement="id-31b5142296234123a32482345e41637c">
+            <bounds x="12" y="266" width="176" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ec1be60a040947a0aea759a5e100fbf4" targetConnections="id-8ba370e584584b06964b06606d286682" archimateElement="id-090c941216104cfb8e5527e0593aabe7">
+            <bounds x="12" y="200" width="176" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9c40f909d0014431b27e39a76e72291c" targetConnections="id-498cfc9d0e8d4790a5f4c2aa4bc1fbdf" archimateElement="id-97067fd1983646b0819b22036d011aaf">
+            <bounds x="12" y="92" width="176" height="37"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-727a1185f48245ef9236cdfeb7461657" archimateElement="id-e0224b74b4b744b7b2a08dd76f332d7f">
+          <bounds x="1404" y="31" width="360" height="408"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-594a6909c1144efc9bd39024003b2943" source="id-727a1185f48245ef9236cdfeb7461657" target="id-8597e63ba5fa4ac8aa787fc774ed6849" archimateRelationship="id-74b00ca0bfec492bb485dff76f6e170b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-060068913fc144229a4bef09e4c33023" source="id-727a1185f48245ef9236cdfeb7461657" target="id-0b4018081bf44383a0e71a368869fb73" archimateRelationship="id-a4ddec3a69a545beb2716541d6e49808"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-eecf8d7926084ce7b3c0795ad89d8688" source="id-727a1185f48245ef9236cdfeb7461657" target="id-c899ea12d33449ad93748f7fd33b0c30" archimateRelationship="id-c1182a19f2d14c6eb588f768e7fb332a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-54c133cd294042fe81d52941d71e1ae6" source="id-727a1185f48245ef9236cdfeb7461657" target="id-1d033ebd71ec42c79fc2fc6c8bb30a47" archimateRelationship="id-7eb6462b7fa045a3b22b6d3950a7670b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-94286e85c5dd4770b7a3170fe811787b" source="id-727a1185f48245ef9236cdfeb7461657" target="id-f6322b9b713f46828cb23eef117f0244" archimateRelationship="id-e6760a3bb2f14f39a4b1432c61f41f27"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-279a47b5647646d29a29ab6620141e43" source="id-727a1185f48245ef9236cdfeb7461657" target="id-9bba5bb5db3d4a60819d603db60c68c7" archimateRelationship="id-e6b38f2edf044db6b35892b059bb7d74"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-797f4bff3d7847de959929f4ec799eff" source="id-727a1185f48245ef9236cdfeb7461657" target="id-c513e86baa684ecb8a81e7bcdd0496b2" archimateRelationship="id-b69583ae9e494deb9ba1292c1a936c73"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-49264a681b764171a8ccf169713c5efd" source="id-727a1185f48245ef9236cdfeb7461657" target="id-3dffd6dc655a48c9a081f3ba2fc1b92c" archimateRelationship="id-9ef6f1a2f490480eabb928555f068460"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7918b92084324bedb75327e0332b19ae" source="id-727a1185f48245ef9236cdfeb7461657" target="id-e66e821c77744df4bbf0c5d8b344a468" archimateRelationship="id-5dc7e10ee19249709eaab64f0a92a5c4"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d0bebb87ca654b7a95d754bf07cc99d1" source="id-727a1185f48245ef9236cdfeb7461657" target="id-74a3f6506f2c4c8489f286a269e58e47" archimateRelationship="id-482bd8e452bd4f63804a56e1e7462a8f"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-757d462831ea47e6b7eb84b0da6ec0fa" source="id-727a1185f48245ef9236cdfeb7461657" target="id-4882a6f4760e4b7c98787c52353e7d19" archimateRelationship="id-e85685b856db45c2b271f0d7e68f1590"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-10dd148e799f427f88965167ca5cffaf" source="id-727a1185f48245ef9236cdfeb7461657" target="id-941e753860b745a9ae1d8aef972f25d5" archimateRelationship="id-3e4ad5cfe12145ea8f4cb5ce4f918a2e"/>
+          <child xsi:type="archimate:DiagramObject" id="id-8597e63ba5fa4ac8aa787fc774ed6849" targetConnections="id-594a6909c1144efc9bd39024003b2943" archimateElement="id-00b601030a804e49a66c321e4cfdc815">
+            <bounds x="185" y="255" width="164" height="37"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0b4018081bf44383a0e71a368869fb73" targetConnections="id-060068913fc144229a4bef09e4c33023" archimateElement="id-e2141bada2384ddca04e527664e820cb">
+            <bounds x="12" y="207" width="164" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-c899ea12d33449ad93748f7fd33b0c30" targetConnections="id-eecf8d7926084ce7b3c0795ad89d8688" archimateElement="id-5c3b79fcff544cfdb1e96322188b06b2">
+            <bounds x="185" y="24" width="164" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1d033ebd71ec42c79fc2fc6c8bb30a47" targetConnections="id-54c133cd294042fe81d52941d71e1ae6" archimateElement="id-f8e2791f477f4369a215688873f02130">
+            <bounds x="12" y="352" width="164" height="36"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f6322b9b713f46828cb23eef117f0244" targetConnections="id-94286e85c5dd4770b7a3170fe811787b" archimateElement="id-d45e7ab2ff8746cfa2a12429f0d77e7c">
+            <bounds x="12" y="147" width="164" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9bba5bb5db3d4a60819d603db60c68c7" targetConnections="id-279a47b5647646d29a29ab6620141e43" archimateElement="id-3d4d2cbbf3804f8399090a6d18d841d2">
+            <bounds x="12" y="82" width="164" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-c513e86baa684ecb8a81e7bcdd0496b2" targetConnections="id-797f4bff3d7847de959929f4ec799eff" archimateElement="id-67f6a1389cc341118cfeaae0340fd762">
+            <bounds x="185" y="195" width="164" height="49"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3dffd6dc655a48c9a081f3ba2fc1b92c" targetConnections="id-49264a681b764171a8ccf169713c5efd" archimateElement="id-72ca0df3d6ca47c4a53784f16b70e86f">
+            <bounds x="12" y="24" width="164" height="49"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e66e821c77744df4bbf0c5d8b344a468" targetConnections="id-7918b92084324bedb75327e0332b19ae" archimateElement="id-d7b1fbaa72d442b6a1ab2b92763029e9">
+            <bounds x="12" y="273" width="164" height="67"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-74a3f6506f2c4c8489f286a269e58e47" targetConnections="id-d0bebb87ca654b7a95d754bf07cc99d1" archimateElement="id-c81c07ab60054370b115c2ca87138478">
+            <bounds x="185" y="75" width="164" height="49"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-4882a6f4760e4b7c98787c52353e7d19" targetConnections="id-757d462831ea47e6b7eb84b0da6ec0fa" archimateElement="id-acd395d87cdb4519b1da39b12b85a95d">
+            <bounds x="185" y="298" width="164" height="90"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-941e753860b745a9ae1d8aef972f25d5" targetConnections="id-10dd148e799f427f88965167ca5cffaf" archimateElement="id-e3f14dfa13fa46359993ad28078a23e9">
+            <bounds x="185" y="136" width="164" height="48"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-31b36f3fd859445f9b60e55291c997f9" archimateElement="id-aaabb822a2e945fab249ef0748cd75c8">
+          <bounds x="1105" y="505" width="174" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-7169fd2f75dd4e3f8daab69ed3912c81" archimateElement="id-ae488c06ebfd4b1d8817ef24df8ccca1">
+          <bounds x="1284" y="505" width="174" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1e3471784abb4e009b6b026ddf0d71ba" archimateElement="id-e32d3ab8a20c41cbba495e6af9b363ba">
+          <bounds x="1105" y="567" width="174" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-edfa1e3285454652a94b558ad2f1d297" archimateElement="id-3658084d53a44ee1997bc99a7e432b25">
+          <bounds x="1105" y="636" width="174" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b333ca4393014d9ba5cd2328e26c6134" archimateElement="id-f126a47b1bf342ceb49d5a33ab4e8d71">
+          <bounds x="1284" y="567" width="174" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-d9c4b708835448ea9ea82fc7dcd761c8" archimateElement="id-0e08eb5212294698982d2709d77360a1">
+          <bounds x="1104" y="696" width="174" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1c47ba80d6b84893ba1ab3ec829ede71" archimateElement="id-d9730f12de32452db443a12f603e76ee">
+          <bounds x="1284" y="636" width="174" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-e0d3d888282343f690da4f130af404d1" archimateElement="id-069ee98d83ef4965bb26b50e8012558e">
+          <bounds x="1284" y="696" width="174" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3dc4164ef3eb40d08189671d08f02366" archimateElement="id-ff20eba52e4e4547b788769049dce9ed">
+          <bounds x="1488" y="468" width="372" height="444"/>
+        </child>
+      </element>
     </folder>
     <folder name="GC Language" id="id-43ad03cf472643fb9d735306dc35af0a">
       <element xsi:type="archimate:ArchimateDiagramModel" name="GC Plain Language Note-Taking" id="id-f70e388c803f4b2f9a2d92c5a1c23fab">
@@ -12509,7 +13096,7 @@ Sponsoring Branch HRSB</content>
 v0.1.20250424</content>
         </child>
         <child xsi:type="archimate:Note" id="id-59c28401b3544fd99ccab01eea08989e" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
-          <bounds x="793" y="35" width="149" height="108"/>
+          <bounds x="797" y="12" width="149" height="108"/>
           <content>DIAGRAM NOT ENDORSED</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-f2e969bb8e994d969f885441355ff5c0" archimateElement="id-81b369eed670495e929dd67c383a6609">
