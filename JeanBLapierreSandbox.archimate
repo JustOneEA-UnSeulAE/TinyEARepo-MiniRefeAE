@@ -2531,6 +2531,70 @@ Moderators should have access to the Presenters' contact info, in case something
     <element xsi:type="archimate:BusinessRole" name="Secretary of State (Seniors)" id="id-2ce613ee1c1941ef81248ff7200ca6da"/>
     <element xsi:type="archimate:BusinessRole" name="Secretary of State (Labour)" id="id-ead7b1314f744c9d91499d3da6587de8"/>
     <element xsi:type="archimate:BusinessRole" name="Prime Minister of Canada" id="id-84e05525184540d7be5d5b6a7c782966"/>
+    <element xsi:type="archimate:Product" name="Employee Personnel Record [Bank Number PSE 901] (Product)" id="id-db06ca0ede0c49788bbf89abc7faf915">
+      <documentation>Employee Personnel Record&#xD;
+&#xD;
+Description: This bank describes information about an individual’s employment with government institutions. Personal information may include name, contact information, biographical information (including any military service, professional certifications or designations), citizenship status, date and place of birth, educational information, employee identification number, employment equity information, delegated authorities given or assets loaned to employees (e.g., staffing and financial signing authorities, usage of institutional materiel), alternative work arrangements (e.g., telework, compressed work week), information related to superannuation, benefits, training and development, grievances, security incidents, any other employment-related requirements (e.g., firearms permits, security clearances, passport/visa information), financial information (for pay administration), medical information (including any special needs identified under duty to accommodate, or in the event of an emergency), other identification numbers, signature and Social Insurance Number (SIN). Employment equity information will only be used for the primary purposes, not for the consistent uses listed.&#xD;
+&#xD;
+Class of Individuals: Current and former employees of government institutions, emergency contacts of employees, and may also include spouses, dependants, and beneficiaries.&#xD;
+&#xD;
+Purpose: Personal information is used to facilitate personnel administration in the employing institution and to ensure continuity and accuracy when an employee is transferred to another institution. For most government institutions, personal information is collected under the authority of the Public Service Employment Act (PSEA). For those institutions not subject to the (PSEA), consult the institution’s Access to Information and Privacy Coordinator to determine the legal authority for the collection. The Social Insurance Number is collected pursuant to the Income Tax Act.&#xD;
+&#xD;
+Consistent Uses: Information is disclosed to Canada Revenue Agency refer to Individual Returns and Payment Processing – CRA PPU 005 (http://www.cra-arc.gc.ca/gncy/tp/nfsrc/nfsrc-eng.html) and to the Province of Quebec (where applicable) for income tax purposes. Information is also disclosed to Employment and Social Development Canada (ESDC) for employment insurance and pension purposes. Information may also be disclosed to Public Works and Government Services Canada (PWGSC) to facilitate payment of salary including direct deposit refer to Bank Public Service Compensation Systems - PWGSC PCE 705 (http://www.tpsgc-pwgsc.gc.ca/aiprp-atip/ressources-resources/infosource-eng.html). Where applicable, information may also be disclosed to various provincial health insurance plans or third-party group insurance companies. Information may be used to confirm the identity of employees for access to government and institutional information technology infrastructure. Where applicable, information may be disclosed to Shared Services Canada (SSC). Selected information is shared with previous employers for the purpose of finalizing payments, including retroactive payments and the recovery of outstanding amounts owing to the Crown. Information may be used for general human resource management purposes, including to verify and report on policy compliance. In instances of suspected non-compliance, information may be disclosed to the institution’s security and/or staff relations officials for further investigations or disciplinary actions (refer to PSU 939 Security Incidents and Privacy Breaches (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-personal-information-banks.html#psu939) and PSE 911 Discipline (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-personal-information-banks.html#pse911)). Information may also be used or disclosed for program evaluation purposes.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/005 and 98/018&#xD;
+Related Record Number: PRN 920 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn920)&#xD;
+Bank Number: PSE 901</documentation>
+    </element>
+    <element xsi:type="archimate:Representation" name="Categories of Personal Information (Representation)" id="id-1660d62857d64dd0a0db9ca3fa61477d">
+      <documentation>Categories of Personal Information&#xD;
+&#xD;
+The Description section in a personal information bank (PIB) describes the personal information in the records to which the bank relates. Treasury Board Secretariat has established the following categories of personal information, which give examples of specific elements of personal information that fall under each category. The purpose of the categories is to reduce the number of personal information elements that need to be listed in the Description section. These categories are representative of the personal information collected by most institutions, and they now appear in many of the registered PIBs.&#xD;
+&#xD;
+ - Biographical information (e.g. work history, curriculum vitae, family information, hobbies, interests, etc.)&#xD;
+ - Biometric information (e.g. blood type, eye or facial scan, DNA, finger / hand prints, etc.)&#xD;
+ - Contact information (e.g. work and / or home information, including postal and e-mail addresses, telephone, fax, cell phone numbers, etc.)&#xD;
+ - Citizenship status (e.g. citizen, landed immigrant, etc.)&#xD;
+ - Credit card information&#xD;
+ - Credit history (e.g. credit reports / scores, liens, bankruptcies, third-party collections, etc.)&#xD;
+ - Criminal checks / history (e.g. information related to criminal record checks, investigations, charges, conviction dates and locations, pardons, etc.)&#xD;
+ - Date of birth&#xD;
+ - Date of death&#xD;
+ - Employee identification number (e.g. Personal Record Identifier, RCMP regimental number, Canadian Forces service number, etc.)&#xD;
+ - Employment equity information (i.e. information about aboriginal peoples, members of visible minorities, persons with disabilities, and women)&#xD;
+ - Employee personnel information (e.g. records of attendance and leave, notices of disciplinary action, alternative work arrangements, decisions concerning compensation and fitness for work, official languages qualifications, salary, deductions, level of security clearance, performance reviews and appraisals, rating board assessments, including evaluation notes from staffing boards, training and development course applications and evaluations, etc.)&#xD;
+ - Financial information (e.g. income, investments, mortgages, loans, orders of garnishment, financial institution information for direct deposit and other banking purposes, including name and branch number of institution, account number(s) and name(s) on accounts, etc.)&#xD;
+ - Gender&#xD;
+ - Language (e.g. mother tongue, official and other languages, etc.)&#xD;
+ - Medical information (e.g. psychological assessments, physical disabilities, blood type, medical conditions, etc.)&#xD;
+ - Name (e.g. last name (surname/family name), given names (first, second or more), maiden name, nicknames, aliases, etc.)&#xD;
+ - Opinion or views of, or about, individuals&#xD;
+ - Other identification numbers (e.g. fishing license, driver’s license, etc.)&#xD;
+ - Photos&#xD;
+ - Physical attributes (e.g. height, weight, colour of hair and eyes, physical markings (scars, tattoos, body piercing), etc.)&#xD;
+ - Place of birth&#xD;
+ - Place of death&#xD;
+ - Signature&#xD;
+ - Social Insurance Number (SIN)</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="Product" id="id-af82f5c7e6fd455f85e9c3bf3eb34edc"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-36ee8fce616e461da78f33fc2efd95b1"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-398d77db85f34058a8d15c9ce3f78eab"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-4166016b5b8a4f069b1827c9b3fef4ba"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-78af7af102da4bd09893f52dafd0fa9f"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-ff90953df97544e8878b91ee85002d9b"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-d043f5a69bb24ee98bcdcd7c643f5a9b"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-8ee49a379ad94154b3efccc640d78ed7"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-186f1b4398e343668d47d6dc989d473b"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-133b1b8337c344cfa3beedd61a721d46"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-290a15be47b144bebe6fb8b023beb18e"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-e26daf8238074e90a21527e38b280de7"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-9a149db4de8942b287ab7e58dcc270ea"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-6251d2822ecb4067b934835c4e22c0fc"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-41c107c0eb9d40e0acfa6c59f4e7781c"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-dbc47f0c898e4f9e8cc916c5d86549d6"/>
   </folder>
   <folder name="Application" id="id-4c073bc2342b490eae44200c8635c571" type="application">
     <element xsi:type="archimate:DataObject" name="Drupal-Sourced Data (Data Object)" id="id-a36acbc1b6124a03991eae20826f88c9">
@@ -5760,6 +5824,9 @@ Areas cited by participants where AI should not be used included decisions on cr
       <documentation>No-go areas&#xD;
 Areas cited by participants where AI should not be used included decisions on criminal justice cases, hiring, and social service eligibility, because of the risk of bias and the need for explainability and individual discretion. Participants also felt AI should not be used for mass data collection or surveillance, or to make policy decisions without human input.</documentation>
     </element>
+    <element xsi:type="archimate:Value" name="Build a stronger and more inclusive Canada (Value)" id="id-bce6802285fe4e0bbab56ba89ed754a2"/>
+    <element xsi:type="archimate:Value" name="Support Canadians in making choices that help them live productive and rewarding lives (Value)" id="id-1fda4a48570f4ee3b6b46ddffc58f329"/>
+    <element xsi:type="archimate:Value" name="Improve Canadians' quality of life (Value)" id="id-38ec1143ad814565983af9f22d489dc1"/>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Gap" name="Unmanaged Data (Gap)" id="id-ed4e79d466fd4551a90d4cbfb6784e74">
@@ -6631,6 +6698,26 @@ use a standardized approach so that people can scan content quickly and easily w
     <element xsi:type="archimate:Grouping" name="EDC Activity Grouping" id="id-0c4fb2b54e104cb6a413e1699016b66a"/>
     <element xsi:type="archimate:Grouping" name="HOW WE WORK Activity Grouping" id="id-aba718c93bd540cb9977726d1f928806"/>
     <element xsi:type="archimate:Grouping" name="Employment and Social Development Canada - New Ministry" id="id-0cb6b655007e44938844d42baba39cbc"/>
+    <element xsi:type="archimate:Location" name="National Headquarters (Location)" id="id-ee27bd57ac4848c3a289d9dafbb421ce">
+      <documentation>The address is:&#xD;
+&#xD;
+National Headquarters&#xD;
+Place du Portage, Phase IV, Level 12&#xD;
+140 Promenade du Portage,&#xD;
+Gatineau QC  K1A 0J9</documentation>
+    </element>
+    <element xsi:type="archimate:Location" name="Regional Offices (Location)" id="id-6fa0023697f9486c9d624cdda8911571">
+      <documentation>Regional offices&#xD;
+To locate a Service Canada Office where you can access Info Source, visit the Service Canada website.&#xD;
+https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada.html</documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="Raison d'être" id="id-8d2d8a7bf3974e15a98423f4fd0892cd">
+      <documentation>Raison d'être&#xD;
+The mission of Employment and Social Development Canada (ESDC) is to:&#xD;
+ - build a stronger and more inclusive Canada&#xD;
+ - support Canadians in making choices that help them live productive and rewarding lives&#xD;
+ - improve Canadians' quality of life</documentation>
+    </element>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
     <element xsi:type="archimate:SpecializationRelationship" id="id-1fc9998b537248f0ab8efd6853b77d65" source="id-bbea9bb53b0d449e8af710c22edf18bc" target="id-a7f8beac2a2c416c96b351c66b79510c"/>
@@ -7832,6 +7919,9 @@ use a standardized approach so that people can scan content quickly and easily w
     <element xsi:type="archimate:CompositionRelationship" id="id-458e209065df404d8f339d4de7fd962f" source="id-0cb6b655007e44938844d42baba39cbc" target="id-846e7d6ee6d74723b2aa6a17cff48e10"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-cfd0bbd0acd9475fa7168f30f32f2a7a" source="id-0cb6b655007e44938844d42baba39cbc" target="id-85ad5dbe0af34d939a74dfc578f8e69e"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-15b87e77ad38480e81d132595110ee38" source="id-0cb6b655007e44938844d42baba39cbc" target="id-a4caf42866db4720a1a619c6e550d65d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7f2de056472f4460aae5e0763cc90f41" source="id-8d2d8a7bf3974e15a98423f4fd0892cd" target="id-1fda4a48570f4ee3b6b46ddffc58f329"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-15431ea58591424aa4629c87da49c25d" source="id-8d2d8a7bf3974e15a98423f4fd0892cd" target="id-38ec1143ad814565983af9f22d489dc1"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-18f8212108c942599c61dbfa0d9c5764" source="id-8d2d8a7bf3974e15a98423f4fd0892cd" target="id-bce6802285fe4e0bbab56ba89ed754a2"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -10995,6 +11085,50 @@ Subject: Le Journal de SARA - SABR Good News - numéro 14</content>
         </child>
         <documentation>market intelligence and continuous scans of software products.  Also, we analyse new software requests and perform technology assessments as one of the four pillars of the software approval process</documentation>
       </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="ESDC Corporate Information" id="id-b52a439845d04ba792fca455fabc7794">
+        <child xsi:type="archimate:Note" id="id-26aeea72217849c1be900d338ae4c3da" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="32" y="32" width="445" height="101"/>
+          <content>Archimate View: ESDC Corporate Info&#xD;
+For discussion:&#xD;
+(From Info Source)</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-037e3b8156044152894577b92a31e0dc" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
+          <bounds x="476" y="32" width="289" height="101"/>
+          <content>ESDC Corporate Info</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-843058ce8e3046cc805b03e2d23d37e2" textAlignment="1">
+          <bounds x="645" y="72" width="120" height="61"/>
+          <content>(DRAFT)&#xD;
+2025-01-31&#xD;
+v0.1.20250515</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-20648bda1fbf4df2993e8bfa5c87c212" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
+          <bounds x="768" y="29" width="149" height="108"/>
+          <content>DIAGRAM NOT ENDORSED</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-c0c2472725254f57bd3962cadc88616d" archimateElement="id-ee27bd57ac4848c3a289d9dafbb421ce">
+          <bounds x="32" y="168" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-f9fbfaa487124cc5926aaa9b3b150174" archimateElement="id-6fa0023697f9486c9d624cdda8911571">
+          <bounds x="168" y="168" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1a1f8aaef47846b796b0032fa37f4ea4" textAlignment="1" archimateElement="id-8d2d8a7bf3974e15a98423f4fd0892cd">
+          <bounds x="32" y="240" width="337" height="129"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-65d1c310c92143928c7a14072d59e8bb" source="id-1a1f8aaef47846b796b0032fa37f4ea4" target="id-82bba9d628fa4fbaabb71e5234a46cc6" archimateRelationship="id-7f2de056472f4460aae5e0763cc90f41"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f5dd95ba187c49cabf47508f8e5a98c6" source="id-1a1f8aaef47846b796b0032fa37f4ea4" target="id-31e36c5831d94a35bb1cbd8b78a91a57" archimateRelationship="id-15431ea58591424aa4629c87da49c25d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-97c9b2bd296541028a0586e3800b5bcd" source="id-1a1f8aaef47846b796b0032fa37f4ea4" target="id-fde40fcac999461f924d7857e32c2ff3" archimateRelationship="id-18f8212108c942599c61dbfa0d9c5764"/>
+          <child xsi:type="archimate:DiagramObject" id="id-82bba9d628fa4fbaabb71e5234a46cc6" targetConnections="id-65d1c310c92143928c7a14072d59e8bb" archimateElement="id-1fda4a48570f4ee3b6b46ddffc58f329">
+            <bounds x="168" y="24" width="155" height="95"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-31e36c5831d94a35bb1cbd8b78a91a57" targetConnections="id-f5dd95ba187c49cabf47508f8e5a98c6" archimateElement="id-38ec1143ad814565983af9f22d489dc1">
+            <bounds x="12" y="78" width="155" height="41"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-fde40fcac999461f924d7857e32c2ff3" targetConnections="id-97c9b2bd296541028a0586e3800b5bcd" archimateElement="id-bce6802285fe4e0bbab56ba89ed754a2">
+            <bounds x="14" y="24" width="155" height="55"/>
+          </child>
+        </child>
+        <documentation>https://www.canada.ca/en/employment-social-development/corporate/transparency/access-information/reports/infosource.html</documentation>
+      </element>
     </folder>
     <folder name="GC EA" id="id-64a2fc6c23f74896b68f635285588ae9">
       <element xsi:type="archimate:ArchimateDiagramModel" name="GC Enterprise Data, Info Gov" id="id-4b9a12144cb740d98d17daf7f0b2a10c">
@@ -12569,6 +12703,91 @@ v0.1.20250429</content>
             <bounds x="191" y="86" width="174" height="55"/>
           </child>
         </child>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="GC-ESDC PIB Overview" id="id-86e3004b7db84fe4b9efb7d079404743">
+        <child xsi:type="archimate:Note" id="id-9b2765f07edb490b9cef9e4ea74bdaa8" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="22" y="22" width="445" height="121"/>
+          <content>Archimate View: GC Standard Personal Information Banks&#xD;
+For discussion:&#xD;
+Standard personal information banks</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-2831774891cb4fc8a14654fe70a005f2" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
+          <bounds x="466" y="22" width="289" height="121"/>
+          <content>(Registered) PIB's</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-5e4352303e6844188cce8ba1225484aa" textAlignment="1">
+          <bounds x="636" y="82" width="120" height="61"/>
+          <content>(DRAFT)&#xD;
+2024-07-25&#xD;
+v0.1.20250515</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-f477921d39894ccaa85e08d17a3c0761" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
+          <bounds x="766" y="29" width="149" height="108"/>
+          <content>DIAGRAM NOT ENDORSED</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-c762dcda05c4493bab6e7549846ba9c9" archimateElement="id-db06ca0ede0c49788bbf89abc7faf915">
+          <bounds x="169" y="293" width="204" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-5a55ba0c6a674558be708041b6e26832" archimateElement="id-1660d62857d64dd0a0db9ca3fa61477d">
+          <bounds x="834" y="280" width="204" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-d3d6b64c5ea241e395211f2956de62df" archimateElement="id-af82f5c7e6fd455f85e9c3bf3eb34edc">
+          <bounds x="169" y="360" width="204" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-368128d6b78f4c7c9472cc26dca0e2e3" archimateElement="id-36ee8fce616e461da78f33fc2efd95b1">
+          <bounds x="365" y="394" width="204" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-481a3b944bb44013812e6dffb9ef4d89" archimateElement="id-398d77db85f34058a8d15c9ce3f78eab">
+          <bounds x="527" y="394" width="204" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-ca826ca85196480ba448a9685b6b8743" archimateElement="id-4166016b5b8a4f069b1827c9b3fef4ba">
+          <bounds x="733" y="389" width="204" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-02191f9cf6314780819eaec72cd05574" archimateElement="id-78af7af102da4bd09893f52dafd0fa9f">
+          <bounds x="950" y="391" width="204" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-cf319f1f754b4da89dc6e828a5f676bb" archimateElement="id-ff90953df97544e8878b91ee85002d9b">
+          <bounds x="1284" y="394" width="204" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a7e871623fce40c3bed9a1d91bc9ab5b" archimateElement="id-d043f5a69bb24ee98bcdcd7c643f5a9b">
+          <bounds x="1130" y="401" width="204" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-cbe0c4fad6c54bf7b214b4ccb21a7d8f" archimateElement="id-8ee49a379ad94154b3efccc640d78ed7">
+          <bounds x="1488" y="386" width="204" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a0507ea3e3d34413b29dc03f5e2b3296" archimateElement="id-186f1b4398e343668d47d6dc989d473b">
+          <bounds x="175" y="499" width="204" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3d49c6fa4d894dd8b6a03d8a2574ab1b" archimateElement="id-133b1b8337c344cfa3beedd61a721d46">
+          <bounds x="345" y="511" width="204" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-d6fec6fe0363494a9436ddc6b823cb28" archimateElement="id-290a15be47b144bebe6fb8b023beb18e">
+          <bounds x="494" y="505" width="204" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-c3c1409fd5124784a568f86965df2774" archimateElement="id-e26daf8238074e90a21527e38b280de7">
+          <bounds x="720" y="503" width="204" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-038f0561a4e243ea851951390f3c010b" archimateElement="id-9a149db4de8942b287ab7e58dcc270ea">
+          <bounds x="872" y="499" width="204" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-d8f68b277c884501a9e4068b98edc775" archimateElement="id-6251d2822ecb4067b934835c4e22c0fc">
+          <bounds x="1131" y="505" width="204" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-7e94d6e44bd54e6694575a802b360dce" archimateElement="id-41c107c0eb9d40e0acfa6c59f4e7781c">
+          <bounds x="1326" y="483" width="204" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-af170504f2b247a98e180eb2730e7374" archimateElement="id-dbc47f0c898e4f9e8cc916c5d86549d6">
+          <bounds x="1590" y="505" width="204" height="55"/>
+        </child>
+        <documentation>https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html&#xD;
+Standard personal information banks&#xD;
+Personal information banks (PIBs) are descriptions of personal information under the control of a government institution that is organized and retrievable by an individual's name or by a number, symbol or other element that identifies that individual. The personal information described in a PIB has been used, is being used or is available for an administrative purpose. The PIB describes how personal information is collected, used, disclosed, retained and/or disposed of in the administration of a government institution's program or activity.&#xD;
+&#xD;
+There are three types of PIBs: central, institution-specific and standard. The following descriptions are standard PIBs. They describe information about members of the public as well as current and former federal employees contained in records created, collected and maintained by most government institutions in support of common internal services. These include personal information relating to human resources management, travel, corporate communications and other administrative services. Standard PIBs are created by the Treasury Board of Canada Secretariat.&#xD;
+&#xD;
+Individuals seeking access to the institution-specific Personal Information Banks of a particular government institution should consult the institution’s Info Source chapter.&#xD;
+&#xD;
+https://www.canada.ca/en/employment-social-development/corporate/transparency/access-information/reports/infosource.html</documentation>
       </element>
     </folder>
     <folder name="GC Language" id="id-43ad03cf472643fb9d735306dc35af0a">
