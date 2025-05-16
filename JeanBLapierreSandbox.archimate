@@ -2531,7 +2531,7 @@ Moderators should have access to the Presenters' contact info, in case something
     <element xsi:type="archimate:BusinessRole" name="Secretary of State (Seniors)" id="id-2ce613ee1c1941ef81248ff7200ca6da"/>
     <element xsi:type="archimate:BusinessRole" name="Secretary of State (Labour)" id="id-ead7b1314f744c9d91499d3da6587de8"/>
     <element xsi:type="archimate:BusinessRole" name="Prime Minister of Canada" id="id-84e05525184540d7be5d5b6a7c782966"/>
-    <element xsi:type="archimate:Product" name="Employee Personnel Record [Bank Number PSE 901] (Product)" id="id-db06ca0ede0c49788bbf89abc7faf915">
+    <element xsi:type="archimate:Product" name="[Bank No: PSE 901] Employee Personnel Record (Product)" id="id-db06ca0ede0c49788bbf89abc7faf915">
       <documentation>Employee Personnel Record&#xD;
 &#xD;
 Description: This bank describes information about an individual’s employment with government institutions. Personal information may include name, contact information, biographical information (including any military service, professional certifications or designations), citizenship status, date and place of birth, educational information, employee identification number, employment equity information, delegated authorities given or assets loaned to employees (e.g., staffing and financial signing authorities, usage of institutional materiel), alternative work arrangements (e.g., telework, compressed work week), information related to superannuation, benefits, training and development, grievances, security incidents, any other employment-related requirements (e.g., firearms permits, security clearances, passport/visa information), financial information (for pay administration), medical information (including any special needs identified under duty to accommodate, or in the event of an emergency), other identification numbers, signature and Social Insurance Number (SIN). Employment equity information will only be used for the primary purposes, not for the consistent uses listed.&#xD;
@@ -2579,22 +2579,226 @@ The Description section in a personal information bank (PIB) describes the perso
  - Signature&#xD;
  - Social Insurance Number (SIN)</documentation>
     </element>
-    <element xsi:type="archimate:Product" name="Product" id="id-af82f5c7e6fd455f85e9c3bf3eb34edc"/>
-    <element xsi:type="archimate:Product" name="Product" id="id-36ee8fce616e461da78f33fc2efd95b1"/>
-    <element xsi:type="archimate:Product" name="Product" id="id-398d77db85f34058a8d15c9ce3f78eab"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 901] Access to Information Act and Privacy Act Requests (Product)" id="id-af82f5c7e6fd455f85e9c3bf3eb34edc">
+      <documentation>Access to Information Act and Privacy Act Requests&#xD;
+&#xD;
+Description: This bank describes information that is related to formal requests for access to information and, access to or correction of personal information made by individuals in accordance with the Access to Information Act and the Privacy Act. The personal information may include: name, contact information, credit information, identification numbers, Social Insurance Number (SIN) and other processing information related to the request, as well as personal information contained in institution records that are relevant to the request.&#xD;
+&#xD;
+Note: Bank formerly called Access to Information and Privacy Requests. Description last updated: December 2013 .&#xD;
+&#xD;
+Class of Individuals: Individuals and their representatives who make formal requests to either obtain information or correct personal information under the control of the government institution.&#xD;
+&#xD;
+Purpose: The personal information is used to process and respond to formal requests made under the Access to Information Act and the Privacy Act, including subsequent complaints, investigations and judicial review when applicable. Personal information is collected pursuant to section 13 of the Privacy Act, sections 8 and 11 of the Privacy Regulations, sections 6 and 11 of the Access to Information Act and section 4 of the Access to Information Regulations. The SIN is collected when required to locate personal information held by a program authorized through legislation or policy approval to use the SIN.&#xD;
+&#xD;
+Consistent Uses: Information may be shared with other government institutions during consultations required to process and respond to formal requests made under the Acts. Information may be shared with the Office of the Privacy Commissioner during investigations, refer to Privacy Complaints and Investigations – OPC PPU 005 (https://www.priv.gc.ca/au-ans/atip-aiprp/infosource_e.asp) and Privacy Commissioner Ad Hoc – Complaints and Investigations – OPC PPU 008 (https://www.priv.gc.ca/au-ans/atip-aiprp/infosource_e.asp). Information may be shared with the Office of the Information Commissioner during investigations, refer to Complaint Investigations – OIC PPU 3100 (http://www.oic-ci.gc.ca/eng/info-source.aspx) and Ad Hoc Information Commissioner Complaint Investigations – OIC PPU 123 (http://www.oic-ci.gc.ca/eng/info-source.aspx). Personal information may be shared with a government institution providing internal support services in accordance with section 29.2 of the Financial Administration Act. For information about the internal support services used, please contact the institution’s Access to Information and Privacy Coordinator. The information may be used for planning and evaluation purposes. Depersonalized and aggregated information is used to report to Parliament on the administration of the Access to Information Act and the Privacy Act.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/001&#xD;
+Related Record Number: PRN 930 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn930)&#xD;
+Bank Number: PSU 901</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 933] Canadian Human Rights Act - Complaints (Product)" id="id-36ee8fce616e461da78f33fc2efd95b1">
+      <documentation>Canadian Human Rights Act - Complaints&#xD;
+&#xD;
+Description: This bank describes information related to complaints filed pursuant to part III of the Canadian Human Rights Act. Complaints under part III of the Canadian Human Rights Act may be filed against any federally regulated organization and concern allegations of discriminatory practices based on any of the prohibited grounds. Personal information may include: name, contact information, biographical information, criminal checks/history, educational information, employee identification number, employee equity information, employee personnel information, nature of complaint, opinions and views of, or about, individuals, other identification numbers, medical information, physical attributes, and signature.&#xD;
+&#xD;
+Class of Individuals: Individuals and representatives of individuals or groups who make a complaint, respondents, and witnesses.&#xD;
+&#xD;
+Purpose: Personal information is collected pursuant to Part III of the Canadian Human Rights Act and is used to record, enquire into and resolve complaints of discrimination.&#xD;
+&#xD;
+Consistent Uses: Information may be shared with the Department of Justice Canada to provide evidence for the hearing of a complaint by the Canadian Human Rights Tribunal, the Federal Court of Canada, the Appeal Court and/or the Supreme Court of Canada. Information may be also be used or disclosed for program evaluation.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/005&#xD;
+Related Record Number: PRN 926 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn926)&#xD;
+Bank Number: PSU 933</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="[Bank No: PSE 911] Discipline (Product)" id="id-398d77db85f34058a8d15c9ce3f78eab">
+      <documentation>Discipline&#xD;
+&#xD;
+Description: This bank describes personal information related to the application of discipline standards in the federal public service and related penalties, including termination of employment, suspension, demotion to a position at a lower maximum rate of pay and financial penalties that may be applied for breaches of discipline or misconduct in government institutions. Personal information may include: name, contact information, biographical information, date of birth, employee identification number, employee personnel information, financial information, legal advice, medical information, nature of the misconduct and the disciplinary measure, opinions and views of, or about, individuals, and signature.&#xD;
+&#xD;
+Class of Individuals: Employees and former employees of the institution who are/were the subject of the alleged misconduct, interviewees, medical practitioners, representatives or bargaining agents, and witnesses.&#xD;
+&#xD;
+Purpose: Personal information is used to investigate alleged misconduct in government institutions and to determine the need for, and nature of, disciplinary actions. Information is also collected to support decisions on pay and benefits, attendance and leave, transfer, demotion and termination of employment. For many institutions, personal information is collected pursuant to paragraph 12(1)(c) of the Financial Administration Act. For those institutions not subject to the Act, consult the institution’s Access to Information and Privacy Coordinator to determine the legal authority for the collection.&#xD;
+&#xD;
+Consistent Uses: Some discipline measures may also be described in Standard Personal Information Bank Employee Personnel Record - PSE 901 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse901). Information concerning grievances is described in Standard Personal Information Bank Grievances - PSE 910 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse910). Where applicable, information may be shared with the following entities: 1) the Treasury Board of Canada Secretariat in cases of terminations / demotions, interpretation / application of cases involving important jurisprudential issues, and other special instances; 2) professional regulatory bodies, as required; and 3) law enforcement agencies in the event of an alleged criminal offence. Information may also be used or disclosed for program evaluation.&#xD;
+&#xD;
+Retention and Disposal Standards: (1) For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator. (2) Documentation concerning a specific employee including documentation related to disciplinary action - the time limit for disposal is that specified in applicable collec&#xD;
+tive agreements or a minimum of two years following the date of disciplinary action, provided no further disciplinary action has been recorded in the meantime. (3) In cases where a disciplinary action has been rescinded, the onus is on the institution to ensure that the documentation of the action concerned is immediately destroyed.&#xD;
+&#xD;
+RDA Number: 98/005&#xD;
+Related Record Number: PRN 926 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn926) and PRN 946 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn946)&#xD;
+Bank Number: PSE 911</documentation>
+    </element>
     <element xsi:type="archimate:Product" name="Product" id="id-4166016b5b8a4f069b1827c9b3fef4ba"/>
     <element xsi:type="archimate:Product" name="Product" id="id-78af7af102da4bd09893f52dafd0fa9f"/>
     <element xsi:type="archimate:Product" name="Product" id="id-ff90953df97544e8878b91ee85002d9b"/>
     <element xsi:type="archimate:Product" name="Product" id="id-d043f5a69bb24ee98bcdcd7c643f5a9b"/>
     <element xsi:type="archimate:Product" name="Product" id="id-8ee49a379ad94154b3efccc640d78ed7"/>
     <element xsi:type="archimate:Product" name="Product" id="id-186f1b4398e343668d47d6dc989d473b"/>
-    <element xsi:type="archimate:Product" name="Product" id="id-133b1b8337c344cfa3beedd61a721d46"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 931] Accounts Payable (Product)" id="id-133b1b8337c344cfa3beedd61a721d46">
+      <documentation>Accounts Payable&#xD;
+&#xD;
+Description: This bank describes information related to individuals who are issued payments by government institutions, including by the Receiver General for Canada. Payments may be issued in any form of payment approved by the Canadian Payment Association established under the Canadian Payments Act. Payments maybe in respect of: travel and hospitality claims, education course fees, program payments, isolation allowances, membership fees, awards, ex gratia, and other sundry payments. Personal information may include: name, contact information, financial information, nature of expenses/claim, employee identification number, other identifying numbers, signature, and Social Insurance Number (SIN).&#xD;
+&#xD;
+Note: Individuals seeking access to this bank should specify whether they are an employee, claimant from the general public, contractor or representative of a company, corporation or association, and provide details of the payment such as amount, type, date(s), payment number, and type of program or service and name of institution. Personal information may be found in the institution’s Financial Management Systems and/or in Public Works and Government Services Canada’s Standard Payment System. Description last updated: December 2013 .&#xD;
+&#xD;
+Class of Individuals: Current and former employees of government institutions; claimants from the general public, contractors, and representatives of companies, corporations, and associations.&#xD;
+&#xD;
+Purpose: Personal information is used to support the payment of financial benefits and entitlements in relation to expenses, fees, claims and other non-payroll payments. For many institutions, personal information is collected pursuant to sections 33 and 34 of the Financial Administration Act (FAA). For those institutions not subject to the FAA, consult the institution’s Access to Information and Privacy Coordinator to determine the legal authority for the collection. The SIN is collected pursuant to the Income Tax Act and may be used to issue various income reporting slips.&#xD;
+&#xD;
+Consistent Uses: Information may be shared with Public Works and Government Services Canada (Receiver General for Canada) for payment purposes refer to Receiver General Payments - PWGSC PCU 712. Where applicable, information may be shared with the Bank of Canada and financial institutions of foreign countries for transactions purposes. In some cases, the SIN and other information is shared with the Canada Revenue Agency and the Province of Quebec, and is used for data matching purposes, including income verification, refer to Individual Returns and Payment Processing – CRA PPU 005 (http://www.cra-arc.gc.ca/gncy/tp/nfsrc/nfsrc-eng.html) and Business Returns and Payment Processing – CRA PPU 047 (http://www.cra-arc.gc.ca/gncy/tp/nfsrc/nfsrc-eng.html). Information may be used or disclosed for financial reporting and program evaluation.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 99/004&#xD;
+Related Record Number: PRN 914 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn914)&#xD;
+Bank Number: PSU 931</documentation>
+    </element>
     <element xsi:type="archimate:Product" name="Product" id="id-290a15be47b144bebe6fb8b023beb18e"/>
     <element xsi:type="archimate:Product" name="Product" id="id-e26daf8238074e90a21527e38b280de7"/>
     <element xsi:type="archimate:Product" name="Product" id="id-9a149db4de8942b287ab7e58dcc270ea"/>
     <element xsi:type="archimate:Product" name="Product" id="id-6251d2822ecb4067b934835c4e22c0fc"/>
     <element xsi:type="archimate:Product" name="Product" id="id-41c107c0eb9d40e0acfa6c59f4e7781c"/>
     <element xsi:type="archimate:Product" name="Product" id="id-dbc47f0c898e4f9e8cc916c5d86549d6"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 932] Accounts Receivable (Product)" id="id-c1a5cdc33b5b4fe1a9153b9a311fd645">
+      <documentation>Accounts Receivable&#xD;
+&#xD;
+Description: This bank describes information related to individuals who remit monies payable to government institutions, including the Receiver General for Canada. Payments may be issued in any form of payment approved by the Canadian Payment Association established under the Canadian Payment Act. Types of remittances include reimbursement of overpayments, payments for goods or services, including institutional merchandise (e.g., publications, coins, stamps, memorabilia, etc.), royalties, loan payments, etc. Personal information may include: name, contact information, credit information, financial information, nature of remittance, employee identification number, other identification numbers, signature, and Social Insurance Number (SIN).&#xD;
+&#xD;
+Note: Individuals seeking access to this bank should specify whether they are an employee, member of the general public, contractor, representative of a company, corporation, or association, and provide details of the monies remitted such as amount, type, date(s), relevant account number, and type of program or service and name of institution. Personal information may be found in the institution’s Financial Management Systems and/or in Public Works and Government Services Canada’s Standard Payment System. Description last updated: December 2013 .&#xD;
+&#xD;
+Class of Individuals: Individuals who remit monies to the institution/Receiver General for Canada, including representatives of companies, corporations, and associations; current and former employees of government institutions.&#xD;
+&#xD;
+Purpose: Personal information is used to support the collection of monies owing to the institution/Receiver General for Canada in relation to goods and services, loans and investments, etc. Personal information is collected pursuant to various federal laws and regulations. For the specific legal authority for the collection, consult the institution’s Access to Information and Privacy Coordinator. The SIN is collected pursuant to the Income Tax Act and may be used to issue income reporting documentation.&#xD;
+&#xD;
+Consistent Uses: Information may be shared with Public Works and Government Services Canada (Receiver General for Canada) to process payments to the government institution; refer to Receiver General Payments - PWGSC PCU 712. Information may be shared with the government institution’s own financial institution. Information may be shared with financial institutions of foreign countries for transactions purposes. Information may also be shared with collection agencies for debt recovery purposes. In some cases, the SIN and other information is shared with the Canada Revenue Agency and the Province of Quebec, and is used for data matching purposes, including income verification, refer to Individual Returns and Payment Processing – CRA PPU 005 (http://www.cra-arc.gc.ca/gncy/tp/nfsrc/nfsrc-eng.html) and Business Returns and Payment Processing – CRA PPU 047 (http://www.cra-arc.gc.ca/gncy/tp/nfsrc/nfsrc-eng.html). Information may be used or disclosed for financial reporting and program evaluation.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 99/004&#xD;
+Related Record Number: PRN 914 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn914)&#xD;
+Bank Number: PSU 932</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="Product" id="id-ee347bf92d66418595b0858ed3129a14"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-af4a161d8ad34d94889383241dd9e74a"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-12c89aff617e46279073533b0b513013"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-d76290b5c910412eae58cc09dc391821"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-302b78ce88f3485791891ac1e0646a06"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 940] Acquisition Cards (Product)" id="id-86e356885db34b419c2129f35a4de4bd">
+      <documentation>Acquisition Cards&#xD;
+&#xD;
+Description: This bank describes information that is used in support of an institution’s acquisition card program. Acquisition cards are used for the procurement and payment of goods and services, but not for travel-related expenses or for vehicle operating and maintenance expenses. The personal information may include: the card holder’s name, contact information, language, employee identification number, card number, expiration date, credit limit, and information related to any audits or compliance processes and investigations.&#xD;
+&#xD;
+Class of Individuals: Individuals who apply for an acquisition card and those who are issued such cards.&#xD;
+&#xD;
+Purpose: Personal information is used to administer an acquisition card program and may be used to issue, cancel, and renew cards, and to monitor transactions to ensure compliance. For many institutions, information is collected pursuant to Part III of the Financial Administration Act. For those institutions not subject to the Act, consult the institution’s Access to Information and Privacy Coordinator to determine the legal authority for the collection.&#xD;
+&#xD;
+Consistent Uses: Information may be shared with Public Works and Government Services Canada to monitor the operation of the acquisition card program and to take corrective action when required. Information may also be shared with the private sector card issuer, namely, financial institutions. The information may be also be used or disclosed for program evaluation, enforcement (refer to Security Incidents and Privacy Breaches - PSU 939 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#psu939) and Discipline - PSE 911 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse911)), and for reporting to Senior Management.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/001&#xD;
+Related Record Number: PRN 914 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn914)&#xD;
+Bank Number: PSU 940</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 911] Applications for Employment (Product)" id="id-f8acf4ff18c24a2a88376184448fe4c3">
+      <documentation>Applications for Employment&#xD;
+&#xD;
+Description: This bank describes personal information related to individuals who have submitted applications for employment or provided curricula vitae (solicited or unsolicited) and related correspondence. The personal information provided by individuals on application forms, curricula vitae, and correspondence may include: name, contact information, employment status and history, educational background, marital status, date of birth, gender, official language proficiency, employment equity, physical disability considerations, citizenship, Personal Record Identifier, Client Service Number, transcripts, letters of recommendation, and other personal information.&#xD;
+&#xD;
+Class of Individuals: Public service employees and non-public service employees seeking employment with the institution; individuals whose names have been provided as employment references, personal references, or both; and individuals referring another individual for a position.&#xD;
+&#xD;
+Purpose: To maintain an inventory of potential candidates that may be used for consideration in a staffing process when vacancies arise within the institution.&#xD;
+&#xD;
+Consistent Uses: Relevant information would be transferred to an employee personnel record (refer to Standard Personal Information Bank Employee Personnel Record - PSE 901 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse901)) if the individual accepts an offer of employment. This information may also be used for planning and evaluation purposes. The information may also be transferred to another institution, if the other institution is deemed to be more appropriate for potential employment opportunities for the individual. The data collected and maintained may be used for statistical purposes, training requirements, and other development opportunities. The personal information about individuals self-identified in employment equity groups may be used for statistical purposes by the institution and may be shared with the Public Service Commission of Canada, Treasury Board of Canada Secretariat, and the Canada Public Service Agency for the same purpose.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/005&#xD;
+Related Record Number: PRN 920 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn920)&#xD;
+Bank Number: PSU 911</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="Product" id="id-cb5053a5043645668e03630586543870"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-d3fb9690fb114b479d372794767f69a6"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-db5d756254674f06b2dc570347c68fc9"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-70a2745c7baf4bb0bbe5d1a45b93bf65"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 906] Disclosure of Wrongdoing in the Workplace (Product)" id="id-647889068bdc459f901558326e392c7b">
+      <documentation>Disclosure of Wrongdoing in the Workplace&#xD;
+&#xD;
+Description: This bank describes information related to disclosures of alleged wrongdoing in the public sector, as defined in section 8 of the Public Servants Disclosure Protection Act (PSDPA). Personal information may include name, contact information, biographical information, employee personnel information, employee identification number, opinions and views of, or about, individuals, signature and other personal information which may be contained in the investigation documentation.&#xD;
+&#xD;
+Note: Individuals, who are public servants, making a disclosure of wrongdoing may do so to their supervisor, to the Senior Officer for Disclosure of their institution, or directly to the Public Sector Integrity Canada; individuals, who are not public servants, making a disclosure of wrongdoing pertaining to the organization may do so directly to an organizational point of contact that has been designated for the handling of such concerns or the Office of the Public Sector Integrity Commissioner of Canada; refer to Case Review and Investigations Files - PSIC PPU 005 (http://www.psic.gc.ca/eng/content/access-information-and-privacy/infosource). Disclosures of wrongdoing pertaining to the Office of the Office of the Public Sector Integrity Commissioner of Canada must be made to the Auditor General of Canada. Bank formerly called: Internal Disclosure of Wrongdoing in the Workplace. Description last updated: December 2013 .&#xD;
+&#xD;
+Class of Individuals: Individuals who report an alleged wrongdoing in the public sector as well as individuals who are alleged to have committed wrongdoing, witnesses, representatives of individuals such as union representatives and legal counsel, investigators and any other party affected by the allegation(s).&#xD;
+&#xD;
+Purpose: Personal information is used to assess, investigate, report and resolve alleged wrongdoing in the public sector. When warranted, personal information may also be used to temporarily assign other duties to a public servant and provide notice of actions taken, or proposed to be taken, to the Public Sector Integrity Commissioner on recommendations made by the Commissioner. Personal information is collected pursuant to sections 12 to 14, 22(g), 22(h), 26 and 27 of the PSDPA.&#xD;
+&#xD;
+Consistent Uses: The information may be used or disclosed for evaluation and reporting to senior management. In limited circumstances under applicable laws, reporting purposes may include reporting to the Minister, or governing council, responsible for the government institution and publicly reporting on the wrongdoing. Depersonalized and aggregated information may be shared with the Treasury Board Secretariat (Office of the Chief Human Resources Officer) for reporting purposes. Information may be shared with internal security officials, refer to Security Incidents and Privacy Breaches- PSU 939 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#psu939), or other authorities having the powers to investigate under federal, provincial and municipal statutes if the investigation reveals potential fraud or other criminal wrongdoing. Information may be shared with the government institution’s labour relations division when the chief executive officer of the government institution decides to apply disciplinary measures to public servants who perpetrated wrongdoings, refer to Discipline – PSE 911 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse911).&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/005&#xD;
+Related Record Number: PRN 926 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn926) and PRN 931 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn931)&#xD;
+Bank Number: PSU 906</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="Product" id="id-72f9df43c559474cb5935688a9a3db90"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-6a26f2ee398347c5b603b03204feef57"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSE 903] Attendance and Leave (Product)" id="id-29256fb0ba8442d9855791356aec3c4a">
+      <documentation>Attendance and Leave&#xD;
+&#xD;
+Description: The records containing the information described in this bank may include absence reports and leave applications, as well as physicians’ certificates associated with sick leave, all of which include the individual’s Personal Record Identifier and correspondence about attendance and leave. The annual record of attendance and leave may be attached to the Employee Personnel Record. Some attendance and leave information exists in automated form in institutional personnel databases, especially in time/attendance, leave control and absenteeism systems.&#xD;
+&#xD;
+Class of Individuals: Employees of the institution.&#xD;
+&#xD;
+Purpose: The purpose of these records is to support administration of employee attendance and leave within government institutions.&#xD;
+&#xD;
+Consistent Uses: To record attendance and authorize leave. To support decisions on pay and benefits, such as those concerning leave and termination of employment, to evaluate use of leave and rates of absenteeism and to verify policy compliance. This information may be shared for disciplinary purposes (refer to PSE 901 Employee Personnel Record (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-personal-information-banks.html#pse901) and PSE 911 Discipline (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-personal-information-banks.html#pse911)).&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/005&#xD;
+Related Record Number: PRN 941 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn941)&#xD;
+Bank Number: PSE 903</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="Product" id="id-2405025ce36e46ad9e0a78313fbee46b"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-1560541b28fd46e4a0fec8df06313bba"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-9c43f24c34c34391acc6e418afd8ce06"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-b4a45c15d47a401b833af5c7349be49e"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-67b393735af444cead46264897a2edbf"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-f48534e41d26494097bf78514df938c8"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 903] Automated Document, Records, and Information Management Systems (Product)" id="id-176dddf8f6e0471b89fb8d8d7840a904">
+      <documentation>Automated Document, Records, and Information Management Systems&#xD;
+&#xD;
+Note: This standard personal information bank was terminated since all personal information retained in the systems is accounted for in personal information banks or classes of personal information of the programs or activities for which it was collected. Description terminated: December 2013 .&#xD;
+&#xD;
+Business Continuity Planning&#xD;
+Description: This bank describes information that is used in support of Business Continuity Management functions which include the development and timely execution of plans, measures and procedures to minimize interruption to the availability of critical services and assets in the event of an emergency or disruption of service. Personal information may include: name, contact information, biographical information, employee personnel information and medical information. Personal information may also include the names and contact information of individuals identified by employees as emergency contacts.&#xD;
+&#xD;
+Class of Individuals: Employees of the government institution; Ministers and exempt staff and other personnel of offices of Ministers or Ministers of State; emergency contacts identified by employees; private sector emergency response officials and service providers; and other federal, provincial or municipal officials who may need to be contacted in the event of an emergency or disruption of services.&#xD;
+&#xD;
+Purpose: Personal information is used to plan and respond in a timely and effective manner to an emergency or to a disruption of service, to establish a list of employees, appropriate officials and their contact information. The list may be used to contact such individuals in the event of an emergency or the execution of the Business Continuity Plan. Some institutions may also require that supervisors maintain a list of direct reports, home telephone numbers and the emergency contacts identified by the direct reports. For most government institutions, personal information is collected pursuant to the Financial Administration Act (as required under the Policy on Government Security) and the Emergency Management Act. For those institutions not subject to these Acts, consult the institution’s Access to Information and Privacy Coordinator to determine the legal authority for the collection.&#xD;
+&#xD;
+Consistent Uses: Information may be shared with other federal, provincial, and municipal institutions, police, fire and other emergency response agencies as required. Some information may be shared with/described in the Standard Personal Information Banks Employee Personnel Record - PSE 901 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse901) and Occupational Health and Safety - PSE 907 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse907). Information may also be used or disclosed for program evaluation and reporting purposes.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/001&#xD;
+Related Record Number: PRN 928 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn928)&#xD;
+Bank Number: PSU 903</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="Product" id="id-9c13f269bb6d481987cd7d794de67b64"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-cb70f44acad94ddbbd88e73b1710031f"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-e085cafe194543cf97d5f61050467ef9"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-eed0fe50250a4fc1bf04eb146e977aa2"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-0988f4c847624eb190f1005c4740344f"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-173b094960dd4796aeb28cceb2a5006a"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-cca6a06255bd49ae96b6cae92c5c9a24"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-fa710757a86d407fa19c8d99eb0cd0cd"/>
+    <element xsi:type="archimate:Product" name="Product" id="id-6e6127c60aa7419cbac0f779ee35706f"/>
   </folder>
   <folder name="Application" id="id-4c073bc2342b490eae44200c8635c571" type="application">
     <element xsi:type="archimate:DataObject" name="Drupal-Sourced Data (Data Object)" id="id-a36acbc1b6124a03991eae20826f88c9">
@@ -6718,6 +6922,7 @@ The mission of Employment and Social Development Canada (ESDC) is to:&#xD;
  - support Canadians in making choices that help them live productive and rewarding lives&#xD;
  - improve Canadians' quality of life</documentation>
     </element>
+    <element xsi:type="archimate:Grouping" name="Standard personal information banks (PIB's)" id="id-01a9a617039d499a8e6bde4045ba53dd"/>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
     <element xsi:type="archimate:SpecializationRelationship" id="id-1fc9998b537248f0ab8efd6853b77d65" source="id-bbea9bb53b0d449e8af710c22edf18bc" target="id-a7f8beac2a2c416c96b351c66b79510c"/>
@@ -7922,6 +8127,54 @@ The mission of Employment and Social Development Canada (ESDC) is to:&#xD;
     <element xsi:type="archimate:CompositionRelationship" id="id-7f2de056472f4460aae5e0763cc90f41" source="id-8d2d8a7bf3974e15a98423f4fd0892cd" target="id-1fda4a48570f4ee3b6b46ddffc58f329"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-15431ea58591424aa4629c87da49c25d" source="id-8d2d8a7bf3974e15a98423f4fd0892cd" target="id-38ec1143ad814565983af9f22d489dc1"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-18f8212108c942599c61dbfa0d9c5764" source="id-8d2d8a7bf3974e15a98423f4fd0892cd" target="id-bce6802285fe4e0bbab56ba89ed754a2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5615aba9f7334815abf0c3f85ae7848a" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-41c107c0eb9d40e0acfa6c59f4e7781c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2f23280b0a1841aa9cee97492dc77c52" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-133b1b8337c344cfa3beedd61a721d46"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-9832536f455b420f865f778d435638a2" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-af4a161d8ad34d94889383241dd9e74a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-78d93d642e79446198eedcc59a08c2fb" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-173b094960dd4796aeb28cceb2a5006a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6cdaa9ba33054424abd8ef160324c9f8" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-398d77db85f34058a8d15c9ce3f78eab"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-37055d2f94d94a74ba04763340dea168" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-1560541b28fd46e4a0fec8df06313bba"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2bdc083b801f4943bb778caeb03774e9" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-e26daf8238074e90a21527e38b280de7"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-78ce10af90934080ad8f0d49aa9f1379" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-c1a5cdc33b5b4fe1a9153b9a311fd645"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-95b8a510a34e4fb984c05808e3272a5e" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-302b78ce88f3485791891ac1e0646a06"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a9a87df36f9847fd863f4dd67aba700d" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-6251d2822ecb4067b934835c4e22c0fc"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5a093e0c995d447480c5baf6c436164b" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-86e356885db34b419c2129f35a4de4bd"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2842505d6cf74a00893310f4837ca072" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-4166016b5b8a4f069b1827c9b3fef4ba"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8d66fdbc75ef420c8a946bad441b4dfd" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-2405025ce36e46ad9e0a78313fbee46b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5fafa45b98344bd38962838e67ff3f32" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-67b393735af444cead46264897a2edbf"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-212f7c39bbaf44dab395c48cdf915a18" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-d76290b5c910412eae58cc09dc391821"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-055cce2c76b244ec83d5c09fd316d169" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-8ee49a379ad94154b3efccc640d78ed7"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-938ae1f9d2a14ed0ad266f793eacef44" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-b4a45c15d47a401b833af5c7349be49e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3a1fc823dc7d45db818eb6efc345fb19" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-290a15be47b144bebe6fb8b023beb18e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2c939b0710f24a70a244e479ab95af9b" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-0988f4c847624eb190f1005c4740344f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-23a16e95dace4004aada42cf2e23d6b3" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-d3fb9690fb114b479d372794767f69a6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b8c60600350c4cf5887b21dff972ba1a" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-72f9df43c559474cb5935688a9a3db90"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7afab3f3688e455d92fad1069cc374a2" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-9c13f269bb6d481987cd7d794de67b64"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-508476828ddc4d2f88a7b4315d2bfd66" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-eed0fe50250a4fc1bf04eb146e977aa2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-1d5e0442bfc54cff9a4af476bf6c4851" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-cb70f44acad94ddbbd88e73b1710031f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-9e03d17e96524e28be39fe3f557d8b33" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-29256fb0ba8442d9855791356aec3c4a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c4166dc039474b8c9b25f40e6e0fd015" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-e085cafe194543cf97d5f61050467ef9"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-16f9e07683124de58717211beaa719ba" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-f48534e41d26494097bf78514df938c8"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8ebb612c2ae2491aa2255d1e3ba82555" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-f8acf4ff18c24a2a88376184448fe4c3"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e09de5efd2934277bf5f07eaf05305f6" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-fa710757a86d407fa19c8d99eb0cd0cd"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c9da5353824e407d83c625fd75a71783" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-70a2745c7baf4bb0bbe5d1a45b93bf65"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7c416606b3fc42dfb55a1392adcf670b" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-647889068bdc459f901558326e392c7b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a08f1de685464ec7b112ff05777cd43c" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-78af7af102da4bd09893f52dafd0fa9f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ba88148201ea48bcbdd56ed13b9126e1" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-6a26f2ee398347c5b603b03204feef57"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3373c61ca3d04810b141ebdaf14f984c" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-d043f5a69bb24ee98bcdcd7c643f5a9b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2b4d81a5898746e480cd32ef13e9ff6e" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-dbc47f0c898e4f9e8cc916c5d86549d6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ac7f771419f541ddac2a1181d153cb70" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-6e6127c60aa7419cbac0f779ee35706f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-35c63a53e64140eebdf49fb2dfc3e4a3" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-36ee8fce616e461da78f33fc2efd95b1"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e42ecab1fa274ae39b7cd02c62982c20" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-9c43f24c34c34391acc6e418afd8ce06"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-523b7913a4904993a93d737309d9528c" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-176dddf8f6e0471b89fb8d8d7840a904"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-dde814475c894164b93c990b4ab80e95" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-af82f5c7e6fd455f85e9c3bf3eb34edc"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8ff3085941c449d1ad3f3ee42a11d779" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-12c89aff617e46279073533b0b513013"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-861e867a34194dc78038f806e61165cd" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-db5d756254674f06b2dc570347c68fc9"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5dcfe6467d5e4f66b6b567a1d981352a" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-cca6a06255bd49ae96b6cae92c5c9a24"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d93a6f6c168a4897a02e9cdcf06d44d7" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-cb5053a5043645668e03630586543870"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a72fb50be394486593dde62680cfa849" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-9a149db4de8942b287ab7e58dcc270ea"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-484ed0342f7a4af3a660affea9ae02af" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-ff90953df97544e8878b91ee85002d9b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-0e0d196ed7a44f0eb0e276617432366f" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-ee347bf92d66418595b0858ed3129a14"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-84983b1a52fe448cbbd1da5d9f9e602b" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-186f1b4398e343668d47d6dc989d473b"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -12713,7 +12966,8 @@ Standard personal information banks</content>
         </child>
         <child xsi:type="archimate:Note" id="id-2831774891cb4fc8a14654fe70a005f2" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
           <bounds x="466" y="22" width="289" height="121"/>
-          <content>(Registered) PIB's</content>
+          <content>(Registered) &#xD;
+Standard PIB's</content>
         </child>
         <child xsi:type="archimate:Note" id="id-5e4352303e6844188cce8ba1225484aa" textAlignment="1">
           <bounds x="636" y="82" width="120" height="61"/>
@@ -12725,59 +12979,206 @@ v0.1.20250515</content>
           <bounds x="766" y="29" width="149" height="108"/>
           <content>DIAGRAM NOT ENDORSED</content>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-c762dcda05c4493bab6e7549846ba9c9" archimateElement="id-db06ca0ede0c49788bbf89abc7faf915">
-          <bounds x="169" y="293" width="204" height="55"/>
+        <child xsi:type="archimate:DiagramObject" id="id-c762dcda05c4493bab6e7549846ba9c9" lineWidth="3" fillColor="#ffff00" archimateElement="id-db06ca0ede0c49788bbf89abc7faf915">
+          <bounds x="1044" y="85" width="204" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-5a55ba0c6a674558be708041b6e26832" archimateElement="id-1660d62857d64dd0a0db9ca3fa61477d">
-          <bounds x="834" y="280" width="204" height="55"/>
+          <bounds x="252" y="156" width="204" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-d3d6b64c5ea241e395211f2956de62df" archimateElement="id-af82f5c7e6fd455f85e9c3bf3eb34edc">
-          <bounds x="169" y="360" width="204" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-368128d6b78f4c7c9472cc26dca0e2e3" archimateElement="id-36ee8fce616e461da78f33fc2efd95b1">
-          <bounds x="365" y="394" width="204" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-481a3b944bb44013812e6dffb9ef4d89" archimateElement="id-398d77db85f34058a8d15c9ce3f78eab">
-          <bounds x="527" y="394" width="204" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-ca826ca85196480ba448a9685b6b8743" archimateElement="id-4166016b5b8a4f069b1827c9b3fef4ba">
-          <bounds x="733" y="389" width="204" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-02191f9cf6314780819eaec72cd05574" archimateElement="id-78af7af102da4bd09893f52dafd0fa9f">
-          <bounds x="950" y="391" width="204" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-cf319f1f754b4da89dc6e828a5f676bb" archimateElement="id-ff90953df97544e8878b91ee85002d9b">
-          <bounds x="1284" y="394" width="204" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-a7e871623fce40c3bed9a1d91bc9ab5b" archimateElement="id-d043f5a69bb24ee98bcdcd7c643f5a9b">
-          <bounds x="1130" y="401" width="204" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-cbe0c4fad6c54bf7b214b4ccb21a7d8f" archimateElement="id-8ee49a379ad94154b3efccc640d78ed7">
-          <bounds x="1488" y="386" width="204" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-a0507ea3e3d34413b29dc03f5e2b3296" archimateElement="id-186f1b4398e343668d47d6dc989d473b">
-          <bounds x="175" y="499" width="204" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-3d49c6fa4d894dd8b6a03d8a2574ab1b" archimateElement="id-133b1b8337c344cfa3beedd61a721d46">
-          <bounds x="345" y="511" width="204" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-d6fec6fe0363494a9436ddc6b823cb28" archimateElement="id-290a15be47b144bebe6fb8b023beb18e">
-          <bounds x="494" y="505" width="204" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-c3c1409fd5124784a568f86965df2774" archimateElement="id-e26daf8238074e90a21527e38b280de7">
-          <bounds x="720" y="503" width="204" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-038f0561a4e243ea851951390f3c010b" archimateElement="id-9a149db4de8942b287ab7e58dcc270ea">
-          <bounds x="872" y="499" width="204" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-d8f68b277c884501a9e4068b98edc775" archimateElement="id-6251d2822ecb4067b934835c4e22c0fc">
-          <bounds x="1131" y="505" width="204" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-7e94d6e44bd54e6694575a802b360dce" archimateElement="id-41c107c0eb9d40e0acfa6c59f4e7781c">
-          <bounds x="1326" y="483" width="204" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-af170504f2b247a98e180eb2730e7374" archimateElement="id-dbc47f0c898e4f9e8cc916c5d86549d6">
-          <bounds x="1590" y="505" width="204" height="55"/>
+        <child xsi:type="archimate:DiagramObject" id="id-7185fbce376941ed93342e8ddb6d1662" textAlignment="1" archimateElement="id-01a9a617039d499a8e6bde4045ba53dd">
+          <bounds x="24" y="216" width="1308" height="510"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7a3495ea10434c6dbd819fd63d00a230" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-7e94d6e44bd54e6694575a802b360dce" archimateRelationship="id-5615aba9f7334815abf0c3f85ae7848a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-49ef4e2be2a444e9aa9154c9cf49a2a9" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-3d49c6fa4d894dd8b6a03d8a2574ab1b" archimateRelationship="id-2f23280b0a1841aa9cee97492dc77c52"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b018490ebd0f40618addb18f857ee7c5" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-07a5b436f9c24084876691b82ac66161" archimateRelationship="id-9832536f455b420f865f778d435638a2"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-67c23b32c7c74907a3f0af0d278af296" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-ac2fac12454848c1a7975434797d8617" archimateRelationship="id-78d93d642e79446198eedcc59a08c2fb"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6314dff85739428ea19d5fa9e379b3dc" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-481a3b944bb44013812e6dffb9ef4d89" archimateRelationship="id-6cdaa9ba33054424abd8ef160324c9f8"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-764470193877415d8db63d6bcad3b4d3" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-8d4770b3d7f249a581f3dcb8e9a762cc" archimateRelationship="id-37055d2f94d94a74ba04763340dea168"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-0d89b83e81ce417683df07815ed450d6" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-c3c1409fd5124784a568f86965df2774" archimateRelationship="id-2bdc083b801f4943bb778caeb03774e9"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c794200b00c0453b97f824a67012168c" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-e84af72a1b59409ea46845e7700a984d" archimateRelationship="id-78ce10af90934080ad8f0d49aa9f1379"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d5396c3332f84a1a837c75150d27a438" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-8743954b8dd34dd683babf0deeec448d" archimateRelationship="id-95b8a510a34e4fb984c05808e3272a5e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a03d206d9ec54e45b409a02de13e3b8f" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-d8f68b277c884501a9e4068b98edc775" archimateRelationship="id-a9a87df36f9847fd863f4dd67aba700d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c0e016e5cde44bf7b8271fd735445b8f" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-4d3d80ed99f740edaa314beddc771fd3" archimateRelationship="id-5a093e0c995d447480c5baf6c436164b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4323833eda2545e48237d272dde6c6d4" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-ca826ca85196480ba448a9685b6b8743" archimateRelationship="id-2842505d6cf74a00893310f4837ca072"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c8a31ed286cb4b9eb23f95916ae0e856" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-798743062a7e439a87053365f5f486c2" archimateRelationship="id-8d66fdbc75ef420c8a946bad441b4dfd"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-98d5f30a8e434edf974c91ea88ddb283" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-a1cfd3cc9d7246e79323b57f8ffbc1ab" archimateRelationship="id-5fafa45b98344bd38962838e67ff3f32"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c66caf53d05246569db45b3ffd0da50f" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-f5e29604fe0e4a039082466114b3d64e" archimateRelationship="id-212f7c39bbaf44dab395c48cdf915a18"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-afae60f2cd5e4065a5fcc3f187c279c4" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-cbe0c4fad6c54bf7b214b4ccb21a7d8f" archimateRelationship="id-055cce2c76b244ec83d5c09fd316d169"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-585c0e23e60b4180a696509e5127904c" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-1104831b9ef74af7bb9c4c856bdd7190" archimateRelationship="id-938ae1f9d2a14ed0ad266f793eacef44"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a5f7d87b527244adb196c3654a99750c" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-d6fec6fe0363494a9436ddc6b823cb28" archimateRelationship="id-3a1fc823dc7d45db818eb6efc345fb19"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6bbf7e5771f34cbd8cf3b7f890e782ae" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-da96d75baa5d406bb44ad21e03221115" archimateRelationship="id-2c939b0710f24a70a244e479ab95af9b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9dafc7bb39af48db94803f273543ccc8" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-5a84de7d4dce4139830e70ee30f13c67" archimateRelationship="id-23a16e95dace4004aada42cf2e23d6b3"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-12ae4e0e3a9c4da189c36ad7cd6a6e52" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-023c0f0ddc6448709df41d57263b4b80" archimateRelationship="id-b8c60600350c4cf5887b21dff972ba1a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-069abd3019aa4210a626f696686e6261" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-32e6cbb5b9194bce89dd2184db4bed35" archimateRelationship="id-7afab3f3688e455d92fad1069cc374a2"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8b345502aaca4aca9f376316e04c9c3f" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-eabc57f196cd4d32963b6be492981234" archimateRelationship="id-508476828ddc4d2f88a7b4315d2bfd66"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a7d8e03f1de649f3bfc3fa7948a813ae" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-2ea24460390a4056bd550a7f244979f9" archimateRelationship="id-1d5e0442bfc54cff9a4af476bf6c4851"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8eddcd48f65346079e01071d57bfea74" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-c852ae1b868249c4a8a088cd440fd52a" archimateRelationship="id-9e03d17e96524e28be39fe3f557d8b33"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a9457d46e56d4dbe8d00f6f33d0d3767" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-78f1917d5d464bdca0fe732baf30d01e" archimateRelationship="id-c4166dc039474b8c9b25f40e6e0fd015"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2bb7934c07994b2c9ab2c449623ec9c9" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-77217e37c85649059e81d101d7c612a1" archimateRelationship="id-16f9e07683124de58717211beaa719ba"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a0c4392d074f44a58601a0fc67bbc71c" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-5b582068c4224edb8300d013d79ad787" archimateRelationship="id-8ebb612c2ae2491aa2255d1e3ba82555"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-032658664fb44523a5eb5873f0d0f9f0" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-006879ba37b84cb1ac090dcf80185663" archimateRelationship="id-e09de5efd2934277bf5f07eaf05305f6"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-da02c10bf7aa4e02bd03a51a716db5c7" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-31399db78e754923b9ed712686cb6e87" archimateRelationship="id-c9da5353824e407d83c625fd75a71783"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cde69ac2828c4afe88d8da59db1743c1" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-14e0109b928e49ddb66a2e20aba3d558" archimateRelationship="id-7c416606b3fc42dfb55a1392adcf670b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7790a58d83b649acb820f7c02c093706" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-02191f9cf6314780819eaec72cd05574" archimateRelationship="id-a08f1de685464ec7b112ff05777cd43c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1c6ce4078387402b8c3013cfaf5df47a" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-b4368432eb8b46969379befc3c442c50" archimateRelationship="id-ba88148201ea48bcbdd56ed13b9126e1"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1bc903f1bedd446188a022d8f3ca7db7" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-a7e871623fce40c3bed9a1d91bc9ab5b" archimateRelationship="id-3373c61ca3d04810b141ebdaf14f984c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d1c5d228bed848119af3659c8ba0fe32" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-af170504f2b247a98e180eb2730e7374" archimateRelationship="id-2b4d81a5898746e480cd32ef13e9ff6e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-28f15adc47b741e0a8d79c6d12a84126" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-73ed9e516bb24e489005ad9083841dc1" archimateRelationship="id-ac7f771419f541ddac2a1181d153cb70"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1d9561af3e8f4c3988fe68a24299639f" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-368128d6b78f4c7c9472cc26dca0e2e3" archimateRelationship="id-35c63a53e64140eebdf49fb2dfc3e4a3"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5d33f003c552404fb76a8a0c2e4b8883" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-20bd4e3e074f40baa4b7738720650efd" archimateRelationship="id-e42ecab1fa274ae39b7cd02c62982c20"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4b9fbfac1131497c9d08c401a302b805" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-2fe893e0ee9447c4b6f3d3cd248493c7" archimateRelationship="id-523b7913a4904993a93d737309d9528c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3ae04933dcdc48578f638e57eb8c865b" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-d3d6b64c5ea241e395211f2956de62df" archimateRelationship="id-dde814475c894164b93c990b4ab80e95"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9b2a41513b1f4481aa00666efef1fc54" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-0d4a96b880514c0fb607dae8fa46aad2" archimateRelationship="id-8ff3085941c449d1ad3f3ee42a11d779"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-380e3f795a0b479e97c602cf1abef594" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-4e4a754a4acd4e30be1191d872314537" archimateRelationship="id-861e867a34194dc78038f806e61165cd"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1fe7f248b08f4a05943acbdc5760e8bf" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-e72c2520baf847d3aa05b6edfb384eb9" archimateRelationship="id-5dcfe6467d5e4f66b6b567a1d981352a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ade0eeb71e5c48d28e70c0912442520f" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-9e6224a3702c407d9eac48ce02f28294" archimateRelationship="id-d93a6f6c168a4897a02e9cdcf06d44d7"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e52e52d5b91543909e37b5294016e044" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-038f0561a4e243ea851951390f3c010b" archimateRelationship="id-a72fb50be394486593dde62680cfa849"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-fc392845a28a4ec98d1ac35bd513456b" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-cf319f1f754b4da89dc6e828a5f676bb" archimateRelationship="id-484ed0342f7a4af3a660affea9ae02af"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d2d895f2f2254d1b947f9d9993fef295" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-c4592f998b4c4016a6f64d71bcfe52d2" archimateRelationship="id-0e0d196ed7a44f0eb0e276617432366f"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-53c229f9ab47411f9aee945f610bfa25" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-a0507ea3e3d34413b29dc03f5e2b3296" archimateRelationship="id-84983b1a52fe448cbbd1da5d9f9e602b"/>
+          <child xsi:type="archimate:DiagramObject" id="id-7e94d6e44bd54e6694575a802b360dce" targetConnections="id-7a3495ea10434c6dbd819fd63d00a230" archimateElement="id-41c107c0eb9d40e0acfa6c59f4e7781c">
+            <bounds x="659" y="144" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3d49c6fa4d894dd8b6a03d8a2574ab1b" targetConnections="id-49ef4e2be2a444e9aa9154c9cf49a2a9" archimateElement="id-133b1b8337c344cfa3beedd61a721d46">
+            <bounds x="12" y="84" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-07a5b436f9c24084876691b82ac66161" targetConnections="id-b018490ebd0f40618addb18f857ee7c5" archimateElement="id-af4a161d8ad34d94889383241dd9e74a">
+            <bounds x="445" y="204" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ac2fac12454848c1a7975434797d8617" targetConnections="id-67c23b32c7c74907a3f0af0d278af296" archimateElement="id-173b094960dd4796aeb28cceb2a5006a">
+            <bounds x="445" y="444" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-481a3b944bb44013812e6dffb9ef4d89" targetConnections="id-6314dff85739428ea19d5fa9e379b3dc" archimateElement="id-398d77db85f34058a8d15c9ce3f78eab">
+            <bounds x="230" y="84" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-8d4770b3d7f249a581f3dcb8e9a762cc" targetConnections="id-764470193877415d8db63d6bcad3b4d3" archimateElement="id-1560541b28fd46e4a0fec8df06313bba">
+            <bounds x="866" y="324" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-c3c1409fd5124784a568f86965df2774" targetConnections="id-0d89b83e81ce417683df07815ed450d6" archimateElement="id-e26daf8238074e90a21527e38b280de7">
+            <bounds x="866" y="84" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e84af72a1b59409ea46845e7700a984d" targetConnections="id-c794200b00c0453b97f824a67012168c" archimateElement="id-c1a5cdc33b5b4fe1a9153b9a311fd645">
+            <bounds x="12" y="144" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-8743954b8dd34dd683babf0deeec448d" targetConnections="id-d5396c3332f84a1a837c75150d27a438" archimateElement="id-302b78ce88f3485791891ac1e0646a06">
+            <bounds x="1082" y="204" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d8f68b277c884501a9e4068b98edc775" targetConnections="id-a03d206d9ec54e45b409a02de13e3b8f" archimateElement="id-6251d2822ecb4067b934835c4e22c0fc">
+            <bounds x="1082" y="84" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-4d3d80ed99f740edaa314beddc771fd3" targetConnections="id-c0e016e5cde44bf7b8271fd735445b8f" archimateElement="id-86e356885db34b419c2129f35a4de4bd">
+            <bounds x="12" y="204" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ca826ca85196480ba448a9685b6b8743" targetConnections="id-4323833eda2545e48237d272dde6c6d4" archimateElement="id-4166016b5b8a4f069b1827c9b3fef4ba">
+            <bounds x="445" y="24" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-798743062a7e439a87053365f5f486c2" targetConnections="id-c8a31ed286cb4b9eb23f95916ae0e856" archimateElement="id-2405025ce36e46ad9e0a78313fbee46b">
+            <bounds x="659" y="324" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a1cfd3cc9d7246e79323b57f8ffbc1ab" targetConnections="id-98d5f30a8e434edf974c91ea88ddb283" archimateElement="id-67b393735af444cead46264897a2edbf">
+            <bounds x="445" y="324" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f5e29604fe0e4a039082466114b3d64e" targetConnections="id-c66caf53d05246569db45b3ffd0da50f" archimateElement="id-d76290b5c910412eae58cc09dc391821">
+            <bounds x="866" y="204" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-cbe0c4fad6c54bf7b214b4ccb21a7d8f" targetConnections="id-afae60f2cd5e4065a5fcc3f187c279c4" archimateElement="id-8ee49a379ad94154b3efccc640d78ed7">
+            <bounds x="866" y="144" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1104831b9ef74af7bb9c4c856bdd7190" targetConnections="id-585c0e23e60b4180a696509e5127904c" archimateElement="id-b4a45c15d47a401b833af5c7349be49e">
+            <bounds x="866" y="384" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d6fec6fe0363494a9436ddc6b823cb28" targetConnections="id-a5f7d87b527244adb196c3654a99750c" archimateElement="id-290a15be47b144bebe6fb8b023beb18e">
+            <bounds x="1082" y="24" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-da96d75baa5d406bb44ad21e03221115" targetConnections="id-6bbf7e5771f34cbd8cf3b7f890e782ae" archimateElement="id-0988f4c847624eb190f1005c4740344f">
+            <bounds x="230" y="444" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5a84de7d4dce4139830e70ee30f13c67" targetConnections="id-9dafc7bb39af48db94803f273543ccc8" archimateElement="id-d3fb9690fb114b479d372794767f69a6">
+            <bounds x="659" y="264" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-023c0f0ddc6448709df41d57263b4b80" targetConnections="id-12ae4e0e3a9c4da189c36ad7cd6a6e52" archimateElement="id-72f9df43c559474cb5935688a9a3db90">
+            <bounds x="445" y="144" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-32e6cbb5b9194bce89dd2184db4bed35" targetConnections="id-069abd3019aa4210a626f696686e6261" archimateElement="id-9c13f269bb6d481987cd7d794de67b64">
+            <bounds x="230" y="384" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-eabc57f196cd4d32963b6be492981234" targetConnections="id-8b345502aaca4aca9f376316e04c9c3f" archimateElement="id-eed0fe50250a4fc1bf04eb146e977aa2">
+            <bounds x="12" y="444" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-2ea24460390a4056bd550a7f244979f9" targetConnections="id-a7d8e03f1de649f3bfc3fa7948a813ae" archimateElement="id-cb70f44acad94ddbbd88e73b1710031f">
+            <bounds x="445" y="384" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-c852ae1b868249c4a8a088cd440fd52a" targetConnections="id-8eddcd48f65346079e01071d57bfea74" archimateElement="id-29256fb0ba8442d9855791356aec3c4a">
+            <bounds x="12" y="324" width="204" height="37"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-78f1917d5d464bdca0fe732baf30d01e" targetConnections="id-a9457d46e56d4dbe8d00f6f33d0d3767" archimateElement="id-e085cafe194543cf97d5f61050467ef9">
+            <bounds x="659" y="384" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-77217e37c85649059e81d101d7c612a1" targetConnections="id-2bb7934c07994b2c9ab2c449623ec9c9" archimateElement="id-f48534e41d26494097bf78514df938c8">
+            <bounds x="230" y="324" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5b582068c4224edb8300d013d79ad787" targetConnections="id-a0c4392d074f44a58601a0fc67bbc71c" archimateElement="id-f8acf4ff18c24a2a88376184448fe4c3">
+            <bounds x="12" y="264" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-006879ba37b84cb1ac090dcf80185663" targetConnections="id-032658664fb44523a5eb5873f0d0f9f0" archimateElement="id-fa710757a86d407fa19c8d99eb0cd0cd">
+            <bounds x="866" y="444" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-31399db78e754923b9ed712686cb6e87" targetConnections="id-da02c10bf7aa4e02bd03a51a716db5c7" archimateElement="id-70a2745c7baf4bb0bbe5d1a45b93bf65">
+            <bounds x="1082" y="264" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-14e0109b928e49ddb66a2e20aba3d558" targetConnections="id-cde69ac2828c4afe88d8da59db1743c1" archimateElement="id-647889068bdc459f901558326e392c7b">
+            <bounds x="230" y="144" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-02191f9cf6314780819eaec72cd05574" targetConnections="id-7790a58d83b649acb820f7c02c093706" archimateElement="id-78af7af102da4bd09893f52dafd0fa9f">
+            <bounds x="445" y="84" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b4368432eb8b46969379befc3c442c50" targetConnections="id-1c6ce4078387402b8c3013cfaf5df47a" archimateElement="id-6a26f2ee398347c5b603b03204feef57">
+            <bounds x="230" y="264" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a7e871623fce40c3bed9a1d91bc9ab5b" targetConnections="id-1bc903f1bedd446188a022d8f3ca7db7" archimateElement="id-d043f5a69bb24ee98bcdcd7c643f5a9b">
+            <bounds x="659" y="24" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-af170504f2b247a98e180eb2730e7374" targetConnections="id-d1c5d228bed848119af3659c8ba0fe32" archimateElement="id-dbc47f0c898e4f9e8cc916c5d86549d6">
+            <bounds x="1082" y="384" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-73ed9e516bb24e489005ad9083841dc1" targetConnections="id-28f15adc47b741e0a8d79c6d12a84126" archimateElement="id-6e6127c60aa7419cbac0f779ee35706f">
+            <bounds x="1082" y="444" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-368128d6b78f4c7c9472cc26dca0e2e3" targetConnections="id-1d9561af3e8f4c3988fe68a24299639f" archimateElement="id-36ee8fce616e461da78f33fc2efd95b1">
+            <bounds x="230" y="24" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-20bd4e3e074f40baa4b7738720650efd" targetConnections="id-5d33f003c552404fb76a8a0c2e4b8883" archimateElement="id-9c43f24c34c34391acc6e418afd8ce06">
+            <bounds x="1082" y="324" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-2fe893e0ee9447c4b6f3d3cd248493c7" targetConnections="id-4b9fbfac1131497c9d08c401a302b805" archimateElement="id-176dddf8f6e0471b89fb8d8d7840a904">
+            <bounds x="12" y="372" width="204" height="66"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d3d6b64c5ea241e395211f2956de62df" targetConnections="id-3ae04933dcdc48578f638e57eb8c865b" archimateElement="id-af82f5c7e6fd455f85e9c3bf3eb34edc">
+            <bounds x="12" y="24" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0d4a96b880514c0fb607dae8fa46aad2" targetConnections="id-9b2a41513b1f4481aa00666efef1fc54" archimateElement="id-12c89aff617e46279073533b0b513013">
+            <bounds x="659" y="204" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-4e4a754a4acd4e30be1191d872314537" targetConnections="id-380e3f795a0b479e97c602cf1abef594" archimateElement="id-db5d756254674f06b2dc570347c68fc9">
+            <bounds x="866" y="264" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e72c2520baf847d3aa05b6edfb384eb9" targetConnections="id-1fe7f248b08f4a05943acbdc5760e8bf" archimateElement="id-cca6a06255bd49ae96b6cae92c5c9a24">
+            <bounds x="659" y="444" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9e6224a3702c407d9eac48ce02f28294" targetConnections="id-ade0eeb71e5c48d28e70c0912442520f" archimateElement="id-cb5053a5043645668e03630586543870">
+            <bounds x="445" y="264" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-038f0561a4e243ea851951390f3c010b" targetConnections="id-e52e52d5b91543909e37b5294016e044" archimateElement="id-9a149db4de8942b287ab7e58dcc270ea">
+            <bounds x="1082" y="144" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-cf319f1f754b4da89dc6e828a5f676bb" targetConnections="id-fc392845a28a4ec98d1ac35bd513456b" archimateElement="id-ff90953df97544e8878b91ee85002d9b">
+            <bounds x="659" y="84" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-c4592f998b4c4016a6f64d71bcfe52d2" targetConnections="id-d2d895f2f2254d1b947f9d9993fef295" archimateElement="id-ee347bf92d66418595b0858ed3129a14">
+            <bounds x="230" y="204" width="204" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a0507ea3e3d34413b29dc03f5e2b3296" targetConnections="id-53c229f9ab47411f9aee945f610bfa25" archimateElement="id-186f1b4398e343668d47d6dc989d473b">
+            <bounds x="866" y="24" width="204" height="55"/>
+          </child>
         </child>
         <documentation>https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html&#xD;
 Standard personal information banks&#xD;
