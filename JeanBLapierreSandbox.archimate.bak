@@ -2704,7 +2704,23 @@ Related Record Number: PRN 949 (https://www.canada.ca/en/treasury-board-secretar
 Bank Number: PSU 935</documentation>
     </element>
     <element xsi:type="archimate:Product" name="Product" id="id-8ee49a379ad94154b3efccc640d78ed7"/>
-    <element xsi:type="archimate:Product" name="Product" id="id-186f1b4398e343668d47d6dc989d473b"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSE 914] Parking (Product)" id="id-186f1b4398e343668d47d6dc989d473b">
+      <documentation>Parking&#xD;
+&#xD;
+Description: This bank describes personal information related to parking permit applications and parking space permit holders of spaces on government institution-owned or leased property. Personal information may include name, work and home contact information, biographical information, employee identification number, employee personnel information, financial information, medical information (for those individuals who apply for parking for disability requirements), vehicle identification information, rating factors, and signature.&#xD;
+&#xD;
+Class of Individuals: Employees of the institution, passengers, contractors or other individuals, property owners or representatives.&#xD;
+&#xD;
+Purpose: Personal information is used for the administration of parking privileges and to authorize payroll deductions. For most government institutions, personal information is collected under the authority of the Financial Administration Act. For those institutions not subject to the Act, consult the institution’s Access to Information and Privacy Coordinator to determine collection authority.&#xD;
+&#xD;
+Consistent Uses: Where government or other property is damaged, the accident may be reported to the Royal Canadian Mounted Police (refer to Central Personal Information Bank Protection of Personnel and Government Property - RCMP PPU 055) or to other policing authorities, or to the person(s) in charge or in control of the property. Information may be shared with Public Works and Government Services for the purpose of payroll deduction (refer to Central Personal Information Bank Public Service Compensation Systems - PWGSC PCE 705 (http://www.tpsgc-pwgsc.gc.ca/aiprp-atip/ressources-resources/infosource-eng.html)). Payroll deduction information may be shared with/described in Standard Personal Information Bank Pay and Benefits - PSE 904 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse904). Information may also be used or disclosed for evaluation or reporting purposes.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/001&#xD;
+Related Record Number: PRN 901 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn901)&#xD;
+Bank Number: PSE 914</documentation>
+    </element>
     <element xsi:type="archimate:Product" name="[Bank No: PSU 931] Accounts Payable (Product)" id="id-133b1b8337c344cfa3beedd61a721d46">
       <documentation>Accounts Payable&#xD;
 &#xD;
@@ -2873,7 +2889,7 @@ RDA Number: Institution-specific&#xD;
 Related Record Number: PRN 938 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn938)&#xD;
 Bank Number: PSU 918</documentation>
     </element>
-    <element xsi:type="archimate:Product" name="[Bank Number: PSU 937] Lobbying Act Requirements (Product)" id="id-d3fb9690fb114b479d372794767f69a6">
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 937] Lobbying Act Requirements (Product)" id="id-d3fb9690fb114b479d372794767f69a6">
       <documentation>Lobbying Act Requirements&#xD;
 &#xD;
 Description: This bank describes information collected by designated public office holders (e.g., current and former Deputy Heads, Assistant Deputy Ministers, senior members of the Canadian Forces, etc.) for the verification of lobbyist activities when requested by the Commissioner of Lobbying. Personal information may include name, contact information, financial information, biographical information, date, and time of the communication/lobbying activity, opinions and views of, or about, individuals, and subject matter.&#xD;
@@ -2962,7 +2978,23 @@ RDA Number: 98/005&#xD;
 Related Record Number: PRN 941 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn941)&#xD;
 Bank Number: PSE 903</documentation>
     </element>
-    <element xsi:type="archimate:Product" name="Product" id="id-2405025ce36e46ad9e0a78313fbee46b"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 919] Members of Boards, Committees and Councils (Product)" id="id-2405025ce36e46ad9e0a78313fbee46b">
+      <documentation>Members of Boards, Committees and Councils&#xD;
+&#xD;
+Description: This bank describes information used in the identification and selection of individuals to fill positions on institutional Boards, Committees and Councils. The personal information collected may include the following: full name, contact information, official language of choice, date of birth, country of birth, citizenship, gender, marital status, belonging to a minority, Social Insurance Number (SIN), unique identification number (e.g., unique employee number), terms and conditions of appointment including remuneration (e.g., salary, honoraria, per diem rate) and benefits, signature, physical limitations and any other relevant medical information, photographs or other image recordings, educational background, employment status, work history, volunteering history, professional affiliations, credit card and financial institution information, government security clearances, biographical information (including information about family members), conflict of interest declarations, letters of reference/recommendation, appointment date, and duration and resignation dates, if applicable.&#xD;
+&#xD;
+Class of Individuals: Candidates, as well as current and former members of Boards, Committees, and Councils, their family members, and individuals whose names have been provided as personal references.&#xD;
+&#xD;
+Purpose: The personal information collected is used to support the identification and selection of individuals to serve on advisory, oversight or governance bodies. The information may be used to provide advice to the Minister or Head of the institution to fill existing and/or forthcoming vacancies and to maintain an inventory of potential candidates. The personal information is also used to manage the administration of expenses (e.g., travel) and compensation and benefits packages, conduct performance evaluations, maintain an inventory of current and former appointees, record potential conflicts of interest and any compliance action required, and to communicate with these individuals. The authority to collect personal information is found in a number of legislative authorities such as section 9 Department of Employment and Social Development Act and section 22 of the Museums Act. The Social Insurance Number is collected pursuant to the Income Tax Act. Please consult the institution’s Access to Information and Privacy Coordinator to determine the legal authority for the collection by a specific government institution.&#xD;
+&#xD;
+Consistent Uses: This information may be used in the preparation of reports for senior management and broader audiences (e.g., Annual Reports), planning and evaluation purposes, and communications materials (e.g., press releases, biographies, etc.) that may be disseminated in multiple formats, including the institution’s website. With consent of the individual, this information may be shared with other Government of Canada institutions for uses consistent with the mandate of the Board, Committee or Council on which personal information is collected to fill positions (Refer to Members of Boards, Committees and Councils – PSU 919 of the specific government institution). Information may be disclosed to the Canada Revenue Agency (refer to Individual Returns and Payment Processing – CRA PPU 005 (http://www.cra-arc.gc.ca/gncy/tp/nfsrc/nfsrc-eng.html)) and, where applicable, the Province of Quebec for income tax purposes. Assistance of third party service providers may be used during the selection process.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: Institution-Specific&#xD;
+Related Record Number: PRN 938 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn938)&#xD;
+Bank Number: PSU 919</documentation>
+    </element>
     <element xsi:type="archimate:Product" name="Product" id="id-1560541b28fd46e4a0fec8df06313bba"/>
     <element xsi:type="archimate:Product" name="Product" id="id-9c43f24c34c34391acc6e418afd8ce06"/>
     <element xsi:type="archimate:Product" name="Product" id="id-b4a45c15d47a401b833af5c7349be49e"/>
@@ -3058,9 +3090,43 @@ RDA Number: 98/005&#xD;
 Related Record Number: PRN 922 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn922) and PRN 926 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn926)&#xD;
 Bank Number: PSE 919</documentation>
     </element>
-    <element xsi:type="archimate:Product" name="Product" id="id-e085cafe194543cf97d5f61050467ef9"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSE 907] Occupational Health and Safety (Product)" id="id-e085cafe194543cf97d5f61050467ef9">
+      <documentation>Occupational Health and Safety&#xD;
+&#xD;
+Description: This bank describes information that is used in support of a government institution’s occupational health and safety activity, including the prevention of accidents and injuries or illnesses related to occupations, authorization of leave and benefits associated with work-related injury or illness, employee assistance services, fitness to return to work assessments, duty to accommodate, health and ergonomic assessments, health and safety complaints, injury compensation, and rehabilitation and retraining. Personal information may include name, contact information, employee identification number, employee personnel information, financial information, nature of complaint, medical information, opinions and views of, or about, individuals, and signature.&#xD;
+&#xD;
+Class of Individuals: Current and former employees of government institutions, including casual and contract employees; private sector health practitioners; health and safety professionals; attendants for persons requiring assistance; family members who are part of the same household and eligible for corporate rates for Wellness programs; and individuals designated as emergency contacts of employees&#xD;
+&#xD;
+Purpose: Personal information is used to administer occupational safety and health activities in government institutions, which includes the promotion of a safe and healthy workplace for employees and others, provision of corporate Wellness programs, the prevention of accidents, occupational injuries and illnesses and, where applicable, the investigation of occurrences of such injuries and illnesses. Information may be collected pursuant to paragraph 7(1)(e) and subsection 11.1 of the Financial Administration Act; sections 114 and 240 of the Public Service Labour Relations Act; Part II of the Canada Labour Code and Part XVI of the Canada Occupational Health and Safety Regulations, the Government Employees Compensation Act, and the National Joint Council Directives.&#xD;
+&#xD;
+Consistent Uses: Information may be used or disclosed for the following reasons: to support decisions related to worker’s compensation and injury-on-duty leave; as a means of preventing injuries and illnesses and subsequent disabilities arising out of, or aggravated by, conditions of work; to establish that individuals subject to certain identified occupational risks are able to continue working without detriment to their health or safety or to that of others; and to establish the conditions under which certain individuals with identified illnesses or disabilities are able to continue to work under controlled conditions. Information may be shared with private sector health care providers. Information may be used to communicate with contacts of employees in emergency situations. Information concerning occupational health evaluations and all personal medical information is retained by the Medical Services Branch, Health Canada under medical confidential status (refer to Central Personal Information Banks: Occupational Health Medical Records - HC PCE 701 and Public Service Health Medical Advisory Committee - HC PCE 702). Information with respect to safety and health complaints and causes of accidents/injuries for accident prevention and health protection purposes is used to support the effective administration of each institution’s safety and health activity; such information is also disclosed to the institution’s work place health and safety committee. Information is also used to process payments and charge-backs with respect to injury compensation claims. Information related to injury compensation claims, including related correspondence and amounts paid, is retained by Employment and Social Development Canada and is shared with the institution of the affected employee and, where applicable, the relevant provincial or territorial workers’ compensation board. Employment and Social Development Canada holds information pertaining to employee compensation amounts, which are charged to institutions and distributed on a cost-recovery basis (refer to Personal Information Bank: Federal Workers Compensation - ESDC PPU 032 (http://www.esdc.gc.ca/eng/transparency/ati/reports/infosource/index.shtml)). Information may also be shared with Employment and Social Development Canada, specifically, with safety officers for the purposes of accident and refusal to work investigations and the stipulation of corrective measures. Information may be shared with/described in other Standard Personal Information Banks pertaining to human resources activities including: Employee Personnel Record - PSE 901 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse901); Attendance and Leave - PSE 903 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse903); Employee Assistance - PSE 916 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse916); Pay and Benefits - PSE 904 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse904); and Grievances - PSE 910 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse910). The investigation and settlement of vehicle accidents is also described in Standard Personal Information Bank Vehicle, Ship, Boat and Aircraft Accidents - PSE 908 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse908). Information may also be used or disclosed for planning and program evaluation purposes.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/005&#xD;
+Related Record Number: PRN 922 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn922)&#xD;
+Bank Number: PSE 907</documentation>
+    </element>
     <element xsi:type="archimate:Product" name="Product" id="id-eed0fe50250a4fc1bf04eb146e977aa2"/>
-    <element xsi:type="archimate:Product" name="Product" id="id-0988f4c847624eb190f1005c4740344f"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 938] Outreach Activities (Product)" id="id-0988f4c847624eb190f1005c4740344f">
+      <documentation>Outreach Activities&#xD;
+&#xD;
+Description: This bank describes information related to individuals who participate in outreach activities sponsored by government institutions. Such activities may involve consultations through various means, including hard-copy correspondence, e-mail, contests and competitions, success stories or the use of social media platforms including wikis, blogs, and other collaborative Internet technologies that are used or hosted by the institution. In some cases, individuals will be given prior notice that consultations will be recorded (audio or video). Types of activities may include surveys, symposia, conferences, forums, roundtables, seminars, and workshops. Personal information may include: name, contact information, biographical information, credit information, dietary restrictions and preferences, employee identification number, employment equity information, financial information, Internet Protocol (IP) addresses, medical information, and opinions and views of, or about, individuals.&#xD;
+&#xD;
+Note: Wherever possible, individuals seeking access to this bank should specify the title and date of the outreach activity. Description last updated: December 2013 .&#xD;
+&#xD;
+Class of Individuals: Current and former employees of government institutions, representatives of other levels of government, representatives of the academic and business communities, members of the general public (including parents and guardians where minors are concerned), and event speakers and facilitators.&#xD;
+&#xD;
+Purpose: The information is used to enable individuals to participate in national and/or international outreach activities sponsored by government institutions. Such activities facilitate information exchanges in areas of common interest to institutions and their stakeholders and allow for the sharing of knowledge, expertise, and best practices. Personal information is collected pursuant to various federal laws and regulations. For the specific collection authority(ies), consult the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+Consistent Uses: With notification, the proceedings of some outreach activities that are recorded may be made publicly available, including on the Internet. With consent, the information may be used to establish mailing lists to inform participants of future events or to contact individuals to seek views on issues of mutual interest. Information may be used to moderate public discussion on the social media platforms used by the institution. Information may be also be used or disclosed for program evaluation.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: Institution-specific&#xD;
+Related Record Number: PRN 904 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn904)&#xD;
+Bank Number: PSU 938</documentation>
+    </element>
     <element xsi:type="archimate:Product" name="[Bank No: PSU 908] Hospitality (Product)" id="id-173b094960dd4796aeb28cceb2a5006a">
       <documentation>Hospitality&#xD;
 &#xD;
@@ -3078,7 +3144,25 @@ RDA Number: 99/004&#xD;
 Related Record Number: PRN 933 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn933) and/or PRN 935 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn935)&#xD;
 Bank Number: PSU 908</documentation>
     </element>
-    <element xsi:type="archimate:Product" name="Product" id="id-cca6a06255bd49ae96b6cae92c5c9a24"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSE 906] Official Languages (Product)" id="id-cca6a06255bd49ae96b6cae92c5c9a24">
+      <documentation>Official Languages&#xD;
+&#xD;
+Description: This bank contains course enrolment and attendance information; language training applications containing basic personal data, such as first official language, date of birth, and Personal Record Identifier for purposes of identification; language knowledge examination scores; training certificates and correspondence about the official languages qualifications of employees. The bank may also contain duplicate input forms for the Official Languages Information System. Language examination, exemption and training records are attached to the employee personnel record.&#xD;
+&#xD;
+Note: Description last updated: December 2013 .&#xD;
+&#xD;
+Class of Individuals: Employees of the institution.&#xD;
+&#xD;
+Purpose: The purpose of the information described by this bank is to provide documentation for administration of official languages policies as they pertain to employees of federal government institutions, to document and support decisions pertaining to official languages qualifications and language testing and to document the language training needs and accomplishments of employees.&#xD;
+&#xD;
+Consistent Uses: To support and document decisions concerning individual employees on staffing, entitlement to bilingual bonus where applicable, transfers and promotions; and to aid in determining the linguistic status of employees and auditing of the administration of official language programs. Information may be disclosed to federal government institutions, the Public Service Commission and Treasury Board of Canada Secretariat where applicable for recruitment and staffing purposes (refer to Institution-Specific Personal Information Banks: for the Public Service Commission of Canada: Executive Resourcing - PSC PCE 746 (http://www.psc-cfp.gc.ca/abt-aps/atip-aiprp/infosource/2012/index-eng.htm); for Treasury Board of Canada Secretariat: Employment Equity Data Bank - TBS PCE 739 (http://www.tbs-sct.gc.ca/atipo-baiprp/sfg-srg/sfg-srg02-eng.asp)).&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/005&#xD;
+Related Record Number: PRN 923 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn923)&#xD;
+Bank Number: PSE 906</documentation>
+    </element>
     <element xsi:type="archimate:Product" name="Product" id="id-fa710757a86d407fa19c8d99eb0cd0cd"/>
     <element xsi:type="archimate:Product" name="Product" id="id-6e6127c60aa7419cbac0f779ee35706f"/>
   </folder>
@@ -6313,6 +6397,124 @@ Areas cited by participants where AI should not be used included decisions on cr
     <element xsi:type="archimate:Value" name="Build a stronger and more inclusive Canada (Value)" id="id-bce6802285fe4e0bbab56ba89ed754a2"/>
     <element xsi:type="archimate:Value" name="Support Canadians in making choices that help them live productive and rewarding lives (Value)" id="id-1fda4a48570f4ee3b6b46ddffc58f329"/>
     <element xsi:type="archimate:Value" name="Improve Canadians' quality of life (Value)" id="id-38ec1143ad814565983af9f22d489dc1"/>
+    <element xsi:type="archimate:Assessment" name="Threatened Sovereignty (Assessment)" id="id-243e58235f134ed4be2cc4e974484384">
+      <documentation>In a more dangerous and divided world, geopolitical risks are rising, threatening our sovereignty.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Global Trade Transformation (Assessment)" id="id-149fa68b4ada417787b336a6039b281f">
+      <documentation>The global trading system – which has helped power Canada’s prosperity for decades – is undergoing the biggest transformation since the fall of the Berlin Wall.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Strained Government Finances (Assessment)" id="id-cf29b4b9b4664897b7d23d9659974608">
+      <documentation>At home, our longstanding weak productivity is straining government finances, making life less affordable for Canadian families, and threatening to undermine the sustainability of vital social programs on which Canadians rely.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Redefine Canada’s International, Commercial, and Security Relationships (Requirement)" id="id-d90fa3e83a9d44dfacafc3921ab3f4a8">
+      <documentation>We must redefine Canada’s international, commercial, and security relationships. In the process, we need to develop a defence industrial policy that secures Canada, fulfills our responsibilities to our allies, and helps build our economy.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Secure Canada (Requirement)" id="id-ddcece0839114b99b1247289966059a0">
+      <documentation>In the process, we need to develop a defence industrial policy that secures Canada, fulfills our responsibilities to our allies, and helps build our economy.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Fulfill Responsibilities To Allies (Requirement)" id="id-29ecec90f3d24d4c9e333eb7b3a1d109">
+      <documentation>In the process, we need to develop a defence industrial policy that secures Canada, fulfills our responsibilities to our allies, and helps build our economy.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Build Our Economy (Requirement)" id="id-2599f4879dde4fdba44810fec7fa7549">
+      <documentation>In the process, we need to develop a defence industrial policy that secures Canada, fulfills our responsibilities to our allies, and helps build our economy.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Build New Generational Infrastructure (Requirement)" id="id-892a15a3d75c4ce1be9dc7cfc4e898ec">
+      <documentation>Canada must build an enormous amount of new infrastructure at speeds not seen in generations. This includes the infrastructure to diversify our trading relationships; to become an energy superpower in both clean and conventional energies; to restore affordability to housing; and to secure our borders and our communities.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Diversify Trade Relations (Requirement)" id="id-90b090e93a884841806a52807e6ab6cb">
+      <documentation>This includes the infrastructure to diversify our trading relationships; to become an energy superpower in both clean and conventional energies; to restore affordability to housing; and to secure our borders and our communities.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Become an Energy Superpower (Requirement)" id="id-bc098c0be94b457385502c27da966beb">
+      <documentation>This includes the infrastructure to diversify our trading relationships; to become an energy superpower in both clean and conventional energies; to restore affordability to housing; and to secure our borders and our communities.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Grow Private Invesment (Requirement)" id="id-a6c93b7b0e134c5baac46324d8b386a1">
+      <documentation>Government itself must become much more productive by deploying AI at scale, by focusing on results over spending, and by using scarce tax dollars to catalyse multiples of private investment.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Restore Affordable Housing (Requirement)" id="id-4f81db807cdb4638bfcd2b5a6021e47f">
+      <documentation>This includes the infrastructure to diversify our trading relationships; to become an energy superpower in both clean and conventional energies; to restore affordability to housing; and to secure our borders and our communities.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Secure Borders and Communities (Requirement)" id="id-02929e18cf814e1184969c08bd2af2ae">
+      <documentation>This includes the infrastructure to diversify our trading relationships; to become an energy superpower in both clean and conventional energies; to restore affordability to housing; and to secure our borders and our communities.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Focus on Results over Spending (Requirement)" id="id-d5ecc21984104024a4fe1450b210b331">
+      <documentation>Government itself must become much more productive by deploying AI at scale, by focusing on results over spending, and by using scarce tax dollars to catalyse multiples of private investment.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Deploy AI at Scale (Requirement)" id="id-071eecbd08ef4d3ab715eac82e174bb0">
+      <documentation>Government itself must become much more productive by deploying AI at scale, by focusing on results over spending, and by using scarce tax dollars to catalyse multiples of private investment.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Provide Necessary Education and Training Access (Requirement)" id="id-8dfd0ce8fee04c558e7db31281c7ef04">
+      <documentation>The combination of the scale of this infrastructure build and the transformative nature of artificial intelligence (AI) will create opportunities for millions of Canadians to find new rewarding careers – provided they have timely access to the education and training they need to develop the necessary skills.&#xD;
+&#xD;
+Government itself must become much more productive by deploying AI at scale, by focusing on results over spending, and by using scarce tax dollars to catalyse multiples of private investment.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="Our Priorities" id="id-c134a22462e64745a1865175787d8b58">
+      <documentation>We will focus on seven priorities:&#xD;
+&#xD;
+1. Establishing a new economic and security relationship with the United States and strengthening our collaboration with reliable trading partners and allies around the world.&#xD;
+2. Building one Canadian economy by removing barriers to interprovincial trade and identifying and expediting nation-building projects that will connect and transform our country.&#xD;
+3. Bringing down costs for Canadians and helping them to get ahead.&#xD;
+4. Making housing more affordable by unleashing the power of public-private cooperation, catalysing a modern housing industry, and creating new careers in the skilled trades.&#xD;
+5. Protecting Canadian sovereignty and keeping Canadians safe by strengthening the Canadian Armed Forces, securing our borders, and reinforcing law enforcement.&#xD;
+6. Attracting the best talent in the world to help build our economy, while returning our overall immigration rates to sustainable levels.&#xD;
+7. Spending less on government operations so that Canadians can invest more in the people and businesses that will build the strongest economy in the G7.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="2. Building one Canadian economy by removing barriers to interprovincial trade and identifying and expediting nation-building projects that will connect and transform our country" id="id-0b704f0c5126493983e8f0fefc347142">
+      <documentation>We will focus on seven priorities:&#xD;
+2. Building one Canadian economy by removing barriers to interprovincial trade and identifying and expediting nation-building projects that will connect and transform our country.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="4. Making housing more affordable by unleashing the power of public-private cooperation, catalysing a modern housing industry, and creating new careers in the skilled trades" id="id-5deceb3ac42a4e6580fbe841935b9e1d">
+      <documentation>We will focus on seven priorities:&#xD;
+4. Making housing more affordable by unleashing the power of public-private cooperation, catalysing a modern housing industry, and creating new careers in the skilled trades.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="6. Attracting the best talent in the world to help build our economy, while returning our overall immigration rates to sustainable levels" id="id-f9c25076706246ebbc13992361d26464">
+      <documentation>We will focus on seven priorities:&#xD;
+6. Attracting the best talent in the world to help build our economy, while returning our overall immigration rates to sustainable levels.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="7. Spending less on government operations so that Canadians can invest more in the people and businesses that will build the strongest economy in the G7" id="id-9f2ca45de80b41d6befd9716c075e246">
+      <documentation>We will focus on seven priorities:&#xD;
+7. Spending less on government operations so that Canadians can invest more in the people and businesses that will build the strongest economy in the G7.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="1. Establishing a new economic and security relationship with the United States and strengthening our collaboration with reliable trading partners and allies around the world" id="id-bcc83ebdb30b457dbd38786f5f00b458">
+      <documentation>We will focus on seven priorities:&#xD;
+1. Establishing a new economic and security relationship with the United States and strengthening our collaboration with reliable trading partners and allies around the world.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="3. Bringing down costs for Canadians and helping them to get ahead" id="id-5f1032d714854b6c8d45a3ce4ab5f4b0">
+      <documentation>We will focus on seven priorities:&#xD;
+3. Bringing down costs for Canadians and helping them to get ahead.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="5. Protecting Canadian sovereignty and keeping Canadians safe by strengthening the Canadian Armed Forces, securing our borders, and reinforcing law enforcement" id="id-fe8608de124847f2ad14012d8e3e3673">
+      <documentation>We will focus on seven priorities:&#xD;
+5. Protecting Canadian sovereignty and keeping Canadians safe by strengthening the Canadian Armed Forces, securing our borders, and reinforcing law enforcement.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Deliver as a Real Cabinet Government Team" id="id-9ef0b85a95c9412ab27beec52b5b94ab">
+      <documentation>We must deliver for Canadians as a team committed to real Cabinet government. The attainment of these objectives will require collaboration and coordination within Cabinet. I expect each Cabinet committee, led by their Chair, to drive and monitor our progress, with oversight from the Priorities, Planning and Strategy Committee, and direction from the full Cabinet.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Collaborate and Coordinate (Principle)" id="id-6bc7125cecd54b8fb7f2d970f6558901">
+      <documentation>The attainment of these objectives will require collaboration and coordination within Cabinet.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Drive and Monitor Progress (Principle)" id="id-5ed8eb5c86634216b23cba964ce991ce">
+      <documentation>I expect each Cabinet committee, led by their Chair, to drive and monitor our progress, with oversight from the Priorities, Planning and Strategy Committee, and direction from the full Cabinet.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Principle" id="id-8f8fb6f01c2d43f4b51a077dc533e4d1"/>
+    <element xsi:type="archimate:Principle" name="Identify Your Mission Contributions (Principle)" id="id-29e52aff78ad4d63a7648fa9b6c89851">
+      <documentation>While fulfilling your core responsibilities as a member of the Ministry, you should identify how specifically you can contribute to these missions. You will be expected and empowered to lead, and to bring new ideas, clear focus, and decisive action to your work. Over the coming weeks, I will look to each of you to identify the key goals and measures of success on which to evaluate the results you will achieve for Canadians as a member of the Ministry.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Principle" id="id-4782bad477d541ffa051d3065a151b64"/>
+    <element xsi:type="archimate:Principle" name="Principle" id="id-aa2ca8186b724920b4b68848e1df878c"/>
+    <element xsi:type="archimate:Principle" name="Principle" id="id-f80edd82060d4792a20442f4e7911de5"/>
+    <element xsi:type="archimate:Principle" name="Principle" id="id-7161045199fc44adab4ca16e1e735227"/>
+    <element xsi:type="archimate:Principle" name="Working Together" id="id-59144c334d56452d8b0bc357f302f415">
+      <documentation>Working Together&#xD;
+We must deliver for Canadians as a team committed to real Cabinet government. The attainment of these objectives will require collaboration and coordination within Cabinet. I expect each Cabinet committee, led by their Chair, to drive and monitor our progress, with oversight from the Priorities, Planning and Strategy Committee, and direction from the full Cabinet.&#xD;
+&#xD;
+While fulfilling your core responsibilities as a member of the Ministry, you should identify how specifically you can contribute to these missions. You will be expected and empowered to lead, and to bring new ideas, clear focus, and decisive action to your work. Over the coming weeks, I will look to each of you to identify the key goals and measures of success on which to evaluate the results you will achieve for Canadians as a member of the Ministry.&#xD;
+&#xD;
+We will work together with Parliamentarians and the public service. We will work in true partnership with provinces, territories, and Indigenous Peoples. And we will bring together labour, business, and civil society to build a Canada worthy of our children and grandchildren.&#xD;
+&#xD;
+In addressing the tasks before us, we must remain true to Canadian values. Canada is a dynamic country that celebrates our diversity, cares for the most vulnerable among us, and strives for a better future for all. The new federal Government will continue the vital work of advancing reconciliation with Indigenous Peoples. We will fight climate change. We will uphold the rule of law, protect our democratic institutions, and reinforce the unity of our country.&#xD;
+&#xD;
+Canada’s challenges are not small, but we can more than meet them with vigour and a constructive approach. That is how Canadians have built the best country in the world. That is how we will build it to be even better.</documentation>
+    </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Gap" name="Unmanaged Data (Gap)" id="id-ed4e79d466fd4551a90d4cbfb6784e74">
@@ -7205,6 +7407,11 @@ The mission of Employment and Social Development Canada (ESDC) is to:&#xD;
  - improve Canadians' quality of life</documentation>
     </element>
     <element xsi:type="archimate:Grouping" name="Standard personal information banks (PIB's)" id="id-01a9a617039d499a8e6bde4045ba53dd"/>
+    <element xsi:type="archimate:Grouping" name="Canada faces a series of crises" id="id-06c19a3e183b4063bd0e363195a04d76">
+      <documentation>Canada faces a series of crises. In a more dangerous and divided world, geopolitical risks are rising, threatening our sovereignty. The global trading system – which has helped power Canada’s prosperity for decades – is undergoing the biggest transformation since the fall of the Berlin Wall. At home, our longstanding weak productivity is straining government finances, making life less affordable for Canadian families, and threatening to undermine the sustainability of vital social programs on which Canadians rely.&#xD;
+&#xD;
+The new federal Government has an immense responsibility to address these challenges head on with focus, determination, and fundamentally different approaches to governing.</documentation>
+    </element>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
     <element xsi:type="archimate:SpecializationRelationship" id="id-1fc9998b537248f0ab8efd6853b77d65" source="id-bbea9bb53b0d449e8af710c22edf18bc" target="id-a7f8beac2a2c416c96b351c66b79510c"/>
@@ -8458,6 +8665,29 @@ The mission of Employment and Social Development Canada (ESDC) is to:&#xD;
     <element xsi:type="archimate:CompositionRelationship" id="id-0e0d196ed7a44f0eb0e276617432366f" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-ee347bf92d66418595b0858ed3129a14"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-84983b1a52fe448cbbd1da5d9f9e602b" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-186f1b4398e343668d47d6dc989d473b"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-f31956311f494755a27850bc8b0dcf91" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-db06ca0ede0c49788bbf89abc7faf915"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4b0ee2e9d7b94071add4657446852239" source="id-06c19a3e183b4063bd0e363195a04d76" target="id-149fa68b4ada417787b336a6039b281f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-dc52facbae8c4e90bc5a9e5af24dad91" source="id-06c19a3e183b4063bd0e363195a04d76" target="id-243e58235f134ed4be2cc4e974484384"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4efb8988f7ba4905a45101130e67567a" source="id-06c19a3e183b4063bd0e363195a04d76" target="id-cf29b4b9b4664897b7d23d9659974608"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-492f435843d640caa003207aa2ba87a0" source="id-d90fa3e83a9d44dfacafc3921ab3f4a8" target="id-29ecec90f3d24d4c9e333eb7b3a1d109"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3a8a44ad7524470cb3c67f18128269e9" source="id-d90fa3e83a9d44dfacafc3921ab3f4a8" target="id-ddcece0839114b99b1247289966059a0"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b735418544dc4dec941b1252551c3564" source="id-d90fa3e83a9d44dfacafc3921ab3f4a8" target="id-2599f4879dde4fdba44810fec7fa7549"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-688be22aedb4475c881be8fe10aae58f" source="id-892a15a3d75c4ce1be9dc7cfc4e898ec" target="id-90b090e93a884841806a52807e6ab6cb"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b06f8b99f824431d90b005cce4092f05" source="id-892a15a3d75c4ce1be9dc7cfc4e898ec" target="id-bc098c0be94b457385502c27da966beb"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-615414d0b04b42aca773c221a70a76c1" source="id-892a15a3d75c4ce1be9dc7cfc4e898ec" target="id-4f81db807cdb4638bfcd2b5a6021e47f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-71c8596fcda249f484b28ecdde577376" source="id-892a15a3d75c4ce1be9dc7cfc4e898ec" target="id-02929e18cf814e1184969c08bd2af2ae"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d021307ef9764fdf84dcf65b156cb68b" source="id-8dfd0ce8fee04c558e7db31281c7ef04" target="id-071eecbd08ef4d3ab715eac82e174bb0"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a4369a1203f94d80be18df105bc0323a" source="id-8dfd0ce8fee04c558e7db31281c7ef04" target="id-d5ecc21984104024a4fe1450b210b331"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8cfa5e7279d04414aed941b8d9f44943" source="id-8dfd0ce8fee04c558e7db31281c7ef04" target="id-a6c93b7b0e134c5baac46324d8b386a1"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-662c736dbdb54f41a9e2fc85e8e31567" source="id-c134a22462e64745a1865175787d8b58" target="id-0b704f0c5126493983e8f0fefc347142"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b8541dd748f04ac081dc5863a822de96" source="id-c134a22462e64745a1865175787d8b58" target="id-f9c25076706246ebbc13992361d26464"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-bd59fd8f74dd4c63b96eb4a3e826944b" source="id-c134a22462e64745a1865175787d8b58" target="id-5deceb3ac42a4e6580fbe841935b9e1d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c7430e7a58204a18af02f7485f087345" source="id-c134a22462e64745a1865175787d8b58" target="id-bcc83ebdb30b457dbd38786f5f00b458"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-055f81748eff42fd955a70b7b79a5b7e" source="id-c134a22462e64745a1865175787d8b58" target="id-5f1032d714854b6c8d45a3ce4ab5f4b0"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-257670f2047f4ca5a8e889a1fad68b23" source="id-c134a22462e64745a1865175787d8b58" target="id-9f2ca45de80b41d6befd9716c075e246"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-9ccf04f3e8944cc296c27c84ae729a35" source="id-c134a22462e64745a1865175787d8b58" target="id-fe8608de124847f2ad14012d8e3e3673"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5941ddbf77644dd3adc8b6536f0f84d4" source="id-9ef0b85a95c9412ab27beec52b5b94ab" target="id-6bc7125cecd54b8fb7f2d970f6558901"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-bfd498c874c54358ade33c92aeb4963a" source="id-9ef0b85a95c9412ab27beec52b5b94ab" target="id-5ed8eb5c86634216b23cba964ce991ce"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8f801a6ea3b44de29b98a98ac8436968" source="id-59144c334d56452d8b0bc357f302f415" target="id-9ef0b85a95c9412ab27beec52b5b94ab"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -13391,7 +13621,7 @@ v0.1.20250516</content>
           <child xsi:type="archimate:DiagramObject" id="id-c852ae1b868249c4a8a088cd440fd52a" targetConnections="id-8eddcd48f65346079e01071d57bfea74" archimateElement="id-29256fb0ba8442d9855791356aec3c4a">
             <bounds x="12" y="324" width="204" height="37"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="id-78f1917d5d464bdca0fe732baf30d01e" targetConnections="id-a9457d46e56d4dbe8d00f6f33d0d3767" archimateElement="id-e085cafe194543cf97d5f61050467ef9">
+          <child xsi:type="archimate:DiagramObject" id="id-78f1917d5d464bdca0fe732baf30d01e" targetConnections="id-a9457d46e56d4dbe8d00f6f33d0d3767" lineWidth="2" fillColor="#ffff00" archimateElement="id-e085cafe194543cf97d5f61050467ef9">
             <bounds x="660" y="324" width="204" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-77217e37c85649059e81d101d7c612a1" targetConnections="id-2bb7934c07994b2c9ab2c449623ec9c9" archimateElement="id-f48534e41d26494097bf78514df938c8">
@@ -14091,22 +14321,22 @@ Version: 0.1.20250430</content>
         </child>
         <documentation>https://liberal.ca/cstrong/contents/</documentation>
       </element>
-      <element xsi:type="archimate:ArchimateDiagramModel" name="ESDC Mandate Letters 2025" id="id-c0e5e0defc254ed789cb518ec3dffa05">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="GC (ESDC) Mandate Letter 2025" id="id-c0e5e0defc254ed789cb518ec3dffa05">
         <child xsi:type="archimate:Note" id="id-b04329af91264d66aff6a5bceb17139d" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
           <bounds x="12" y="12" width="445" height="121"/>
-          <content>Archimate View: ESDC Mandate Letters 2025&#xD;
+          <content>Archimate View: GC (ESDC) Mandate Letter 2025&#xD;
 For discussion:&#xD;
-</content>
+Darker items with heavy borders relate to ESDC's mandate</content>
         </child>
         <child xsi:type="archimate:Note" id="id-dc9e38c442f24b579ef1c40480010092" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
           <bounds x="456" y="12" width="289" height="121"/>
-          <content>ESDC MANDATE LETTERS</content>
+          <content>GC MANDATE LETTER</content>
         </child>
         <child xsi:type="archimate:Note" id="id-8d9654d1b2534cc1a749cd632fedc9d8" textAlignment="1">
           <bounds x="625" y="72" width="120" height="61"/>
           <content>(DRAFT)&#xD;
-2025-99-99&#xD;
-v0.1.20250513</content>
+2025-05-21&#xD;
+v0.1.20250522</content>
         </child>
         <child xsi:type="archimate:Note" id="id-9ca099c36b1d409c8257d3667107715c" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
           <bounds x="756" y="19" width="149" height="108"/>
@@ -14163,13 +14393,186 @@ v0.1.20250513</content>
             <sourceConnection xsi:type="archimate:Connection" id="id-767659f2e4a247bd9a64a4379713a08c" source="id-fb7d23971f0d45a099b1e590a8e33f31" target="id-a8367eb60c8345248ab2922dce3dfcf8" archimateRelationship="id-a9d4a8c7d7604f94aa212cc230787679"/>
           </child>
         </child>
-        <documentation>https://esdc.prv/en/news/corporate/2025/05/13-02.shtml&#xD;
+        <child xsi:type="archimate:DiagramObject" id="id-148e07dab744446a969de4d7186f2b56" textAlignment="1" archimateElement="id-06c19a3e183b4063bd0e363195a04d76">
+          <bounds x="696" y="144" width="181" height="229"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d230982abd974e86987cd2e2645cd14d" source="id-148e07dab744446a969de4d7186f2b56" target="id-94a5e4b0f383422caee878f7f5b6b747" archimateRelationship="id-4b0ee2e9d7b94071add4657446852239"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-180d884293b645de9f0a66be27fb4912" source="id-148e07dab744446a969de4d7186f2b56" target="id-ac868ea5b94c4b43a4b2d123e3283f5d" archimateRelationship="id-dc52facbae8c4e90bc5a9e5af24dad91"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6c315f5b9f8a45e5ba0b6bc336582072" source="id-148e07dab744446a969de4d7186f2b56" target="id-bbfc8272704a4fe08743358683b3c4be" archimateRelationship="id-4efb8988f7ba4905a45101130e67567a"/>
+          <child xsi:type="archimate:DiagramObject" id="id-94a5e4b0f383422caee878f7f5b6b747" targetConnections="id-d230982abd974e86987cd2e2645cd14d" archimateElement="id-149fa68b4ada417787b336a6039b281f">
+            <bounds x="12" y="84" width="153" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ac868ea5b94c4b43a4b2d123e3283f5d" targetConnections="id-180d884293b645de9f0a66be27fb4912" archimateElement="id-243e58235f134ed4be2cc4e974484384">
+            <bounds x="12" y="24" width="153" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-bbfc8272704a4fe08743358683b3c4be" targetConnections="id-6c315f5b9f8a45e5ba0b6bc336582072" archimateElement="id-cf29b4b9b4664897b7d23d9659974608">
+            <bounds x="12" y="144" width="153" height="73"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1b39aa7f80a84197849619897b1af3c1" archimateElement="id-d90fa3e83a9d44dfacafc3921ab3f4a8">
+          <bounds x="904" y="146" width="185" height="226"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6eb4bb425c0d452681c987fc496633c4" source="id-1b39aa7f80a84197849619897b1af3c1" target="id-ce3f9fdf241c4515a8262f9ef8b07077" archimateRelationship="id-492f435843d640caa003207aa2ba87a0"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7ffc08baf79c476184c43cfb95be99df" source="id-1b39aa7f80a84197849619897b1af3c1" target="id-b1b1ee69de7341aea0169d1eb624a366" archimateRelationship="id-3a8a44ad7524470cb3c67f18128269e9"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-426dfbe2e5e84b0eaed17014becf5556" source="id-1b39aa7f80a84197849619897b1af3c1" target="id-e81dae11c3a644248051e0d2b75036bb" archimateRelationship="id-b735418544dc4dec941b1252551c3564"/>
+          <child xsi:type="archimate:DiagramObject" id="id-ce3f9fdf241c4515a8262f9ef8b07077" targetConnections="id-6eb4bb425c0d452681c987fc496633c4" archimateElement="id-29ecec90f3d24d4c9e333eb7b3a1d109">
+            <bounds x="12" y="115" width="159" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b1b1ee69de7341aea0169d1eb624a366" targetConnections="id-7ffc08baf79c476184c43cfb95be99df" archimateElement="id-ddcece0839114b99b1247289966059a0">
+            <bounds x="12" y="72" width="159" height="44"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e81dae11c3a644248051e0d2b75036bb" targetConnections="id-426dfbe2e5e84b0eaed17014becf5556" lineWidth="3" fillColor="#8080ff" archimateElement="id-2599f4879dde4fdba44810fec7fa7549">
+            <bounds x="12" y="169" width="159" height="43"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3ee35caddbcb495aa68dc6665d86a791" archimateElement="id-892a15a3d75c4ce1be9dc7cfc4e898ec">
+          <bounds x="1128" y="146" width="185" height="290"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-13c98ad122e146c2822c2b2c4afea987" source="id-3ee35caddbcb495aa68dc6665d86a791" target="id-aa14f81a5d0c488d8181decfcbc2f91c" archimateRelationship="id-688be22aedb4475c881be8fe10aae58f"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f88fb04c1bb044cb858546d64d90ce45" source="id-3ee35caddbcb495aa68dc6665d86a791" target="id-85befaca3e6b4670aeecaa238ae03c42" archimateRelationship="id-b06f8b99f824431d90b005cce4092f05"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2e3af69886ea4354b7540248bd6b9c41" source="id-3ee35caddbcb495aa68dc6665d86a791" target="id-0b664d50ba334852862fdf589ac8f790" archimateRelationship="id-615414d0b04b42aca773c221a70a76c1"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ef764830ea3941358f577658e49ada9e" source="id-3ee35caddbcb495aa68dc6665d86a791" target="id-e18c7d5577724d10b7ff5bced19af1f2" archimateRelationship="id-71c8596fcda249f484b28ecdde577376"/>
+          <child xsi:type="archimate:DiagramObject" id="id-aa14f81a5d0c488d8181decfcbc2f91c" targetConnections="id-13c98ad122e146c2822c2b2c4afea987" archimateElement="id-90b090e93a884841806a52807e6ab6cb">
+            <bounds x="12" y="60" width="159" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-85befaca3e6b4670aeecaa238ae03c42" targetConnections="id-f88fb04c1bb044cb858546d64d90ce45" archimateElement="id-bc098c0be94b457385502c27da966beb">
+            <bounds x="12" y="114" width="159" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0b664d50ba334852862fdf589ac8f790" targetConnections="id-2e3af69886ea4354b7540248bd6b9c41" archimateElement="id-4f81db807cdb4638bfcd2b5a6021e47f">
+            <bounds x="12" y="168" width="159" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e18c7d5577724d10b7ff5bced19af1f2" targetConnections="id-ef764830ea3941358f577658e49ada9e" archimateElement="id-02929e18cf814e1184969c08bd2af2ae">
+            <bounds x="12" y="222" width="159" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a18e05352b8b437fb5cbacdd1526775c" archimateElement="id-8dfd0ce8fee04c558e7db31281c7ef04">
+          <bounds x="1348" y="146" width="185" height="226"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c93a5c4ad8a44af9afb7d47f62fa3a14" source="id-a18e05352b8b437fb5cbacdd1526775c" target="id-4f427429b9dc4e8bbae480d23b803d58" archimateRelationship="id-d021307ef9764fdf84dcf65b156cb68b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2ddb53d71d4d4a37b73d297784d89d38" source="id-a18e05352b8b437fb5cbacdd1526775c" target="id-f9251772efea43e2bda139255c3a9db2" archimateRelationship="id-a4369a1203f94d80be18df105bc0323a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8cdea18a46694141a61e34c8f244e579" source="id-a18e05352b8b437fb5cbacdd1526775c" target="id-93a3f8eb28144b0bbaa1c8485f48b7bb" archimateRelationship="id-8cfa5e7279d04414aed941b8d9f44943"/>
+          <child xsi:type="archimate:DiagramObject" id="id-4f427429b9dc4e8bbae480d23b803d58" targetConnections="id-c93a5c4ad8a44af9afb7d47f62fa3a14" lineWidth="3" fillColor="#8080ff" archimateElement="id-071eecbd08ef4d3ab715eac82e174bb0">
+            <bounds x="12" y="60" width="159" height="49"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f9251772efea43e2bda139255c3a9db2" targetConnections="id-2ddb53d71d4d4a37b73d297784d89d38" lineWidth="3" fillColor="#8080ff" archimateElement="id-d5ecc21984104024a4fe1450b210b331">
+            <bounds x="12" y="108" width="159" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-93a3f8eb28144b0bbaa1c8485f48b7bb" targetConnections="id-8cdea18a46694141a61e34c8f244e579" archimateElement="id-a6c93b7b0e134c5baac46324d8b386a1">
+            <bounds x="12" y="162" width="159" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-9e332bc83beb456288b69818948ad85d" font="1|Segoe UI|12.0|3|WINDOWS|1|-20|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" archimateElement="id-c134a22462e64745a1865175787d8b58">
+          <bounds x="696" y="444" width="837" height="324"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cbb9ca621ca44b84ae45f7d504f84b6b" source="id-9e332bc83beb456288b69818948ad85d" target="id-9e771be860a34c8daab4a884c1d9385a" archimateRelationship="id-662c736dbdb54f41a9e2fc85e8e31567"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-14208bd374214591b98795719eae78ab" source="id-9e332bc83beb456288b69818948ad85d" target="id-a429fcf366f44a41a778df6131bf62b6" archimateRelationship="id-b8541dd748f04ac081dc5863a822de96"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1738f1e69f0843f2b1d05e7819c2b5f4" source="id-9e332bc83beb456288b69818948ad85d" target="id-ecbb69489cb145b1bdb822ebd7906625" archimateRelationship="id-bd59fd8f74dd4c63b96eb4a3e826944b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-afc36aa1f6d048338a8fb3e060b2771b" source="id-9e332bc83beb456288b69818948ad85d" target="id-f6b3314e025846cdaad357404905d014" archimateRelationship="id-c7430e7a58204a18af02f7485f087345"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-321085701a1e4e24982e79b0dea30c43" source="id-9e332bc83beb456288b69818948ad85d" target="id-2702607494c54d3fa365cb2e31f1c65b" archimateRelationship="id-055f81748eff42fd955a70b7b79a5b7e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2cc7704d6dea4f8dab4afed210ee2efa" source="id-9e332bc83beb456288b69818948ad85d" target="id-e4cc28ea5a204afaac6e83bbc9126c68" archimateRelationship="id-257670f2047f4ca5a8e889a1fad68b23"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-12e18aa61f044d6bb5c8372a2b42a5e0" source="id-9e332bc83beb456288b69818948ad85d" target="id-0679cdfb800249f18f6b6aa452200e54" archimateRelationship="id-9ccf04f3e8944cc296c27c84ae729a35"/>
+          <child xsi:type="archimate:DiagramObject" id="id-9e771be860a34c8daab4a884c1d9385a" targetConnections="id-cbb9ca621ca44b84ae45f7d504f84b6b" archimateElement="id-0b704f0c5126493983e8f0fefc347142">
+            <bounds x="288" y="36" width="260" height="84"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a429fcf366f44a41a778df6131bf62b6" targetConnections="id-14208bd374214591b98795719eae78ab" archimateElement="id-f9c25076706246ebbc13992361d26464">
+            <bounds x="560" y="131" width="260" height="84"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ecbb69489cb145b1bdb822ebd7906625" targetConnections="id-1738f1e69f0843f2b1d05e7819c2b5f4" archimateElement="id-5deceb3ac42a4e6580fbe841935b9e1d">
+            <bounds x="19" y="131" width="260" height="84"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f6b3314e025846cdaad357404905d014" targetConnections="id-afc36aa1f6d048338a8fb3e060b2771b" archimateElement="id-bcc83ebdb30b457dbd38786f5f00b458">
+            <bounds x="20" y="36" width="260" height="84"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-2702607494c54d3fa365cb2e31f1c65b" targetConnections="id-321085701a1e4e24982e79b0dea30c43" archimateElement="id-5f1032d714854b6c8d45a3ce4ab5f4b0">
+            <bounds x="560" y="36" width="260" height="84"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e4cc28ea5a204afaac6e83bbc9126c68" targetConnections="id-2cc7704d6dea4f8dab4afed210ee2efa" lineWidth="3" fillColor="#8080ff" archimateElement="id-9f2ca45de80b41d6befd9716c075e246">
+            <bounds x="288" y="227" width="260" height="84"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0679cdfb800249f18f6b6aa452200e54" targetConnections="id-12e18aa61f044d6bb5c8372a2b42a5e0" archimateElement="id-fe8608de124847f2ad14012d8e3e3673">
+            <bounds x="288" y="131" width="260" height="84"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-9d8f6b3dd5de46f6b5982ca459106a1c" archimateElement="id-8f8fb6f01c2d43f4b51a077dc533e4d1">
+          <bounds x="540" y="509" width="148" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-696e71fbe7e8482fb595114a010ae881" archimateElement="id-29e52aff78ad4d63a7648fa9b6c89851">
+          <bounds x="1224" y="840" width="180" height="156"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-2074861e36cd4bdfad865db428d72893" archimateElement="id-4782bad477d541ffa051d3065a151b64">
+          <bounds x="1464" y="852" width="148" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-eae22cec859346628b00982302519202" archimateElement="id-aa2ca8186b724920b4b68848e1df878c">
+          <bounds x="426" y="617" width="148" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-ee9f9a0616ae40cd8f4321236bbe1ee2" archimateElement="id-f80edd82060d4792a20442f4e7911de5">
+          <bounds x="78" y="709" width="148" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a69423efd93f4014ba904d2c60a3289a" archimateElement="id-7161045199fc44adab4ca16e1e735227">
+          <bounds x="280" y="686" width="148" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1cfc2d757077499692cef01e2ddad886" font="1|Segoe UI|12.0|3|WINDOWS|1|-20|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" archimateElement="id-59144c334d56452d8b0bc357f302f415">
+          <bounds x="336" y="816" width="837" height="324"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-44d75439b9884b518fc2c7216654c7d2" source="id-1cfc2d757077499692cef01e2ddad886" target="id-4dfc428701e04b7ea5be9510286b5fd9" archimateRelationship="id-8f801a6ea3b44de29b98a98ac8436968"/>
+          <child xsi:type="archimate:DiagramObject" id="id-4dfc428701e04b7ea5be9510286b5fd9" targetConnections="id-44d75439b9884b518fc2c7216654c7d2" archimateElement="id-9ef0b85a95c9412ab27beec52b5b94ab">
+            <bounds x="12" y="36" width="180" height="156"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-6277a4c676fe442295ed3257a25bee6e" source="id-4dfc428701e04b7ea5be9510286b5fd9" target="id-912d42fd6cc54e23bf7aec9c0268ae18" archimateRelationship="id-5941ddbf77644dd3adc8b6536f0f84d4"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-0178fc0592d04385a12a4e0b06e50390" source="id-4dfc428701e04b7ea5be9510286b5fd9" target="id-d695a21b9bfc4c67993eb3bad3d3c02e" archimateRelationship="id-bfd498c874c54358ade33c92aeb4963a"/>
+            <child xsi:type="archimate:DiagramObject" id="id-912d42fd6cc54e23bf7aec9c0268ae18" targetConnections="id-6277a4c676fe442295ed3257a25bee6e" archimateElement="id-6bc7125cecd54b8fb7f2d970f6558901">
+              <bounds x="12" y="48" width="148" height="55"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-d695a21b9bfc4c67993eb3bad3d3c02e" targetConnections="id-0178fc0592d04385a12a4e0b06e50390" archimateElement="id-5ed8eb5c86634216b23cba964ce991ce">
+              <bounds x="12" y="102" width="148" height="43"/>
+            </child>
+          </child>
+        </child>
+        <documentation>https://www.pm.gc.ca/en/mandate-letters/2025/05/21/mandate-letter&#xD;
+May 21, 2025&#xD;
+Office of the Prime Minister&#xD;
 &#xD;
+Dear Colleagues:&#xD;
+Last month, Canadians elected a new Government to stand up for our country and to build a strong economy that works for everyone. As members of the 30th Ministry, we must fulfill this mandate with purpose and force. We must meet a series of unprecedented challenges with both a disciplined focus on core priorities and new approaches to governing.&#xD;
+&#xD;
+The Context: A Generational Challenge&#xD;
+Canada faces a series of crises. In a more dangerous and divided world, geopolitical risks are rising, threatening our sovereignty. The global trading system – which has helped power Canada’s prosperity for decades – is undergoing the biggest transformation since the fall of the Berlin Wall. At home, our longstanding weak productivity is straining government finances, making life less affordable for Canadian families, and threatening to undermine the sustainability of vital social programs on which Canadians rely.&#xD;
+&#xD;
+The new federal Government has an immense responsibility to address these challenges head on with focus, determination, and fundamentally different approaches to governing.&#xD;
+&#xD;
+We must redefine Canada’s international, commercial, and security relationships. In the process, we need to develop a defence industrial policy that secures Canada, fulfills our responsibilities to our allies, and helps build our economy.&#xD;
+&#xD;
+Canada must build an enormous amount of new infrastructure at speeds not seen in generations. This includes the infrastructure to diversify our trading relationships; to become an energy superpower in both clean and conventional energies; to restore affordability to housing; and to secure our borders and our communities.&#xD;
+&#xD;
+The combination of the scale of this infrastructure build and the transformative nature of artificial intelligence (AI) will create opportunities for millions of Canadians to find new rewarding careers – provided they have timely access to the education and training they need to develop the necessary skills.&#xD;
+&#xD;
+Government itself must become much more productive by deploying AI at scale, by focusing on results over spending, and by using scarce tax dollars to catalyse multiples of private investment.&#xD;
+&#xD;
+Our Priorities&#xD;
+We will focus on seven priorities:&#xD;
+&#xD;
+Establishing a new economic and security relationship with the United States and strengthening our collaboration with reliable trading partners and allies around the world.&#xD;
+Building one Canadian economy by removing barriers to interprovincial trade and identifying and expediting nation-building projects that will connect and transform our country.&#xD;
+Bringing down costs for Canadians and helping them to get ahead.&#xD;
+Making housing more affordable by unleashing the power of public-private cooperation, catalysing a modern housing industry, and creating new careers in the skilled trades.&#xD;
+Protecting Canadian sovereignty and keeping Canadians safe by strengthening the Canadian Armed Forces, securing our borders, and reinforcing law enforcement.&#xD;
+Attracting the best talent in the world to help build our economy, while returning our overall immigration rates to sustainable levels.&#xD;
+Spending less on government operations so that Canadians can invest more in the people and businesses that will build the strongest economy in the G7.&#xD;
+Working Together&#xD;
+We must deliver for Canadians as a team committed to real Cabinet government. The attainment of these objectives will require collaboration and coordination within Cabinet. I expect each Cabinet committee, led by their Chair, to drive and monitor our progress, with oversight from the Priorities, Planning and Strategy Committee, and direction from the full Cabinet.&#xD;
+&#xD;
+While fulfilling your core responsibilities as a member of the Ministry, you should identify how specifically you can contribute to these missions. You will be expected and empowered to lead, and to bring new ideas, clear focus, and decisive action to your work. Over the coming weeks, I will look to each of you to identify the key goals and measures of success on which to evaluate the results you will achieve for Canadians as a member of the Ministry.&#xD;
+&#xD;
+We will work together with Parliamentarians and the public service. We will work in true partnership with provinces, territories, and Indigenous Peoples. And we will bring together labour, business, and civil society to build a Canada worthy of our children and grandchildren.&#xD;
+&#xD;
+In addressing the tasks before us, we must remain true to Canadian values. Canada is a dynamic country that celebrates our diversity, cares for the most vulnerable among us, and strives for a better future for all. The new federal Government will continue the vital work of advancing reconciliation with Indigenous Peoples. We will fight climate change. We will uphold the rule of law, protect our democratic institutions, and reinforce the unity of our country.&#xD;
+&#xD;
+Canada’s challenges are not small, but we can more than meet them with vigour and a constructive approach. That is how Canadians have built the best country in the world. That is how we will build it to be even better.&#xD;
+&#xD;
+In partnership,&#xD;
+Prime Minister of Canada signature&#xD;
+The Rt. Hon. Mark Carney,&#xD;
+Prime Minister of Canada&#xD;
+&#xD;
+&#xD;
+https://esdc.prv/en/news/corporate/2025/05/13-02.shtml&#xD;
 Prime Minister announces new Ministry&#xD;
 Today, the Prime Minister, Mark Carney, announced the members of Canada’s new Ministry.&#xD;
 &#xD;
 Employment and Social Development Canada welcomes The Honourable Patty Hajdu, Minister of Jobs and Families and Minister responsible for the Federal Economic Development Agency for Northern Ontario; The Honourable Anna Gainey, Secretary of State (Children and Youth); The Honourable Stephanie McLean, Secretary of State (Seniors) and The Honourable John Zerucelli, Secretary of State (Labour).&#xD;
-&#xD;
 </documentation>
       </element>
     </folder>

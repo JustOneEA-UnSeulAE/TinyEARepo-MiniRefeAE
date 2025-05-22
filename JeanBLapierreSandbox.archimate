@@ -6397,6 +6397,146 @@ Areas cited by participants where AI should not be used included decisions on cr
     <element xsi:type="archimate:Value" name="Build a stronger and more inclusive Canada (Value)" id="id-bce6802285fe4e0bbab56ba89ed754a2"/>
     <element xsi:type="archimate:Value" name="Support Canadians in making choices that help them live productive and rewarding lives (Value)" id="id-1fda4a48570f4ee3b6b46ddffc58f329"/>
     <element xsi:type="archimate:Value" name="Improve Canadians' quality of life (Value)" id="id-38ec1143ad814565983af9f22d489dc1"/>
+    <element xsi:type="archimate:Assessment" name="Threatened Sovereignty (Assessment)" id="id-243e58235f134ed4be2cc4e974484384">
+      <documentation>In a more dangerous and divided world, geopolitical risks are rising, threatening our sovereignty.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Global Trade Transformation (Assessment)" id="id-149fa68b4ada417787b336a6039b281f">
+      <documentation>The global trading system – which has helped power Canada’s prosperity for decades – is undergoing the biggest transformation since the fall of the Berlin Wall.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Strained Government Finances (Assessment)" id="id-cf29b4b9b4664897b7d23d9659974608">
+      <documentation>At home, our longstanding weak productivity is straining government finances, making life less affordable for Canadian families, and threatening to undermine the sustainability of vital social programs on which Canadians rely.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Redefine Canada’s International, Commercial, and Security Relationships (Requirement)" id="id-d90fa3e83a9d44dfacafc3921ab3f4a8">
+      <documentation>We must redefine Canada’s international, commercial, and security relationships. In the process, we need to develop a defence industrial policy that secures Canada, fulfills our responsibilities to our allies, and helps build our economy.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Secure Canada (Requirement)" id="id-ddcece0839114b99b1247289966059a0">
+      <documentation>In the process, we need to develop a defence industrial policy that secures Canada, fulfills our responsibilities to our allies, and helps build our economy.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Fulfill Responsibilities To Allies (Requirement)" id="id-29ecec90f3d24d4c9e333eb7b3a1d109">
+      <documentation>In the process, we need to develop a defence industrial policy that secures Canada, fulfills our responsibilities to our allies, and helps build our economy.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Build Our Economy (Requirement)" id="id-2599f4879dde4fdba44810fec7fa7549">
+      <documentation>In the process, we need to develop a defence industrial policy that secures Canada, fulfills our responsibilities to our allies, and helps build our economy.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Build New Generational Infrastructure (Requirement)" id="id-892a15a3d75c4ce1be9dc7cfc4e898ec">
+      <documentation>Canada must build an enormous amount of new infrastructure at speeds not seen in generations. This includes the infrastructure to diversify our trading relationships; to become an energy superpower in both clean and conventional energies; to restore affordability to housing; and to secure our borders and our communities.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Diversify Trade Relations (Requirement)" id="id-90b090e93a884841806a52807e6ab6cb">
+      <documentation>This includes the infrastructure to diversify our trading relationships; to become an energy superpower in both clean and conventional energies; to restore affordability to housing; and to secure our borders and our communities.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Become an Energy Superpower (Requirement)" id="id-bc098c0be94b457385502c27da966beb">
+      <documentation>This includes the infrastructure to diversify our trading relationships; to become an energy superpower in both clean and conventional energies; to restore affordability to housing; and to secure our borders and our communities.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Grow Private Invesment (Requirement)" id="id-a6c93b7b0e134c5baac46324d8b386a1">
+      <documentation>Government itself must become much more productive by deploying AI at scale, by focusing on results over spending, and by using scarce tax dollars to catalyse multiples of private investment.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Restore Affordable Housing (Requirement)" id="id-4f81db807cdb4638bfcd2b5a6021e47f">
+      <documentation>This includes the infrastructure to diversify our trading relationships; to become an energy superpower in both clean and conventional energies; to restore affordability to housing; and to secure our borders and our communities.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Secure Borders and Communities (Requirement)" id="id-02929e18cf814e1184969c08bd2af2ae">
+      <documentation>This includes the infrastructure to diversify our trading relationships; to become an energy superpower in both clean and conventional energies; to restore affordability to housing; and to secure our borders and our communities.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Focus on Results over Spending (Requirement)" id="id-d5ecc21984104024a4fe1450b210b331">
+      <documentation>Government itself must become much more productive by deploying AI at scale, by focusing on results over spending, and by using scarce tax dollars to catalyse multiples of private investment.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Deploy AI at Scale (Requirement)" id="id-071eecbd08ef4d3ab715eac82e174bb0">
+      <documentation>Government itself must become much more productive by deploying AI at scale, by focusing on results over spending, and by using scarce tax dollars to catalyse multiples of private investment.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Provide Necessary Education and Training Access (Requirement)" id="id-8dfd0ce8fee04c558e7db31281c7ef04">
+      <documentation>The combination of the scale of this infrastructure build and the transformative nature of artificial intelligence (AI) will create opportunities for millions of Canadians to find new rewarding careers – provided they have timely access to the education and training they need to develop the necessary skills.&#xD;
+&#xD;
+Government itself must become much more productive by deploying AI at scale, by focusing on results over spending, and by using scarce tax dollars to catalyse multiples of private investment.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="Our Priorities" id="id-c134a22462e64745a1865175787d8b58">
+      <documentation>We will focus on seven priorities:&#xD;
+&#xD;
+1. Establishing a new economic and security relationship with the United States and strengthening our collaboration with reliable trading partners and allies around the world.&#xD;
+2. Building one Canadian economy by removing barriers to interprovincial trade and identifying and expediting nation-building projects that will connect and transform our country.&#xD;
+3. Bringing down costs for Canadians and helping them to get ahead.&#xD;
+4. Making housing more affordable by unleashing the power of public-private cooperation, catalysing a modern housing industry, and creating new careers in the skilled trades.&#xD;
+5. Protecting Canadian sovereignty and keeping Canadians safe by strengthening the Canadian Armed Forces, securing our borders, and reinforcing law enforcement.&#xD;
+6. Attracting the best talent in the world to help build our economy, while returning our overall immigration rates to sustainable levels.&#xD;
+7. Spending less on government operations so that Canadians can invest more in the people and businesses that will build the strongest economy in the G7.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="2. Building one Canadian economy by removing barriers to interprovincial trade and identifying and expediting nation-building projects that will connect and transform our country" id="id-0b704f0c5126493983e8f0fefc347142">
+      <documentation>We will focus on seven priorities:&#xD;
+2. Building one Canadian economy by removing barriers to interprovincial trade and identifying and expediting nation-building projects that will connect and transform our country.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="4. Making housing more affordable by unleashing the power of public-private cooperation, catalysing a modern housing industry, and creating new careers in the skilled trades" id="id-5deceb3ac42a4e6580fbe841935b9e1d">
+      <documentation>We will focus on seven priorities:&#xD;
+4. Making housing more affordable by unleashing the power of public-private cooperation, catalysing a modern housing industry, and creating new careers in the skilled trades.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="6. Attracting the best talent in the world to help build our economy, while returning our overall immigration rates to sustainable levels" id="id-f9c25076706246ebbc13992361d26464">
+      <documentation>We will focus on seven priorities:&#xD;
+6. Attracting the best talent in the world to help build our economy, while returning our overall immigration rates to sustainable levels.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="7. Spending less on government operations so that Canadians can invest more in the people and businesses that will build the strongest economy in the G7" id="id-9f2ca45de80b41d6befd9716c075e246">
+      <documentation>We will focus on seven priorities:&#xD;
+7. Spending less on government operations so that Canadians can invest more in the people and businesses that will build the strongest economy in the G7.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="1. Establishing a new economic and security relationship with the United States and strengthening our collaboration with reliable trading partners and allies around the world" id="id-bcc83ebdb30b457dbd38786f5f00b458">
+      <documentation>We will focus on seven priorities:&#xD;
+1. Establishing a new economic and security relationship with the United States and strengthening our collaboration with reliable trading partners and allies around the world.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="3. Bringing down costs for Canadians and helping them to get ahead" id="id-5f1032d714854b6c8d45a3ce4ab5f4b0">
+      <documentation>We will focus on seven priorities:&#xD;
+3. Bringing down costs for Canadians and helping them to get ahead.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="5. Protecting Canadian sovereignty and keeping Canadians safe by strengthening the Canadian Armed Forces, securing our borders, and reinforcing law enforcement" id="id-fe8608de124847f2ad14012d8e3e3673">
+      <documentation>We will focus on seven priorities:&#xD;
+5. Protecting Canadian sovereignty and keeping Canadians safe by strengthening the Canadian Armed Forces, securing our borders, and reinforcing law enforcement.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Deliver as a Real Cabinet Government Team" id="id-9ef0b85a95c9412ab27beec52b5b94ab">
+      <documentation>We must deliver for Canadians as a team committed to real Cabinet government. The attainment of these objectives will require collaboration and coordination within Cabinet. I expect each Cabinet committee, led by their Chair, to drive and monitor our progress, with oversight from the Priorities, Planning and Strategy Committee, and direction from the full Cabinet.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Collaborate and Coordinate (Principle)" id="id-6bc7125cecd54b8fb7f2d970f6558901">
+      <documentation>The attainment of these objectives will require collaboration and coordination within Cabinet.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Drive and Monitor Progress (Principle)" id="id-5ed8eb5c86634216b23cba964ce991ce">
+      <documentation>I expect each Cabinet committee, led by their Chair, to drive and monitor our progress, with oversight from the Priorities, Planning and Strategy Committee, and direction from the full Cabinet.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Bring Together Labour, Business, and Civil Society To Build A Worthy Canada (Principle)" id="id-8f8fb6f01c2d43f4b51a077dc533e4d1">
+      <documentation>And we will bring together labour, business, and civil society to build a Canada worthy of our children and grandchildren.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Work with Parliamentarians and Public Service (Principle)" id="id-29e52aff78ad4d63a7648fa9b6c89851">
+      <documentation>We will work together with Parliamentarians and the public service. We will work in true partnership with provinces, territories, and Indigenous Peoples. And we will bring together labour, business, and civil society to build a Canada worthy of our children and grandchildren.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Lead, Bring New Ideas, Clear Focus, and Decisive Action (Principle)" id="id-4782bad477d541ffa051d3065a151b64">
+      <documentation>You will be expected and empowered to lead, and to bring new ideas, clear focus, and decisive action to your work.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Partner with Provinces, Territories, and Indigenous Peoples (Principle)" id="id-aa2ca8186b724920b4b68848e1df878c">
+      <documentation>We will work in true partnership with provinces, territories, and Indigenous Peoples.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Identify Key Goals and Success Measures to Evaluate Results (Principle)" id="id-f80edd82060d4792a20442f4e7911de5">
+      <documentation>Over the coming weeks, I will look to each of you to identify the key goals and measures of success on which to evaluate the results you will achieve for Canadians as a member of the Ministry.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Work with Parliamentarians and Public Service (Principle)" id="id-7161045199fc44adab4ca16e1e735227">
+      <documentation>We will work together with Parliamentarians and the public service. We will work in true partnership with provinces, territories, and Indigenous Peoples. And we will bring together labour, business, and civil society to build a Canada worthy of our children and grandchildren.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Working Together" id="id-59144c334d56452d8b0bc357f302f415">
+      <documentation>Working Together&#xD;
+We must deliver for Canadians as a team committed to real Cabinet government. The attainment of these objectives will require collaboration and coordination within Cabinet. I expect each Cabinet committee, led by their Chair, to drive and monitor our progress, with oversight from the Priorities, Planning and Strategy Committee, and direction from the full Cabinet.&#xD;
+&#xD;
+While fulfilling your core responsibilities as a member of the Ministry, you should identify how specifically you can contribute to these missions. You will be expected and empowered to lead, and to bring new ideas, clear focus, and decisive action to your work. Over the coming weeks, I will look to each of you to identify the key goals and measures of success on which to evaluate the results you will achieve for Canadians as a member of the Ministry.&#xD;
+&#xD;
+We will work together with Parliamentarians and the public service. We will work in true partnership with provinces, territories, and Indigenous Peoples. And we will bring together labour, business, and civil society to build a Canada worthy of our children and grandchildren.&#xD;
+&#xD;
+In addressing the tasks before us, we must remain true to Canadian values. Canada is a dynamic country that celebrates our diversity, cares for the most vulnerable among us, and strives for a better future for all. The new federal Government will continue the vital work of advancing reconciliation with Indigenous Peoples. We will fight climate change. We will uphold the rule of law, protect our democratic institutions, and reinforce the unity of our country.&#xD;
+&#xD;
+Canada’s challenges are not small, but we can more than meet them with vigour and a constructive approach. That is how Canadians have built the best country in the world. That is how we will build it to be even better.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Remain True To Canadian Values (Principle)" id="id-cec9a89bfdb8465aa9d20359e66190d9">
+      <documentation>In addressing the tasks before us, we must remain true to Canadian values. Canada is a dynamic country that celebrates our diversity, cares for the most vulnerable among us, and strives for a better future for all. The new federal Government will continue the vital work of advancing reconciliation with Indigenous Peoples. We will fight climate change. We will uphold the rule of law, protect our democratic institutions, and reinforce the unity of our country.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Continue to Advance Reconciliation with Indigenous Peoples (Principle)" id="id-c7c71ff2df6a4f5da824eae27a669584">
+      <documentation>The new federal Government will continue the vital work of advancing reconciliation with Indigenous Peoples.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Uphold the Rule of Law, Protect Democratic Institutions, and Reinforce Canadian Unity (Principle)" id="id-ef382b2e15af466ca3236fb5f7cd5698">
+      <documentation>We will uphold the rule of law, protect our democratic institutions, and reinforce the unity of our country.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Fight Climate Change (Principle)" id="id-5cc976bf8a754852af2882bdfd7dfc27">
+      <documentation>We will fight climate change. </documentation>
+    </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Gap" name="Unmanaged Data (Gap)" id="id-ed4e79d466fd4551a90d4cbfb6784e74">
@@ -7289,6 +7429,11 @@ The mission of Employment and Social Development Canada (ESDC) is to:&#xD;
  - improve Canadians' quality of life</documentation>
     </element>
     <element xsi:type="archimate:Grouping" name="Standard personal information banks (PIB's)" id="id-01a9a617039d499a8e6bde4045ba53dd"/>
+    <element xsi:type="archimate:Grouping" name="Canada faces a series of crises" id="id-06c19a3e183b4063bd0e363195a04d76">
+      <documentation>Canada faces a series of crises. In a more dangerous and divided world, geopolitical risks are rising, threatening our sovereignty. The global trading system – which has helped power Canada’s prosperity for decades – is undergoing the biggest transformation since the fall of the Berlin Wall. At home, our longstanding weak productivity is straining government finances, making life less affordable for Canadian families, and threatening to undermine the sustainability of vital social programs on which Canadians rely.&#xD;
+&#xD;
+The new federal Government has an immense responsibility to address these challenges head on with focus, determination, and fundamentally different approaches to governing.</documentation>
+    </element>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
     <element xsi:type="archimate:SpecializationRelationship" id="id-1fc9998b537248f0ab8efd6853b77d65" source="id-bbea9bb53b0d449e8af710c22edf18bc" target="id-a7f8beac2a2c416c96b351c66b79510c"/>
@@ -8542,6 +8687,39 @@ The mission of Employment and Social Development Canada (ESDC) is to:&#xD;
     <element xsi:type="archimate:CompositionRelationship" id="id-0e0d196ed7a44f0eb0e276617432366f" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-ee347bf92d66418595b0858ed3129a14"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-84983b1a52fe448cbbd1da5d9f9e602b" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-186f1b4398e343668d47d6dc989d473b"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-f31956311f494755a27850bc8b0dcf91" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-db06ca0ede0c49788bbf89abc7faf915"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4b0ee2e9d7b94071add4657446852239" source="id-06c19a3e183b4063bd0e363195a04d76" target="id-149fa68b4ada417787b336a6039b281f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-dc52facbae8c4e90bc5a9e5af24dad91" source="id-06c19a3e183b4063bd0e363195a04d76" target="id-243e58235f134ed4be2cc4e974484384"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4efb8988f7ba4905a45101130e67567a" source="id-06c19a3e183b4063bd0e363195a04d76" target="id-cf29b4b9b4664897b7d23d9659974608"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-492f435843d640caa003207aa2ba87a0" source="id-d90fa3e83a9d44dfacafc3921ab3f4a8" target="id-29ecec90f3d24d4c9e333eb7b3a1d109"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3a8a44ad7524470cb3c67f18128269e9" source="id-d90fa3e83a9d44dfacafc3921ab3f4a8" target="id-ddcece0839114b99b1247289966059a0"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b735418544dc4dec941b1252551c3564" source="id-d90fa3e83a9d44dfacafc3921ab3f4a8" target="id-2599f4879dde4fdba44810fec7fa7549"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-688be22aedb4475c881be8fe10aae58f" source="id-892a15a3d75c4ce1be9dc7cfc4e898ec" target="id-90b090e93a884841806a52807e6ab6cb"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b06f8b99f824431d90b005cce4092f05" source="id-892a15a3d75c4ce1be9dc7cfc4e898ec" target="id-bc098c0be94b457385502c27da966beb"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-615414d0b04b42aca773c221a70a76c1" source="id-892a15a3d75c4ce1be9dc7cfc4e898ec" target="id-4f81db807cdb4638bfcd2b5a6021e47f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-71c8596fcda249f484b28ecdde577376" source="id-892a15a3d75c4ce1be9dc7cfc4e898ec" target="id-02929e18cf814e1184969c08bd2af2ae"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d021307ef9764fdf84dcf65b156cb68b" source="id-8dfd0ce8fee04c558e7db31281c7ef04" target="id-071eecbd08ef4d3ab715eac82e174bb0"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a4369a1203f94d80be18df105bc0323a" source="id-8dfd0ce8fee04c558e7db31281c7ef04" target="id-d5ecc21984104024a4fe1450b210b331"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8cfa5e7279d04414aed941b8d9f44943" source="id-8dfd0ce8fee04c558e7db31281c7ef04" target="id-a6c93b7b0e134c5baac46324d8b386a1"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-662c736dbdb54f41a9e2fc85e8e31567" source="id-c134a22462e64745a1865175787d8b58" target="id-0b704f0c5126493983e8f0fefc347142"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b8541dd748f04ac081dc5863a822de96" source="id-c134a22462e64745a1865175787d8b58" target="id-f9c25076706246ebbc13992361d26464"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-bd59fd8f74dd4c63b96eb4a3e826944b" source="id-c134a22462e64745a1865175787d8b58" target="id-5deceb3ac42a4e6580fbe841935b9e1d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c7430e7a58204a18af02f7485f087345" source="id-c134a22462e64745a1865175787d8b58" target="id-bcc83ebdb30b457dbd38786f5f00b458"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-055f81748eff42fd955a70b7b79a5b7e" source="id-c134a22462e64745a1865175787d8b58" target="id-5f1032d714854b6c8d45a3ce4ab5f4b0"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-257670f2047f4ca5a8e889a1fad68b23" source="id-c134a22462e64745a1865175787d8b58" target="id-9f2ca45de80b41d6befd9716c075e246"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-9ccf04f3e8944cc296c27c84ae729a35" source="id-c134a22462e64745a1865175787d8b58" target="id-fe8608de124847f2ad14012d8e3e3673"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5941ddbf77644dd3adc8b6536f0f84d4" source="id-9ef0b85a95c9412ab27beec52b5b94ab" target="id-6bc7125cecd54b8fb7f2d970f6558901"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-bfd498c874c54358ade33c92aeb4963a" source="id-9ef0b85a95c9412ab27beec52b5b94ab" target="id-5ed8eb5c86634216b23cba964ce991ce"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8f801a6ea3b44de29b98a98ac8436968" source="id-59144c334d56452d8b0bc357f302f415" target="id-9ef0b85a95c9412ab27beec52b5b94ab"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-02fa4a312e1948d2af49032580d7f019" source="id-29e52aff78ad4d63a7648fa9b6c89851" target="id-4782bad477d541ffa051d3065a151b64"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2d435ca8b4d64c81b8d65ea526eb1c7e" source="id-29e52aff78ad4d63a7648fa9b6c89851" target="id-f80edd82060d4792a20442f4e7911de5"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-69de3a831aae46ca960d28e58f2bf91f" source="id-59144c334d56452d8b0bc357f302f415" target="id-29e52aff78ad4d63a7648fa9b6c89851"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-1ae15dff71804963ba28011ca0697d34" source="id-7161045199fc44adab4ca16e1e735227" target="id-8f8fb6f01c2d43f4b51a077dc533e4d1"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-48322d62245346eeab5671457b5d27dd" source="id-7161045199fc44adab4ca16e1e735227" target="id-aa2ca8186b724920b4b68848e1df878c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-75c00526e6304468beb61218dbcb74b9" source="id-59144c334d56452d8b0bc357f302f415" target="id-7161045199fc44adab4ca16e1e735227"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e86ff13743e442acb11e3312cff36a53" source="id-cec9a89bfdb8465aa9d20359e66190d9" target="id-5cc976bf8a754852af2882bdfd7dfc27"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-1cb15d9572c4428494ea68d88b97a351" source="id-cec9a89bfdb8465aa9d20359e66190d9" target="id-c7c71ff2df6a4f5da824eae27a669584"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e48722cfe3874625bcad137f20a1dd9e" source="id-cec9a89bfdb8465aa9d20359e66190d9" target="id-ef382b2e15af466ca3236fb5f7cd5698"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a8301c7ebe944169bbcd2f1701b2a019" source="id-59144c334d56452d8b0bc357f302f415" target="id-cec9a89bfdb8465aa9d20359e66190d9"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -14175,36 +14353,36 @@ Version: 0.1.20250430</content>
         </child>
         <documentation>https://liberal.ca/cstrong/contents/</documentation>
       </element>
-      <element xsi:type="archimate:ArchimateDiagramModel" name="ESDC Mandate Letters 2025" id="id-c0e5e0defc254ed789cb518ec3dffa05">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="GC (ESDC) Mandate Letter 2025" id="id-c0e5e0defc254ed789cb518ec3dffa05">
         <child xsi:type="archimate:Note" id="id-b04329af91264d66aff6a5bceb17139d" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
           <bounds x="12" y="12" width="445" height="121"/>
-          <content>Archimate View: ESDC Mandate Letters 2025&#xD;
+          <content>Archimate View: GC (ESDC) Mandate Letter 2025&#xD;
 For discussion:&#xD;
-</content>
+Darker items with heavy borders relate to ESDC's mandate</content>
         </child>
         <child xsi:type="archimate:Note" id="id-dc9e38c442f24b579ef1c40480010092" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
           <bounds x="456" y="12" width="289" height="121"/>
-          <content>ESDC MANDATE LETTERS</content>
+          <content>GC MANDATE LETTER</content>
         </child>
         <child xsi:type="archimate:Note" id="id-8d9654d1b2534cc1a749cd632fedc9d8" textAlignment="1">
           <bounds x="625" y="72" width="120" height="61"/>
           <content>(DRAFT)&#xD;
-2025-99-99&#xD;
-v0.1.20250513</content>
+2025-05-21&#xD;
+v0.1.20250522</content>
         </child>
         <child xsi:type="archimate:Note" id="id-9ca099c36b1d409c8257d3667107715c" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
           <bounds x="756" y="19" width="149" height="108"/>
           <content>DIAGRAM NOT ENDORSED</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-fd8207b42a8a45e0a8fce6ca7aafe24e" archimateElement="id-76c1a5d23f794658bb2086c91c6ea5f0">
-          <bounds x="156" y="144" width="120" height="55"/>
+          <bounds x="60" y="146" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-cbcc72b20b6d4c0dbbe7142479791f29" source="id-fd8207b42a8a45e0a8fce6ca7aafe24e" target="id-066189c6d5f243219f5a2fa50e61cb9a" archimateRelationship="id-09c3fc6e6523445d8ddcbc173878303a"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-066189c6d5f243219f5a2fa50e61cb9a" targetConnections="id-cbcc72b20b6d4c0dbbe7142479791f29" archimateElement="id-84e05525184540d7be5d5b6a7c782966">
-          <bounds x="370" y="144" width="120" height="55"/>
+          <bounds x="274" y="146" width="120" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-398f5f5dc1734ad79e4acda2382661cb" textAlignment="1" archimateElement="id-0cb6b655007e44938844d42baba39cbc">
-          <bounds x="13" y="216" width="673" height="268"/>
+          <bounds x="13" y="216" width="421" height="456"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-9d83947882d24e178ebe5173bf043952" source="id-398f5f5dc1734ad79e4acda2382661cb" target="id-6138f628d0294e548c28d566182ca7a0" archimateRelationship="id-6f1b6db64e964c2193d6da9125ee33a6"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-ef28a476f4864f2ab24de92f97a0420d" source="id-398f5f5dc1734ad79e4acda2382661cb" target="id-a8367eb60c8345248ab2922dce3dfcf8" archimateRelationship="id-3706e3bf4d464f5fb3dfd6675260169a"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-cbbbb7ff3e3843f983f840553b7a07c6" source="id-398f5f5dc1734ad79e4acda2382661cb" target="id-4cc4a859a0cf4df19999f8c06049383f" archimateRelationship="id-b2a109c41baa423fa0c878d2b7bc57f8"/>
@@ -14221,7 +14399,7 @@ v0.1.20250513</content>
             <bounds x="278" y="120" width="120" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-4cc4a859a0cf4df19999f8c06049383f" targetConnections="id-cbbbb7ff3e3843f983f840553b7a07c6" archimateElement="id-3e4a6f2d7cdc4bcb82c87c5fa7818e71">
-            <bounds x="409" y="24" width="120" height="55"/>
+            <bounds x="72" y="276" width="120" height="55"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-b0c738d36db04b3a8c4709ae1fafa6b1" source="id-4cc4a859a0cf4df19999f8c06049383f" target="id-38c508d1bd804b1286524a557699cf43" archimateRelationship="id-86ebc5fedfe043579058057d7778c728"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-403b43ed42604c37ba67ee5a3b42803b" targetConnections="id-c8260f70124b413db3420fe0cca6e2bd" archimateElement="id-34298e956650431b83f4d6aad3509185">
@@ -14230,13 +14408,13 @@ v0.1.20250513</content>
             <sourceConnection xsi:type="archimate:Connection" id="id-4c6e8d5460cd4d47b03a6355d91e9414" source="id-403b43ed42604c37ba67ee5a3b42803b" target="id-6138f628d0294e548c28d566182ca7a0" archimateRelationship="id-c186abbe604746d7a52600e5fef4edb8"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-38c508d1bd804b1286524a557699cf43" targetConnections="id-b0c738d36db04b3a8c4709ae1fafa6b1 id-412e6fd2879747608ac5e77bd0d37717" archimateElement="id-2ce613ee1c1941ef81248ff7200ca6da">
-            <bounds x="411" y="120" width="120" height="55"/>
+            <bounds x="74" y="372" width="120" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-b7b834f0ae134079a27725667d307421" targetConnections="id-07ef104389f94bc98acb4d5c8f07c626 id-fc3a0a02599944a2bccf0f3cb882a519" archimateElement="id-ead7b1314f744c9d91499d3da6587de8">
-            <bounds x="542" y="120" width="120" height="55"/>
+            <bounds x="205" y="372" width="120" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-0faa9c4418a24ca3a81bb861134910c2" targetConnections="id-87df57d6356e4dd5aa7fc96cdc80fbc4" archimateElement="id-846e7d6ee6d74723b2aa6a17cff48e10">
-            <bounds x="542" y="24" width="120" height="55"/>
+            <bounds x="205" y="276" width="120" height="55"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-07ef104389f94bc98acb4d5c8f07c626" source="id-0faa9c4418a24ca3a81bb861134910c2" target="id-b7b834f0ae134079a27725667d307421" archimateRelationship="id-79c9b00ded644e00aa42336c1c3b3b89"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-fab47b0be3224113aabdf3811a3e4fb8" targetConnections="id-89b907d24c464f67b732ca706ac1349d id-fe82949a802f4432afbf3db978f7f196" archimateElement="id-85ad5dbe0af34d939a74dfc578f8e69e">
@@ -14247,13 +14425,208 @@ v0.1.20250513</content>
             <sourceConnection xsi:type="archimate:Connection" id="id-767659f2e4a247bd9a64a4379713a08c" source="id-fb7d23971f0d45a099b1e590a8e33f31" target="id-a8367eb60c8345248ab2922dce3dfcf8" archimateRelationship="id-a9d4a8c7d7604f94aa212cc230787679"/>
           </child>
         </child>
-        <documentation>https://esdc.prv/en/news/corporate/2025/05/13-02.shtml&#xD;
+        <child xsi:type="archimate:DiagramObject" id="id-148e07dab744446a969de4d7186f2b56" textAlignment="1" archimateElement="id-06c19a3e183b4063bd0e363195a04d76">
+          <bounds x="516" y="144" width="181" height="229"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d230982abd974e86987cd2e2645cd14d" source="id-148e07dab744446a969de4d7186f2b56" target="id-94a5e4b0f383422caee878f7f5b6b747" archimateRelationship="id-4b0ee2e9d7b94071add4657446852239"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-180d884293b645de9f0a66be27fb4912" source="id-148e07dab744446a969de4d7186f2b56" target="id-ac868ea5b94c4b43a4b2d123e3283f5d" archimateRelationship="id-dc52facbae8c4e90bc5a9e5af24dad91"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6c315f5b9f8a45e5ba0b6bc336582072" source="id-148e07dab744446a969de4d7186f2b56" target="id-bbfc8272704a4fe08743358683b3c4be" archimateRelationship="id-4efb8988f7ba4905a45101130e67567a"/>
+          <child xsi:type="archimate:DiagramObject" id="id-94a5e4b0f383422caee878f7f5b6b747" targetConnections="id-d230982abd974e86987cd2e2645cd14d" archimateElement="id-149fa68b4ada417787b336a6039b281f">
+            <bounds x="12" y="84" width="153" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ac868ea5b94c4b43a4b2d123e3283f5d" targetConnections="id-180d884293b645de9f0a66be27fb4912" archimateElement="id-243e58235f134ed4be2cc4e974484384">
+            <bounds x="12" y="24" width="153" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-bbfc8272704a4fe08743358683b3c4be" targetConnections="id-6c315f5b9f8a45e5ba0b6bc336582072" archimateElement="id-cf29b4b9b4664897b7d23d9659974608">
+            <bounds x="12" y="144" width="153" height="73"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1b39aa7f80a84197849619897b1af3c1" archimateElement="id-d90fa3e83a9d44dfacafc3921ab3f4a8">
+          <bounds x="720" y="146" width="185" height="226"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6eb4bb425c0d452681c987fc496633c4" source="id-1b39aa7f80a84197849619897b1af3c1" target="id-ce3f9fdf241c4515a8262f9ef8b07077" archimateRelationship="id-492f435843d640caa003207aa2ba87a0"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7ffc08baf79c476184c43cfb95be99df" source="id-1b39aa7f80a84197849619897b1af3c1" target="id-b1b1ee69de7341aea0169d1eb624a366" archimateRelationship="id-3a8a44ad7524470cb3c67f18128269e9"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-426dfbe2e5e84b0eaed17014becf5556" source="id-1b39aa7f80a84197849619897b1af3c1" target="id-e81dae11c3a644248051e0d2b75036bb" archimateRelationship="id-b735418544dc4dec941b1252551c3564"/>
+          <child xsi:type="archimate:DiagramObject" id="id-ce3f9fdf241c4515a8262f9ef8b07077" targetConnections="id-6eb4bb425c0d452681c987fc496633c4" archimateElement="id-29ecec90f3d24d4c9e333eb7b3a1d109">
+            <bounds x="12" y="115" width="159" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b1b1ee69de7341aea0169d1eb624a366" targetConnections="id-7ffc08baf79c476184c43cfb95be99df" archimateElement="id-ddcece0839114b99b1247289966059a0">
+            <bounds x="12" y="72" width="159" height="44"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e81dae11c3a644248051e0d2b75036bb" targetConnections="id-426dfbe2e5e84b0eaed17014becf5556" lineWidth="3" fillColor="#8080ff" archimateElement="id-2599f4879dde4fdba44810fec7fa7549">
+            <bounds x="12" y="169" width="159" height="43"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3ee35caddbcb495aa68dc6665d86a791" archimateElement="id-892a15a3d75c4ce1be9dc7cfc4e898ec">
+          <bounds x="936" y="83" width="185" height="290"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-13c98ad122e146c2822c2b2c4afea987" source="id-3ee35caddbcb495aa68dc6665d86a791" target="id-aa14f81a5d0c488d8181decfcbc2f91c" archimateRelationship="id-688be22aedb4475c881be8fe10aae58f"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f88fb04c1bb044cb858546d64d90ce45" source="id-3ee35caddbcb495aa68dc6665d86a791" target="id-85befaca3e6b4670aeecaa238ae03c42" archimateRelationship="id-b06f8b99f824431d90b005cce4092f05"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2e3af69886ea4354b7540248bd6b9c41" source="id-3ee35caddbcb495aa68dc6665d86a791" target="id-0b664d50ba334852862fdf589ac8f790" archimateRelationship="id-615414d0b04b42aca773c221a70a76c1"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ef764830ea3941358f577658e49ada9e" source="id-3ee35caddbcb495aa68dc6665d86a791" target="id-e18c7d5577724d10b7ff5bced19af1f2" archimateRelationship="id-71c8596fcda249f484b28ecdde577376"/>
+          <child xsi:type="archimate:DiagramObject" id="id-aa14f81a5d0c488d8181decfcbc2f91c" targetConnections="id-13c98ad122e146c2822c2b2c4afea987" archimateElement="id-90b090e93a884841806a52807e6ab6cb">
+            <bounds x="12" y="60" width="159" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-85befaca3e6b4670aeecaa238ae03c42" targetConnections="id-f88fb04c1bb044cb858546d64d90ce45" archimateElement="id-bc098c0be94b457385502c27da966beb">
+            <bounds x="12" y="114" width="159" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0b664d50ba334852862fdf589ac8f790" targetConnections="id-2e3af69886ea4354b7540248bd6b9c41" archimateElement="id-4f81db807cdb4638bfcd2b5a6021e47f">
+            <bounds x="12" y="168" width="159" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e18c7d5577724d10b7ff5bced19af1f2" targetConnections="id-ef764830ea3941358f577658e49ada9e" archimateElement="id-02929e18cf814e1184969c08bd2af2ae">
+            <bounds x="12" y="222" width="159" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a18e05352b8b437fb5cbacdd1526775c" archimateElement="id-8dfd0ce8fee04c558e7db31281c7ef04">
+          <bounds x="1152" y="146" width="185" height="226"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c93a5c4ad8a44af9afb7d47f62fa3a14" source="id-a18e05352b8b437fb5cbacdd1526775c" target="id-4f427429b9dc4e8bbae480d23b803d58" archimateRelationship="id-d021307ef9764fdf84dcf65b156cb68b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2ddb53d71d4d4a37b73d297784d89d38" source="id-a18e05352b8b437fb5cbacdd1526775c" target="id-f9251772efea43e2bda139255c3a9db2" archimateRelationship="id-a4369a1203f94d80be18df105bc0323a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8cdea18a46694141a61e34c8f244e579" source="id-a18e05352b8b437fb5cbacdd1526775c" target="id-93a3f8eb28144b0bbaa1c8485f48b7bb" archimateRelationship="id-8cfa5e7279d04414aed941b8d9f44943"/>
+          <child xsi:type="archimate:DiagramObject" id="id-4f427429b9dc4e8bbae480d23b803d58" targetConnections="id-c93a5c4ad8a44af9afb7d47f62fa3a14" lineWidth="3" fillColor="#8080ff" archimateElement="id-071eecbd08ef4d3ab715eac82e174bb0">
+            <bounds x="12" y="60" width="159" height="49"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f9251772efea43e2bda139255c3a9db2" targetConnections="id-2ddb53d71d4d4a37b73d297784d89d38" lineWidth="3" fillColor="#8080ff" archimateElement="id-d5ecc21984104024a4fe1450b210b331">
+            <bounds x="12" y="108" width="159" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-93a3f8eb28144b0bbaa1c8485f48b7bb" targetConnections="id-8cdea18a46694141a61e34c8f244e579" archimateElement="id-a6c93b7b0e134c5baac46324d8b386a1">
+            <bounds x="12" y="162" width="159" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-9e332bc83beb456288b69818948ad85d" font="1|Segoe UI|12.0|3|WINDOWS|1|-20|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" archimateElement="id-c134a22462e64745a1865175787d8b58">
+          <bounds x="504" y="396" width="837" height="324"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cbb9ca621ca44b84ae45f7d504f84b6b" source="id-9e332bc83beb456288b69818948ad85d" target="id-9e771be860a34c8daab4a884c1d9385a" archimateRelationship="id-662c736dbdb54f41a9e2fc85e8e31567"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-14208bd374214591b98795719eae78ab" source="id-9e332bc83beb456288b69818948ad85d" target="id-a429fcf366f44a41a778df6131bf62b6" archimateRelationship="id-b8541dd748f04ac081dc5863a822de96"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1738f1e69f0843f2b1d05e7819c2b5f4" source="id-9e332bc83beb456288b69818948ad85d" target="id-ecbb69489cb145b1bdb822ebd7906625" archimateRelationship="id-bd59fd8f74dd4c63b96eb4a3e826944b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-afc36aa1f6d048338a8fb3e060b2771b" source="id-9e332bc83beb456288b69818948ad85d" target="id-f6b3314e025846cdaad357404905d014" archimateRelationship="id-c7430e7a58204a18af02f7485f087345"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-321085701a1e4e24982e79b0dea30c43" source="id-9e332bc83beb456288b69818948ad85d" target="id-2702607494c54d3fa365cb2e31f1c65b" archimateRelationship="id-055f81748eff42fd955a70b7b79a5b7e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2cc7704d6dea4f8dab4afed210ee2efa" source="id-9e332bc83beb456288b69818948ad85d" target="id-e4cc28ea5a204afaac6e83bbc9126c68" archimateRelationship="id-257670f2047f4ca5a8e889a1fad68b23"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-12e18aa61f044d6bb5c8372a2b42a5e0" source="id-9e332bc83beb456288b69818948ad85d" target="id-0679cdfb800249f18f6b6aa452200e54" archimateRelationship="id-9ccf04f3e8944cc296c27c84ae729a35"/>
+          <child xsi:type="archimate:DiagramObject" id="id-9e771be860a34c8daab4a884c1d9385a" targetConnections="id-cbb9ca621ca44b84ae45f7d504f84b6b" archimateElement="id-0b704f0c5126493983e8f0fefc347142">
+            <bounds x="288" y="36" width="260" height="84"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a429fcf366f44a41a778df6131bf62b6" targetConnections="id-14208bd374214591b98795719eae78ab" archimateElement="id-f9c25076706246ebbc13992361d26464">
+            <bounds x="560" y="131" width="260" height="84"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ecbb69489cb145b1bdb822ebd7906625" targetConnections="id-1738f1e69f0843f2b1d05e7819c2b5f4" archimateElement="id-5deceb3ac42a4e6580fbe841935b9e1d">
+            <bounds x="19" y="131" width="260" height="84"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f6b3314e025846cdaad357404905d014" targetConnections="id-afc36aa1f6d048338a8fb3e060b2771b" archimateElement="id-bcc83ebdb30b457dbd38786f5f00b458">
+            <bounds x="20" y="36" width="260" height="84"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-2702607494c54d3fa365cb2e31f1c65b" targetConnections="id-321085701a1e4e24982e79b0dea30c43" archimateElement="id-5f1032d714854b6c8d45a3ce4ab5f4b0">
+            <bounds x="560" y="36" width="260" height="84"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e4cc28ea5a204afaac6e83bbc9126c68" targetConnections="id-2cc7704d6dea4f8dab4afed210ee2efa" lineWidth="3" fillColor="#8080ff" archimateElement="id-9f2ca45de80b41d6befd9716c075e246">
+            <bounds x="288" y="227" width="260" height="84"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0679cdfb800249f18f6b6aa452200e54" targetConnections="id-12e18aa61f044d6bb5c8372a2b42a5e0" archimateElement="id-fe8608de124847f2ad14012d8e3e3673">
+            <bounds x="288" y="131" width="260" height="84"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1cfc2d757077499692cef01e2ddad886" font="1|Segoe UI|12.0|3|WINDOWS|1|-20|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" archimateElement="id-59144c334d56452d8b0bc357f302f415">
+          <bounds x="504" y="744" width="837" height="344"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-44d75439b9884b518fc2c7216654c7d2" source="id-1cfc2d757077499692cef01e2ddad886" target="id-4dfc428701e04b7ea5be9510286b5fd9" archimateRelationship="id-8f801a6ea3b44de29b98a98ac8436968"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-751ab7d754504b52b65d76e6aa4e2630" source="id-1cfc2d757077499692cef01e2ddad886" target="id-696e71fbe7e8482fb595114a010ae881" archimateRelationship="id-69de3a831aae46ca960d28e58f2bf91f"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-081b5a8837a04eba93460e8e4fae18e6" source="id-1cfc2d757077499692cef01e2ddad886" target="id-a69423efd93f4014ba904d2c60a3289a" archimateRelationship="id-75c00526e6304468beb61218dbcb74b9"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5f02367f49374e948725ff361e2dad11" source="id-1cfc2d757077499692cef01e2ddad886" target="id-9fbcf3f1379a45a3b05f89b7d7ebdfd1" archimateRelationship="id-a8301c7ebe944169bbcd2f1701b2a019"/>
+          <child xsi:type="archimate:DiagramObject" id="id-4dfc428701e04b7ea5be9510286b5fd9" targetConnections="id-44d75439b9884b518fc2c7216654c7d2" archimateElement="id-9ef0b85a95c9412ab27beec52b5b94ab">
+            <bounds x="25" y="36" width="180" height="156"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-6277a4c676fe442295ed3257a25bee6e" source="id-4dfc428701e04b7ea5be9510286b5fd9" target="id-912d42fd6cc54e23bf7aec9c0268ae18" archimateRelationship="id-5941ddbf77644dd3adc8b6536f0f84d4"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-0178fc0592d04385a12a4e0b06e50390" source="id-4dfc428701e04b7ea5be9510286b5fd9" target="id-d695a21b9bfc4c67993eb3bad3d3c02e" archimateRelationship="id-bfd498c874c54358ade33c92aeb4963a"/>
+            <child xsi:type="archimate:DiagramObject" id="id-912d42fd6cc54e23bf7aec9c0268ae18" targetConnections="id-6277a4c676fe442295ed3257a25bee6e" archimateElement="id-6bc7125cecd54b8fb7f2d970f6558901">
+              <bounds x="12" y="48" width="148" height="55"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-d695a21b9bfc4c67993eb3bad3d3c02e" targetConnections="id-0178fc0592d04385a12a4e0b06e50390" archimateElement="id-5ed8eb5c86634216b23cba964ce991ce">
+              <bounds x="12" y="102" width="148" height="43"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-696e71fbe7e8482fb595114a010ae881" targetConnections="id-751ab7d754504b52b65d76e6aa4e2630" archimateElement="id-29e52aff78ad4d63a7648fa9b6c89851">
+            <bounds x="228" y="36" width="180" height="216"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-60aefbcb0cfa4637a5c4e554c36a2c73" source="id-696e71fbe7e8482fb595114a010ae881" target="id-2074861e36cd4bdfad865db428d72893" archimateRelationship="id-02fa4a312e1948d2af49032580d7f019"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-9aa753ab6d6e4a92869f4352e60feb9e" source="id-696e71fbe7e8482fb595114a010ae881" target="id-ee9f9a0616ae40cd8f4321236bbe1ee2" archimateRelationship="id-2d435ca8b4d64c81b8d65ea526eb1c7e"/>
+            <child xsi:type="archimate:DiagramObject" id="id-2074861e36cd4bdfad865db428d72893" targetConnections="id-60aefbcb0cfa4637a5c4e554c36a2c73" archimateElement="id-4782bad477d541ffa051d3065a151b64">
+              <bounds x="12" y="48" width="148" height="72"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-ee9f9a0616ae40cd8f4321236bbe1ee2" targetConnections="id-9aa753ab6d6e4a92869f4352e60feb9e" archimateElement="id-f80edd82060d4792a20442f4e7911de5">
+              <bounds x="12" y="119" width="148" height="84"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a69423efd93f4014ba904d2c60a3289a" targetConnections="id-081b5a8837a04eba93460e8e4fae18e6" archimateElement="id-7161045199fc44adab4ca16e1e735227">
+            <bounds x="432" y="36" width="180" height="240"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-877a12e85f0a40c4b5fe1eb2ea3c7a9a" source="id-a69423efd93f4014ba904d2c60a3289a" target="id-9d8f6b3dd5de46f6b5982ca459106a1c" archimateRelationship="id-1ae15dff71804963ba28011ca0697d34"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-93dcdfc3e4d6415687dc94fb44bd2dd1" source="id-a69423efd93f4014ba904d2c60a3289a" target="id-eae22cec859346628b00982302519202" archimateRelationship="id-48322d62245346eeab5671457b5d27dd"/>
+            <child xsi:type="archimate:DiagramObject" id="id-9d8f6b3dd5de46f6b5982ca459106a1c" targetConnections="id-877a12e85f0a40c4b5fe1eb2ea3c7a9a" archimateElement="id-8f8fb6f01c2d43f4b51a077dc533e4d1">
+              <bounds x="24" y="143" width="148" height="85"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-eae22cec859346628b00982302519202" targetConnections="id-93dcdfc3e4d6415687dc94fb44bd2dd1" archimateElement="id-aa2ca8186b724920b4b68848e1df878c">
+              <bounds x="24" y="60" width="148" height="84"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9fbcf3f1379a45a3b05f89b7d7ebdfd1" targetConnections="id-5f02367f49374e948725ff361e2dad11" archimateElement="id-cec9a89bfdb8465aa9d20359e66190d9">
+            <bounds x="636" y="36" width="172" height="300"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-1e7a878723a243b7a28f6521f437ace3" source="id-9fbcf3f1379a45a3b05f89b7d7ebdfd1" target="id-ac250d20bfd641038853ecffb9912a25" archimateRelationship="id-e86ff13743e442acb11e3312cff36a53"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-135d14772c9f45a9bc51c40e51f72aa0" source="id-9fbcf3f1379a45a3b05f89b7d7ebdfd1" target="id-9815064c36f145d583a0be0168caa7c9" archimateRelationship="id-1cb15d9572c4428494ea68d88b97a351"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-86007817aff745a2b7521d4178a104c4" source="id-9fbcf3f1379a45a3b05f89b7d7ebdfd1" target="id-ee929cbc59a74389b6662cad7fb7912e" archimateRelationship="id-e48722cfe3874625bcad137f20a1dd9e"/>
+            <child xsi:type="archimate:DiagramObject" id="id-ac250d20bfd641038853ecffb9912a25" targetConnections="id-1e7a878723a243b7a28f6521f437ace3" archimateElement="id-5cc976bf8a754852af2882bdfd7dfc27">
+              <bounds x="12" y="132" width="148" height="48"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-9815064c36f145d583a0be0168caa7c9" targetConnections="id-135d14772c9f45a9bc51c40e51f72aa0" archimateElement="id-c7c71ff2df6a4f5da824eae27a669584">
+              <bounds x="12" y="48" width="148" height="84"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-ee929cbc59a74389b6662cad7fb7912e" targetConnections="id-86007817aff745a2b7521d4178a104c4" archimateElement="id-ef382b2e15af466ca3236fb5f7cd5698">
+              <bounds x="12" y="179" width="148" height="116"/>
+            </child>
+          </child>
+        </child>
+        <documentation>https://www.pm.gc.ca/en/mandate-letters/2025/05/21/mandate-letter&#xD;
+May 21, 2025&#xD;
+Office of the Prime Minister&#xD;
 &#xD;
+Dear Colleagues:&#xD;
+Last month, Canadians elected a new Government to stand up for our country and to build a strong economy that works for everyone. As members of the 30th Ministry, we must fulfill this mandate with purpose and force. We must meet a series of unprecedented challenges with both a disciplined focus on core priorities and new approaches to governing.&#xD;
+&#xD;
+The Context: A Generational Challenge&#xD;
+Canada faces a series of crises. In a more dangerous and divided world, geopolitical risks are rising, threatening our sovereignty. The global trading system – which has helped power Canada’s prosperity for decades – is undergoing the biggest transformation since the fall of the Berlin Wall. At home, our longstanding weak productivity is straining government finances, making life less affordable for Canadian families, and threatening to undermine the sustainability of vital social programs on which Canadians rely.&#xD;
+&#xD;
+The new federal Government has an immense responsibility to address these challenges head on with focus, determination, and fundamentally different approaches to governing.&#xD;
+&#xD;
+We must redefine Canada’s international, commercial, and security relationships. In the process, we need to develop a defence industrial policy that secures Canada, fulfills our responsibilities to our allies, and helps build our economy.&#xD;
+&#xD;
+Canada must build an enormous amount of new infrastructure at speeds not seen in generations. This includes the infrastructure to diversify our trading relationships; to become an energy superpower in both clean and conventional energies; to restore affordability to housing; and to secure our borders and our communities.&#xD;
+&#xD;
+The combination of the scale of this infrastructure build and the transformative nature of artificial intelligence (AI) will create opportunities for millions of Canadians to find new rewarding careers – provided they have timely access to the education and training they need to develop the necessary skills.&#xD;
+&#xD;
+Government itself must become much more productive by deploying AI at scale, by focusing on results over spending, and by using scarce tax dollars to catalyse multiples of private investment.&#xD;
+&#xD;
+Our Priorities&#xD;
+We will focus on seven priorities:&#xD;
+&#xD;
+Establishing a new economic and security relationship with the United States and strengthening our collaboration with reliable trading partners and allies around the world.&#xD;
+Building one Canadian economy by removing barriers to interprovincial trade and identifying and expediting nation-building projects that will connect and transform our country.&#xD;
+Bringing down costs for Canadians and helping them to get ahead.&#xD;
+Making housing more affordable by unleashing the power of public-private cooperation, catalysing a modern housing industry, and creating new careers in the skilled trades.&#xD;
+Protecting Canadian sovereignty and keeping Canadians safe by strengthening the Canadian Armed Forces, securing our borders, and reinforcing law enforcement.&#xD;
+Attracting the best talent in the world to help build our economy, while returning our overall immigration rates to sustainable levels.&#xD;
+Spending less on government operations so that Canadians can invest more in the people and businesses that will build the strongest economy in the G7.&#xD;
+Working Together&#xD;
+We must deliver for Canadians as a team committed to real Cabinet government. The attainment of these objectives will require collaboration and coordination within Cabinet. I expect each Cabinet committee, led by their Chair, to drive and monitor our progress, with oversight from the Priorities, Planning and Strategy Committee, and direction from the full Cabinet.&#xD;
+&#xD;
+While fulfilling your core responsibilities as a member of the Ministry, you should identify how specifically you can contribute to these missions. You will be expected and empowered to lead, and to bring new ideas, clear focus, and decisive action to your work. Over the coming weeks, I will look to each of you to identify the key goals and measures of success on which to evaluate the results you will achieve for Canadians as a member of the Ministry.&#xD;
+&#xD;
+We will work together with Parliamentarians and the public service. We will work in true partnership with provinces, territories, and Indigenous Peoples. And we will bring together labour, business, and civil society to build a Canada worthy of our children and grandchildren.&#xD;
+&#xD;
+In addressing the tasks before us, we must remain true to Canadian values. Canada is a dynamic country that celebrates our diversity, cares for the most vulnerable among us, and strives for a better future for all. The new federal Government will continue the vital work of advancing reconciliation with Indigenous Peoples. We will fight climate change. We will uphold the rule of law, protect our democratic institutions, and reinforce the unity of our country.&#xD;
+&#xD;
+Canada’s challenges are not small, but we can more than meet them with vigour and a constructive approach. That is how Canadians have built the best country in the world. That is how we will build it to be even better.&#xD;
+&#xD;
+In partnership,&#xD;
+Prime Minister of Canada signature&#xD;
+The Rt. Hon. Mark Carney,&#xD;
+Prime Minister of Canada&#xD;
+&#xD;
+&#xD;
+https://esdc.prv/en/news/corporate/2025/05/13-02.shtml&#xD;
 Prime Minister announces new Ministry&#xD;
 Today, the Prime Minister, Mark Carney, announced the members of Canada’s new Ministry.&#xD;
 &#xD;
 Employment and Social Development Canada welcomes The Honourable Patty Hajdu, Minister of Jobs and Families and Minister responsible for the Federal Economic Development Agency for Northern Ontario; The Honourable Anna Gainey, Secretary of State (Children and Youth); The Honourable Stephanie McLean, Secretary of State (Seniors) and The Honourable John Zerucelli, Secretary of State (Labour).&#xD;
-&#xD;
 </documentation>
       </element>
     </folder>
