@@ -2703,7 +2703,25 @@ RDA Number: Institution-specific&#xD;
 Related Record Number: PRN 949 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn949)&#xD;
 Bank Number: PSU 935</documentation>
     </element>
-    <element xsi:type="archimate:Product" name="Product" id="id-8ee49a379ad94154b3efccc640d78ed7"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 917] Personnel Security Screening (Product)" id="id-8ee49a379ad94154b3efccc640d78ed7">
+      <documentation>Personnel Security Screening&#xD;
+&#xD;
+Description: This bank describes personal information created, collected, used, disclosed and/or retained in relation to the security screening of individuals working or applying for work with a government institution. Personal information may include: name(s), date of birth, date of death, contact information, biographical information, biometric information (e.g., fingerprints, digital photographs, voice, polygraph examination), opinions or assessments of an individual’s character (e.g., loyalty, trustworthiness), citizenship status, credit information, criminal checks and history, law enforcement record checks, educational information, associations and memberships, employee identification numbers, employee personnel information, financial information, unique identifiers, descriptions or images of physical attributes, place of birth, signature, military service information, views and opinions of, or about, individuals, open source intelligence, security assessment information.&#xD;
+&#xD;
+Notes: (1) Information may be stored in either hard copy format or electronically (e.g. in databases). (2) Some institutions have developed institution-specific security screening personal information banks. Individuals seeking access to their information in PSU 917 may also want to request that other institutional PIBs related to security screening be included in the access to information request if they have worked in or for the following departments which maintain separate PIBs: Public Services and Procurement Canada (Industry Personnel Clearance and Reliability Records – PWGSC PPU 015); National Defence / Canadian Armed Forces (Personnel Security Investigation File – DND PPU 834); Privy Council Office (Security Clearance and Assessments Bank – PCO PPE 801); Royal Canadian Mounted Police (Security Reliability Screening Records – RCMP PPU 065); and Canadian Security Intelligence Service (Employee Security – SIS PPE 815).&#xD;
+&#xD;
+Class of Individuals: Job applicants, all current and former employees (students, agency and casual employees, persons on loan, assignment or secondment, exempt staff of ministers, ministers of state and parliamentary secretaries, locally engaged staff), volunteers, contractors, foreign and domestic visitors, immediate relatives, current and former spouse/common law partner, associates, cohabitants, individuals who give character references (including neighbours), current/former employers, parents or guardians of job applicants and employees under the age of 18.&#xD;
+&#xD;
+Purpose: Personal information described in this bank is used to support decisions for granting, denying, revoking, or reviewing for cause the reliability status, security clearance, site access status or site access clearance of individuals working or applying to work through appointment, assignment or contract or other individuals with whom government may share or provide access to sensitive or information or assets, or access to facilities. For most institutions, personal information is collected pursuant to section 7 of the Financial Administration Act and as required under the Standard on Security Screening. That authority carries with it the authority to perform security screenings so as to ensure that individuals being appointed to the public service – and who have access to government information and assets – are reliable and loyal. Institutions may have additional legislative authorities under which security screening is to be performed. For those institutions not subject to the Financial Administration Act or the Standard , consult the institution's Access to Information Coordinator to determine collection authority.&#xD;
+&#xD;
+Consistent Uses: Where required, personal information may be shared in accordance with the institution's enabling legislation and within the parameters of the Privacy Act, with the Royal Canadian Mounted Police (Canadian Criminal Real Time Identification Services – RCMP OPS 1214 (http://www.rcmp-grc.gc.ca/atip-aiprp/infosource/cor-cds-eng.htm) and Personnel Security Records – RCMP ADM 445 (http://www.rcmp-grc.gc.ca/atip-aiprp/infosource/cor-cds-eng.htm)) and the Canadian Security Intelligence Service (Security Assessments/Advice Records – CSIS PPU 005 (https://www.csis.gc.ca/tp/nfsrc-en.php)) to conduct security screening verifications, inquiries and/or assessments in accordance with the Policy on Government Security. Information may be shared with the Canadian Human Rights Commission (Human Rights Litigation Records – CHRC DRP 020 (http://www.chrc-ccdp.gc.ca/sites/default/files/info_source2016-eng.pdf), Human Rights Complaints Dispute Resolution Records – CHRC DRP 010 (http://www.chrc-ccdp.gc.ca/sites/default/files/info_source2016-eng.pdf)), the Public Service Labour Relations and Employment Board (Complaint/Grievance Mediation Records – PSLRB ROP 579 (http://pslrb-crtfp.gc.ca/reports/1314/infosource_e.asp)), Justice Canada (Litigation Services Records – JUS 3.0.5 (http://www.justice.gc.ca/eng/trans/atip-aiprp/infosource/p3.html)) or the Security Intelligence Review Committee (Complaints Records – SIR COM 001 (http://www.sirc-csars.gc.ca/prddpr/is/2013/index-eng.html)) when an individual challenges a decision to deny, suspend or revoke a the required security status or security clearance. Information may be disclosed to the Privy Council Office (Security and Intelligence Information Files – Personal Information Bank– PCO PPU 005 (http://www.pco-bcp.gc.ca/index.asp?lang=eng&amp;page=information&amp;sub=publications&amp;doc=info-source/index-eng.htm)) should the individual pose a potential risk to national security or is part of a national security-related investigation. The security screening status of an individual may be shared internally within institutions with human resource officials to update the individual's personnel file (Employee Personnel Record – PSE 901 (https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/atip-aiprp/ai/spib-frpo-eng.asp), Governor in Council Appointments – PSU 918 (https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/atip-aiprp/ai/spib-frpo-eng.asp), Members of Boards Committees and Councils – PSU 919 (https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/atip-aiprp/ai/spib-frpo-eng.asp)). Information may be shared within or between government institutions for staffing purposes (Staffing – PSE 902 (https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/atip-aiprp/ai/spib-frpo-eng.asp)). Information may be shared within institutions with departmental security officials for issuance of access cards and badges (Physical Access Controls PSU 907 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#psu907)). Information may be shared within institutions with departmental security officials in cases of adverse information for investigation (Security – PRN 931 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html) or Security Incidents and Privacy Breaches – PSU 939 (https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/atip-aiprp/ai/spib-frpo-eng.asp)). Biographical information, including name, date of birth, employment and/or educational history, may be shared with individuals or entities outside the government institution to confirm identity and conduct required inquiries or verifications including: authorized credit reporting agencies, personal and/or professional referees, and educational institutions and/or professional organizations. Information, including the results of security screening checks, may be disclosed to an individual’s manager, labour relations advisors, and/or an institutional security screening advisory board, on a need to know basis, when a decision to deny, revoke or suspend pending an investigation is being considered. Information, including completed security screening forms, the results of security screening checks and decisions made by a department may be shared between institutional security officials to enable transferability of security screening and to help ensure that individuals are not engaged by another government institution without regard to the circumstances leading to any previous denial or revocation which may have taken place in another institution. Select anonymized information may be used or disclosed for program evaluation.&#xD;
+&#xD;
+Retention and Disposal Standards: For most government institutions, records will be retained two years following the individual’s departure from the federal public service, or last administrative action, and then destroyed. Record will be retained for ten years in cases of denial or revocation of security status or clearance and then destroyed. For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution's Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/001&#xD;
+Related Class of Record Number: PRN 920, and/or PRN 931&#xD;
+Bank Number: PSU 917</documentation>
+    </element>
     <element xsi:type="archimate:Product" name="[Bank No: PSE 914] Parking (Product)" id="id-186f1b4398e343668d47d6dc989d473b">
       <documentation>Parking&#xD;
 &#xD;
@@ -2740,10 +2758,78 @@ RDA Number: 99/004&#xD;
 Related Record Number: PRN 914 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn914)&#xD;
 Bank Number: PSU 931</documentation>
     </element>
-    <element xsi:type="archimate:Product" name="Product" id="id-290a15be47b144bebe6fb8b023beb18e"/>
-    <element xsi:type="archimate:Product" name="Product" id="id-e26daf8238074e90a21527e38b280de7"/>
-    <element xsi:type="archimate:Product" name="Product" id="id-9a149db4de8942b287ab7e58dcc270ea"/>
-    <element xsi:type="archimate:Product" name="Product" id="id-6251d2822ecb4067b934835c4e22c0fc"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 910] Relocation (Product)" id="id-290a15be47b144bebe6fb8b023beb18e">
+      <documentation>Relocation&#xD;
+&#xD;
+Description: This information is used to document the processes involved in the relocation of employees and their families. The personal information collected includes: the individuals’ name and job title, organization name, work telephone, work address, job classification and level, Personal Record Identifier, name of delegated institutional officer or manager, signatures, name of spouse or common-law partner, names of children and/or extended family members, special medical needs that may need to be accommodated, monthly statement of credit card expenses, personal declarations of expenses when receipts are not obtainable or have been inadvertently destroyed, mortgage or rental cost information, legal fees and real estate fees.&#xD;
+&#xD;
+Class of Individuals: Employees who relocate and their spouses or common-law partners, their children and/or extended family members. Also includes individuals representing third party suppliers, such as moving and storage companies.&#xD;
+&#xD;
+Purpose: The purpose of this information is to document and administer the relocation of individuals and their family members. This includes information related to relocation planning, selection of new accommodations, shipment of personal and household effects, and move authorizations and claims.&#xD;
+&#xD;
+Consistent Uses: Non-personal information may be used to provide reports on employee relocations to management. The information may also be used for research, planning, audit and evaluation purposes.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/001 and 99/004&#xD;
+Related Record Number: PRN 936 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn936)&#xD;
+Bank Number: PSU 910</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="[Bank No: PSE 904] Pay and Benefits (Product)" id="id-e26daf8238074e90a21527e38b280de7">
+      <documentation>Pay and Benefits&#xD;
+&#xD;
+Description: This bank describes information related to the administration of pay and benefits within government institutions. Personal information may include name, contact information, biographical information, date of birth, date of death, employee identification number, employee personnel information, financial information, and Social Insurance Number (SIN).&#xD;
+&#xD;
+Class of Individuals: Current and former employees of government institutions.&#xD;
+&#xD;
+Purpose: Personal information is shared with Public Works and Government Services and is used to disburse salaries and allowances and to process deductions and orders for garnishment and diversion of funds. Personal information is collected under various Acts including the Financial Administration Act, the Government Employees Compensation Act, and the Public Service Labour Relations Act. The Social Insurance Number (SIN) is collected pursuant to the Income Tax Act, Canada Pension Plan, and the Employment Insurance Act, and for some institutions, the SIN is shared with Public Works and Government Services to create the Personal Record Identifier.&#xD;
+&#xD;
+Consistent Uses: Information is shared with Public Works and Government Services Canada (refer to Public Service Compensation Systems -PWGSC PCE 705 (http://www.tpsgc-pwgsc.gc.ca/aiprp-atip/ressources-resources/infosource-eng.html) and Public Service Pensions Data Bank - PWGSC PCE 702 (http://www.tpsgc-pwgsc.gc.ca/aiprp-atip/ressources-resources/infosource-eng.html)). Information, including the SIN, is disclosed to the Canada Revenue Agency (refer to Individual Returns and Payment Processing – CRA PPU 005 (http://www.cra-arc.gc.ca/gncy/tp/nfsrc/nfsrc-eng.html)) and the Province of Quebec (if applicable) for taxation and pension purposes. Information may also be shared with the Department of Justice Canada to administer the Family Orders and Agreements Enforcement Assistance Act and the Garnishment, Attachment and Pension Diversion Act (refer to Family Orders and Agreements Enforcement Assistance - JUS PPU 125 (http://www.justice.gc.ca/eng/trans/atip-aiprp/infosource/index.html) and Garnishment Registry - JUS PPU 150 (http://www.justice.gc.ca/eng/trans/atip-aiprp/infosource/p3.html)). Information may be shared with third party service providers, for select institutions. Some information on pay and benefits may also be shared with/described in the Standard Personal Information Banks Employee Personnel File - PSE 901 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse901), Grievances - PSE 910 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse910), and Discipline - PSE 911 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse911). Information may also be used or disclosed for program evaluation.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/005&#xD;
+Related Record Number: PRN 941 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn941)&#xD;
+Bank Number: PSE 904</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="[Bank No: PSE 902] Staffing (Product)" id="id-9a149db4de8942b287ab7e58dcc270ea">
+      <documentation>Staffing&#xD;
+&#xD;
+Description: This bank describes information about recruitment and staffing activities, which includes solicited and unsolicited applications for employment, position reclassifications, secondments, deployments, and other work assignments or arrangements within government institutions. Personal information may include name, contact information, assessment/test results, biographical information, citizenship status, date and place of birth, educational information, employee identification number, employment equity information, employee personnel information, financial information, official language proficiency, medical information, opinions and views of, or about, individuals, and signatures.&#xD;
+&#xD;
+Note: Individuals requesting information described by this bank should provide a competition number, if applicable.&#xD;
+&#xD;
+Class of Individuals: Employees of the institution and other individuals who apply for employment in the institution including through recruitment initiatives, as well as individuals who provide references or are supervisors of applicants.&#xD;
+&#xD;
+Purpose: Personal information is used to administer recruitment and staffing activities in government institutions, which includes maintaining an inventory of potential candidates for future staffing actions. For most government institutions, personal information is collected pursuant to the Public Service Employment Act, the Employment Equity Act, and the Canadian Human Rights Act (section 16). For those institutions not subject to these Acts, consult the institution’s Access to Information and Privacy Coordinator to determine collection authority.&#xD;
+&#xD;
+Consistent Uses: Information may be disclosed to the Public Service Commission, Treasury Board Secretariat and other government institutions for recruitment, employment equity, and staffing purposes, including complaints (refer to Institution-Specific Personal Information Banks: for the Public Service Commission of Canada: Applicant Inventories and Referrals - PSC PPU 015 (http://www.psc-cfp.gc.ca/abt-aps/atip-aiprp/infosource/2012/index-eng.htm); Assessment by the Personnel Psychology Centre - PSC PCU 025 (http://www.psc-cfp.gc.ca/abt-aps/atip-aiprp/infosource/2012/index-eng.htm), Second Language Evaluation (SLE) Test Results - PSC PPU 030 (http://www.psc-cfp.gc.ca/abt-aps/atip-aiprp/infosource/2012/index-eng.htm), Executive Resourcing - PSC PCE 746 (http://www.psc-cfp.gc.ca/abt-aps/atip-aiprp/infosource/2012/index-eng.htm), Analytical Environment - PSC PCE 761 (http://www.psc-cfp.gc.ca/abt-aps/atip-aiprp/infosource/2012/index-eng.htm), and Investigations, Mediation and Conciliation - PSC PPU 010 (http://www.psc-cfp.gc.ca/abt-aps/atip-aiprp/infosource/2012/index-eng.htm); for Treasury Board of Canada Secretariat: Employment Equity Data Bank - TBS PCE 739 (http://www.tbs-sct.gc.ca/atipo-baiprp/sfg-srg/sfg-srg02-eng.asp) and Workforce Adjustment Monitoring (WFAM) System - TBS PCE 804 (http://www.tbs-sct.gc.ca/atipo-baiprp/sfg-srg/sfg-srg00-eng.asp)). Information relating to staffing complaints may be shared with the Public Service Commission (refer to Institution-Specific Personal Information Bank Investigations, Mediation and Conciliation - PSC PPU 010 (http://www.psc-cfp.gc.ca/abt-aps/atip-aiprp/infosource/2012/index-eng.htm)) and the Federal Public Service Staffing Tribunal with Public Sector Labour Relations and Employment Board, when required. On request, selected information may be disclosed to a participant in a staffing process. Information may also be shared with third party service providers to manage recruitment initiatives. Information may also be used or disclosed for human resources planning and studies (refer to Standard Personal Information Bank Human Resources Planning - PSU 935 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#psu935)) and staffing decisions may also be described in Standard Personal Information Bank Employee Personnel Record - PSE 901 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse901). Voluntary self identification information relating to employment equity programs and services is also described in Standard Personal Information Bank Employment Equity and Diversity - PSE 918 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse918). Selected information about reclassifications may be proactively disclosed on government institutions’ websites. Information may also be used or disclosed for program evaluation and reporting purposes.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/005&#xD;
+Related Record Number: PRN 919 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn919) and PRN 920 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn920)&#xD;
+Bank Number: PSE 902</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 9394] Security Incidents and Privacy Breaches (Product)" id="id-6251d2822ecb4067b934835c4e22c0fc">
+      <documentation>Security Incidents and Privacy Breaches&#xD;
+&#xD;
+Description: This bank describes information related to physical, administrative, and technical security, which may include: security complaints and breaches, privacy breaches, threat and risk assessments, workplace violence, theft, fraud, vandalism, accidental damages, emergency and increased threat situations, or threats to the national interest of Canada. Personal information may include: name: contact information, physical attributes, employee identification number, employee personnel information, criminal charges/investigation information, financial information, opinions and views of, or about, individuals, and signature.&#xD;
+&#xD;
+Note: Individuals seeking access to this bank should provide the type of incident, the location, and approximate date of the incident. Description last updated: December 2013 .&#xD;
+&#xD;
+Class of Individuals: Employees of government institutions and other individuals involved in security incidents.&#xD;
+&#xD;
+Purpose: Personal information is collected to report and investigate security incidents and to ensure that vulnerabilities are identified and the risk of future occurrences reduced. For many institutions, personal information is collected under the authority of various Acts, including the Financial Administration Act (FAA) and as required under the Policy on Government Security, Public Service Employment Act (PSEA), Criminal Code, and the Defence Production Act (DPA). For those institutions not subject to the FAA, PSEA, DPA, or the Policy on Government Security, consult the institution’s Access to Information and Privacy Coordinator to determine collection authority.&#xD;
+&#xD;
+Consistent Uses: Information may be disclosed to entities such as: the institutional security office, the institutional information technology security office, institutional ATIP office, institutional legal services, and the appropriate lead security agency which may include: the appropriate law enforcement authority for incidents suspected to be criminal offences; the Privy Council Office for incidents involving the compromise of Cabinet confidences; the Canadian Security Intelligence Service for incidents involving threats to the national interest; the Office of Critical Infrastructure Protection and Emergency Preparedness for incidents and threats affecting the availability of critical assets and services; the health and safety committee and to Health and Safety Officers appointed under the Canada Labour Code for incidents which can be considered as a “hazardous occurrence” or involve employee injury; and the Treasury Board of Canada Secretariat for incidents that have an impact on government operations or that could require revisions to operational standards or technical documentation. In the case of privacy breaches, information may also be disclosed to the Office of the Privacy Commissioner of Canada. Information may also be shared with human resources officials and managers, as required, to determine appropriate action and to support decisions regarding discipline or investigations. In this case, information may also be described in the following employee-related Standard Personal Information Banks: Discipline - PSE 911 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse911), Employee Personnel Record – PSE 901 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse901), and Personnel Security Screening - PSU 917 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#psu917). The information may also be used or disclosed for program evaluation.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/001&#xD;
+Related Record Number: PRN 931 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn931)&#xD;
+Bank Number: PSU 9394</documentation>
+    </element>
     <element xsi:type="archimate:Product" name="[Bank No: PSU 915] Internal Communications (Product)" id="id-41c107c0eb9d40e0acfa6c59f4e7781c">
       <documentation>Internal Communications&#xD;
 &#xD;
@@ -2763,7 +2849,23 @@ RDA Number: Institution-specific&#xD;
 Related Record Number: PRN 939 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn939)&#xD;
 Bank Number: PSU 915</documentation>
     </element>
-    <element xsi:type="archimate:Product" name="Product" id="id-dbc47f0c898e4f9e8cc916c5d86549d6"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSE 908] Vehicle, Ship, Boat and Aircraft Accidents (Product)" id="id-dbc47f0c898e4f9e8cc916c5d86549d6">
+      <documentation>Vehicle, Ship, Boat and Aircraft Accidents&#xD;
+&#xD;
+Description: The records containing information described in this bank may contain reports on accidents; claims of damages; legal decisions; settlement transactions and correspondence concerning accidents involving government-owned and leased vehicles, ships, boats and aircraft as well as privately-owned vehicles, ships, boats and aircraft used on official business. Records concerning occupational health and safety, as well as authorization of leave and benefits associated with work-related injury or illness are described in Standard Personal Information Bank Occupational Health and Safety - PSE 907 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse907).&#xD;
+&#xD;
+Class of Individuals: Employees of the institution.&#xD;
+&#xD;
+Purpose: The purpose of these records is to maintain information regarding vehicle, ship, boat and aircraft accidents involving employees of a government institution.&#xD;
+&#xD;
+Consistent Uses: To determine liability for such accidents and to approve damage settlements.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/005&#xD;
+Related Record Number: PRN 922 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn922) and PRN 945 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn945)&#xD;
+Bank Number: PSE 908</documentation>
+    </element>
     <element xsi:type="archimate:Product" name="[Bank No: PSU 932] Accounts Receivable (Product)" id="id-c1a5cdc33b5b4fe1a9153b9a311fd645">
       <documentation>Accounts Receivable&#xD;
 &#xD;
@@ -2836,8 +2938,42 @@ RDA Number: 98/001&#xD;
 Related Record Number: PRN 944 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn944)&#xD;
 Bank Number: PSU 936</documentation>
     </element>
-    <element xsi:type="archimate:Product" name="Product" id="id-d76290b5c910412eae58cc09dc391821"/>
-    <element xsi:type="archimate:Product" name="Product" id="id-302b78ce88f3485791891ac1e0646a06"/>
+    <element xsi:type="archimate:Product" name="[Bank Number: PSU 907] Physical Access Controls (Product)" id="id-d76290b5c910412eae58cc09dc391821">
+      <documentation>Physical Access Controls&#xD;
+&#xD;
+Description: This bank describes information used in support of physical security measures in the form of identification cards, employee and visitor access badges, and video surveillance recordings generated by cameras located on the perimeters of, or within institutionally operated buildings and facilities. Additionally, in support of employee and visitor access control, the records related to these subjects contain the actual access logs/registers used to issue temporary employee passes and temporary visitor passes. Personal information collected may include recorded visual images, photographs, data logs, signatures, surnames, given names, telephone numbers, access badge numbers, temporary pass control numbers and visitor company/organization information related to the issuance of temporary visitor passes.&#xD;
+&#xD;
+Note: This personal information bank was formerly two separate personal information banks: Security Video Surveillance and Temporary Visitor Access Control Logs and Access Badges PSU 907 and Identification and Access Cards PSE 917.&#xD;
+&#xD;
+Class of Individuals: Employees, and those on assignment or contract and visitors who require access to a government institution or any other person within proximity of video surveillance recording capabilities.&#xD;
+&#xD;
+Purpose: The personal information is used to enhance the security of government institutions facilities and of individuals and assets present in such facilities. Video surveillance is sometimes conducted in real time or recordings can be used to investigate past occurrences, security incidents or emergency situations. Access logs/registers, access passes and any other records related to employee and visitor access control may also be used to monitor or investigate current or past security incidents. For many institutions, personal information is collected under the authority of various Acts, including the Financial Administration Act (FAA) and as required under the Policy on Government Security, Public Service Employment Act (PSEA), Criminal Code, and the Defence Production Act (DPA). For those institutions not subject to the FAA, PSEA, DPA, or the Policy on Government Security, consult the institution’s Access to Information and Privacy Coordinator to determine collection authority.&#xD;
+&#xD;
+Consistent Uses: The information may be used or disclosed to assist security officials in the monitoring of activities and/or the issuance of access passes. Information may be used for identification purposes in support of personnel security screening. Information may be used to support compliance with other relevant Treasury Board policy instruments and policy directions. Additionally, records and recordings may record entry and exit times from facilities and may be used in the event of security-related incidents such as thefts or emergency situations. In such cases, this information may be shared with appropriate law enforcement agencies, emergency workers, appropriate staff relations officers, or investigative bodies for further investigations, charges or disciplinary actions (refer to Security Incidents and Privacy Breaches PSU 939 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-personal-information-banks.html#psu939) and Discipline PSE 911 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-personal-information-banks.html#pse911)). Video information that reveals evidence of illegal activity, employee misconduct or accidents may be disclosed to appropriate staff relations, facility owners, enforcement or investigative bodies for further investigations, charges or disciplinary actions.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/001&#xD;
+Related Record Number: PRN 931 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn931)&#xD;
+Bank Number: PSU 907</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="[Bank No: PSE 905] Training and Development (Product)" id="id-302b78ce88f3485791891ac1e0646a06">
+      <documentation>Training and Development&#xD;
+&#xD;
+Description: This bank describes personal information collected to support an institution’s training and development programs (e.g., mentoring, career orientation, developmental work assignments or arrangements, etc.). Personal information may include name, contact information, educational information, employee identification number, employment equity information, employee personnel information, financial information, biographical information, and assessment and training results.&#xD;
+&#xD;
+Class of Individuals: Individuals who are employed by government institutions who register for training or development courses or programs.&#xD;
+&#xD;
+Purpose: Personal information is used to register and pay for approved training and development activities. Where applicable, government institutions may receive information from the Canada School of Public Service or other course providers about registration costs and training results. For most government institutions, personal information is collected under the authority of the Public Service Staff Relations Act and the Public Service Employment Act. For those institutions not subject to these Acts, consult the institution’s Access to Information and Privacy Coordinator to determine collection authority.&#xD;
+&#xD;
+Consistent Uses: Information may be used to link voluntary self-identification data to information contained in other banks (refer to Standard Personal Information Bank Employment Equity and Diversity - PSE 918) for the purpose of implementing and evaluating government policies relating to employment equity and diversity. Some information may also be shared with/described in the Standard Personal Information Banks Accounts Receivable - PSU 932 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#psu932), Employee Performance Management Program – PSE 912 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse912) and Employee Personnel Record - PSE 901 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse901). Information may also be used or disclosed for program evaluation.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/005&#xD;
+Related Record Number: PRN 927 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn927)&#xD;
+Bank Number: PSE 905</documentation>
+    </element>
     <element xsi:type="archimate:Product" name="[Bank No: PSU 940] Acquisition Cards (Product)" id="id-86e356885db34b419c2129f35a4de4bd">
       <documentation>Acquisition Cards&#xD;
 &#xD;
@@ -2906,8 +3042,40 @@ RDA Number: Institution-specific&#xD;
 Related Record Number: PRN 904 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn904)&#xD;
 Bank Number: PSU 937</documentation>
     </element>
-    <element xsi:type="archimate:Product" name="Product" id="id-db5d756254674f06b2dc570347c68fc9"/>
-    <element xsi:type="archimate:Product" name="Product" id="id-70a2745c7baf4bb0bbe5d1a45b93bf65"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 912] Professional Services Contracts (Product)" id="id-db5d756254674f06b2dc570347c68fc9">
+      <documentation>Professional Services Contracts&#xD;
+&#xD;
+Description: This bank describes information contained in agreements between government institutions and a person or firm to provide goods, perform services, to construct works or to lease real property. Personal information may include name, contact information (including business name), biographical information, educational information, financial information, evaluations/assessments, Social Insurance Number (SIN), other identification number (e.g. Business Number) and signature.&#xD;
+&#xD;
+Class of Individuals: Individuals representing themselves or employed through private companies (including temporary help services) who have submitted responses to Requests for Proposals and who have been engaged through contracts or standing offers with government institutions and individuals who are provided as professional references.&#xD;
+&#xD;
+Purpose: Personal information is used to manage the contracting process, which includes the request for and receipt of proposals, evaluation of bids, selection of contractor, preparation, negotiation, execution, and award of contract, the disbursement of funds for services, deliverables, or both as specified within the contract, and post-contract evaluation. For most government institutions, personal information is collected under the authority of the Financial Administration Act. For those institutions not subject to the Act, consult the institution’s Access to Information and Privacy Coordinator to determine collection authority. The SIN is collected pursuant to the Income Tax Act.&#xD;
+&#xD;
+Consistent Uses: Information is used to maintain an inventory of potential contractors. Information may also be used to recover overpayments and debts owed to the Crown and, where applicable, to enable execution of orders of garnishment, attachment, or diversion of funds in accordance with the Garnishment, Attachment and Pension Diversion Act and related regulations. Information may be used to confirm the identity of contractors (where required) for access to governmental and institutional websites and databases and for the loan of equipment and/or supplies. Information, including the Social Insurance Number and Business Number, is disclosed to the Canada Revenue Agency in T4A-NR Supplementary and T1204 slips (refer to Individual Returns and Payment Processing – CRA PPU 005 (http://www.cra-arc.gc.ca/gncy/tp/nfsrc/nfsrc-eng.html) and Business Returns and Payment Processing – CRA PPU 047 (http://www.cra-arc.gc.ca/gncy/tp/nfsrc/nfsrc-eng.html)) and the Province of Quebec (if applicable) for tax purposes. The information may be shared with/described in Standard Personal Information Banks Accounts Payable - PSU 931 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#psu931) and Accounts Receivable - PSU 932 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#psu932) for payment administration. Selected information on contracts for $10,000 or more, including the fact that a contractor is a former public servant in receipt of a Public Service Superannuation Act pension, may be made available on institutions’ websites, in compliance with proactive disclosure procedures. Information may also be used or disclosed for evaluation or reporting purposes.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 99/004&#xD;
+Related Record Number: PRN 912 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn912)&#xD;
+Bank Number: PSU 912</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 909] Travel (Product)" id="id-70a2745c7baf4bb0bbe5d1a45b93bf65">
+      <documentation>Travel&#xD;
+&#xD;
+Description: This bank describes information about employees who travel on official institutional business. Personal information may include name, contact information, biographical information, employee identification number, employee personnel information, financial information and passport/visa information, travel history, travel claims, accommodations, meals, or preferences. Travellers may also be requested to provide date of birth and gender when booking travel arrangements.&#xD;
+&#xD;
+Class of Individuals: Employees of government institutions, Ministers, Parliamentary Secretary, exempt staff, and other individuals (may include term or casual employees, temporary staff, volunteers, students, consultants and contractors, or witnesses) who travel on official institutional business, their spouses or common-law partners and dependants.&#xD;
+&#xD;
+Purpose: Personal information is used to process travel requirements for individuals who travel on behalf of the institution. For most government institutions, personal information is collected under the authority of the Financial Administration Act. For those institutions not subject to the Act, consult the institution’s Access to Information and Privacy Coordinator to determine collection authority.&#xD;
+&#xD;
+Consistent Uses: Travel expenses incurred by the Minister, Parliamentary Secretary, exempt staff, and by senior level employees (i.e., Deputy Minister, Associate Deputy Minister, Assistant Deputy Minister, or equivalent) may be proactively disclosed on government institutions’ websites. Some institutions may share information with Public Works and Government Services Canada to establish the Traveller Profile (refer to Central Personal Information Bank Shared Travel Services Initiative (STSI) Traveller Profile - PWGSC PCE 706 (http://www.tpsgc-pwgsc.gc.ca/aiprp-atip/index-eng.html)). In some instances, information may also be shared with the Department of Foreign Affairs and International Trade Canada (e.g., official delegations to events in foreign countries). Information may also be shared with/described in Standard Personal Information Banks Accounts Payable - PSU 931 and Accounts Receivable – PSU 932 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#psu932). Information may be used or disclosed for program evaluation and reporting purposes.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/001 and 99/004&#xD;
+Related Record Number: PRN 934 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn934) and/or PRN 935 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn935)&#xD;
+Bank Number: PSU 909</documentation>
+    </element>
     <element xsi:type="archimate:Product" name="[Bank No: PSU 906] Disclosure of Wrongdoing in the Workplace (Product)" id="id-647889068bdc459f901558326e392c7b">
       <documentation>Disclosure of Wrongdoing in the Workplace&#xD;
 &#xD;
@@ -2944,7 +3112,7 @@ RDA Number: 98/004&#xD;
 Related Record Number: PRN 916 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn916)&#xD;
 Bank Number: PSU 942</documentation>
     </element>
-    <element xsi:type="archimate:Product" name="[Bank N: PSU 905] Electronic Network Monitoring Logs (Product)" id="id-6a26f2ee398347c5b603b03204feef57">
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 905] Electronic Network Monitoring Logs (Product)" id="id-6a26f2ee398347c5b603b03204feef57">
       <documentation>Electronic Network Monitoring Logs&#xD;
 &#xD;
 Description: The records containing the information described in this bank relate to the use by individuals of government institutions electronic networks. Logs containing details of network use by individuals are compiled and are reviewed by appropriate officials of the institution when there is suspected misuse, policy non-compliance, or potential compromise of a government institution’s electronic network, as defined by the government institution’s policies or the Policy on the Use of Electronic Networks, or other relevant Treasury Board policy instruments or policy directions. Examples of information that may be in the records include network logs that may link an employee’s workstation to an Internet Protocol address, listings of sites visited and information on any transactions conducted, including date, time, duration and nature of the visit or transaction. The records may also include information on the use of authorization codes assigned to particular individuals, including successful or unsuccessful use of the codes, date, time and frequency.&#xD;
@@ -2995,9 +3163,61 @@ RDA Number: Institution-Specific&#xD;
 Related Record Number: PRN 938 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn938)&#xD;
 Bank Number: PSU 919</documentation>
     </element>
-    <element xsi:type="archimate:Product" name="Product" id="id-1560541b28fd46e4a0fec8df06313bba"/>
-    <element xsi:type="archimate:Product" name="Product" id="id-9c43f24c34c34391acc6e418afd8ce06"/>
-    <element xsi:type="archimate:Product" name="Product" id="id-b4a45c15d47a401b833af5c7349be49e"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 914] Public Communications (Product)" id="id-1560541b28fd46e4a0fec8df06313bba">
+      <documentation>Public Communications&#xD;
+&#xD;
+Description: This bank describes information used to communicate with individuals external to the institution and may include general inquiries (received by e-mail, telephone, mail) and responses, the distribution of public awareness and communications material, the dissemination of reports, publications, and other documentation including the release of previously released access to information packages (informal access requests), success stories, public opinion research, and information posted to social media platforms including wikis, blogs, and other collaborative Internet technologies used or hosted by the institution. Personal information may include name, contact information, user names and passwords, employee personnel information, biographical information, photographs, video and audio recordings, views and opinions of, or about, individuals, and Internet Protocol (IP) routing addresses.&#xD;
+&#xD;
+Note: This information may be stored in either hard copy format or electronically (e.g., in databases or on Web sites, including social media applications, etc.). Although Internet Protocol (IP) addresses are not specifically requested by an institution, they may be captured electronically when an email is received. Description last updated: December 2013 .&#xD;
+&#xD;
+Class of Individuals: Members of the public, representatives of private sector organizations and other government institutions (i.e., municipal, provincial/territorial, and international), employees and other representatives of government institutions, who have requested information from, or submitted information to, a government institution; parents and guardians of minors; employees and other individuals with access to institutional networks, including individuals who have prepared information for dissemination, such as publication on the institution’s extranet or internet sites or who act as contact points within the institution.&#xD;
+&#xD;
+Purpose: Personal information is used to disseminate information about the functions, programs, and activities of the institution, including about employees of the institution. For many institutions, personal information is collected under the authority of the Financial Administration Act (FAA), and in accordance with the Communications Policy of the Government of Canada. For those institutions not subject to the FAA or the Communications Policy of the Government of Canada, consult the institution’s Access to Information and Privacy Coordinator to determine collection authority.&#xD;
+&#xD;
+Consistent Uses: The names, photographs, recordings and other personal information about individuals who work for the institution may be included in documentation posted on the institution’s extranet or Internet sites; e.g., within speeches, newsletters, etc. With consent of the individual, information may be shared with other areas of the institution for program-specific mailing/distribution lists and/or telephone lists. Information may be used to moderate public discussion on the social media platforms used by the institution. Responses to enquiries and any other relevant information are accounted for by the institution-specific personal information bank related to the program area that sent the response. Requests for information may be transferred when the requested information, e.g., inquiry or complaint, falls under the responsibility of another institution, refer to Executive Correspondence - PSU 902 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#psu902). Some information may also be posted on government institutions’ websites for proactive disclosure purposes. Information may also be used or disclosed to provide statistical reports to management as well as for program evaluation.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: Institution-specific.&#xD;
+Related Record Number: PRN 939 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn939)&#xD;
+Bank Number: PSU 914</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="[Bank No: PSE 915] Values and Ethics Codes for the Public Sector and Organizational code(s) of Conduct (Product)" id="id-9c43f24c34c34391acc6e418afd8ce06">
+      <documentation>Values and Ethics Codes for the Public Sector and Organizational code(s) of Conduct&#xD;
+&#xD;
+Description: This bank describes information related to the responsibilities of public servants in government institutions included in the public sector as defined in section 2 of the Public Servants Disclosure Protection Act (PSDPA) as set forth in the Values and Ethics Code for the Public Sector, applicable organizational code(s) of conduct, as well as conflict of interest and post-employment measures. Personal information may include name, contact information, financial information, credit information, biographical information, employee identification number, employee personnel information, views and opinions of, or about, individuals, signature and other personal information which may be contained in a conflict of interest statement.&#xD;
+&#xD;
+Note: Public servants of government institutions included in the core public administration for which Treasury Board is the employer and who are members of a collective bargaining group that has yet to transition to the Values and Ethics Code for the Public Sector in their collective agreements remain subject to the Values and Ethics Code for the Public Service in regards to conflict of interest measures and post-employment measures. Those who have transitioned to the Values and Ethics Code for the Public Sector are subject to the Policy on Conflict of Interest and Post-Employment. Bank formerly called: Values and Ethics Code for the Public Service. Description last updated: December 2013 .&#xD;
+&#xD;
+Class of Individuals: Current and former employees of government institutions, family members, and other individuals with whom the employee may have a business interest.&#xD;
+&#xD;
+Purpose: Personal information is used to provide direction and authorizations, support decision on transfers, discipline and termination of employment, if conflict of interest exists, resolve situations of perceived, potential and actual conflicts of interest in current and post-employment This includes conflicts of interest in relation to 1) assets and liabilities, 2) gifts, hospitality and other benefits, 3) outside employment or activities, 4) preferential treatment and 5) solicitation. Personal information is also used in assessing the need for the establishment of a blind trust or for approving reimbursement for costs associated with such a divestment. Personal information is collected pursuant to section 5 and 6 of the PSDPA. Personal information is collected pursuant to sections 7 and 11.1 (1)(j) of the Financial Administration Act (FAA) for setting terms and conditions of employment. For those institutions not subject to the PSDPA or the FAA, consult the institution’s Access to Information and Privacy Coordinator to determine collection authority.&#xD;
+&#xD;
+Consistent Uses: In some cases, information may be disclosed to the Office of the Chief Human Resources Officer, Treasury Board Secretariat for the purpose of obtaining advice on possible conflicts of interest. In cases where an allegation of wrongdoing is made, information may be disclosed either to the Office of the Public Sector Integrity Commissioner of Canada, which may make recommendations where warranted to Deputy Heads of institutions, refer to Case Review and Investigation Files – PSIO PPU 005 (http://www.psic.gc.ca/eng/about-us/publications#ATIP) or to the senior officer responsible for receiving and dealing with disclosures of wrongdoing in the government institution, refer to Disclosure of Wrongdoing in the Workplace – PSU 906 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#psu906). Information may be shared with human resources officials where a conflict of interest results in discipline or termination of employment, refer to Discipline – PSE 911 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#pse911). Information may also be used or disclosed for program evaluation, policy analysis, research, audit or statistical purposes.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/005&#xD;
+Related Record Number: PRN 920 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn920) and PRN 926 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn926)&#xD;
+Bank Number: PSE 915</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="[Bank No: PSU 948] Real Property Management (Product)" id="id-b4a45c15d47a401b833af5c7349be49e">
+      <documentation>Real Property Management&#xD;
+&#xD;
+Description: This bank describes information related to the management of federal real property or other real property used or acquired by a government institution. Real property refers to any right, interest or benefit of land, which includes: mines, minerals and improvements on, above or below the surface of the land. Personal information may include name, biographical information, contact information, size of family, credit history, rental / lease terms and conditions, financial information, information with respect to property transactions, including appraisals, and description of property, including photographs.&#xD;
+&#xD;
+Class of Individuals: Former or current tenants or applicants for tenancy of federal real property, real property owners, licensees, lessees, and property appraisers.&#xD;
+&#xD;
+Purpose: Personal information is used to administer real property activities, which are related to the planning, acquisition, use and disposal of real property. Personal information is collected pursuant to a number of acts, principally, the Department of Public Works and Government Services Act, Federal Real Property and Federal Immovables Act, Federal Real Property Regulations, Department of Canadian Heritage Act, National Capital Act, Financial Administration Act, Historic Sites and Monuments Act, Department of Natural Resources Act, and Expropriation Act.&#xD;
+&#xD;
+Consistent Uses: Information may be used or disclosed for the following purposes: to collect debts owed by tenants as a result of their tenancy; for credit checks; for property tax payments, that is, information may be disclosed to municipalities in which the properties are located for tax assessments and administration of the payments-in-lieu of taxes program and for evaluation or reporting to senior management. Information may be shared with or described in the Standard Personal Information Banks Accounts Payable – PSU 931 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#psu931), and Accounts Receivable – PSU 932 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#psu932).&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: To be determined&#xD;
+Related Record Number: PRN 948 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn948)&#xD;
+Bank Number: PSU 948</documentation>
+    </element>
     <element xsi:type="archimate:Product" name="[Bank No: PSE 910] Grievances (Product)" id="id-67b393735af444cead46264897a2edbf">
       <documentation>Grievances&#xD;
 &#xD;
@@ -3107,7 +3327,6 @@ RDA Number: 98/005&#xD;
 Related Record Number: PRN 922 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn922)&#xD;
 Bank Number: PSE 907</documentation>
     </element>
-    <element xsi:type="archimate:Product" name="Product" id="id-eed0fe50250a4fc1bf04eb146e977aa2"/>
     <element xsi:type="archimate:Product" name="[Bank No: PSU 938] Outreach Activities (Product)" id="id-0988f4c847624eb190f1005c4740344f">
       <documentation>Outreach Activities&#xD;
 &#xD;
@@ -3163,8 +3382,42 @@ RDA Number: 98/005&#xD;
 Related Record Number: PRN 923 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn923)&#xD;
 Bank Number: PSE 906</documentation>
     </element>
-    <element xsi:type="archimate:Product" name="Product" id="id-fa710757a86d407fa19c8d99eb0cd0cd"/>
-    <element xsi:type="archimate:Product" name="Product" id="id-6e6127c60aa7419cbac0f779ee35706f"/>
+    <element xsi:type="archimate:Product" name="[Bank No: PSE 920] Recognition Program (Product)" id="id-fa710757a86d407fa19c8d99eb0cd0cd">
+      <documentation>Recognition Program&#xD;
+&#xD;
+Description: This bank describes information that is used to formally recognize the achievement of and give awards to employees. The personal information may include: name, contact information, biographical information, educational information, employee identification number, employee personnel information, photography, signature, opinion or views of or about individuals.&#xD;
+&#xD;
+Note: Bank formerly called Recognition Policy. Description last updated: December 2013 .&#xD;
+&#xD;
+Class of Individuals: Employees of the government institution who have been nominated for awards.&#xD;
+&#xD;
+Purpose: The personal information is used to identify employees who have been nominated for awards in accordance with a recognition program. The information is also used to disburse funds or distribute gifts. Personal information is collected pursuant to various federal laws and regulations. For the specific legal authority for the collection, consult the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+Consistent Uses: The information may be used or disclosed for the following purposes: reporting to senior management, evaluation and audit. Some elements of the information may be published on the Internet, intranet or other medium. Information may be shared with PSE 904 Pay and Benefit in cases where awards qualify as income. Information may be shared with PSE 901 Employee Personnel Record.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/005&#xD;
+Related Record Number: PRN 940 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn940)&#xD;
+Bank Number: PSE 920</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="[Bank No: PSE 930] Workplace Day Care (Product)" id="id-6e6127c60aa7419cbac0f779ee35706f">
+      <documentation>Workplace Day Care&#xD;
+&#xD;
+Description: The records containing information described in this standard bank may contain information collected from employee surveys conducted by government institutions for the purpose of estimating employee demand for workplace day care and from workplace day care centre records for evaluating the workplace day care policy. Such information may include employee or user personal data, data on their children, anticipated demand for day care and probability and reasons for enrolling a child in an institutionally sponsored workplace day care centre.&#xD;
+&#xD;
+Class of Individuals: All federal employees included in Schedules I and IV of the Financial Administration Act.&#xD;
+&#xD;
+Purpose: These records are to be used to determine whether sufficient employer interest and demand exist to merit further consideration (viability study) by the government institution of the possibility of establishing a workplace day care centre. They will be used to determine the level of ongoing federal rental support for the workplace day care centre. This information will also be used for the purposes of evaluating the day care centre policy.&#xD;
+&#xD;
+Consistent Uses: The information in these records will be used for administrative and statistical purposes associated with the establishment of a day care centre. It will also be used for the evaluation and monitoring of the federal public service workplace day care policy. The information may be disclosed to Treasury Board, the government institution, an authorized committee of the government institution, a custodian government institution and the Board of Directors of the Day Care Centre. Together with the linked information from the files identified below, this information will form the basis for tabulations of the extent and type of employee day care users.&#xD;
+&#xD;
+Retention and Disposal Standards: For information about the length of time that specific types of common administrative records are maintained by a government institution, including the final disposition of those records, please contact the institution’s Access to Information and Privacy Coordinator.&#xD;
+&#xD;
+RDA Number: 98/005&#xD;
+Related Record Number: PRN 949 (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-classes-records.html#prn949)&#xD;
+Bank Number: PSE 930</documentation>
+    </element>
   </folder>
   <folder name="Application" id="id-4c073bc2342b490eae44200c8635c571" type="application">
     <element xsi:type="archimate:DataObject" name="Drupal-Sourced Data (Data Object)" id="id-a36acbc1b6124a03991eae20826f88c9">
@@ -6537,6 +6790,126 @@ Canada’s challenges are not small, but we can more than meet them with vigour 
     <element xsi:type="archimate:Principle" name="Fight Climate Change (Principle)" id="id-5cc976bf8a754852af2882bdfd7dfc27">
       <documentation>We will fight climate change. </documentation>
     </element>
+    <element xsi:type="archimate:Meaning" name="Carney says single government mandate letter reflects a 'unified mission'" id="id-2e2be11cf894408d9ef4af74f019c3a8">
+      <documentation>https://www.infomedia.gc.ca/esdc-edsc/2025/05/21/259732376&#xD;
+Canadian Press Newswire&#xD;
+Published: 2025-05-21&#xD;
+&#xD;
+Carney says single government mandate letter reflects a 'unified mission'&#xD;
+&#xD;
+OTTAWA _ Prime Minister Mark Carney laid out a handful of collective core priorities for his new ministers on Wednesday, vowing his government will work to bring down the cost of living and reconfigure some of Canada's most important international relationships.&#xD;
+&#xD;
+Carney released just one single mandate letter publicly for his entire cabinet, rather than the traditional spate of individual assignments. He said this shows every member of his cabinet shares ''a unified mission.''&#xD;
+&#xD;
+''This one letter outlines the core priorities of Canada's new government, reflecting the mandate that Canadians have given to us,'' he said.&#xD;
+&#xD;
+''The government is charged to build the strongest economy in the G7, an economy that works for everyone, to bring down the cost of living for Canadian families, to keep our country's security -- our communities -- safe, to develop a new economic and security relationship with the United States, and to build new partnerships with reliable allies around the world.''&#xD;
+&#xD;
+Carney made the comments while speaking to reporters on Parliament Hill after holding a secretive, two-day retreat with his new cabinet in Gatineau, Que.&#xD;
+&#xD;
+In a break from the tradition followed by Justin Trudeau's Liberal government, media were not allowed on site at Meech Lake to ask ministers questions _ placing the spotlight squarely on Carney this evening.&#xD;
+&#xD;
+Several ministers made headlines in the last week by giving conflicting messages to the media on pipeline policy, reporting there would be no budget until fall and declaring that lowering housing prices would be the wrong approach to making homes more affordable.&#xD;
+&#xD;
+The letter explicitly directs them to assess how they should proceed to govern through their individual departments.&#xD;
+&#xD;
+''Over the coming weeks, I will look to each of you to identify the key goals and measures of success on which to evaluate the results you will achieve for Canadians as a member of the Ministry,'' the letter reads.&#xD;
+&#xD;
+In the mandate letter, Carney also said he expects each cabinet committee, led by a chair, to ''drive and monitor'' progress. He said that should be done with oversight from the priorities, planning and strategy committee _ chaired by the prime minister _ and direction from the full cabinet.&#xD;
+&#xD;
+A number of new cabinet committees were announced last week that reflect the government's focus on shoring up Canada's sovereignty and improving the quality of life of Canadians.&#xD;
+&#xD;
+They include a new ''Build Canada'' committee, focused on strengthening Canada's economy and a committee on government transformation and efficiency, aiming to reduce government spending.&#xD;
+&#xD;
+Other new groups include a committee on operations and parliamentary affairs, a committee for ''quality of life and wellbeing'' and a committee on a ''secure and sovereign Canada'' that aims to reinforce Canadian sovereignty, manage Canada-U.S. relations and advance Canada's interests around the world.&#xD;
+&#xD;
+Carney spoke with journalists after emerging from what his office called a cabinet ''planning forum'' held at Meech Lake to prepare for the new sitting of Parliament that starts next week.&#xD;
+&#xD;
+At the press conference Wednesday, Carney was also asked about Liberal MPs considering adopting Reform Act rules to have the power to trigger a leadership review.&#xD;
+&#xD;
+Carney said all recognized parties in Parliament are bound by the Reform Act and that votes will take place at the first caucus meeting on Sunday.&#xD;
+&#xD;
+''I observe that this will happen,'' Carney said.&#xD;
+&#xD;
+The new minority Parliament meets for the first time on Monday to elect a new House Speaker and will watch King Charles III deliver the speech from the throne on Tuesday.&#xD;
+&#xD;
+This report by The Canadian Press was first published May 21, 2025.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Carney's singular mandate letter a welcome change, promises 'narrow' focus for upcoming Parliament, say insiders" id="id-e4faafc59acc43efb822c77093849597">
+      <documentation>https://www.infomedia.gc.ca/esdc-edsc/2025/05/22/259740878&#xD;
+iPolitics&#xD;
+Published: 2025-05-22&#xD;
+&#xD;
+Carney's singular mandate letter a welcome change, promises 'narrow' focus for upcoming Parliament, say insiders&#xD;
+By: Marco Vigliotti&#xD;
+&#xD;
+Prime Minister Mark Carney released his mandate letter to cabinet on Wednesday, spelling out a broad list of priorities for his re-elected Liberal government, including establishing a new economic and security relationship with the U.S., removing internal trade barriers and reducing costs for Canadians.&#xD;
+&#xD;
+It represents a break from the tradition established by Justin Trudeau, where each minister received instructions unique to their portfolio.&#xD;
+&#xD;
+Carney said Canadians &quot;elected a new government to stand up for our country and to build a strong economy that works for everyone,&quot; and his cabinet &quot;must fulfill this mandate with purpose and force.&quot;&#xD;
+&#xD;
+&quot;We must meet a series of unprecedented challenges with both a disciplined focus on core priorities and new approaches to governing.&quot;&#xD;
+&#xD;
+Carney's seven priorities for cabinet are mostly restated commitments from the this past spring's election campaign, including safeguarding Canadian sovereignty by bolstering border security and strengthening the military, returning immigration rates to &quot;sustainable levels,&quot; reducing spending on government operations, and spurring home construction through public-private cooperation (via the creation of new federal body Build Canada Homes) and investments in the skilled trades.&#xD;
+&#xD;
+Carney said Canada &quot;faces a series of crises,&quot; while the global trading system - a source of the country's prosperity for decades - undergoes the &quot;biggest transformation since the fall of the Berlin Wall.&quot;&#xD;
+&#xD;
+He blamed &quot;longstanding weak productivity&quot; for &quot;straining government finances, making life less affordable for Canadian families, and threatening to undermine the sustainability of vital social programs on which Canadians rely.&quot;&#xD;
+&#xD;
+&quot;The new federal government has an immense responsibility to address these challenges head on with focus, determination, and fundamentally different approaches to governing,&quot; Carney writes.&#xD;
+&#xD;
+&quot;We must redefine Canada's international, commercial, and security relationships. In the process, we need to develop a defence industrial policy that secures Canada, fulfills our responsibilities to our allies, and helps build our economy.&quot;&#xD;
+&#xD;
+Carlene Variyan, a former chief of staff in the Trudeau government, said Carney's mandate letter was a &quot;very effective way&quot; of signalling that this new cabinet has &quot;a narrow and disciplined focus in a time of perceived crisis.&quot;&#xD;
+&#xD;
+&quot;A lot of people who have served in government and were involved in the drafting of mandate letters probably thought yesterday 'why didn't I think of that?' It's quite clever,&quot; she told iPolitics.&#xD;
+&#xD;
+Variyan, an associate vice-president with Summa Strategies, also said the streamlined focus of the mandate letter contrasts sharply with the 73-member strong shadow cabinet and leadership team unveiled by the Conservatives on Wednesday. Carney's cabinet, unveiled last week, boasts 29 cabinet ministers and 10 secretaries of state.&#xD;
+&#xD;
+Erin Morrison, who previously served as Jagmeet Singh's director of communications, said the mandate letter provides an opportunity for the hobbled NDP, which took only 7 seats in the April 28 vote, losing official party status.&#xD;
+&#xD;
+She said Carney's priorities &quot;make it clear that this is a Liberal Party that's moving quite a bit to the right,&quot; pointing to his calls to reduce spending and using private-public partnerships to support new housing construction.&#xD;
+&#xD;
+&quot;[This is] further right than than we ever seen the Liberal Party. Among his seven priorities, he's got cuts and the P3 (public-private partnership) form of privatization, the things that really are at the core of of the NDP working with the labor movement and the progressive movements in Canada,&quot; said Morrison, principal of Morrison Comms and acting vice president of Texture Communications.&#xD;
+&#xD;
+&quot;I do not think Canadians will be immediately insulted or upset by Carney's priority list, but I do think the NDP will read it with the insight it needs, and then start picking it apart.&quot;&#xD;
+&#xD;
+Morrison said she expects the NDP to &quot;punch above its weight&quot; in the next session of Parliament, providing a counter-weight to Carney's policies that appear to be similar to those advanced by the Conservatives.&#xD;
+&#xD;
+She credited interim leader Don Davies as &quot;super smart&quot; and a &quot;powerful speaker,&quot; and anticipated that the party will emerge with a &quot;unified plan and vision,&quot; compared to the &quot;adrift&quot; Conservative caucus that seems to be debating its future direction after struggling to contrast against the more centre-right Carney during the campaign.&#xD;
+&#xD;
+&quot;They're not clear on what they're criticizing anymore because the Liberals match all their policies. They agree on everything. So, you know, what is there to ask about in question period? Who can axe the tax faster? I think they're now at a loss.&quot;&#xD;
+&#xD;
+Variyan said it's unfair to label Carney as leading a centre-right government, pointing to campaign pledges to protect programs like pharmacare and dentalcare, and invest in universal child care.&#xD;
+&#xD;
+&quot;Those are very much commitments reflective of a progressive party that wants to form a progressive government. There is nothing in the language of that mandate letter that excludes progressive action to do things like broaden the social safety net. Nothing in that mandate letter that blocks further steps toward embracing an energy transition or reconciliation with Indigenous peoples,&quot; she said.&#xD;
+&#xD;
+&quot;This very streamlined, singular mandate letter is going to be met with some surprise and some trepidation from stakeholders of government because it's not the way that we're used to doing things. Over the past 10 years, it's become a very useful tool for holding ministers accountable to the things that they were assigned to do, and holding governments accountable. We're not used to having a prime minister set out such a streamlined list of priorities, but it will not fundamentally change the government's approach to implementing the platform that it was elected on.&quot;&#xD;
+&#xD;
+Conservative strategist Kate Harrison said while the mandate letter does touch upon some Conservative demands, how the Liberals address these concerns will open up opportunities for the Tories.&#xD;
+&#xD;
+&quot;You know [Conservative Leader] Pierre Poilievre invited the prime minister to steal his ideas, and it appears that's happening to some extent in terms of the areas of focus [in the mandate letter],&quot; she said.&#xD;
+&#xD;
+&quot;I think that the issue will be all about implementation. So, there's talk in the mandate letter about the importance of housing. Well, Conservatives would dispute that more government built housing is the way that you improve affordability. A new agency to deal with this, is that what we need, or is it more removal of red tape? So I think that there will be room to quibble with the how some of these things are done.&quot;&#xD;
+&#xD;
+Harrison, a vice-chair at Summa, acknowledged that Carney's streamlined mandate latter could help &quot;cabinet stay stay focused and keep their eye on the prize,&quot; saying the former Trudeau front bench struggled because they had &quot;arguably too many priorities&quot; and were &quot;spread too thin&quot; to be effective.&#xD;
+&#xD;
+But she said the Liberals missed an opportunity to hog the spotlight and take advantage of the Poilievre being absent from the Commons by slow-walking the start of their term, highlighted by the refusal to bring in a budget this spring.&#xD;
+&#xD;
+&quot;These are really key opportunities for the Opposition to kind of show how they would be different and how they would do things differently. But, the government doesn't seem to be in a rush to want to prioritize those those things. And so I'm not sure that the Conservatives and Poilievre are missing much of an opportunity, at least in the in terms of the next few months.&quot;&#xD;
+&#xD;
+Mandate letter priorities&#xD;
+1. Establishing a new economic and security relationship with the United States and strengthening our collaboration with reliable trading partners and allies around the world.&#xD;
+2. Building one Canadian economy by removing barriers to interprovincial trade and identifying and expediting nation-building projects that will connect and transform our country.&#xD;
+3. Bringing down costs for Canadians and helping them to get ahead.&#xD;
+4. Making housing more affordable by unleashing the power of public-private cooperation, catalysing a modern housing industry, and creating new careers in the skilled trades.&#xD;
+5. Protecting Canadian sovereignty and keeping Canadians safe by strengthening the Canadian Armed Forces, securing our borders, and reinforcing law enforcement.&#xD;
+6. Attracting the best talent in the world to help build our economy, while returning our overall immigration rates to sustainable levels.&#xD;
+7. Spending less on government operations so that Canadians can invest more in the people and businesses that will build the strongest economy in the G7.&#xD;
+&#xD;
+2025 ipolitics.caCopyright 2017 iPolitics</documentation>
+    </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Gap" name="Unmanaged Data (Gap)" id="id-ed4e79d466fd4551a90d4cbfb6784e74">
@@ -8660,7 +9033,6 @@ The new federal Government has an immense responsibility to address these challe
     <element xsi:type="archimate:CompositionRelationship" id="id-23a16e95dace4004aada42cf2e23d6b3" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-d3fb9690fb114b479d372794767f69a6"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-b8c60600350c4cf5887b21dff972ba1a" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-72f9df43c559474cb5935688a9a3db90"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-7afab3f3688e455d92fad1069cc374a2" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-9c13f269bb6d481987cd7d794de67b64"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-508476828ddc4d2f88a7b4315d2bfd66" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-eed0fe50250a4fc1bf04eb146e977aa2"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-1d5e0442bfc54cff9a4af476bf6c4851" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-cb70f44acad94ddbbd88e73b1710031f"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-9e03d17e96524e28be39fe3f557d8b33" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-29256fb0ba8442d9855791356aec3c4a"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-c4166dc039474b8c9b25f40e6e0fd015" source="id-01a9a617039d499a8e6bde4045ba53dd" target="id-e085cafe194543cf97d5f61050467ef9"/>
@@ -13525,10 +13897,10 @@ v0.1.20250516</content>
           <content>DIAGRAM NOT ENDORSED</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-5a55ba0c6a674558be708041b6e26832" archimateElement="id-1660d62857d64dd0a0db9ca3fa61477d">
-          <bounds x="252" y="156" width="204" height="55"/>
+          <bounds x="1128" y="85" width="204" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-7185fbce376941ed93342e8ddb6d1662" textAlignment="1" archimateElement="id-01a9a617039d499a8e6bde4045ba53dd">
-          <bounds x="24" y="216" width="1308" height="589"/>
+          <bounds x="22" y="168" width="1308" height="517"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-7a3495ea10434c6dbd819fd63d00a230" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-7e94d6e44bd54e6694575a802b360dce" archimateRelationship="id-5615aba9f7334815abf0c3f85ae7848a"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-49ef4e2be2a444e9aa9154c9cf49a2a9" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-3d49c6fa4d894dd8b6a03d8a2574ab1b" archimateRelationship="id-2f23280b0a1841aa9cee97492dc77c52"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-b018490ebd0f40618addb18f857ee7c5" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-07a5b436f9c24084876691b82ac66161" archimateRelationship="id-9832536f455b420f865f778d435638a2"/>
@@ -13551,7 +13923,6 @@ v0.1.20250516</content>
           <sourceConnection xsi:type="archimate:Connection" id="id-9dafc7bb39af48db94803f273543ccc8" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-5a84de7d4dce4139830e70ee30f13c67" archimateRelationship="id-23a16e95dace4004aada42cf2e23d6b3"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-12ae4e0e3a9c4da189c36ad7cd6a6e52" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-023c0f0ddc6448709df41d57263b4b80" archimateRelationship="id-b8c60600350c4cf5887b21dff972ba1a"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-069abd3019aa4210a626f696686e6261" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-32e6cbb5b9194bce89dd2184db4bed35" archimateRelationship="id-7afab3f3688e455d92fad1069cc374a2"/>
-          <sourceConnection xsi:type="archimate:Connection" id="id-8b345502aaca4aca9f376316e04c9c3f" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-eabc57f196cd4d32963b6be492981234" archimateRelationship="id-508476828ddc4d2f88a7b4315d2bfd66"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-a7d8e03f1de649f3bfc3fa7948a813ae" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-2ea24460390a4056bd550a7f244979f9" archimateRelationship="id-1d5e0442bfc54cff9a4af476bf6c4851"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-8eddcd48f65346079e01071d57bfea74" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-c852ae1b868249c4a8a088cd440fd52a" archimateRelationship="id-9e03d17e96524e28be39fe3f557d8b33"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-a9457d46e56d4dbe8d00f6f33d0d3767" source="id-7185fbce376941ed93342e8ddb6d1662" target="id-78f1917d5d464bdca0fe732baf30d01e" archimateRelationship="id-c4166dc039474b8c9b25f40e6e0fd015"/>
@@ -13596,13 +13967,13 @@ v0.1.20250516</content>
           <child xsi:type="archimate:DiagramObject" id="id-8d4770b3d7f249a581f3dcb8e9a762cc" targetConnections="id-764470193877415d8db63d6bcad3b4d3" archimateElement="id-1560541b28fd46e4a0fec8df06313bba">
             <bounds x="866" y="324" width="204" height="55"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="id-c3c1409fd5124784a568f86965df2774" targetConnections="id-0d89b83e81ce417683df07815ed450d6" archimateElement="id-e26daf8238074e90a21527e38b280de7">
+          <child xsi:type="archimate:DiagramObject" id="id-c3c1409fd5124784a568f86965df2774" targetConnections="id-0d89b83e81ce417683df07815ed450d6" lineWidth="3" fillColor="#ffff00" archimateElement="id-e26daf8238074e90a21527e38b280de7">
             <bounds x="866" y="84" width="204" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-e84af72a1b59409ea46845e7700a984d" targetConnections="id-c794200b00c0453b97f824a67012168c" archimateElement="id-c1a5cdc33b5b4fe1a9153b9a311fd645">
             <bounds x="12" y="144" width="204" height="55"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="id-8743954b8dd34dd683babf0deeec448d" targetConnections="id-d5396c3332f84a1a837c75150d27a438" archimateElement="id-302b78ce88f3485791891ac1e0646a06">
+          <child xsi:type="archimate:DiagramObject" id="id-8743954b8dd34dd683babf0deeec448d" targetConnections="id-d5396c3332f84a1a837c75150d27a438" lineWidth="3" fillColor="#ffff00" archimateElement="id-302b78ce88f3485791891ac1e0646a06">
             <bounds x="1082" y="204" width="204" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-d8f68b277c884501a9e4068b98edc775" targetConnections="id-a03d206d9ec54e45b409a02de13e3b8f" archimateElement="id-6251d2822ecb4067b934835c4e22c0fc">
@@ -13623,7 +13994,7 @@ v0.1.20250516</content>
           <child xsi:type="archimate:DiagramObject" id="id-f5e29604fe0e4a039082466114b3d64e" targetConnections="id-c66caf53d05246569db45b3ffd0da50f" archimateElement="id-d76290b5c910412eae58cc09dc391821">
             <bounds x="866" y="204" width="204" height="55"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="id-cbe0c4fad6c54bf7b214b4ccb21a7d8f" targetConnections="id-afae60f2cd5e4065a5fcc3f187c279c4" archimateElement="id-8ee49a379ad94154b3efccc640d78ed7">
+          <child xsi:type="archimate:DiagramObject" id="id-cbe0c4fad6c54bf7b214b4ccb21a7d8f" targetConnections="id-afae60f2cd5e4065a5fcc3f187c279c4" lineWidth="3" fillColor="#ffff00" archimateElement="id-8ee49a379ad94154b3efccc640d78ed7">
             <bounds x="866" y="144" width="204" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-1104831b9ef74af7bb9c4c856bdd7190" targetConnections="id-585c0e23e60b4180a696509e5127904c" archimateElement="id-b4a45c15d47a401b833af5c7349be49e">
@@ -13644,16 +14015,13 @@ v0.1.20250516</content>
           <child xsi:type="archimate:DiagramObject" id="id-32e6cbb5b9194bce89dd2184db4bed35" targetConnections="id-069abd3019aa4210a626f696686e6261" archimateElement="id-9c13f269bb6d481987cd7d794de67b64">
             <bounds x="228" y="324" width="204" height="55"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="id-eabc57f196cd4d32963b6be492981234" targetConnections="id-8b345502aaca4aca9f376316e04c9c3f" archimateElement="id-eed0fe50250a4fc1bf04eb146e977aa2">
-            <bounds x="780" y="516" width="204" height="55"/>
-          </child>
           <child xsi:type="archimate:DiagramObject" id="id-2ea24460390a4056bd550a7f244979f9" targetConnections="id-a7d8e03f1de649f3bfc3fa7948a813ae" archimateElement="id-cb70f44acad94ddbbd88e73b1710031f">
             <bounds x="444" y="324" width="204" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-c852ae1b868249c4a8a088cd440fd52a" targetConnections="id-8eddcd48f65346079e01071d57bfea74" archimateElement="id-29256fb0ba8442d9855791356aec3c4a">
             <bounds x="12" y="324" width="204" height="37"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="id-78f1917d5d464bdca0fe732baf30d01e" targetConnections="id-a9457d46e56d4dbe8d00f6f33d0d3767" lineWidth="2" fillColor="#ffff00" archimateElement="id-e085cafe194543cf97d5f61050467ef9">
+          <child xsi:type="archimate:DiagramObject" id="id-78f1917d5d464bdca0fe732baf30d01e" targetConnections="id-a9457d46e56d4dbe8d00f6f33d0d3767" lineWidth="3" fillColor="#ffff00" archimateElement="id-e085cafe194543cf97d5f61050467ef9">
             <bounds x="660" y="324" width="204" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-77217e37c85649059e81d101d7c612a1" targetConnections="id-2bb7934c07994b2c9ab2c449623ec9c9" archimateElement="id-f48534e41d26494097bf78514df938c8">
@@ -13662,11 +14030,11 @@ v0.1.20250516</content>
           <child xsi:type="archimate:DiagramObject" id="id-5b582068c4224edb8300d013d79ad787" targetConnections="id-a0c4392d074f44a58601a0fc67bbc71c" archimateElement="id-f8acf4ff18c24a2a88376184448fe4c3">
             <bounds x="12" y="264" width="204" height="55"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="id-006879ba37b84cb1ac090dcf80185663" targetConnections="id-032658664fb44523a5eb5873f0d0f9f0" archimateElement="id-fa710757a86d407fa19c8d99eb0cd0cd">
+          <child xsi:type="archimate:DiagramObject" id="id-006879ba37b84cb1ac090dcf80185663" targetConnections="id-032658664fb44523a5eb5873f0d0f9f0" lineWidth="3" fillColor="#ffff00" archimateElement="id-fa710757a86d407fa19c8d99eb0cd0cd">
             <bounds x="866" y="444" width="204" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-31399db78e754923b9ed712686cb6e87" targetConnections="id-da02c10bf7aa4e02bd03a51a716db5c7" archimateElement="id-70a2745c7baf4bb0bbe5d1a45b93bf65">
-            <bounds x="1082" y="264" width="204" height="55"/>
+            <bounds x="1082" y="264" width="204" height="42"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-14e0109b928e49ddb66a2e20aba3d558" targetConnections="id-cde69ac2828c4afe88d8da59db1743c1" archimateElement="id-647889068bdc459f901558326e392c7b">
             <bounds x="228" y="84" width="204" height="55"/>
@@ -13689,8 +14057,8 @@ v0.1.20250516</content>
           <child xsi:type="archimate:DiagramObject" id="id-368128d6b78f4c7c9472cc26dca0e2e3" targetConnections="id-1d9561af3e8f4c3988fe68a24299639f" archimateElement="id-36ee8fce616e461da78f33fc2efd95b1">
             <bounds x="12" y="444" width="204" height="55"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="id-20bd4e3e074f40baa4b7738720650efd" targetConnections="id-5d33f003c552404fb76a8a0c2e4b8883" archimateElement="id-9c43f24c34c34391acc6e418afd8ce06">
-            <bounds x="1082" y="324" width="204" height="55"/>
+          <child xsi:type="archimate:DiagramObject" id="id-20bd4e3e074f40baa4b7738720650efd" targetConnections="id-5d33f003c552404fb76a8a0c2e4b8883" lineWidth="3" fillColor="#ffff00" archimateElement="id-9c43f24c34c34391acc6e418afd8ce06">
+            <bounds x="1082" y="312" width="204" height="67"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-2fe893e0ee9447c4b6f3d3cd248493c7" targetConnections="id-4b9fbfac1131497c9d08c401a302b805" archimateElement="id-176dddf8f6e0471b89fb8d8d7840a904">
             <bounds x="12" y="372" width="204" height="66"/>
@@ -13701,7 +14069,7 @@ v0.1.20250516</content>
           <child xsi:type="archimate:DiagramObject" id="id-0d4a96b880514c0fb607dae8fa46aad2" targetConnections="id-9b2a41513b1f4481aa00666efef1fc54" archimateElement="id-12c89aff617e46279073533b0b513013">
             <bounds x="660" y="144" width="204" height="55"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="id-4e4a754a4acd4e30be1191d872314537" targetConnections="id-380e3f795a0b479e97c602cf1abef594" archimateElement="id-db5d756254674f06b2dc570347c68fc9">
+          <child xsi:type="archimate:DiagramObject" id="id-4e4a754a4acd4e30be1191d872314537" targetConnections="id-380e3f795a0b479e97c602cf1abef594" lineWidth="3" fillColor="#ffff00" archimateElement="id-db5d756254674f06b2dc570347c68fc9">
             <bounds x="866" y="264" width="204" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-e72c2520baf847d3aa05b6edfb384eb9" targetConnections="id-1fe7f248b08f4a05943acbdc5760e8bf" archimateElement="id-cca6a06255bd49ae96b6cae92c5c9a24">
@@ -13710,7 +14078,7 @@ v0.1.20250516</content>
           <child xsi:type="archimate:DiagramObject" id="id-9e6224a3702c407d9eac48ce02f28294" targetConnections="id-ade0eeb71e5c48d28e70c0912442520f" archimateElement="id-cb5053a5043645668e03630586543870">
             <bounds x="444" y="204" width="204" height="55"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="id-038f0561a4e243ea851951390f3c010b" targetConnections="id-e52e52d5b91543909e37b5294016e044" archimateElement="id-9a149db4de8942b287ab7e58dcc270ea">
+          <child xsi:type="archimate:DiagramObject" id="id-038f0561a4e243ea851951390f3c010b" targetConnections="id-e52e52d5b91543909e37b5294016e044" lineWidth="3" fillColor="#ffff00" archimateElement="id-9a149db4de8942b287ab7e58dcc270ea">
             <bounds x="1082" y="144" width="204" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-cf319f1f754b4da89dc6e828a5f676bb" targetConnections="id-fc392845a28a4ec98d1ac35bd513456b" archimateElement="id-ff90953df97544e8878b91ee85002d9b">
@@ -13732,7 +14100,58 @@ Personal information banks (PIBs) are descriptions of personal information under
 &#xD;
 There are three types of PIBs: central, institution-specific and standard. The following descriptions are standard PIBs. They describe information about members of the public as well as current and former federal employees contained in records created, collected and maintained by most government institutions in support of common internal services. These include personal information relating to human resources management, travel, corporate communications and other administrative services. Standard PIBs are created by the Treasury Board of Canada Secretariat.&#xD;
 &#xD;
-Individuals seeking access to the institution-specific Personal Information Banks of a particular government institution should consult the institution’s Info Source chapter.&#xD;
+Individuals seeking access to the institution-specific Personal Information Banks of a particular government institution should consult the institution’s Info Source chapter (https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/list-institutions.html).&#xD;
+&#xD;
+(List of 48 Standard PIBs)&#xD;
+Title      Bank Number&#xD;
+Access to Information Act and Privacy Act Requests      PSU 901&#xD;
+Accounts Payable      PSU 931&#xD;
+Accounts Receivable      PSU 932&#xD;
+Acquisition Card      PSU 940&#xD;
+Applications for Employment      PSU 911&#xD;
+Attendance and Leave      PSE 903&#xD;
+Business Continuity Planning      PSU 903&#xD;
+Canadian Human Rights Act - Complaints      PSU 933&#xD;
+Discipline      PSE 911&#xD;
+Disclosure of Wrongdoing in the Workplace      PSU 906&#xD;
+Disclosure to Investigative Bodies      PSU 913&#xD;
+Electronic Network Monitoring Logs      PSU 905&#xD;
+Employee Assistance      PSE 916&#xD;
+Employee Performance Management Program      PSE 912&#xD;
+Employee Personnel Record      PSE 901&#xD;
+Employment Equity and Diversity      PSE 918&#xD;
+Executive Correspondence      PSU 902&#xD;
+Evaluation      PSU 942&#xD;
+EX Talent Management      PSU 934&#xD;
+Governor In Council Appointments      PSU 918&#xD;
+Grievances      PSE 910&#xD;
+Harassment      PSE 919&#xD;
+Hospitality      PSU 908&#xD;
+Human Resources Planning      PSU 935&#xD;
+Internal Audit      PSU 941&#xD;
+Internal Communications      PSU 915&#xD;
+Library Services      PSU 936&#xD;
+Lobbying Act Requirements      PSU 937&#xD;
+Members of Boards, Committees and Councils      PSU 919&#xD;
+Occupational Health and Safety      PSE 907&#xD;
+Official Languages      PSE 906&#xD;
+Outreach Activities      PSU 938&#xD;
+Parking      PSE 914&#xD;
+Pay and Benefits      PSE 904&#xD;
+Personnel Security Screening      PSU 917&#xD;
+Physical Access Controls      PSU 907&#xD;
+Professional Services Contracts      PSU 912&#xD;
+Public Communications      PSU 914&#xD;
+Real Property Management      PSU 948&#xD;
+Recognition Program      PSE 920&#xD;
+Relocation      PSU 910&#xD;
+Security Incidents and Privacy Breaches      PSU 939&#xD;
+Staffing      PSE 902&#xD;
+Training and Development      PSE 905&#xD;
+Travel      PSU 909&#xD;
+Values and Ethics Codes for the Public Sector and Organizational Code(s) of Conduct      PSE 915&#xD;
+Vehicle, Ship, Boat and Aircraft Accidents      PSE 908&#xD;
+Workplace Day Care      PSE 930&#xD;
 &#xD;
 https://www.canada.ca/en/employment-social-development/corporate/transparency/access-information/reports/infosource.html</documentation>
       </element>
@@ -14574,6 +14993,12 @@ v0.1.20250522</content>
               <bounds x="12" y="179" width="148" height="116"/>
             </child>
           </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1614429c777f425f8416156057caee8a" archimateElement="id-2e2be11cf894408d9ef4af74f019c3a8">
+          <bounds x="120" y="690" width="198" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-cf1d731103d2483eb51de7a98db4ed2e" archimateElement="id-e4faafc59acc43efb822c77093849597">
+          <bounds x="120" y="756" width="198" height="85"/>
         </child>
         <documentation>https://www.pm.gc.ca/en/mandate-letters/2025/05/21/mandate-letter&#xD;
 May 21, 2025&#xD;
