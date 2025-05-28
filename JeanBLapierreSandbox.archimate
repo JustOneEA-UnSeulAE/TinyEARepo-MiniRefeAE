@@ -6910,6 +6910,76 @@ Mandate letter priorities&#xD;
 &#xD;
 2025 ipolitics.caCopyright 2017 iPolitics</documentation>
     </element>
+    <element xsi:type="archimate:Goal" name="Building new relationships with the United States and the world" id="id-4ec6891e1ca841c6b7ef123a3ccda96d">
+      <documentation>Building new relationships with the United States and the world&#xD;
+The Prime Minister and the President of the United States, for example, have begun defining a new economic and security relationship between Canada and the U.S., rooted in mutual respect and founded on common interests, to deliver transformational benefits for both sovereign nations.&#xD;
+&#xD;
+In parallel, the Government is working to strengthen its relationships with reliable trading partners and allies around the world, recognizing that Canada has what the world needs and the values the world respects.&#xD;
+&#xD;
+Canada is ready to build a coalition of like-minded countries that share its values, that believe in international co-operation and the free and open exchange of goods, services, and ideas. In this new, fast-evolving world, Canada is ready to lead. This will be demonstrated in June, when Canada convenes the G7 Summit.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="Building a more affordable Canada" id="id-617a9f0e419d43ecad2c81812ac2be5f">
+      <documentation>Building a more affordable Canada&#xD;
+The Government is guided by its conviction that the economy is only truly strong when it serves everyone. Many Canadians are struggling to get ahead. The Government is responding, reducing middle-class taxes and saving two-income families up to $840 a year. It will cut the GST on homes at or under $1 million for first-time homebuyers, delivering savings of up to $50,000. And it will lower the GST on homes between $1 million and $1.5 million.&#xD;
+&#xD;
+The Government will protect the programs that are already saving families thousands of dollars every year. These include child care and pharmacare. In addition to these, the Government has recently expanded the Canadian Dental Care Plan to cover about eight million Canadians, saving the average person more than $800 per year.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="Building a stronger Canada" id="id-3b39161d3aa04407a1eb981026fba674">
+      <documentation>Building a stronger Canada&#xD;
+The Government’s overarching goal – its core mission – is to build the strongest economy in the G7. That starts with creating one Canadian economy out of thirteen. Internal barriers to trade and labour mobility cost Canada as much as $200 billion each year. The Government will introduce legislation to remove all remaining federal barriers to internal trade and labour mobility by Canada Day.&#xD;
+&#xD;
+Numerous premiers have already taken vital steps to break down provincial and territorial barriers to trade. Together, we will build on that progress to deliver free trade across the nation by Canada Day. This is critical to unlocking Canada’s full economic potential, but it’s not enough.&#xD;
+&#xD;
+To build Canada strong, the Government is working closely with provinces, territories, and Indigenous Peoples to identify and catalyse projects of national significance. Projects that will connect Canada, that will deepen Canada’s ties with the world, and that will create high-paying jobs for generations.&#xD;
+&#xD;
+Given the pace of change and the scale of opportunities, speed is of the essence. Through the creation of a new Major Federal Project Office, the time needed to approve a project will be reduced from five years to two; all while upholding Canada’s world-leading environmental standards and its constitutional obligations to Indigenous Peoples.&#xD;
+&#xD;
+The Government will also strike co-operation agreements with every interested province and territory within six months to realize its goal of “one project, one review.”&#xD;
+&#xD;
+When Canadians come together, Canada builds things that last.&#xD;
+&#xD;
+By removing these barriers that have held back our economy, we will unleash a new era of growth that will ensure we don’t just survive ongoing trade wars, but emerge from them stronger than ever. It will enable Canada to become the world’s leading energy superpower in both clean and conventional energy. To build an industrial strategy that will make Canada more globally competitive, while fighting climate change. To build hundreds of thousands of good careers in the skilled trades. And to build Canada into the world’s leading hub for science and innovation.&#xD;
+&#xD;
+Critically, the Government will undertake a series of measures to help double the rate of home building while creating an entirely new housing industry – using Canadian technology, Canadian skilled workers, and Canadian lumber. The Government will introduce measures to deliver affordable homes by creating Build Canada Homes. This mission-driven organization will act to accelerate the development of new affordable housing. It will invest in the growth of the prefabricated and modular housing industry. And it will provide significant financing to affordable home builders. The Government will make the housing market work better, including by cutting municipal development charges in half for all multi-unit housing. The Government will drive supply up to bring housing costs down.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="Building a safer and more secure Canada " id="id-e0b5e46690954c528c5132f6e7127c20">
+      <documentation>Building a safer and more secure Canada &#xD;
+To be truly strong, Canada must be secure. To that end, the Government will introduce legislation to enhance security at Canada’s borders. Law enforcement and intelligence agencies will have new tools to stop the flow of fentanyl and its precursors. The Canada Border Services Agency will be given new powers to examine goods destined for export, to prevent the transport of illegal and stolen products, including cars.&#xD;
+&#xD;
+The Government will protect Canada’s sovereignty by rebuilding, rearming, and reinvesting in the Canadian Armed Forces. It will boost Canada’s defence industry by joining ReArm Europe, to invest in transatlantic security with Canada’s European partners. And it will invest to strengthen its presence in the North, which is an integral part of Canada, as this region faces new threats.&#xD;
+&#xD;
+The Government will discharge its duty to protect Canadians and their sovereign rights, from wherever challenges may come at home or abroad. To keep communities safe, the Government will hire 1,000 more RCMP personnel. It will change firearms licensing and strengthen enforcement of yellow and red flag laws. Weapons licences for those convicted of intimate partner violence and those subject to protection orders will be revoked. Through the deployment of scanners, drones and helicopters, additional personnel, and K-9 teams, the Government will stem the tide of illegal guns and drugs across the border.&#xD;
+&#xD;
+It will take these steps while protecting the rights of law-abiding gun owners and Indigenous Peoples’ longstanding hunting traditions.&#xD;
+&#xD;
+The Government will bring a renewed focus on car theft and home invasions by toughening the Criminal Code to make bail harder to get for repeat offenders charged with committing these crimes, along with human trafficking and drug smuggling.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="Building a united Canada" id="id-f141ad084b89423a89131779ff68df12">
+      <documentation>Building a united Canada&#xD;
+During this time of great change, Canadians are uniting behind what makes Canada unique.&#xD;
+&#xD;
+The French language and the Quebec culture are at the heart of the Canadian identity. They define the country that Canadians and I love so much. Canada is a country that respects and celebrates its official languages and Indigenous languages. The Government is determined to protect the institutions that bring these cultures and this identity to the world, like CBC/Radio-Canada. It will protect the people who give us access to fresh, healthy, and quality food: agricultural producers. And it will protect supply management.&#xD;
+&#xD;
+Nature is core to Canada’s identity. In 2022, Canada convened COP15 in Montréal, which concluded with 196 countries striking a historic agreement to protect 30 percent of their lands and 30 percent of waters by 2030. To this end, the Government will protect more of Canada’s nature than ever before through the creation of new national parks, national urban parks, marine protected areas, and other conservation initiatives.&#xD;
+&#xD;
+The Government will always protect the rights and freedoms that the Charter guarantees for every Canadian.&#xD;
+&#xD;
+The Government will be a reliable partner to Indigenous Peoples, upholding its fundamental commitment to advancing reconciliation. Central to this commitment is the creation of long-term wealth and prosperity with Indigenous Peoples. For that reason, the Government will double the Indigenous Loan Guarantee Program from $5 billion to $10 billion – enabling more Indigenous communities to become owners of major projects. As Canada moves forward with nation-building projects, the Government will always be firmly guided by the principle of free, prior, and informed consent.&#xD;
+&#xD;
+Canada’s immigration system has long been a source of pride for Canadians and of dynamism for the economy. The Government is dedicated to rebuilding the trust of Canadians in immigration by restoring balance to the system.&#xD;
+&#xD;
+The Government will cap the total number of temporary foreign workers and international students to less than five percent of Canada’s population by 2027. By doing this, the Government will attract the best talent in the world to build our economy, while sending a clear message to Canadians working abroad that there is no better time to come home.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="Building Canada Strong by spending less and investing more" id="id-4bb64a6c3eb844d18d57251a771ae7ed">
+      <documentation>Building Canada Strong by spending less and investing more&#xD;
+In all of its actions, the Government will be guided by a new fiscal discipline: spend less so Canadians can invest more.&#xD;
+&#xD;
+Day-to-day government spending – the government’s operating budget – has been growing by nine percent every year. The Government will introduce measures to bring it below two percent.&#xD;
+&#xD;
+Transfers to provinces, territories, or individuals will be maintained. The Government will balance its operating budget over the next three years by cutting waste, capping the public service, ending duplication, and deploying technology to improve public sector productivity.&#xD;
+&#xD;
+In parallel, the Government will take a series of measures to catalyse new investment to create better jobs and higher incomes for Canadians. The scale of the Government’s initiative will match the challenges of our times and the ambitions of Canadians.</documentation>
+    </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Gap" name="Unmanaged Data (Gap)" id="id-ed4e79d466fd4551a90d4cbfb6784e74">
@@ -15053,6 +15123,160 @@ Today, the Prime Minister, Mark Carney, announced the members of Canada’s new 
 &#xD;
 Employment and Social Development Canada welcomes The Honourable Patty Hajdu, Minister of Jobs and Families and Minister responsible for the Federal Economic Development Agency for Northern Ontario; The Honourable Anna Gainey, Secretary of State (Children and Youth); The Honourable Stephanie McLean, Secretary of State (Seniors) and The Honourable John Zerucelli, Secretary of State (Labour).&#xD;
 </documentation>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="GC Speech From The Throne 2025" id="id-ba7553609ea944f6b7321237a7c3eb73">
+        <child xsi:type="archimate:Note" id="id-4005088ae08d41cd94d4be6c097625af" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="4" y="6" width="445" height="121"/>
+          <content>Archimate View: Canada Speech From The Throne 2025&#xD;
+For discussion:&#xD;
+</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-6ed9e82ed1634634bace0840c7616703" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
+          <bounds x="448" y="6" width="289" height="121"/>
+          <content>GC Speech From The Throne</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-77a8ea7a04d54098b0e8ea03445549f6" textAlignment="1">
+          <bounds x="617" y="66" width="120" height="61"/>
+          <content>(DRAFT)&#xD;
+2025-05-27&#xD;
+v0.1.20250528</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-aee95748c8674f15bc46523e32168756" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
+          <bounds x="748" y="13" width="149" height="108"/>
+          <content>DIAGRAM NOT ENDORSED</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-c6ed69af1cb54c8f97d9acc9b7e495fc" archimateElement="id-4ec6891e1ca841c6b7ef123a3ccda96d">
+          <bounds x="24" y="156" width="517" height="385"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-9e162c520bcc4a9490c1c6a328fc15be" archimateElement="id-617a9f0e419d43ecad2c81812ac2be5f">
+          <bounds x="552" y="156" width="469" height="385"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-fe334090a2e04583bc3cb0c388c9d073" archimateElement="id-3b39161d3aa04407a1eb981026fba674">
+          <bounds x="1032" y="156" width="385" height="385"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-650d7f7acf514af7bf1520db87d8c858" archimateElement="id-e0b5e46690954c528c5132f6e7127c20">
+          <bounds x="168" y="552" width="373" height="229"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-055f320bfe594ccb8e73ada5e68293fd" archimateElement="id-f141ad084b89423a89131779ff68df12">
+          <bounds x="552" y="552" width="469" height="193"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-5e63c6dd3061453788a171731bf54290" archimateElement="id-4bb64a6c3eb844d18d57251a771ae7ed">
+          <bounds x="1032" y="552" width="385" height="277"/>
+        </child>
+        <documentation>https://www.canada.ca/en/privy-council/campaigns/speech-throne/2025/building-canada-strong.html&#xD;
+&#xD;
+Speech from the Throne to open the first session of the 45th Parliament of Canada&#xD;
+Honourable Senators,&#xD;
+Members of the House of Commons,&#xD;
+&#xD;
+It is with a sense of deep pride and pleasure that my wife and I join you here today, as we witness Canadians coming together in a renewed sense of national pride, unity, and hope.&#xD;
+&#xD;
+I would like to acknowledge that we are gathered on the unceded territory of the Algonquin Anishinaabeg people. This land acknowledgement is a recognition of shared history as a nation. While continuing to deepen my own understanding, it is my great hope that in each of your communities, and collectively as a country, a path is found toward truth and reconciliation, in both word and deed.&#xD;
+&#xD;
+This is my 20th visit to Canada, spread over the course of more than half a century, and my first as Sovereign. As I have said before, “Every time I come to Canada… a little more of Canada seeps into my bloodstream – and from there straight to my heart.” I have always had the greatest admiration for Canada’s unique identity, which is recognized across the world for bravery and sacrifice in defence of national values, and for the diversity and kindness of Canadians.&#xD;
+&#xD;
+To the First Nations, Inuit, and Métis Peoples – you have welcomed my family and myself to your traditional lands with great warmth and hospitality, for which I am humbly grateful.&#xD;
+&#xD;
+This year, we mark the 80th anniversary of V-E Day and V-J Day. On Juno Beach, at Dieppe, on the Somme, at Beaumont-Hamel, at Ypres, and on Vimy Ridge… At those places, and many others, forever etched into our memories, Canadians fought and died alongside our closest allies.&#xD;
+&#xD;
+Today, I see representatives from every part of Canada – from St. John’s, Newfoundland and Labrador, to Victoria, British Columbia, and Arviat, Nunavut. I see the guardians of the fundamental rights and freedoms guaranteed in the Canadian Charter and, as King, I thank you for your service to your fellow Canadians, across the length and breadth of this vast and great nation.&#xD;
+&#xD;
+You speak for your communities, representing an incredible richness of cultures, languages, and perspectives. We owe it to this generation, and those who succeed us, to think and act for the greater good of all. While the world faces unprecedented challenges, generating uncertainties across the continents with regards to peace and stability, economics, and climate change, your communities have the skills and determination to bring a wealth of solutions.&#xD;
+&#xD;
+By fostering collaboration and engaging in respectful, constructive debates, you will ensure this Government is capable of bold and fair action to support Canadians.&#xD;
+&#xD;
+It has been nearly 70 years since the Sovereign first opened Parliament. In the time since, Canada has dramatically changed: repatriating its Constitution, achieving full independence, and witnessing immense growth. Canada has embraced its British, French, and Indigenous roots, and become a bold, ambitious, innovative country that is bilingual, truly multicultural, and committed to reconciliation.&#xD;
+&#xD;
+The Crown has for so long been a symbol of unity for Canada. It also represents stability and continuity from the past to the present. As it should, it stands proudly as a symbol of Canada today, in all her richness and dynamism.&#xD;
+&#xD;
+Opening&#xD;
+When my dear late mother, Queen Elizabeth II, opened a new Canadian Parliament in 1957, the Second World War remained a fresh, painful memory. The Cold War was intensifying. Freedom and democracy were under threat. Canada was emerging as a growing economic power and a force for peace in the world. In the decades since, history has been punctuated by epoch-making events: the Vietnam War, the fall of the Berlin Wall, and the start of the War on Terror. Today, Canada faces another critical moment. Democracy, pluralism, the rule of law, self-determination, and freedom are values which Canadians hold dear, and ones which the Government is determined to protect.&#xD;
+&#xD;
+The system of open global trade that, while not perfect, has helped to deliver prosperity for Canadians for decades, is changing. Canada’s relationships with partners are also changing.&#xD;
+&#xD;
+We must be clear-eyed: the world is a more dangerous and uncertain place than at any point since the Second World War. Canada is facing challenges that are unprecedented in our lifetimes.&#xD;
+&#xD;
+Many Canadians are feeling anxious and worried about the drastically changing world around them. Fundamental change is always unsettling. Yet this moment is also an incredible opportunity. An opportunity for renewal. An opportunity to think big and to act bigger. An opportunity for Canada to embark on the largest transformation of its economy since the Second World War. A confident Canada, which has welcomed new Canadians, including from some of the most tragic global conflict zones, can seize this opportunity by recognising that all Canadians can give themselves far more than any foreign power on any continent can ever take away. And that by staying true to Canadian values, Canada can build new alliances and a new economy that serves all Canadians.   &#xD;
+&#xD;
+Building new relationships with the United States and the world&#xD;
+The Prime Minister and the President of the United States, for example, have begun defining a new economic and security relationship between Canada and the U.S., rooted in mutual respect and founded on common interests, to deliver transformational benefits for both sovereign nations.&#xD;
+&#xD;
+In parallel, the Government is working to strengthen its relationships with reliable trading partners and allies around the world, recognizing that Canada has what the world needs and the values the world respects.&#xD;
+&#xD;
+Canada is ready to build a coalition of like-minded countries that share its values, that believe in international co-operation and the free and open exchange of goods, services, and ideas. In this new, fast-evolving world, Canada is ready to lead. This will be demonstrated in June, when Canada convenes the G7 Summit.&#xD;
+&#xD;
+Building a more affordable Canada&#xD;
+The Government is guided by its conviction that the economy is only truly strong when it serves everyone. Many Canadians are struggling to get ahead. The Government is responding, reducing middle-class taxes and saving two-income families up to $840 a year. It will cut the GST on homes at or under $1 million for first-time homebuyers, delivering savings of up to $50,000. And it will lower the GST on homes between $1 million and $1.5 million.&#xD;
+&#xD;
+The Government will protect the programs that are already saving families thousands of dollars every year. These include child care and pharmacare. In addition to these, the Government has recently expanded the Canadian Dental Care Plan to cover about eight million Canadians, saving the average person more than $800 per year.&#xD;
+&#xD;
+Building a stronger Canada&#xD;
+The Government’s overarching goal – its core mission – is to build the strongest economy in the G7. That starts with creating one Canadian economy out of thirteen. Internal barriers to trade and labour mobility cost Canada as much as $200 billion each year. The Government will introduce legislation to remove all remaining federal barriers to internal trade and labour mobility by Canada Day.&#xD;
+&#xD;
+Numerous premiers have already taken vital steps to break down provincial and territorial barriers to trade. Together, we will build on that progress to deliver free trade across the nation by Canada Day. This is critical to unlocking Canada’s full economic potential, but it’s not enough.&#xD;
+&#xD;
+To build Canada strong, the Government is working closely with provinces, territories, and Indigenous Peoples to identify and catalyse projects of national significance. Projects that will connect Canada, that will deepen Canada’s ties with the world, and that will create high-paying jobs for generations.&#xD;
+&#xD;
+Given the pace of change and the scale of opportunities, speed is of the essence. Through the creation of a new Major Federal Project Office, the time needed to approve a project will be reduced from five years to two; all while upholding Canada’s world-leading environmental standards and its constitutional obligations to Indigenous Peoples.&#xD;
+&#xD;
+The Government will also strike co-operation agreements with every interested province and territory within six months to realize its goal of “one project, one review.”&#xD;
+&#xD;
+When Canadians come together, Canada builds things that last.&#xD;
+&#xD;
+By removing these barriers that have held back our economy, we will unleash a new era of growth that will ensure we don’t just survive ongoing trade wars, but emerge from them stronger than ever. It will enable Canada to become the world’s leading energy superpower in both clean and conventional energy. To build an industrial strategy that will make Canada more globally competitive, while fighting climate change. To build hundreds of thousands of good careers in the skilled trades. And to build Canada into the world’s leading hub for science and innovation.&#xD;
+&#xD;
+Critically, the Government will undertake a series of measures to help double the rate of home building while creating an entirely new housing industry – using Canadian technology, Canadian skilled workers, and Canadian lumber. The Government will introduce measures to deliver affordable homes by creating Build Canada Homes. This mission-driven organization will act to accelerate the development of new affordable housing. It will invest in the growth of the prefabricated and modular housing industry. And it will provide significant financing to affordable home builders. The Government will make the housing market work better, including by cutting municipal development charges in half for all multi-unit housing. The Government will drive supply up to bring housing costs down.&#xD;
+&#xD;
+Building a safer and more secure Canada &#xD;
+To be truly strong, Canada must be secure. To that end, the Government will introduce legislation to enhance security at Canada’s borders. Law enforcement and intelligence agencies will have new tools to stop the flow of fentanyl and its precursors. The Canada Border Services Agency will be given new powers to examine goods destined for export, to prevent the transport of illegal and stolen products, including cars.&#xD;
+&#xD;
+The Government will protect Canada’s sovereignty by rebuilding, rearming, and reinvesting in the Canadian Armed Forces. It will boost Canada’s defence industry by joining ReArm Europe, to invest in transatlantic security with Canada’s European partners. And it will invest to strengthen its presence in the North, which is an integral part of Canada, as this region faces new threats.&#xD;
+&#xD;
+The Government will discharge its duty to protect Canadians and their sovereign rights, from wherever challenges may come at home or abroad. To keep communities safe, the Government will hire 1,000 more RCMP personnel. It will change firearms licensing and strengthen enforcement of yellow and red flag laws. Weapons licences for those convicted of intimate partner violence and those subject to protection orders will be revoked. Through the deployment of scanners, drones and helicopters, additional personnel, and K-9 teams, the Government will stem the tide of illegal guns and drugs across the border.&#xD;
+&#xD;
+It will take these steps while protecting the rights of law-abiding gun owners and Indigenous Peoples’ longstanding hunting traditions.&#xD;
+&#xD;
+The Government will bring a renewed focus on car theft and home invasions by toughening the Criminal Code to make bail harder to get for repeat offenders charged with committing these crimes, along with human trafficking and drug smuggling.&#xD;
+&#xD;
+Building a united Canada&#xD;
+During this time of great change, Canadians are uniting behind what makes Canada unique.&#xD;
+&#xD;
+The French language and the Quebec culture are at the heart of the Canadian identity. They define the country that Canadians and I love so much. Canada is a country that respects and celebrates its official languages and Indigenous languages. The Government is determined to protect the institutions that bring these cultures and this identity to the world, like CBC/Radio-Canada. It will protect the people who give us access to fresh, healthy, and quality food: agricultural producers. And it will protect supply management.&#xD;
+&#xD;
+Nature is core to Canada’s identity. In 2022, Canada convened COP15 in Montréal, which concluded with 196 countries striking a historic agreement to protect 30 percent of their lands and 30 percent of waters by 2030. To this end, the Government will protect more of Canada’s nature than ever before through the creation of new national parks, national urban parks, marine protected areas, and other conservation initiatives.&#xD;
+&#xD;
+The Government will always protect the rights and freedoms that the Charter guarantees for every Canadian.&#xD;
+&#xD;
+The Government will be a reliable partner to Indigenous Peoples, upholding its fundamental commitment to advancing reconciliation. Central to this commitment is the creation of long-term wealth and prosperity with Indigenous Peoples. For that reason, the Government will double the Indigenous Loan Guarantee Program from $5 billion to $10 billion – enabling more Indigenous communities to become owners of major projects. As Canada moves forward with nation-building projects, the Government will always be firmly guided by the principle of free, prior, and informed consent.&#xD;
+&#xD;
+Canada’s immigration system has long been a source of pride for Canadians and of dynamism for the economy. The Government is dedicated to rebuilding the trust of Canadians in immigration by restoring balance to the system.&#xD;
+&#xD;
+The Government will cap the total number of temporary foreign workers and international students to less than five percent of Canada’s population by 2027. By doing this, the Government will attract the best talent in the world to build our economy, while sending a clear message to Canadians working abroad that there is no better time to come home.&#xD;
+&#xD;
+Building Canada Strong by spending less and investing more&#xD;
+In all of its actions, the Government will be guided by a new fiscal discipline: spend less so Canadians can invest more.&#xD;
+&#xD;
+Day-to-day government spending – the government’s operating budget – has been growing by nine percent every year. The Government will introduce measures to bring it below two percent.&#xD;
+&#xD;
+Transfers to provinces, territories, or individuals will be maintained. The Government will balance its operating budget over the next three years by cutting waste, capping the public service, ending duplication, and deploying technology to improve public sector productivity.&#xD;
+&#xD;
+In parallel, the Government will take a series of measures to catalyse new investment to create better jobs and higher incomes for Canadians. The scale of the Government’s initiative will match the challenges of our times and the ambitions of Canadians.&#xD;
+&#xD;
+Conclusion&#xD;
+Honourable Senators,&#xD;
+Members of the House of Commons,&#xD;
+&#xD;
+When my dear late mother addressed your predecessors seven decades ago, she said that in that age, and against the backdrop of international affairs, no nation could live unto itself. It is a source of great pride that, in the following decades, Canada has continued to set an example to the world in her conduct and values, as a force for good.&#xD;
+&#xD;
+I wish to express to you and to the people of Canada my heartfelt gratitude, and that of my wife, for the warmth of the welcome which we have received.&#xD;
+&#xD;
+As the anthem reminds us: The True North is indeed strong and free!&#xD;
+&#xD;
+Members of the House of Commons, you will be asked to appropriate the funds to carry out the services and expenditures authorized by Parliament.&#xD;
+&#xD;
+May you honour the profound trust bestowed upon you by Canadians, and may God bless and guide you in all your duties.&#xD;
+&#xD;
+Date modified: 2025-05-27</documentation>
       </element>
     </folder>
     <folder name="CDOB-EDA How We Work" id="id-6bc3d130505346c0ab5ebfe1ade10b0e">
