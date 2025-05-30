@@ -1319,6 +1319,27 @@ We used to build things in this country. Over our history, we have shown that we
 - Building Responsibly&#xD;
 - Tax Fairness</documentation>
     </element>
+    <element xsi:type="archimate:CourseOfAction" name="Government Will Protect More of Canada’s Nature Than Ever Before" id="id-139e3b91750b4dc88918ecc99fcdae2b">
+      <documentation>Nature is core to Canada’s identity. In 2022, Canada convened COP15 in Montréal, which concluded with 196 countries striking a historic agreement to protect 30 percent of their lands and 30 percent of waters by 2030. To this end, the Government will protect more of Canada’s nature than ever before through the creation of new national parks, national urban parks, marine protected areas, and other conservation initiatives.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Create New National Parks" id="id-2ceed8894fd14545a952df4c678cc3b4"/>
+    <element xsi:type="archimate:CourseOfAction" name="Create New National Urban Parks" id="id-989f30d2c2064aa1b440bf69f75c546b"/>
+    <element xsi:type="archimate:CourseOfAction" name="Create New Marine Protected Areas" id="id-3218979a97894868bdb693fbba0f130f"/>
+    <element xsi:type="archimate:CourseOfAction" name="Other Conservation Initiatives" id="id-931393849d424c5ba9ed053161db5ff5"/>
+    <element xsi:type="archimate:CourseOfAction" name="Defining a New Economic and Security Relationship Bbetween Canada and the U.S." id="id-bb7857f21bd74663a08971d6a6891d1d">
+      <documentation>The Prime Minister and the President of the United States, for example, have begun defining a new economic and security relationship between Canada and the U.S., rooted in mutual respect and founded on common interests, to deliver transformational benefits for both sovereign nations.</documentation>
+    </element>
+    <element xsi:type="archimate:Resource" name="CDOC SCDS Terms of Reference (ToR) (Resource)" id="id-339dc87423f14199badee063b2341e33">
+      <documentation>Chief Data Officer Council Sub-Committee on Data Standards Terms of Reference&#xD;
+https://gcxgce.sharepoint.com/:w:/t/1000754/EfxoPFv90RZKrZFwV1VzuC0Badm2AizY3AnHfgEt2Byg0A?e=fpXAXj&#xD;
+https://gcxgce.sharepoint.com/:w:/t/1000754/EfxoPFv90RZKrZFwV1VzuC0Badm2AizY3AnHfgEt2Byg0A?e=uQ81yd&#xD;
+&#xD;
+Document History&#xD;
+Version No.	/ Amendment Date / Modified By	 / Description&#xD;
+1.0	2024-04-18	Courtney Cameron 	First draft&#xD;
+2.0 	2024-01-13	Cindy Mac Donald	Added links in header. Updated Sub-committee membership at January 16, 2025, in Annex 1.&#xD;
+3.0	2024-02-20	Cindy Mac Donald	Added new member Steve Rennie in Annex 1 to replace Karen Morton</documentation>
+    </element>
   </folder>
   <folder name="Business" id="id-fb9c94c240434273aa6d6f5df1a73407" type="business">
     <element xsi:type="archimate:BusinessEvent" name="EA Requests SAS Feedback" id="id-a7ebf3b84a7545f6a5b2e8eaca445cb6"/>
@@ -6924,7 +6945,24 @@ The Government is guided by its conviction that the economy is only truly strong
 &#xD;
 The Government will protect the programs that are already saving families thousands of dollars every year. These include child care and pharmacare. In addition to these, the Government has recently expanded the Canadian Dental Care Plan to cover about eight million Canadians, saving the average person more than $800 per year.</documentation>
     </element>
-    <element xsi:type="archimate:Goal" name="Building a stronger Canada" id="id-3b39161d3aa04407a1eb981026fba674"/>
+    <element xsi:type="archimate:Goal" name="Building a stronger Canada" id="id-3b39161d3aa04407a1eb981026fba674">
+      <documentation>Building a stronger Canada&#xD;
+The Government’s overarching goal – its core mission – is to build the strongest economy in the G7. That starts with creating one Canadian economy out of thirteen. Internal barriers to trade and labour mobility cost Canada as much as $200 billion each year. The Government will introduce legislation to remove all remaining federal barriers to internal trade and labour mobility by Canada Day.&#xD;
+&#xD;
+Numerous premiers have already taken vital steps to break down provincial and territorial barriers to trade. Together, we will build on that progress to deliver free trade across the nation by Canada Day. This is critical to unlocking Canada’s full economic potential, but it’s not enough.&#xD;
+&#xD;
+To build Canada strong, the Government is working closely with provinces, territories, and Indigenous Peoples to identify and catalyse projects of national significance. Projects that will connect Canada, that will deepen Canada’s ties with the world, and that will create high-paying jobs for generations.&#xD;
+&#xD;
+Given the pace of change and the scale of opportunities, speed is of the essence. Through the creation of a new Major Federal Project Office, the time needed to approve a project will be reduced from five years to two; all while upholding Canada’s world-leading environmental standards and its constitutional obligations to Indigenous Peoples.&#xD;
+&#xD;
+The Government will also strike co-operation agreements with every interested province and territory within six months to realize its goal of “one project, one review.”&#xD;
+&#xD;
+When Canadians come together, Canada builds things that last.&#xD;
+&#xD;
+By removing these barriers that have held back our economy, we will unleash a new era of growth that will ensure we don’t just survive ongoing trade wars, but emerge from them stronger than ever. It will enable Canada to become the world’s leading energy superpower in both clean and conventional energy. To build an industrial strategy that will make Canada more globally competitive, while fighting climate change. To build hundreds of thousands of good careers in the skilled trades. And to build Canada into the world’s leading hub for science and innovation.&#xD;
+&#xD;
+Critically, the Government will undertake a series of measures to help double the rate of home building while creating an entirely new housing industry – using Canadian technology, Canadian skilled workers, and Canadian lumber. The Government will introduce measures to deliver affordable homes by creating Build Canada Homes. This mission-driven organization will act to accelerate the development of new affordable housing. It will invest in the growth of the prefabricated and modular housing industry. And it will provide significant financing to affordable home builders. The Government will make the housing market work better, including by cutting municipal development charges in half for all multi-unit housing. The Government will drive supply up to bring housing costs down.</documentation>
+    </element>
     <element xsi:type="archimate:Goal" name="Building a safer and more secure Canada " id="id-e0b5e46690954c528c5132f6e7127c20">
       <documentation>Building a safer and more secure Canada &#xD;
 To be truly strong, Canada must be secure. To that end, the Government will introduce legislation to enhance security at Canada’s borders. Law enforcement and intelligence agencies will have new tools to stop the flow of fentanyl and its precursors. The Canada Border Services Agency will be given new powers to examine goods destined for export, to prevent the transport of illegal and stolen products, including cars.&#xD;
@@ -6963,6 +7001,38 @@ Transfers to provinces, territories, or individuals will be maintained. The Gove
 &#xD;
 In parallel, the Government will take a series of measures to catalyse new investment to create better jobs and higher incomes for Canadians. The scale of the Government’s initiative will match the challenges of our times and the ambitions of Canadians.</documentation>
     </element>
+    <element xsi:type="archimate:Assessment" name="Canadians have come together in a renewed sense of national pride, unity and hope" id="id-7408e148041749bb80871fa4e3b2f59e">
+      <documentation>While continuing to deepen my own understanding, it is my great hope that in each of your communities, and collectively as a country, a path is found toward truth and reconciliation, in both word and deed.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Great Hope Exists That In Communities and In Canada, a Path Is Found Toward Truth and Reconciliation, in Word and Deed" id="id-4dff5ae57fe547fcb0771672d75426dc">
+      <documentation>While continuing to deepen my own understanding, it is my great hope that in each of your communities, and collectively as a country, a path is found toward truth and reconciliation, in both word and deed.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="King Charles III's 20th Visit to Canada In 50 Years, and 1st as Sovereign" id="id-eeb78cbc70e942b182946b67551b7931">
+      <documentation>This is my 20th visit to Canada, spread over the course of more than half a century, and my first as Sovereign. As I have said before, “Every time I come to Canada… a little more of Canada seeps into my bloodstream – and from there straight to my heart.” I have always had the greatest admiration for Canada’s unique identity, which is recognized across the world for bravery and sacrifice in defence of national values, and for the diversity and kindness of Canadians.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Canada’s Unique Identity is Recognized Globally for Bravery and Sacrifice in Defence of National Values, and for Canadians' Diversity and Kindness" id="id-5b955de5d67541789bc5eeec474e66be">
+      <documentation>I have always had the greatest admiration for Canada’s unique identity, which is recognized across the world for bravery and sacrifice in defence of national values, and for the diversity and kindness of Canadians.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="The First Nations, Inuit, and Métis Peoples Have Welcomed A Humbly Greatful Royal Family To Their Traditional Lands With Great Warmth and Hospitality" id="id-ed840d7eaf4d446587e7e5b7c243e865">
+      <documentation>To the First Nations, Inuit, and Métis Peoples – you have welcomed my family and myself to your traditional lands with great warmth and hospitality, for which I am humbly grateful.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="80th Anniversary of V-E Day and V-J Day" id="id-520c56938c984bd6a4e0acf7639f2090">
+      <documentation>This year, we mark the 80th anniversary of V-E Day and V-J Day. On Juno Beach, at Dieppe, on the Somme, at Beaumont-Hamel, at Ypres, and on Vimy Ridge… At those places, and many others, forever etched into our memories, Canadians fought and died alongside our closest allies.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Canadians Fought and Died Alongside Our Closest Allies On Juno Beach, at Dieppe, on the Somme, at Beaumont-Hamel, at Ypres, and on Vimy Ridge" id="id-d66240a2aca84f9ab773001fc99b4e12">
+      <documentation>On Juno Beach, at Dieppe, on the Somme, at Beaumont-Hamel, at Ypres, and on Vimy Ridge… At those places, and many others, forever etched into our memories, Canadians fought and died alongside our closest allies.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Nature Is Core to Canada’s Identity" id="id-7a57fa8125c1436fbbf4b5ea1356720d">
+      <documentation>Nature is core to Canada’s identity. In 2022, Canada convened COP15 in Montréal, which concluded with 196 countries striking a historic agreement to protect 30 percent of their lands and 30 percent of waters by 2030. To this end, the Government will protect more of Canada’s nature than ever before through the creation of new national parks, national urban parks, marine protected areas, and other conservation initiatives.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="The System of Open Global Trade Is Changing" id="id-b907c48c433042b58ba1c6e318281c25">
+      <documentation>The system of open global trade that, while not perfect, has helped to deliver prosperity for Canadians for decades, is changing. Canada’s relationships with partners are also changing.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Canada’s Relationships With Partners Are Changing" id="id-be741456411345e0b93719a454bc4492">
+      <documentation>The system of open global trade that, while not perfect, has helped to deliver prosperity for Canadians for decades, is changing. Canada’s relationships with partners are also changing.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Meaning" id="id-2ee22ab37fc942799ce9e9a2973c30fb"/>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Gap" name="Unmanaged Data (Gap)" id="id-ed4e79d466fd4551a90d4cbfb6784e74">
@@ -7859,6 +7929,9 @@ The mission of Employment and Social Development Canada (ESDC) is to:&#xD;
       <documentation>Canada faces a series of crises. In a more dangerous and divided world, geopolitical risks are rising, threatening our sovereignty. The global trading system – which has helped power Canada’s prosperity for decades – is undergoing the biggest transformation since the fall of the Berlin Wall. At home, our longstanding weak productivity is straining government finances, making life less affordable for Canadian families, and threatening to undermine the sustainability of vital social programs on which Canadians rely.&#xD;
 &#xD;
 The new federal Government has an immense responsibility to address these challenges head on with focus, determination, and fundamentally different approaches to governing.</documentation>
+    </element>
+    <element xsi:type="archimate:Location" name="On The Unceded Territory of the Algonquin Anishinaabeg People" id="id-92ce6eb9ffc34a44b94b37abde134174">
+      <documentation>I would like to acknowledge that we are gathered on the unceded territory of the Algonquin Anishinaabeg people. This land acknowledgement is a recognition of shared history as a nation.</documentation>
     </element>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
@@ -9145,6 +9218,12 @@ The new federal Government has an immense responsibility to address these challe
     <element xsi:type="archimate:CompositionRelationship" id="id-1cb15d9572c4428494ea68d88b97a351" source="id-cec9a89bfdb8465aa9d20359e66190d9" target="id-c7c71ff2df6a4f5da824eae27a669584"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-e48722cfe3874625bcad137f20a1dd9e" source="id-cec9a89bfdb8465aa9d20359e66190d9" target="id-ef382b2e15af466ca3236fb5f7cd5698"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-a8301c7ebe944169bbcd2f1701b2a019" source="id-59144c334d56452d8b0bc357f302f415" target="id-cec9a89bfdb8465aa9d20359e66190d9"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-97dcfd16dc2941dcab602adc3737afd9" source="id-520c56938c984bd6a4e0acf7639f2090" target="id-d66240a2aca84f9ab773001fc99b4e12"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-f9258f8fe8944ddb9cc4192ee3cd827a" source="id-139e3b91750b4dc88918ecc99fcdae2b" target="id-2ceed8894fd14545a952df4c678cc3b4"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6d3298d8bf0942a9bc547f2d3c5ba27e" source="id-139e3b91750b4dc88918ecc99fcdae2b" target="id-3218979a97894868bdb693fbba0f130f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-bf4f9f9ca6ef4321aa353c537a7de2e4" source="id-139e3b91750b4dc88918ecc99fcdae2b" target="id-931393849d424c5ba9ed053161db5ff5"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-df09628307424b63809b805b3932c059" source="id-139e3b91750b4dc88918ecc99fcdae2b" target="id-989f30d2c2064aa1b440bf69f75c546b"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-ff367271440d4e789b00c4073d58f86a" source="id-7a57fa8125c1436fbbf4b5ea1356720d" target="id-139e3b91750b4dc88918ecc99fcdae2b"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -15146,6 +15225,66 @@ v0.1.20250528</content>
         <child xsi:type="archimate:DiagramObject" id="id-5e63c6dd3061453788a171731bf54290" archimateElement="id-4bb64a6c3eb844d18d57251a771ae7ed">
           <bounds x="1032" y="552" width="385" height="277"/>
         </child>
+        <child xsi:type="archimate:DiagramObject" id="id-4df3fb2d3a8a4c9ca195dc7a117047b6" archimateElement="id-7408e148041749bb80871fa4e3b2f59e">
+          <bounds x="924" y="6" width="173" height="70"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-4d4c18638938405da4c190b956d96d92" archimateElement="id-92ce6eb9ffc34a44b94b37abde134174">
+          <bounds x="924" y="84" width="173" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-95945f8675454141bb9b50178ce63401" archimateElement="id-4dff5ae57fe547fcb0771672d75426dc">
+          <bounds x="1644" y="17" width="173" height="100"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b25fa14e404849d98430fba220ac38f6" archimateElement="id-eeb78cbc70e942b182946b67551b7931">
+          <bounds x="1104" y="6" width="173" height="70"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-49ee97a056e7442685a346c29b5562cf" archimateElement="id-5b955de5d67541789bc5eeec474e66be">
+          <bounds x="1464" y="12" width="173" height="110"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-cb4f204664854f3a9fee46f9c5c9288b" archimateElement="id-ed840d7eaf4d446587e7e5b7c243e865">
+          <bounds x="1284" y="7" width="173" height="120"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-07b962643cee442d9e0fef44d5e4a9d6" archimateElement="id-520c56938c984bd6a4e0acf7639f2090">
+          <bounds x="1452" y="168" width="192" height="180"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9a0b6a3b93324f879786203640e0250f" source="id-07b962643cee442d9e0fef44d5e4a9d6" target="id-97f5f420db994e239e7f6195601898da" archimateRelationship="id-97dcfd16dc2941dcab602adc3737afd9"/>
+          <child xsi:type="archimate:DiagramObject" id="id-97f5f420db994e239e7f6195601898da" targetConnections="id-9a0b6a3b93324f879786203640e0250f" archimateElement="id-d66240a2aca84f9ab773001fc99b4e12">
+            <bounds x="12" y="48" width="173" height="119"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b90383ea5587423f89e0b6282352b46d" archimateElement="id-7a57fa8125c1436fbbf4b5ea1356720d">
+          <bounds x="1692" y="493" width="197" height="48"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9be5ec36d1384a3eb4936b9f27d8d4f2" source="id-b90383ea5587423f89e0b6282352b46d" target="id-d68a4801068b460980493854138f6eea" archimateRelationship="id-ff367271440d4e789b00c4073d58f86a"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-d68a4801068b460980493854138f6eea" targetConnections="id-9be5ec36d1384a3eb4936b9f27d8d4f2" archimateElement="id-139e3b91750b4dc88918ecc99fcdae2b">
+          <bounds x="1692" y="564" width="196" height="240"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-13f5e9cb66f84e198b98469ec2a14c34" source="id-d68a4801068b460980493854138f6eea" target="id-3c07275109b143799d5251d5f1ff89ca" archimateRelationship="id-f9258f8fe8944ddb9cc4192ee3cd827a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8afd6c547a2b45e5907307d4c359f608" source="id-d68a4801068b460980493854138f6eea" target="id-200a5d9529374df99e1edf4f63129908" archimateRelationship="id-6d3298d8bf0942a9bc547f2d3c5ba27e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-708753e9d63546f48d35e8eb4ddb1cba" source="id-d68a4801068b460980493854138f6eea" target="id-8b658896fedd44d5b36af0fe0f717b21" archimateRelationship="id-bf4f9f9ca6ef4321aa353c537a7de2e4"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-fc100dbbe4b94202b39fc582bc69b3aa" source="id-d68a4801068b460980493854138f6eea" target="id-b058da4b834f4d9bac32dce08d3d686a" archimateRelationship="id-df09628307424b63809b805b3932c059"/>
+          <child xsi:type="archimate:DiagramObject" id="id-3c07275109b143799d5251d5f1ff89ca" targetConnections="id-13f5e9cb66f84e198b98469ec2a14c34" archimateElement="id-2ceed8894fd14545a952df4c678cc3b4">
+            <bounds x="12" y="60" width="173" height="36"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-200a5d9529374df99e1edf4f63129908" targetConnections="id-8afd6c547a2b45e5907307d4c359f608" archimateElement="id-3218979a97894868bdb693fbba0f130f">
+            <bounds x="12" y="149" width="173" height="36"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-8b658896fedd44d5b36af0fe0f717b21" targetConnections="id-708753e9d63546f48d35e8eb4ddb1cba" archimateElement="id-931393849d424c5ba9ed053161db5ff5">
+            <bounds x="12" y="195" width="173" height="36"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b058da4b834f4d9bac32dce08d3d686a" targetConnections="id-fc100dbbe4b94202b39fc582bc69b3aa" archimateElement="id-989f30d2c2064aa1b440bf69f75c546b">
+            <bounds x="12" y="104" width="173" height="36"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-f3acc55f1f1f429c98aeaa5ebc9f8376" archimateElement="id-b907c48c433042b58ba1c6e318281c25">
+          <bounds x="1454" y="396" width="173" height="45"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b6dd70c03cde4a8cb4763eea04ca0f91" archimateElement="id-be741456411345e0b93719a454bc4492">
+          <bounds x="1454" y="444" width="173" height="60"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-99fed48b76194d57af249f80b2c4af82" archimateElement="id-bb7857f21bd74663a08971d6a6891d1d">
+          <bounds x="1462" y="540" width="173" height="60"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-36505c010d82426baaa9bb0d3663ab1c" archimateElement="id-2ee22ab37fc942799ce9e9a2973c30fb">
+          <bounds x="396" y="69" width="120" height="55"/>
+        </child>
         <documentation>https://www.canada.ca/en/privy-council/campaigns/speech-throne/2025/building-canada-strong.html&#xD;
 &#xD;
 Speech from the Throne to open the first session of the 45th Parliament of Canada&#xD;
@@ -15670,6 +15809,33 @@ v0.1.20250424</content>
           <child xsi:type="archimate:DiagramObject" id="id-70b951c4de09410f948ec5321ef47be7" targetConnections="id-c996bc2607694cc1929c3b1f391c7d31" archimateElement="id-35ddf587a579469c8f94378917f3c634">
             <bounds x="12" y="205" width="168" height="84"/>
           </child>
+        </child>
+      </element>
+    </folder>
+    <folder name="CDOC Sub-Committee" id="id-a716b8b0e8034d2c828f95ef3724140b">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="CDOC SubComm Data Standards" id="id-617090883d8e438784db9d73d0bc9e95">
+        <child xsi:type="archimate:Note" id="id-da1847ffa28944d9884dca1458e0bf14" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="6" y="4" width="445" height="121"/>
+          <content>Archimate View: &#xD;
+Chief Data Officer Council - Sub-Committee on Data Standards&#xD;
+</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-c492563277e54b32bd7a8a428fc5697c" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
+          <bounds x="450" y="4" width="289" height="121"/>
+          <content>CDOC Sub-Committee on Data Standards</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-ede0fbe0713446f2984eaac89e2f26fb" textAlignment="1">
+          <bounds x="619" y="64" width="120" height="61"/>
+          <content>(DRAFT)&#xD;
+2025-02-20&#xD;
+v0.1.20250530</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-3b3d200e61a5482486f357edd3a75146" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
+          <bounds x="750" y="11" width="149" height="108"/>
+          <content>DIAGRAM NOT ENDORSED</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-de1c0aa90a6e456bab41536d4d1ce485" archimateElement="id-339dc87423f14199badee063b2341e33">
+          <bounds x="912" y="4" width="145" height="55"/>
         </child>
       </element>
     </folder>
