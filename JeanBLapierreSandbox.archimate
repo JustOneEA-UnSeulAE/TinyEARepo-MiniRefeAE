@@ -3451,6 +3451,50 @@ Bank Number: PSE 930</documentation>
     <element xsi:type="archimate:BusinessCollaboration" name="ADM Committee on Data and Information (ADM CDI) (Business Collaboration)" id="id-6a810c19e7494e959e52ad0e83baae4f">
       <documentation>In June 2022, the ADM Committee on Data and Information (ADM CDI) was established as the Government of Canada body responsible for enterprise governance of information and data. As a result, the CDOC’s mandate evolved to support ADM CDI and establish itself as an advisory body within the Government of Canada’s formal data governance structure. The CDOC now serves as a conduit to ADM CDI by providing review, validation , endorsement , and recommendations  for items going to the committee. In addition, the CDOC is also responsible for facilitating the implementation of approved items such as enterprise data standards, data stewardship models, and data domains. The CDOC is also a decision-making body for data-related items identified as best practices for the GC as a whole, or for any other items that the Council identifies as advancing data maturity within the GC.</documentation>
     </element>
+    <element xsi:type="archimate:BusinessFunction" name="Enterprise Governance of Information and Data (Business Function)" id="id-475898bc80f14865b82c97cc28999280">
+      <documentation>In June 2022, the ADM Committee on Data and Information (ADM CDI) was established as the Government of Canada body responsible for enterprise governance of information and data.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessFunction" name="Advisory Body For Government of Canada’s Data Governance Structure (Business Function)" id="id-14ceac0e267d41adbf3aa9621a261a01">
+      <documentation>As a result, the CDOC’s mandate evolved to support ADM CDI and establish itself as an advisory body within the Government of Canada’s formal data governance structure.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessService" name="Provide Review, Validation, Endorsement and Recommendations for Committee Items (Business Service)" id="id-8b05a7e79e0a4b98882b817640c44f57">
+      <documentation>The CDOC now serves as a conduit to ADM CDI by providing review, validation, endorsement, and recommendations for items going to the committee.&#xD;
+• Validation is defined as ensuring information presented is factually sound and aligns with the council’s knowledge and expertise. &#xD;
+• Endorsement is defined as expressing support for a course of action when it falls within the CDOC’s mandate and the council’s approval to proceed to other decision-making bodies is required.&#xD;
+• Recommendation is defined as expressing support for a course of action when approval from the council to proceed to other decision-making bodies is not required.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessService" name="Facilitate Implementation of Approved Items (Enterprise Data Standards, Data Stewardship Models and Data Domains) (Business Service)" id="id-64ba4122b2904468b7ba1f38d2a2b35c">
+      <documentation>In addition, the CDOC is also responsible for facilitating the implementation of approved items such as enterprise data standards, data stewardship models, and data domains.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessFunction" name="Decision-Making Body For GC On Data-Related Best Practices (Business Function)" id="id-554a65a0cb6248e1ba92b6522d59f809">
+      <documentation>The CDOC is also a decision-making body for data-related items identified as best practices for the GC as a whole, or for any other items that the Council identifies as advancing data maturity within the GC.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessFunction" name="Decision-Making Body For GC On Items Advancing Data Maturity (Business Function)" id="id-116a292bc52c40fd95c6d26506f3ff51">
+      <documentation>The CDOC is also a decision-making body for data-related items identified as best practices for the GC as a whole, or for any other items that the Council identifies as advancing data maturity within the GC.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessEvent" name="First In-Person CDOC Retreat [Feb 2024] (Business Event)" id="id-c5c0e8854159426081cb22220f980156">
+      <documentation>In February 2024, the CDOC had their first in-person retreat and determined the need for several sub-committees in order to advance their priorities. </documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Chief Data Officers (CDOs) (Business Role)" id="id-1282cfdf8c854275a55392a9e4c39982"/>
+    <element xsi:type="archimate:BusinessRole" name="CDO Support Staff (Business Role)" id="id-d17052542c534d2fbb378e1239b8df6a"/>
+    <element xsi:type="archimate:BusinessRole" name="CDOC Member Co-Chair [Must] (Business Role)" id="id-576dac51744f42179188d78863840f2c">
+      <documentation>Governance&#xD;
+The sub-committee is co-chaired by at least one CDOC member. Both co-chairs are equally responsible for establishing and providing strategic direction for the sub-committee.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="CDOC Member Co-Chair [May] (Business Role)" id="id-c5aa6bbe5fa84a41afd61509201bb4ca">
+      <documentation>Governance&#xD;
+The sub-committee is co-chaired by at least one CDOC member. Both co-chairs are equally responsible for establishing and providing strategic direction for the sub-committee.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Member (Business Role)" id="id-e895176663fe41d1b24ab38c3dddc376"/>
+    <element xsi:type="archimate:BusinessRole" name="Member (Business Role)" id="id-760ee5fb35974a59b4918d12099f1c2f"/>
+    <element xsi:type="archimate:BusinessRole" name="Member (Business Role)" id="id-71485dabe98c4253a04201756df2b341"/>
+    <element xsi:type="archimate:BusinessRole" name="Member (Business Role)" id="id-034360d551e74ce5b1841b21fc078c52"/>
+    <element xsi:type="archimate:BusinessRole" name="Member (Business Role)" id="id-3252c4c1a25748eebf4322e69ab2261c"/>
+    <element xsi:type="archimate:BusinessRole" name="Member (Business Role)" id="id-847a092666604a6dbea1dfb37cc1e7ca"/>
+    <element xsi:type="archimate:BusinessRole" name="Ex-Officio Member (Business Role)" id="id-fde45f2436b34b1491dd68bd0c37116b"/>
+    <element xsi:type="archimate:BusinessRole" name="Ex-Officio Member (Business Role)" id="id-fb44b382542943bc82002f6234606a2b"/>
+    <element xsi:type="archimate:BusinessRole" name="Guests &amp; Observers (Business Role)" id="id-32f946d51bfa40ec8b7bdd4f33089c07"/>
+    <element xsi:type="archimate:BusinessRole" name="Recording Secretary (Business Role)" id="id-2a7ea12364a44842afdf327fb8d09779"/>
   </folder>
   <folder name="Application" id="id-4c073bc2342b490eae44200c8635c571" type="application">
     <element xsi:type="archimate:DataObject" name="Drupal-Sourced Data (Data Object)" id="id-a36acbc1b6124a03991eae20826f88c9">
@@ -7051,6 +7095,49 @@ In parallel, the Government will take a series of measures to catalyse new inves
     <element xsi:type="archimate:Assessment" name="CDOC Identified as a Pivotal Endorsement, Approval, and Implementation Body for FD Strategy Actions (Assessment)" id="id-920dce4c19404e628472c31205dc11ec">
       <documentation>With the release of the 2023-2026 Federal Data Strategy for the Public Service, CDOC was identified as a pivotal endorsement, approval, and implementation body for the actions identified in the strategy.</documentation>
     </element>
+    <element xsi:type="archimate:Requirement" name="Need for Several Sub-Committees To Advance CDOC Priorities (Requirement)" id="id-5837f05b88c04977b9b51d6c1593b5c6">
+      <documentation>In February 2024, the CDOC had their first in-person retreat and determined the need for several sub-committees in order to advance their priorities. </documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="1. Identify Departmental Data Standards to be Adopted, Adapted or Newly Authored and Scaled to Enterprise (Goal)" id="id-cb622300cd1147dba3ab15bf0724c39a">
+      <documentation>The purpose of the Sub-committee on Data Standards (S-CDS) is to:&#xD;
+•	Identify departmental data standards to be adopted, adapted, or newly authored and scaled to the enterprise;</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="2. Prioritize Proposed Data Reference Standards and Track Development Through Governance Until Endorsement by ADM CDI (Goal)" id="id-f72a1ef62f7b4f6899408aee588a043c">
+      <documentation>The purpose of the Sub-committee on Data Standards (S-CDS) is to:&#xD;
+• Prioritize the proposed data reference standards and track their development and recommendation through the governance channel, until ultimate endorsement by the ADM Committee on Data and Information; </documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="3. Facilitate Creation of Data Reference Standards Policy Instruments with TBS-OCIO's Data and Digital Policy Sector Members (Goal)" id="id-0ad994a5499247019e363d4106d67131">
+      <documentation>The purpose of the Sub-committee on Data Standards (S-CDS) is to:&#xD;
+• Facilitate the creation of the data reference standards’ policy instruments with members from Treasury Board Secretariat Office of the Chief Information Officer’s Data and Digital Policy Sector;</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="4. Review &amp; Recommend Data Reference Standards (including Related Policy Instrument) to the Chief Data Officer Council (Goal)" id="id-01fc8bf9340b4dadb1ccda27909fb94f">
+      <documentation>The purpose of the Sub-committee on Data Standards (S-CDS) is to:&#xD;
+• Review and recommend data reference standards (including the related policy instrument) to the Chief Data Officer Council.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:Stakeholder" name="Small Organization (Stakeholder)" id="id-9b165f53552545e2b972cfbfeff82a6b"/>
+    <element xsi:type="archimate:Stakeholder" name="Science Organization (Stakeholder)" id="id-d782ebba746a4c2b8b3aacb9740c191a"/>
+    <element xsi:type="archimate:Stakeholder" name="Central Agency (Stakeholder)" id="id-394ee0bd05434137936db971b8b422a6"/>
+    <element xsi:type="archimate:Stakeholder" name="Stakeholder" id="id-e3ea9f38894c4d4f80bd7840f5d5bb0b"/>
+    <element xsi:type="archimate:Stakeholder" name="Large Organization (Stakeholder)" id="id-870cf43caf934fbd9b9c063593cce6a8"/>
+    <element xsi:type="archimate:Stakeholder" name="Service Organization (Stakeholder)" id="id-ca2d3995ecee4d708280a8449c84957b"/>
+    <element xsi:type="archimate:Stakeholder" name="Stakeholder" id="id-273e1064427d460f8ae3f5924648d3fb"/>
+    <element xsi:type="archimate:Stakeholder" name="Medium Organization (Stakeholder)" id="id-e82fa2f535794b1b879553e7c81e9468"/>
+    <element xsi:type="archimate:Constraint" name="Quorum of 50% of Members (Constraint)" id="id-14677629c6e540f292c50ba869294a8a">
+      <documentation>A quorum of 50% of members is required to make official sub-committee decisions.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Actively Participate in Meetings or Delegate Attendance to A Colleague, Subject to Approval by the Co-Chair(s) (Requirement)" id="id-4f52768ffb1f4238b693786fab866276">
+      <documentation>Sub-committee members are expected to:&#xD;
+• Actively participate in meetings or delegate attendance to another colleague (preferably at the executive level) if they are unable to attend, subject to approval by the co-chair(s);</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Actively Participate By Volunteering Time and Workers (Requirement)" id="id-79f2c07d4cd749e8b1e4fbadae650bcd">
+      <documentation>Sub-committee members are expected to:&#xD;
+• Actively participating by volunteering their time and employees;</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Form Recommendations in the GC Data Community Context, Not Departmentally (Requirement)" id="id-1f4e984411a549719bd4f6c6edbeaac5">
+      <documentation>Sub-committee members are expected to:&#xD;
+• Consider items for recommendation in the context of the Government of Canada data community, beyond the perspective of their individual departments.</documentation>
+    </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Gap" name="Unmanaged Data (Gap)" id="id-ed4e79d466fd4551a90d4cbfb6784e74">
@@ -7950,6 +8037,25 @@ The new federal Government has an immense responsibility to address these challe
     </element>
     <element xsi:type="archimate:Location" name="On The Unceded Territory of the Algonquin Anishinaabeg People" id="id-92ce6eb9ffc34a44b94b37abde134174">
       <documentation>I would like to acknowledge that we are gathered on the unceded territory of the Algonquin Anishinaabeg people. This land acknowledgement is a recognition of shared history as a nation.</documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="CDOC Sub-Committee on Data Standards (S-CDS) Purpose" id="id-a1d993ba2f00432a8b2c7e8c3ea4dcaa">
+      <documentation>Committee Purpose&#xD;
+The purpose of the Sub-committee on Data Standards (S-CDS) is to:&#xD;
+&#xD;
+• Identify departmental data standards to be adopted, adapted, or newly authored and scaled to the enterprise;&#xD;
+• Prioritize the proposed data reference standards and track their development and recommendation through the governance channel, until ultimate endorsement by the ADM Committee on Data and Information; &#xD;
+• Facilitate the creation of the data reference standards’ policy instruments with members from Treasury Board Secretariat Office of the Chief Information Officer’s Data and Digital Policy Sector;&#xD;
+• Review and recommend data reference standards (including the related policy instrument) to the Chief Data Officer Council.</documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="S-CDS Membership Representation" id="id-1579ec240b6e4329845b5f6f33a49f74">
+      <documentation>Sub-committee Composition&#xD;
+Membership in the Sub-committee on Data Standards (S-CDS) is to include Chief Data Officers (CDOs) and their support staff, with the goal of including representation from at least one small, medium, and large organization, as well as CDO representation from each science and service organizations. S-CDS will also include representation from central agencies. </documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="S-CDS Member Expectations" id="id-3f0ad39d33594ca4a88c06925518bc77">
+      <documentation>Sub-committee members are expected to:&#xD;
+• Actively participate in meetings or delegate attendance to another colleague (preferably at the executive level) if they are unable to attend, subject to approval by the co-chair(s);&#xD;
+• Actively participating by volunteering their time and employees;&#xD;
+• Consider items for recommendation in the context of the Government of Canada data community, beyond the perspective of their individual departments.</documentation>
     </element>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
@@ -9246,7 +9352,37 @@ The new federal Government has an immense responsibility to address these challe
     <element xsi:type="archimate:InfluenceRelationship" id="id-5e13eaef9eda456b99ab5c7326549982" source="id-6c9ac9cba551415eab22a049a8084bf0" target="id-9ed3054b316e44848a95412bf1ad26c3"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-12af2d593267404b84e2ed31189fcc7b" source="id-1e0b3db50b024f68bbf042ae54ff0722" target="id-920dce4c19404e628472c31205dc11ec"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-ca6a550d8684461880f26abb55c1dfbd" source="id-6c9ac9cba551415eab22a049a8084bf0" target="id-920dce4c19404e628472c31205dc11ec"/>
-    <element xsi:type="archimate:ServingRelationship" id="id-8bb7a395fa0f4451837b59fdae792cd7" source="id-6c9ac9cba551415eab22a049a8084bf0" target="id-6a810c19e7494e959e52ad0e83baae4f"/>
+    <element xsi:type="archimate:ServingRelationship" name="Supports" id="id-8bb7a395fa0f4451837b59fdae792cd7" source="id-6c9ac9cba551415eab22a049a8084bf0" target="id-6a810c19e7494e959e52ad0e83baae4f"/>
+    <element xsi:type="archimate:AssignmentRelationship" id="id-40ec3a0dc81a429e81f189003a26cf9c" source="id-6a810c19e7494e959e52ad0e83baae4f" target="id-475898bc80f14865b82c97cc28999280"/>
+    <element xsi:type="archimate:AssignmentRelationship" name="Mandate" id="id-77d4a2f3d02a4d3cbfb2d8757a68e3bf" source="id-6c9ac9cba551415eab22a049a8084bf0" target="id-14ceac0e267d41adbf3aa9621a261a01"/>
+    <element xsi:type="archimate:ServingRelationship" name="Serve as Conduit" id="id-62c512fa3b624f249d50785bde0e8907" source="id-6c9ac9cba551415eab22a049a8084bf0" target="id-8b05a7e79e0a4b98882b817640c44f57"/>
+    <element xsi:type="archimate:ServingRelationship" name="To" id="id-2b19a24796764f5696583970f8e6d0d1" source="id-8b05a7e79e0a4b98882b817640c44f57" target="id-6a810c19e7494e959e52ad0e83baae4f"/>
+    <element xsi:type="archimate:ServingRelationship" name="Responsible For" id="id-7e52f1d0b14c4fccbb72dfb600354888" source="id-6c9ac9cba551415eab22a049a8084bf0" target="id-64ba4122b2904468b7ba1f38d2a2b35c"/>
+    <element xsi:type="archimate:ServingRelationship" name="On Behalf Of" id="id-829f7d91820f475f9c9d1f57db565119" source="id-64ba4122b2904468b7ba1f38d2a2b35c" target="id-6a810c19e7494e959e52ad0e83baae4f"/>
+    <element xsi:type="archimate:AssignmentRelationship" id="id-4e17d465a2814f02acb89d6e0ff60814" source="id-6c9ac9cba551415eab22a049a8084bf0" target="id-554a65a0cb6248e1ba92b6522d59f809"/>
+    <element xsi:type="archimate:AssignmentRelationship" id="id-e1b8ab5412d2494898084b1eeca53464" source="id-6c9ac9cba551415eab22a049a8084bf0" target="id-116a292bc52c40fd95c6d26506f3ff51"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-9ae47215d9c049f481ad822ee63581ae" source="id-5837f05b88c04977b9b51d6c1593b5c6" target="id-c5c0e8854159426081cb22220f980156"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-804b809855304f03a1c4a54e734b544b" source="id-a1d993ba2f00432a8b2c7e8c3ea4dcaa" target="id-cb622300cd1147dba3ab15bf0724c39a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-213a37a593f849bc8cc9b0efea3bdee8" source="id-a1d993ba2f00432a8b2c7e8c3ea4dcaa" target="id-01fc8bf9340b4dadb1ccda27909fb94f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a5b23b846e3041219f41a0d4a64f0398" source="id-a1d993ba2f00432a8b2c7e8c3ea4dcaa" target="id-f72a1ef62f7b4f6899408aee588a043c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e264babbbb9f4e47aee7ce9ecc21e2b8" source="id-a1d993ba2f00432a8b2c7e8c3ea4dcaa" target="id-0ad994a5499247019e363d4106d67131"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-daa5888b66584e8388a3df6cc209e229" source="id-1579ec240b6e4329845b5f6f33a49f74" target="id-394ee0bd05434137936db971b8b422a6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-413fcd5188ac42c990f1f1d08c39d21a" source="id-1579ec240b6e4329845b5f6f33a49f74" target="id-ca2d3995ecee4d708280a8449c84957b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-69c67aaa8c5944cf87301674e28bed6d" source="id-1579ec240b6e4329845b5f6f33a49f74" target="id-9b165f53552545e2b972cfbfeff82a6b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7629eb06fbea41ffb485c6c56cfb8d1e" source="id-1579ec240b6e4329845b5f6f33a49f74" target="id-870cf43caf934fbd9b9c063593cce6a8"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-02764b31893e4e33a5ed72550da2224f" source="id-1579ec240b6e4329845b5f6f33a49f74" target="id-d782ebba746a4c2b8b3aacb9740c191a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5fa98e8d793649dd873c79b2469b3f0d" source="id-1579ec240b6e4329845b5f6f33a49f74" target="id-e82fa2f535794b1b879553e7c81e9468"/>
+    <element xsi:type="archimate:ServingRelationship" id="id-ab0aa80136ff4fbda31b6dee25c48026" source="id-d17052542c534d2fbb378e1239b8df6a" target="id-1282cfdf8c854275a55392a9e4c39982"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-30481e98a0f04c94b57c52490516a64a" source="id-3f0ad39d33594ca4a88c06925518bc77" target="id-79f2c07d4cd749e8b1e4fbadae650bcd"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5b05361357b54291aab03d79bdc56a8a" source="id-3f0ad39d33594ca4a88c06925518bc77" target="id-4f52768ffb1f4238b693786fab866276"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-767c475f02c74a3d9694246abd17305e" source="id-3f0ad39d33594ca4a88c06925518bc77" target="id-1f4e984411a549719bd4f6c6edbeaac5"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-f2f33757d0a445d6b2369bad4e55f4af" source="id-c5aa6bbe5fa84a41afd61509201bb4ca" target="id-576dac51744f42179188d78863840f2c"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-a965d241f45e4344aabc6065ff4105af" source="id-e895176663fe41d1b24ab38c3dddc376" target="id-9b165f53552545e2b972cfbfeff82a6b"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-3beb3457091d4faa907c6deef852ff13" source="id-760ee5fb35974a59b4918d12099f1c2f" target="id-e82fa2f535794b1b879553e7c81e9468"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-ab2aaa4f199e4144bfa712ee1a602de4" source="id-71485dabe98c4253a04201756df2b341" target="id-870cf43caf934fbd9b9c063593cce6a8"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-c23a7a94ff874d95af0dbd6f8337d44b" source="id-034360d551e74ce5b1841b21fc078c52" target="id-d782ebba746a4c2b8b3aacb9740c191a"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-1c991ce8ac214e1ba714ac6ec4b80bc4" source="id-3252c4c1a25748eebf4322e69ab2261c" target="id-ca2d3995ecee4d708280a8449c84957b"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-50a0cf1320254bcb8570f3e387953111" source="id-847a092666604a6dbea1dfb37cc1e7ca" target="id-394ee0bd05434137936db971b8b422a6"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -15840,21 +15976,21 @@ v0.1.20250424</content>
         <child xsi:type="archimate:Note" id="id-da1847ffa28944d9884dca1458e0bf14" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
           <bounds x="6" y="4" width="445" height="121"/>
           <content>Archimate View: &#xD;
-Chief Data Officer Council - Sub-Committee on Data Standards&#xD;
+Chief Data Officer Council (CDOC) - Sub-Committee on Data Standards (S-CDS)&#xD;
 </content>
         </child>
         <child xsi:type="archimate:Note" id="id-c492563277e54b32bd7a8a428fc5697c" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
-          <bounds x="450" y="4" width="289" height="121"/>
-          <content>CDOC Sub-Committee on Data Standards</content>
+          <bounds x="450" y="4" width="163" height="121"/>
+          <content>CDOC S-CDS</content>
         </child>
         <child xsi:type="archimate:Note" id="id-ede0fbe0713446f2984eaac89e2f26fb" textAlignment="1">
-          <bounds x="619" y="64" width="120" height="61"/>
+          <bounds x="493" y="67" width="120" height="58"/>
           <content>(DRAFT)&#xD;
 2025-02-20&#xD;
-v0.1.20250530</content>
+v0.1.20250602</content>
         </child>
         <child xsi:type="archimate:Note" id="id-3b3d200e61a5482486f357edd3a75146" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
-          <bounds x="750" y="11" width="149" height="108"/>
+          <bounds x="620" y="11" width="149" height="108"/>
           <content>DIAGRAM NOT ENDORSED</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-de1c0aa90a6e456bab41536d4d1ce485" archimateElement="id-339dc87423f14199badee063b2341e33">
@@ -15872,16 +16008,167 @@ v0.1.20250530</content>
           <sourceConnection xsi:type="archimate:Connection" id="id-408c37be3cfd4ab6bd5a3c58a7c06e70" source="id-a140643b24b149689f633836cbb1ded3" target="id-298668957ccc421e99e25a12d0a15ce1" archimateRelationship="id-5e13eaef9eda456b99ab5c7326549982"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-d98c68dcc5bc4d8ab1b39c30044c2bff" source="id-a140643b24b149689f633836cbb1ded3" target="id-dc3fe6c6aac544779ba4ea5813dae691" archimateRelationship="id-ca6a550d8684461880f26abb55c1dfbd"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-adf567eb3c374b2fa3b3d318e689959b" source="id-a140643b24b149689f633836cbb1ded3" target="id-33eaebea47e34568ae4fe3e14c86de22" archimateRelationship="id-8bb7a395fa0f4451837b59fdae792cd7"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7c6dfff858ec4306977bdb5bd6eb5f4e" source="id-a140643b24b149689f633836cbb1ded3" target="id-b2c33e16d8814200bad55ebfd572e452" archimateRelationship="id-77d4a2f3d02a4d3cbfb2d8757a68e3bf"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8c4ae74ff43a43d7a31395ac0928d11f" source="id-a140643b24b149689f633836cbb1ded3" target="id-29c7ef17a0664fb180cf2da96486da24" archimateRelationship="id-62c512fa3b624f249d50785bde0e8907"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-11a5f18c039b4863897d49f76b3c3b01" source="id-a140643b24b149689f633836cbb1ded3" target="id-ac0a5db99ff24fddaf2ab7bde75f4413" archimateRelationship="id-7e52f1d0b14c4fccbb72dfb600354888">
+            <bendpoint startX="164" startY="73" endX="-214" endY="-136"/>
+          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-acf5bffbbbfc496ea42fdb98947581cf" source="id-a140643b24b149689f633836cbb1ded3" target="id-65dffa9827884af1913b095e5014207b" archimateRelationship="id-4e17d465a2814f02acb89d6e0ff60814">
+            <bendpoint startX="277" startY="1" endX="-291" endY="25"/>
+          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-59f9723f866548268bd956d8f1bfb592" source="id-a140643b24b149689f633836cbb1ded3" target="id-eecd23f39cab4fdbb44e772db61cc1a2" archimateRelationship="id-e1b8ab5412d2494898084b1eeca53464"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-dc3fe6c6aac544779ba4ea5813dae691" targetConnections="id-ff07bebe6bc84b329779828ff077f1f1 id-d98c68dcc5bc4d8ab1b39c30044c2bff" archimateElement="id-920dce4c19404e628472c31205dc11ec">
-          <bounds x="240" y="204" width="165" height="104"/>
+          <bounds x="204" y="168" width="165" height="104"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-769fe7e2bf0f430d961ea3e226070118" archimateElement="id-1e0b3db50b024f68bbf042ae54ff0722">
-          <bounds x="912" y="180" width="165" height="55"/>
+          <bounds x="912" y="173" width="165" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-ff07bebe6bc84b329779828ff077f1f1" source="id-769fe7e2bf0f430d961ea3e226070118" target="id-dc3fe6c6aac544779ba4ea5813dae691" archimateRelationship="id-12af2d593267404b84e2ed31189fcc7b"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-33eaebea47e34568ae4fe3e14c86de22" targetConnections="id-adf567eb3c374b2fa3b3d318e689959b" archimateElement="id-6a810c19e7494e959e52ad0e83baae4f">
+        <child xsi:type="archimate:DiagramObject" id="id-33eaebea47e34568ae4fe3e14c86de22" targetConnections="id-adf567eb3c374b2fa3b3d318e689959b id-efa3a19c564f47cb96a9840cf359fbf1 id-0c134f5d46734339b1998edaf1885eca" archimateElement="id-6a810c19e7494e959e52ad0e83baae4f">
           <bounds x="6" y="384" width="165" height="70"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ca91433d8d114a20a15d6c238164ca74" source="id-33eaebea47e34568ae4fe3e14c86de22" target="id-8ac44665d6c942c0b9d01a3f7bb5e2dd" archimateRelationship="id-40ec3a0dc81a429e81f189003a26cf9c"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-8ac44665d6c942c0b9d01a3f7bb5e2dd" targetConnections="id-ca91433d8d114a20a15d6c238164ca74" archimateElement="id-475898bc80f14865b82c97cc28999280">
+          <bounds x="6" y="492" width="165" height="73"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b2c33e16d8814200bad55ebfd572e452" targetConnections="id-7c6dfff858ec4306977bdb5bd6eb5f4e" archimateElement="id-14ceac0e267d41adbf3aa9621a261a01">
+          <bounds x="384" y="222" width="165" height="85"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-29c7ef17a0664fb180cf2da96486da24" targetConnections="id-8c4ae74ff43a43d7a31395ac0928d11f" archimateElement="id-8b05a7e79e0a4b98882b817640c44f57">
+          <bounds x="384" y="345" width="165" height="104"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-efa3a19c564f47cb96a9840cf359fbf1" source="id-29c7ef17a0664fb180cf2da96486da24" target="id-33eaebea47e34568ae4fe3e14c86de22" archimateRelationship="id-2b19a24796764f5696583970f8e6d0d1"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-ac0a5db99ff24fddaf2ab7bde75f4413" targetConnections="id-11a5f18c039b4863897d49f76b3c3b01" archimateElement="id-64ba4122b2904468b7ba1f38d2a2b35c">
+          <bounds x="384" y="453" width="165" height="134"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-0c134f5d46734339b1998edaf1885eca" source="id-ac0a5db99ff24fddaf2ab7bde75f4413" target="id-33eaebea47e34568ae4fe3e14c86de22" archimateRelationship="id-829f7d91820f475f9c9d1f57db565119"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-65dffa9827884af1913b095e5014207b" targetConnections="id-acf5bffbbbfc496ea42fdb98947581cf" archimateElement="id-554a65a0cb6248e1ba92b6522d59f809">
+          <bounds x="574" y="252" width="165" height="71"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-eecd23f39cab4fdbb44e772db61cc1a2" targetConnections="id-59f9723f866548268bd956d8f1bfb592" archimateElement="id-116a292bc52c40fd95c6d26506f3ff51">
+          <bounds x="574" y="322" width="165" height="82"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-7922e644f23b4e1caccd0edf263b857b" targetConnections="id-21175bb4c29b4391ac09e1856fd4facd" archimateElement="id-c5c0e8854159426081cb22220f980156">
+          <bounds x="1104" y="70" width="165" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-ab8c6dd05d79417ca0a7f011a4dd649d" archimateElement="id-5837f05b88c04977b9b51d6c1593b5c6">
+          <bounds x="1104" y="144" width="165" height="83"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-21175bb4c29b4391ac09e1856fd4facd" source="id-ab8c6dd05d79417ca0a7f011a4dd649d" target="id-7922e644f23b4e1caccd0edf263b857b" archimateRelationship="id-9ae47215d9c049f481ad822ee63581ae"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3ee967d47f2e4d3ebda3340259aa9c3d" textAlignment="1" archimateElement="id-a1d993ba2f00432a8b2c7e8c3ea4dcaa">
+          <bounds x="768" y="252" width="366" height="277"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2786c96bb46a47a5b8342bb598abc3a6" source="id-3ee967d47f2e4d3ebda3340259aa9c3d" target="id-acef72a775be4b03b9f4544b9ad9bf2c" archimateRelationship="id-804b809855304f03a1c4a54e734b544b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8d8b1ea14afa426abe0c26851570574d" source="id-3ee967d47f2e4d3ebda3340259aa9c3d" target="id-fe77cf888d4044ca869d6971df5df874" archimateRelationship="id-213a37a593f849bc8cc9b0efea3bdee8"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b69414400742465496a21c48b3eb6764" source="id-3ee967d47f2e4d3ebda3340259aa9c3d" target="id-393a623d5006449b979ebec596067a86" archimateRelationship="id-a5b23b846e3041219f41a0d4a64f0398"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5cfb86c283eb48028bc65c0e73cc3532" source="id-3ee967d47f2e4d3ebda3340259aa9c3d" target="id-1210cbf51bfd4f0fae6f1cce783cd52f" archimateRelationship="id-e264babbbb9f4e47aee7ce9ecc21e2b8"/>
+          <child xsi:type="archimate:DiagramObject" id="id-acef72a775be4b03b9f4544b9ad9bf2c" targetConnections="id-2786c96bb46a47a5b8342bb598abc3a6" archimateElement="id-cb622300cd1147dba3ab15bf0724c39a">
+            <bounds x="12" y="24" width="165" height="113"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-fe77cf888d4044ca869d6971df5df874" targetConnections="id-8d8b1ea14afa426abe0c26851570574d" archimateElement="id-01fc8bf9340b4dadb1ccda27909fb94f">
+            <bounds x="191" y="147" width="165" height="116"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-393a623d5006449b979ebec596067a86" targetConnections="id-b69414400742465496a21c48b3eb6764" archimateElement="id-f72a1ef62f7b4f6899408aee588a043c">
+            <bounds x="12" y="147" width="165" height="116"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1210cbf51bfd4f0fae6f1cce783cd52f" targetConnections="id-5cfb86c283eb48028bc65c0e73cc3532" archimateElement="id-0ad994a5499247019e363d4106d67131">
+            <bounds x="191" y="24" width="165" height="113"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-5a2837187a6f48ebb3fd6ebed0c14cdb" targetConnections="id-1285794bcf004089ad601c47c1ee52b4" archimateElement="id-1282cfdf8c854275a55392a9e4c39982">
+          <bounds x="1189" y="347" width="132" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-8cfd05dfb5b442a29840c32d65bed7df" archimateElement="id-d17052542c534d2fbb378e1239b8df6a">
+          <bounds x="1189" y="420" width="132" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1285794bcf004089ad601c47c1ee52b4" source="id-8cfd05dfb5b442a29840c32d65bed7df" target="id-5a2837187a6f48ebb3fd6ebed0c14cdb" archimateRelationship="id-ab0aa80136ff4fbda31b6dee25c48026"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a15f36b4c71c42f7b1e32202c4a39efb" textAlignment="1" archimateElement="id-1579ec240b6e4329845b5f6f33a49f74">
+          <bounds x="168" y="720" width="366" height="164"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1646e8d371c344e6b8fca77822398d45" source="id-a15f36b4c71c42f7b1e32202c4a39efb" target="id-bdcc589e2f4442b28dc49300b5acabaf" archimateRelationship="id-daa5888b66584e8388a3df6cc209e229"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1ec651e5044940408399b669d89b9563" source="id-a15f36b4c71c42f7b1e32202c4a39efb" target="id-328d0c5f972245ebb2cba96860ccbd2c" archimateRelationship="id-413fcd5188ac42c990f1f1d08c39d21a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9262419e1cdb46fe88069862d7e48df4" source="id-a15f36b4c71c42f7b1e32202c4a39efb" target="id-0a8f25134b0a4e0385085bdbb6ce15fa" archimateRelationship="id-69c67aaa8c5944cf87301674e28bed6d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-92b3d992330a46208e9dc15fc1a54b4d" source="id-a15f36b4c71c42f7b1e32202c4a39efb" target="id-bcebddf811074d93ad1f814c521808a7" archimateRelationship="id-7629eb06fbea41ffb485c6c56cfb8d1e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e441e4206c21459e8db602c47f02bb02" source="id-a15f36b4c71c42f7b1e32202c4a39efb" target="id-025d5b0d12974d548d6fd481fd7d4e94" archimateRelationship="id-02764b31893e4e33a5ed72550da2224f"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-400418d6b6b04f04ae9891e8e5154bb0" source="id-a15f36b4c71c42f7b1e32202c4a39efb" target="id-8ffd11b7f7ef427ca3627d25e9c64674" archimateRelationship="id-5fa98e8d793649dd873c79b2469b3f0d"/>
+          <child xsi:type="archimate:DiagramObject" id="id-bdcc589e2f4442b28dc49300b5acabaf" targetConnections="id-1646e8d371c344e6b8fca77822398d45 id-10378ea3aca042d1a8a5c2ab82f6b034" archimateElement="id-394ee0bd05434137936db971b8b422a6">
+            <bounds x="192" y="110" width="165" height="44"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-328d0c5f972245ebb2cba96860ccbd2c" targetConnections="id-1ec651e5044940408399b669d89b9563 id-b596264ab74f4629a8eb5e5cc8f9265c" archimateElement="id-ca2d3995ecee4d708280a8449c84957b">
+            <bounds x="192" y="67" width="165" height="44"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0a8f25134b0a4e0385085bdbb6ce15fa" targetConnections="id-9262419e1cdb46fe88069862d7e48df4 id-fb4a97139204473a901d34ec1628602b" archimateElement="id-9b165f53552545e2b972cfbfeff82a6b">
+            <bounds x="12" y="24" width="165" height="44"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-bcebddf811074d93ad1f814c521808a7" targetConnections="id-92b3d992330a46208e9dc15fc1a54b4d id-5b30dd29b20b4bc8beb35bc6f7e1261d" archimateElement="id-870cf43caf934fbd9b9c063593cce6a8">
+            <bounds x="12" y="110" width="165" height="44"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-025d5b0d12974d548d6fd481fd7d4e94" targetConnections="id-e441e4206c21459e8db602c47f02bb02 id-f469862e7f8540c1bc4c22ba9f17f1dd" archimateElement="id-d782ebba746a4c2b8b3aacb9740c191a">
+            <bounds x="192" y="24" width="165" height="44"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-8ffd11b7f7ef427ca3627d25e9c64674" targetConnections="id-400418d6b6b04f04ae9891e8e5154bb0 id-de62fda1981a4c8aa8c56558226be354" archimateElement="id-e82fa2f535794b1b879553e7c81e9468">
+            <bounds x="12" y="67" width="165" height="44"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-93093ba2d210482c99c2c915776ff6bb" archimateElement="id-14677629c6e540f292c50ba869294a8a">
+          <bounds x="574" y="564" width="165" height="44"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-6e00c8c2cfa0433e8024584dc7f19ea9" textAlignment="1" archimateElement="id-3f0ad39d33594ca4a88c06925518bc77">
+          <bounds x="816" y="645" width="185" height="313"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-62e85a1ee4ce454a8be08ce90e95ab2d" source="id-6e00c8c2cfa0433e8024584dc7f19ea9" target="id-f3335444c2bd4d76962c83d46b0e8760" archimateRelationship="id-30481e98a0f04c94b57c52490516a64a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-944ced369e9b4ad1bbc90dcb74ba482f" source="id-6e00c8c2cfa0433e8024584dc7f19ea9" target="id-74748439a6c944e48db1d34d8edcfabe" archimateRelationship="id-5b05361357b54291aab03d79bdc56a8a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-59fa1659a0e54ad5965269d13e603d6e" source="id-6e00c8c2cfa0433e8024584dc7f19ea9" target="id-fee434d45bc84882a901eb11d43a0f23" archimateRelationship="id-767c475f02c74a3d9694246abd17305e"/>
+          <child xsi:type="archimate:DiagramObject" id="id-f3335444c2bd4d76962c83d46b0e8760" targetConnections="id-62e85a1ee4ce454a8be08ce90e95ab2d" archimateElement="id-79f2c07d4cd749e8b1e4fbadae650bcd">
+            <bounds x="12" y="132" width="165" height="67"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-74748439a6c944e48db1d34d8edcfabe" targetConnections="id-944ced369e9b4ad1bbc90dcb74ba482f" archimateElement="id-4f52768ffb1f4238b693786fab866276">
+            <bounds x="12" y="27" width="165" height="100"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-fee434d45bc84882a901eb11d43a0f23" targetConnections="id-59fa1659a0e54ad5965269d13e603d6e" archimateElement="id-1f4e984411a549719bd4f6c6edbeaac5">
+            <bounds x="12" y="208" width="165" height="99"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a538954c225b4064a523401977eac1d7" targetConnections="id-ad0f56e1e0634e9194a14c1d809e97a1" archimateElement="id-576dac51744f42179188d78863840f2c">
+          <bounds x="362" y="648" width="132" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3938f99fd62142aab927d74b67b7716f" archimateElement="id-c5aa6bbe5fa84a41afd61509201bb4ca">
+          <bounds x="206" y="648" width="132" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ad0f56e1e0634e9194a14c1d809e97a1" source="id-3938f99fd62142aab927d74b67b7716f" target="id-a538954c225b4064a523401977eac1d7" archimateRelationship="id-f2f33757d0a445d6b2369bad4e55f4af"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b2e4a85daaf84567afa40b4b6e72e3f8" archimateElement="id-e895176663fe41d1b24ab38c3dddc376">
+          <bounds x="59" y="960" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-fb4a97139204473a901d34ec1628602b" source="id-b2e4a85daaf84567afa40b4b6e72e3f8" target="id-0a8f25134b0a4e0385085bdbb6ce15fa" archimateRelationship="id-a965d241f45e4344aabc6065ff4105af"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-6fcb0cbcf26f485482edf9a4a00cfb81" archimateElement="id-760ee5fb35974a59b4918d12099f1c2f">
+          <bounds x="156" y="960" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-de62fda1981a4c8aa8c56558226be354" source="id-6fcb0cbcf26f485482edf9a4a00cfb81" target="id-8ffd11b7f7ef427ca3627d25e9c64674" archimateRelationship="id-3beb3457091d4faa907c6deef852ff13"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-fee77f7766254e9783a0a6f1cffb4515" archimateElement="id-71485dabe98c4253a04201756df2b341">
+          <bounds x="251" y="960" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5b30dd29b20b4bc8beb35bc6f7e1261d" source="id-fee77f7766254e9783a0a6f1cffb4515" target="id-bcebddf811074d93ad1f814c521808a7" archimateRelationship="id-ab2aaa4f199e4144bfa712ee1a602de4"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-f8349c02bc07448fa9d4e0386da729b0" archimateElement="id-034360d551e74ce5b1841b21fc078c52">
+          <bounds x="340" y="960" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f469862e7f8540c1bc4c22ba9f17f1dd" source="id-f8349c02bc07448fa9d4e0386da729b0" target="id-025d5b0d12974d548d6fd481fd7d4e94" archimateRelationship="id-c23a7a94ff874d95af0dbd6f8337d44b"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-eabdef5902584cfd947b604c2b3b2746" archimateElement="id-3252c4c1a25748eebf4322e69ab2261c">
+          <bounds x="432" y="960" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b596264ab74f4629a8eb5e5cc8f9265c" source="id-eabdef5902584cfd947b604c2b3b2746" target="id-328d0c5f972245ebb2cba96860ccbd2c" archimateRelationship="id-1c991ce8ac214e1ba714ac6ec4b80bc4"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-af7b1a6d9cc14f30a6135350a860183d" archimateElement="id-847a092666604a6dbea1dfb37cc1e7ca">
+          <bounds x="528" y="960" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-10378ea3aca042d1a8a5c2ab82f6b034" source="id-af7b1a6d9cc14f30a6135350a860183d" target="id-bdcc589e2f4442b28dc49300b5acabaf" archimateRelationship="id-50a0cf1320254bcb8570f3e387953111"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-18086e18431c4a3fada1453abf74bbc7" archimateElement="id-fde45f2436b34b1491dd68bd0c37116b">
+          <bounds x="192" y="1044" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a3256bfb08fc400c84c587874652bed0" archimateElement="id-fb44b382542943bc82002f6234606a2b">
+          <bounds x="362" y="1044" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-37a9b65df7ac40329886d811667104a9" archimateElement="id-32f946d51bfa40ec8b7bdd4f33089c07">
+          <bounds x="275" y="1116" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-7fb515615477489f963b6ee228d682ea" archimateElement="id-2a7ea12364a44842afdf327fb8d09779">
+          <bounds x="275" y="1176" width="120" height="55"/>
         </child>
       </element>
     </folder>
