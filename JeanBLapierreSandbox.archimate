@@ -1594,9 +1594,96 @@ Published on 29 May 2025</documentation>
     <element xsi:type="archimate:CourseOfAction" name="Strike Co-Operation Agreements With Every Interested Province and Territory Within Six Months To Realize Goal: 'One Project, One Review'" id="id-4cee6536743d408dbb0fad17f9486c92">
       <documentation>The Government will also strike co-operation agreements with every interested province and territory within six months to realize its goal of “one project, one review.” </documentation>
     </element>
-    <element xsi:type="archimate:CourseOfAction" name="Course of Action" id="id-d1e7a17bbfdb4b6e8b1400b81df1de76"/>
-    <element xsi:type="archimate:CourseOfAction" name="Course of Action" id="id-5f53e416b1f7464ea84d736ef75fdb77"/>
-    <element xsi:type="archimate:CourseOfAction" name="Course of Action" id="id-913da4c2ceb147da86c08ef3a6faa037"/>
+    <element xsi:type="archimate:CourseOfAction" name="Remove Barriers Holding Back Canada's Economy, To Unleash A New Era Of Growth" id="id-d1e7a17bbfdb4b6e8b1400b81df1de76">
+      <documentation>By removing these barriers that have held back our economy, we will unleash a new era of growth that will ensure we don’t just survive ongoing trade wars, but emerge from them stronger than ever.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Build An Industrial Strategy" id="id-5f53e416b1f7464ea84d736ef75fdb77">
+      <documentation>To build an industrial strategy that will make Canada more globally competitive, while fighting climate change.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Build 100,000's of Good Skilled Trade Careers" id="id-913da4c2ceb147da86c08ef3a6faa037">
+      <documentation>To build hundreds of thousands of good careers in the skilled trades.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Build Canada Into The World’s Leading Hub for Science and Innovation" id="id-740686c1b4a3457d90ca34a1e08e1f40">
+      <documentation>And to build Canada into the world’s leading hub for science and innovation</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Double The Home Building Rate, Create A New Canadian Housing Industry" id="id-53283d02071f477e81c108816798e825">
+      <documentation>Critically, the Government will undertake a series of measures to help double the rate of home building while creating an entirely new housing industry – using Canadian technology, Canadian skilled workers, and Canadian lumber.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Create Build Canada Homes, To Accelerate Development of New Affordable Housing" id="id-e4d6b9bcc024481db27d56605fb107ef">
+      <documentation>The Government will introduce measures to deliver affordable homes by creating Build Canada Homes. This mission-driven organization will act to accelerate the development of new affordable housing. It will invest in the growth of the prefabricated and modular housing industry. And it will provide significant financing to affordable home builders. The Government will make the housing market work better, including by cutting municipal development charges in half for all multi-unit housing. The Government will drive supply up to bring housing costs down.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Legislate Enhanced Security at Canada's Borders" id="id-a5185369e9064fc1bda49f1eab9c2b31">
+      <documentation>To be truly strong, Canada must be secure. To that end, the Government will introduce legislation to enhance security at Canada’s borders. Law enforcement and intelligence agencies will have new tools to stop the flow of fentanyl and its precursors. The Canada Border Services Agency will be given new powers to examine goods destined for export, to prevent the transport of illegal and stolen products, including cars.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Rebuild, Rearm, and Reinvest in the Canadian Armed Forces" id="id-bcb61bc7f10f426c974aa0af1dd8b4a8">
+      <documentation>The Government will protect Canada’s sovereignty by rebuilding, rearming, and reinvesting in the Canadian Armed Forces. It will boost Canada’s defence industry by joining ReArm Europe, to invest in transatlantic security with Canada’s European partners. And it will invest to strengthen its presence in the North, which is an integral part of Canada, as this region faces new threats.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Protect Canadians and Their Sovereign Rights, At Home Or Abroad" id="id-8798372dd1b04897b0484a4aed075d29">
+      <documentation>The Government will discharge its duty to protect Canadians and their sovereign rights, from wherever challenges may come at home or abroad. To keep communities safe, the Government will hire 1,000 more RCMP personnel. It will change firearms licensing and strengthen enforcement of yellow and red flag laws. Weapons licences for those convicted of intimate partner violence and those subject to protection orders will be revoked. Through the deployment of scanners, drones and helicopters, additional personnel, and K-9 teams, the Government will stem the tide of illegal guns and drugs across the border.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Hire 1,000 More RCMP Personnel" id="id-badb37c5457341fbabc6830692c09fed">
+      <documentation>To keep communities safe, the Government will hire 1,000 more RCMP personnel. </documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Change Firearms Licensing" id="id-02110201d7984759bdd4bf7fbc5d1944">
+      <documentation>It will change firearms licensing and strengthen enforcement of yellow and red flag laws. Weapons licences for those convicted of intimate partner violence and those subject to protection orders will be revoked. </documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Stem The Tide of Illegal Guns and Drugs Across the Border" id="id-ce25c43f9ce84425babcfc537c20331b">
+      <documentation>Through the deployment of scanners, drones and helicopters, additional personnel, and K-9 teams, the Government will stem the tide of illegal guns and drugs across the border.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Protect The Rights of Law-Abiding Gun Owners and Indigenous Peoples’ Hunting Traditions" id="id-c49ff925423b4a079fba0410bd864f7c">
+      <documentation>It will take these steps while protecting the rights of law-abiding gun owners and Indigenous Peoples’ longstanding hunting traditions.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Toughen the Criminal Code to Make Bail Harder To Get For Repeat Offenders" id="id-4f5b55d3ee154ab0ab743034cdc2a963">
+      <documentation>The Government will bring a renewed focus on car theft and home invasions by toughening the Criminal Code to make bail harder to get for repeat offenders charged with committing these crimes, along with human trafficking and drug smuggling.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Protect Institutions That Bring Canada's Cultures and Identity To The World" id="id-c0b39d02002e4843b2e3abea8e424e4c">
+      <documentation>The French language and the Quebec culture are at the heart of the Canadian identity. They define the country that Canadians and I love so much. Canada is a country that respects and celebrates its official languages and Indigenous languages. The Government is determined to protect the institutions that bring these cultures and this identity to the world, like CBC/Radio-Canada.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Protect Agricultural Producers" id="id-15baa25f25924a3bae11f80824056430">
+      <documentation>It will protect the people who give us access to fresh, healthy, and quality food: agricultural producers. And it will protect supply management.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Protect Supply Management" id="id-31fc22b987024de8b77842424f1568c5">
+      <documentation>It will protect the people who give us access to fresh, healthy, and quality food: agricultural producers. And it will protect supply management.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Follow Guidance of Fiscal Discipline: Spend Less So Canadians Can Invest More" id="id-231f5f0754974779a0cdc04e9dc973ce">
+      <documentation>In all of its actions, the Government will be guided by a new fiscal discipline: spend less so Canadians can invest more.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Bring Government Operating Budget Growth To Below 2%" id="id-22f93c0ff02f4e4a840def35662f28f1">
+      <documentation>Day-to-day government spending – the government’s operating budget – has been growing by nine percent every year. The Government will introduce measures to bring it below two percent. </documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Maintain Transfers to Provinces, Territories and Individuals" id="id-2bd53321517a465eb2b7c5fa6bce7b4a">
+      <documentation>Transfers to provinces, territories, or individuals will be maintained.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Balance The Operating Budget" id="id-6b08de1058984c0aa3789970bae45177">
+      <documentation>The Government will balance its operating budget over the next three years by cutting waste, capping the public service, ending duplication, and deploying technology to improve public sector productivity.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Cut Waste" id="id-0c8e5cf865074cbbbd35a8fb520ff948">
+      <documentation>The Government will balance its operating budget over the next three years by cutting waste, capping the public service, ending duplication, and deploying technology to improve public sector productivity.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Cap the Public Service" id="id-92eb23afe50348889314e9a334ccc0f0">
+      <documentation>The Government will balance its operating budget over the next three years by cutting waste, capping the public service, ending duplication, and deploying technology to improve public sector productivity.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="End Duplication" id="id-6d565528a66049749fac6771b5d03c5b">
+      <documentation>The Government will balance its operating budget over the next three years by cutting waste, capping the public service, ending duplication, and deploying technology to improve public sector productivity.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Invest In Creating Better Jobs and Higher Incomes For Canadians" id="id-b58885a1b9d14194b428ef777cc26d40">
+      <documentation>In parallel, the Government will take a series of measures to catalyse new investment to create better jobs and higher incomes for Canadians. The scale of the Government’s initiative will match the challenges of our times and the ambitions of Canadians.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Advance Commitment To Reconciliation" id="id-266c0fc7e0db47c3a46291d7fa4ac048">
+      <documentation>The Government will be a reliable partner to Indigenous Peoples, upholding its fundamental commitment to advancing reconciliation. Central to this commitment is the creation of long-term wealth and prosperity with Indigenous Peoples. For that reason, the Government will double the Indigenous Loan Guarantee Program from $5 billion to $10 billion – enabling more Indigenous communities to become owners of major projects. As Canada moves forward with nation-building projects, the Government will always be firmly guided by the principle of free, prior, and informed consent. </documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Deploy Technology To Improve Public Sector Productivity" id="id-e57246cf91de4241b0f79c62795d8efa">
+      <documentation>The Government will balance its operating budget over the next three years by cutting waste, capping the public service, ending duplication, and deploying technology to improve public sector productivity.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Double the Indigenous Loan Guarantee Program from $5B to $10B" id="id-bf592b5d561247f992b24ed14478fad8">
+      <documentation>Central to this commitment is the creation of long-term wealth and prosperity with Indigenous Peoples. For that reason, the Government will double the Indigenous Loan Guarantee Program from $5 billion to $10 billion – enabling more Indigenous communities to become owners of major projects. As Canada moves forward with nation-building projects, the Government will always be firmly guided by the principle of free, prior, and informed consent. </documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Restore Balance To Canada's Immigration System" id="id-86f04f8314f6419ea6a6b5153565ae5c">
+      <documentation>Canada’s immigration system has long been a source of pride for Canadians and of dynamism for the economy. The Government is dedicated to rebuilding the trust of Canadians in immigration by restoring balance to the system.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Cap the Total Number of Temporary Foreign Workers and International Students to &lt;5% of Canada’s Population by 2027" id="id-7d3b76203a7647a59f405c69abf7c8b9">
+      <documentation>The Government will cap the total number of temporary foreign workers and international students to less than five percent of Canada’s population by 2027. By doing this, the Government will attract the best talent in the world to build our economy, while sending a clear message to Canadians working abroad that there is no better time to come home.</documentation>
+    </element>
   </folder>
   <folder name="Business" id="id-fb9c94c240434273aa6d6f5df1a73407" type="business">
     <element xsi:type="archimate:BusinessEvent" name="EA Requests SAS Feedback" id="id-a7ebf3b84a7545f6a5b2e8eaca445cb6"/>
@@ -7354,7 +7441,6 @@ In parallel, the Government will take a series of measures to catalyse new inves
     <element xsi:type="archimate:Assessment" name="Canada’s Relationships With Partners Are Changing" id="id-be741456411345e0b93719a454bc4492">
       <documentation>The system of open global trade that, while not perfect, has helped to deliver prosperity for Canadians for decades, is changing. Canada’s relationships with partners are also changing.</documentation>
     </element>
-    <element xsi:type="archimate:Meaning" name="Meaning" id="id-2ee22ab37fc942799ce9e9a2973c30fb"/>
     <element xsi:type="archimate:Driver" name="A Need To Establish Decision Making Authorities, Roles and Responsibilities For Data in the Government of Canada (Driver)" id="id-9ed3054b316e44848a95412bf1ad26c3">
       <documentation>The 2018 Report to the Clerk of the Privy Council: A Data Strategy Roadmap for the Federal Public Service identified the need to establish decision making authorities, roles, and responsibilities for data in the Government of Canada.</documentation>
     </element>
@@ -7437,6 +7523,19 @@ In parallel, the Government will take a series of measures to catalyse new inves
     <element xsi:type="archimate:Assessment" name="Canadian Dental Care Plan Expansion Covers Eight Million Canadians" id="id-95540a16e8ab4efa838db2035ebfe112">
       <documentation>The Government will protect the programs that are already saving families thousands of dollars every year. These include child care and pharmacare. In addition to these, the Government has recently expanded the Canadian Dental Care Plan to cover about eight million Canadians, saving the average person more than $800 per year.</documentation>
     </element>
+    <element xsi:type="archimate:Outcome" name="Enable Canada To Become The World's Leading Energy Superpower" id="id-6a239d0e3d694a57b0ea53d9822e8364">
+      <documentation>It will enable Canada to become the world’s leading energy superpower in both clean and conventional energy.</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="Make Canada More Globally Competitive" id="id-e12fe5cf24f84b9d9909729d9d55b788">
+      <documentation>To build an industrial strategy that will make Canada more globally competitive, while fighting climate change.</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="Fight Climate Change" id="id-08a910444b0f4f32a4237bcd0bc43e6b">
+      <documentation>To build an industrial strategy that will make Canada more globally competitive, while fighting climate change.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="To be truly strong, Canada must be secure" id="id-6cf78bdd3a0b4181a8652b78f6c35516"/>
+    <element xsi:type="archimate:Value" name="When Canadians come together, Canada builds things that last" id="id-2468dc23988946038f85e3e8071f2c2d"/>
+    <element xsi:type="archimate:Value" name="The True North is indeed strong and free!" id="id-2b1a6dfc73cf4741bea9b16b0f3f204c"/>
+    <element xsi:type="archimate:Value" name="The Government will always protect the rights and freedoms that the Charter guarantees for every Canadian" id="id-07fa1e08e486474789489e1f63e01489"/>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Gap" name="Unmanaged Data (Gap)" id="id-ed4e79d466fd4551a90d4cbfb6784e74">
@@ -9772,6 +9871,18 @@ The sub-committee is co-chaired by at least one CDOC member.</documentation>
     <element xsi:type="archimate:AssignmentRelationship" id="id-02a60667db954296900cdf24c1ce6fbe" source="id-09c8ca4c504c4329a86bb45d03ba96b0" target="id-fde45f2436b34b1491dd68bd0c37116b"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-43584c50d9c14621a650b8e1944bc08a" source="id-b162a875bc314ae68d8c352e48f5e957" target="id-68fbfd278bca482e8f7c2f6d77afa12d"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-e85bcf25b5f843ad8cfc89e37667b893" source="id-b162a875bc314ae68d8c352e48f5e957" target="id-9189b3f83fd646aab45b92acd115940c"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-466e5b091f3f4169846a14e6aa614fd2" source="id-d1e7a17bbfdb4b6e8b1400b81df1de76" target="id-6a239d0e3d694a57b0ea53d9822e8364"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-24c664ccea464825bc32cb86de9c5872" source="id-5f53e416b1f7464ea84d736ef75fdb77" target="id-e12fe5cf24f84b9d9909729d9d55b788"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-3ac15f05c64b49adb86794f5f65d3535" source="id-5f53e416b1f7464ea84d736ef75fdb77" target="id-08a910444b0f4f32a4237bcd0bc43e6b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-08fb5ea1680249eeae3ca6fa8c74be0c" source="id-8798372dd1b04897b0484a4aed075d29" target="id-badb37c5457341fbabc6830692c09fed"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-20fc6abad8fc45e09d26c458002d29a7" source="id-8798372dd1b04897b0484a4aed075d29" target="id-02110201d7984759bdd4bf7fbc5d1944"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2d4c80547bb744e28e3f38783b7175de" source="id-8798372dd1b04897b0484a4aed075d29" target="id-ce25c43f9ce84425babcfc537c20331b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e9c43881968742078cf59eeeba0b6d47" source="id-8798372dd1b04897b0484a4aed075d29" target="id-c49ff925423b4a079fba0410bd864f7c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e41c398af3cc4590b26ca97d9986ebe0" source="id-6b08de1058984c0aa3789970bae45177" target="id-92eb23afe50348889314e9a334ccc0f0"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-928e2f2924cc42ca927de80919a7c16b" source="id-6b08de1058984c0aa3789970bae45177" target="id-0c8e5cf865074cbbbd35a8fb520ff948"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-1b9404b039994e07be11d76a6d31cfc7" source="id-6b08de1058984c0aa3789970bae45177" target="id-6d565528a66049749fac6771b5d03c5b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c8227b6ac1c841b3a2a844aa66c458de" source="id-6b08de1058984c0aa3789970bae45177" target="id-e57246cf91de4241b0f79c62795d8efa"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-097d5b5262504878b59e77c134b55965" source="id-266c0fc7e0db47c3a46291d7fa4ac048" target="id-bf592b5d561247f992b24ed14478fad8"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -15756,7 +15867,7 @@ v0.1.20250616</content>
           <content>DIAGRAM NOT ENDORSED</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-c6ed69af1cb54c8f97d9acc9b7e495fc" archimateElement="id-4ec6891e1ca841c6b7ef123a3ccda96d">
-          <bounds x="324" y="156" width="217" height="398"/>
+          <bounds x="324" y="156" width="217" height="419"/>
           <child xsi:type="archimate:DiagramObject" id="id-99fed48b76194d57af249f80b2c4af82" archimateElement="id-bb7857f21bd74663a08971d6a6891d1d">
             <bounds x="24" y="48" width="173" height="73"/>
           </child>
@@ -15768,7 +15879,7 @@ v0.1.20250616</content>
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-9e162c520bcc4a9490c1c6a328fc15be" archimateElement="id-617a9f0e419d43ecad2c81812ac2be5f">
-          <bounds x="552" y="156" width="217" height="398"/>
+          <bounds x="552" y="156" width="217" height="419"/>
           <child xsi:type="archimate:DiagramObject" id="id-b05c778a0766435993b1ec6493d48cc5" archimateElement="id-b162a875bc314ae68d8c352e48f5e957">
             <bounds x="24" y="48" width="173" height="193"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-78aa8669157b4c7f810f5e5c97cd966b" source="id-b05c778a0766435993b1ec6493d48cc5" target="id-57072cd2fef74032b93aefce7ba78c28" archimateRelationship="id-43584c50d9c14621a650b8e1944bc08a"/>
@@ -15788,7 +15899,7 @@ v0.1.20250616</content>
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-fe334090a2e04583bc3cb0c388c9d073" archimateElement="id-3b39161d3aa04407a1eb981026fba674">
-          <bounds x="780" y="156" width="409" height="398"/>
+          <bounds x="780" y="156" width="610" height="419"/>
           <child xsi:type="archimate:DiagramObject" id="id-cd6dedc0999145ce9c71f64f078801e5" archimateElement="id-fb2141ed6a884a26a25a1fcb6766f813">
             <bounds x="24" y="204" width="173" height="61"/>
           </child>
@@ -15802,17 +15913,147 @@ v0.1.20250616</content>
             <bounds x="24" y="270" width="173" height="74"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-42b2b97ef35e46a48fd93f4e2a6bd096" archimateElement="id-4cee6536743d408dbb0fad17f9486c92">
-            <bounds x="216" y="48" width="173" height="115"/>
+            <bounds x="408" y="48" width="173" height="115"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-bc08796d7fa249d79200ee3d8d735d1e" archimateElement="id-d1e7a17bbfdb4b6e8b1400b81df1de76">
+            <bounds x="216" y="48" width="173" height="168"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-b46e485fea604a6e91754b7fc20ca0a5" source="id-bc08796d7fa249d79200ee3d8d735d1e" target="id-b864480c78c34c8ca56e1ef223bbcc1c" archimateRelationship="id-466e5b091f3f4169846a14e6aa614fd2"/>
+            <child xsi:type="archimate:DiagramObject" id="id-b864480c78c34c8ca56e1ef223bbcc1c" targetConnections="id-b46e485fea604a6e91754b7fc20ca0a5" archimateElement="id-6a239d0e3d694a57b0ea53d9822e8364">
+              <bounds x="12" y="72" width="150" height="86"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-46e3936aaedf42b884c6611e39365479" archimateElement="id-5f53e416b1f7464ea84d736ef75fdb77">
+            <bounds x="216" y="228" width="173" height="146"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-0705d5ed6cda43bc902cb6af17062a18" source="id-46e3936aaedf42b884c6611e39365479" target="id-eae03053417449088ce8291171997557" archimateRelationship="id-24c664ccea464825bc32cb86de9c5872"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-de64eead2a9340668166e5faad21f9bd" source="id-46e3936aaedf42b884c6611e39365479" target="id-370da71eeb8e40f38365a3520e8e0fbb" archimateRelationship="id-3ac15f05c64b49adb86794f5f65d3535"/>
+            <child xsi:type="archimate:DiagramObject" id="id-eae03053417449088ce8291171997557" targetConnections="id-0705d5ed6cda43bc902cb6af17062a18" archimateElement="id-e12fe5cf24f84b9d9909729d9d55b788">
+              <bounds x="12" y="36" width="150" height="53"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-370da71eeb8e40f38365a3520e8e0fbb" targetConnections="id-de64eead2a9340668166e5faad21f9bd" archimateElement="id-08a910444b0f4f32a4237bcd0bc43e6b">
+              <bounds x="12" y="96" width="150" height="40"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-2c82d78e9a754cca954ca3b6e4245e7d" archimateElement="id-913da4c2ceb147da86c08ef3a6faa037">
+            <bounds x="24" y="348" width="173" height="43"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5980ebaaf17b43e8b9c022213363d2f9" archimateElement="id-740686c1b4a3457d90ca34a1e08e1f40">
+            <bounds x="408" y="168" width="173" height="70"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7e1edee9cf75440c828658b84fff5608" archimateElement="id-53283d02071f477e81c108816798e825">
+            <bounds x="408" y="244" width="173" height="73"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7b854a3ae31d41079f13b2a65f182c87" archimateElement="id-e4d6b9bcc024481db27d56605fb107ef">
+            <bounds x="408" y="322" width="173" height="72"/>
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-650d7f7acf514af7bf1520db87d8c858" archimateElement="id-e0b5e46690954c528c5132f6e7127c20">
-          <bounds x="325" y="648" width="216" height="229"/>
+          <bounds x="325" y="588" width="412" height="445"/>
+          <child xsi:type="archimate:DiagramObject" id="id-ff490a0149514e06abea96152d6deb97" archimateElement="id-a5185369e9064fc1bda49f1eab9c2b31">
+            <bounds x="24" y="48" width="173" height="56"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-20112b0cf002489388832e1c8c7d5578" archimateElement="id-bcb61bc7f10f426c974aa0af1dd8b4a8">
+            <bounds x="24" y="108" width="173" height="73"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-c347a9e74adc4a819cbf1be30597c164" archimateElement="id-8798372dd1b04897b0484a4aed075d29">
+            <bounds x="216" y="48" width="173" height="313"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-8c5172fae84847dcaba6e311c2613ed8" source="id-c347a9e74adc4a819cbf1be30597c164" target="id-944d82d7ec3443ab8ae2df816167b0a6" archimateRelationship="id-08fb5ea1680249eeae3ca6fa8c74be0c"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-f505c779ca304c7a8817313d175258d4" source="id-c347a9e74adc4a819cbf1be30597c164" target="id-43a229bccb694da498a0eaec7d7b4e87" archimateRelationship="id-20fc6abad8fc45e09d26c458002d29a7"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-995d57e74d7b4bf286bb1ff4a63873f6" source="id-c347a9e74adc4a819cbf1be30597c164" target="id-6bb8630c1e2843e0a151eadfbad39d7e" archimateRelationship="id-2d4c80547bb744e28e3f38783b7175de"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-3e1b22a6db1a4397b5809dcc48c4e10d" source="id-c347a9e74adc4a819cbf1be30597c164" target="id-8c664a82acef484d8e88a8f3dc7245f6" archimateRelationship="id-e9c43881968742078cf59eeeba0b6d47"/>
+            <child xsi:type="archimate:DiagramObject" id="id-944d82d7ec3443ab8ae2df816167b0a6" targetConnections="id-8c5172fae84847dcaba6e311c2613ed8" archimateElement="id-badb37c5457341fbabc6830692c09fed">
+              <bounds x="13" y="54" width="150" height="41"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-43a229bccb694da498a0eaec7d7b4e87" targetConnections="id-f505c779ca304c7a8817313d175258d4" archimateElement="id-02110201d7984759bdd4bf7fbc5d1944">
+              <bounds x="13" y="94" width="150" height="39"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-6bb8630c1e2843e0a151eadfbad39d7e" targetConnections="id-995d57e74d7b4bf286bb1ff4a63873f6" archimateElement="id-ce25c43f9ce84425babcfc537c20331b">
+              <bounds x="13" y="132" width="150" height="73"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-8c664a82acef484d8e88a8f3dc7245f6" targetConnections="id-3e1b22a6db1a4397b5809dcc48c4e10d" archimateElement="id-c49ff925423b4a079fba0410bd864f7c">
+              <bounds x="13" y="204" width="150" height="97"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f818f6369e0e4c26812379f0588f0950" archimateElement="id-4f5b55d3ee154ab0ab743034cdc2a963">
+            <bounds x="24" y="192" width="173" height="73"/>
+          </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-055f320bfe594ccb8e73ada5e68293fd" archimateElement="id-f141ad084b89423a89131779ff68df12">
-          <bounds x="552" y="648" width="469" height="193"/>
+          <bounds x="748" y="588" width="441" height="445"/>
+          <child xsi:type="archimate:DiagramObject" id="id-7f6be0fafcf944548a1c2bba4c970f95" archimateElement="id-c0b39d02002e4843b2e3abea8e424e4c">
+            <bounds x="24" y="48" width="173" height="73"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-4a180ea85358427699904de218f9caac" archimateElement="id-31fc22b987024de8b77842424f1568c5">
+            <bounds x="24" y="182" width="173" height="37"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-51f6b52923e64a108b8de37be3eea63e" archimateElement="id-15baa25f25924a3bae11f80824056430">
+            <bounds x="24" y="132" width="173" height="39"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d68a4801068b460980493854138f6eea" targetConnections="id-9be5ec36d1384a3eb4936b9f27d8d4f2" archimateElement="id-139e3b91750b4dc88918ecc99fcdae2b">
+            <bounds x="216" y="145" width="196" height="240"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-13f5e9cb66f84e198b98469ec2a14c34" source="id-d68a4801068b460980493854138f6eea" target="id-3c07275109b143799d5251d5f1ff89ca" archimateRelationship="id-f9258f8fe8944ddb9cc4192ee3cd827a"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-8afd6c547a2b45e5907307d4c359f608" source="id-d68a4801068b460980493854138f6eea" target="id-200a5d9529374df99e1edf4f63129908" archimateRelationship="id-6d3298d8bf0942a9bc547f2d3c5ba27e"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-708753e9d63546f48d35e8eb4ddb1cba" source="id-d68a4801068b460980493854138f6eea" target="id-8b658896fedd44d5b36af0fe0f717b21" archimateRelationship="id-bf4f9f9ca6ef4321aa353c537a7de2e4"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-fc100dbbe4b94202b39fc582bc69b3aa" source="id-d68a4801068b460980493854138f6eea" target="id-b058da4b834f4d9bac32dce08d3d686a" archimateRelationship="id-df09628307424b63809b805b3932c059"/>
+            <child xsi:type="archimate:DiagramObject" id="id-3c07275109b143799d5251d5f1ff89ca" targetConnections="id-13f5e9cb66f84e198b98469ec2a14c34" archimateElement="id-2ceed8894fd14545a952df4c678cc3b4">
+              <bounds x="12" y="60" width="173" height="36"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-200a5d9529374df99e1edf4f63129908" targetConnections="id-8afd6c547a2b45e5907307d4c359f608" archimateElement="id-3218979a97894868bdb693fbba0f130f">
+              <bounds x="12" y="149" width="173" height="36"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-8b658896fedd44d5b36af0fe0f717b21" targetConnections="id-708753e9d63546f48d35e8eb4ddb1cba" archimateElement="id-931393849d424c5ba9ed053161db5ff5">
+              <bounds x="12" y="195" width="173" height="36"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-b058da4b834f4d9bac32dce08d3d686a" targetConnections="id-fc100dbbe4b94202b39fc582bc69b3aa" archimateElement="id-989f30d2c2064aa1b440bf69f75c546b">
+              <bounds x="12" y="104" width="173" height="36"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-4660ca05ad05475f9f87c43b818b9e53" archimateElement="id-266c0fc7e0db47c3a46291d7fa4ac048">
+            <bounds x="24" y="228" width="173" height="133"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-2682ebc582174784b5e08d73dbae9f6e" source="id-4660ca05ad05475f9f87c43b818b9e53" target="id-fce47f0e3bfc4507897f7ab39af7ce8c" archimateRelationship="id-097d5b5262504878b59e77c134b55965"/>
+            <child xsi:type="archimate:DiagramObject" id="id-fce47f0e3bfc4507897f7ab39af7ce8c" targetConnections="id-2682ebc582174784b5e08d73dbae9f6e" archimateElement="id-bf592b5d561247f992b24ed14478fad8">
+              <bounds x="11" y="38" width="150" height="85"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e6e8b452c3fc493faf2c9f4944bb32a1" archimateElement="id-86f04f8314f6419ea6a6b5153565ae5c">
+            <bounds x="24" y="372" width="173" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-68726857c6f44b74a8069fe5a5b7f119" archimateElement="id-7d3b76203a7647a59f405c69abf7c8b9">
+            <bounds x="216" y="48" width="196" height="84"/>
+          </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-5e63c6dd3061453788a171731bf54290" archimateElement="id-4bb64a6c3eb844d18d57251a771ae7ed">
-          <bounds x="1032" y="648" width="385" height="277"/>
+          <bounds x="1200" y="588" width="412" height="445"/>
+          <child xsi:type="archimate:DiagramObject" id="id-117725bd3300468b955d099ac11ea272" archimateElement="id-231f5f0754974779a0cdc04e9dc973ce">
+            <bounds x="24" y="48" width="173" height="73"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b816faa1d70e4cb9ad5347d137a83549" archimateElement="id-22f93c0ff02f4e4a840def35662f28f1">
+            <bounds x="24" y="132" width="173" height="52"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3c6ffaca8a1c4b00987b2e9bde0e48cb" archimateElement="id-6b08de1058984c0aa3789970bae45177">
+            <bounds x="216" y="48" width="173" height="213"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-ecf256429d9244d7b27170e54626520d" source="id-3c6ffaca8a1c4b00987b2e9bde0e48cb" target="id-589470d1f6ee427c936c78e2031e11a4" archimateRelationship="id-e41c398af3cc4590b26ca97d9986ebe0"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-9186b3f719d149b295338a3b955a9cfc" source="id-3c6ffaca8a1c4b00987b2e9bde0e48cb" target="id-5c693291eba649e4887fb189cccc6560" archimateRelationship="id-928e2f2924cc42ca927de80919a7c16b"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-5d53254467fd45ea93f070076b9a4b49" source="id-3c6ffaca8a1c4b00987b2e9bde0e48cb" target="id-46614d55fd5248b0a2298c44f9aef30c" archimateRelationship="id-1b9404b039994e07be11d76a6d31cfc7"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-b6284057224a44b7b95d6d1f335416c6" source="id-3c6ffaca8a1c4b00987b2e9bde0e48cb" target="id-b82ecd49ae754b6a814f533a58a7bdc9" archimateRelationship="id-c8227b6ac1c841b3a2a844aa66c458de"/>
+            <child xsi:type="archimate:DiagramObject" id="id-589470d1f6ee427c936c78e2031e11a4" targetConnections="id-ecf256429d9244d7b27170e54626520d" archimateElement="id-92eb23afe50348889314e9a334ccc0f0">
+              <bounds x="12" y="67" width="150" height="39"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-5c693291eba649e4887fb189cccc6560" targetConnections="id-9186b3f719d149b295338a3b955a9cfc" archimateElement="id-0c8e5cf865074cbbbd35a8fb520ff948">
+              <bounds x="12" y="36" width="150" height="23"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-46614d55fd5248b0a2298c44f9aef30c" targetConnections="id-5d53254467fd45ea93f070076b9a4b49" archimateElement="id-6d565528a66049749fac6771b5d03c5b">
+              <bounds x="12" y="108" width="150" height="21"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-b82ecd49ae754b6a814f533a58a7bdc9" targetConnections="id-b6284057224a44b7b95d6d1f335416c6" archimateElement="id-e57246cf91de4241b0f79c62795d8efa">
+              <bounds x="12" y="132" width="150" height="73"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-13607c4308854865be04b7cd6e7fb31f" archimateElement="id-2bd53321517a465eb2b7c5fa6bce7b4a">
+            <bounds x="24" y="192" width="173" height="59"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d04a37f86fdf4acaa2ae913947de552c" archimateElement="id-b58885a1b9d14194b428ef777cc26d40">
+            <bounds x="24" y="260" width="173" height="61"/>
+          </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-4df3fb2d3a8a4c9ca195dc7a117047b6" archimateElement="id-7408e148041749bb80871fa4e3b2f59e">
           <bounds x="924" y="6" width="173" height="70"/>
@@ -15821,55 +16062,33 @@ v0.1.20250616</content>
           <bounds x="924" y="84" width="173" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-95945f8675454141bb9b50178ce63401" archimateElement="id-4dff5ae57fe547fcb0771672d75426dc">
-          <bounds x="1644" y="17" width="173" height="100"/>
+          <bounds x="72" y="828" width="173" height="100"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-b25fa14e404849d98430fba220ac38f6" archimateElement="id-eeb78cbc70e942b182946b67551b7931">
           <bounds x="1104" y="6" width="173" height="70"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-49ee97a056e7442685a346c29b5562cf" archimateElement="id-5b955de5d67541789bc5eeec474e66be">
-          <bounds x="1464" y="12" width="173" height="110"/>
+          <bounds x="72" y="708" width="173" height="110"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-cb4f204664854f3a9fee46f9c5c9288b" archimateElement="id-ed840d7eaf4d446587e7e5b7c243e865">
           <bounds x="1284" y="7" width="173" height="120"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-07b962643cee442d9e0fef44d5e4a9d6" archimateElement="id-520c56938c984bd6a4e0acf7639f2090">
-          <bounds x="1452" y="168" width="192" height="180"/>
+          <bounds x="1420" y="138" width="192" height="180"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-9a0b6a3b93324f879786203640e0250f" source="id-07b962643cee442d9e0fef44d5e4a9d6" target="id-97f5f420db994e239e7f6195601898da" archimateRelationship="id-97dcfd16dc2941dcab602adc3737afd9"/>
           <child xsi:type="archimate:DiagramObject" id="id-97f5f420db994e239e7f6195601898da" targetConnections="id-9a0b6a3b93324f879786203640e0250f" archimateElement="id-d66240a2aca84f9ab773001fc99b4e12">
             <bounds x="12" y="48" width="173" height="119"/>
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-b90383ea5587423f89e0b6282352b46d" archimateElement="id-7a57fa8125c1436fbbf4b5ea1356720d">
-          <bounds x="1692" y="493" width="197" height="48"/>
+          <bounds x="72" y="936" width="173" height="48"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-9be5ec36d1384a3eb4936b9f27d8d4f2" source="id-b90383ea5587423f89e0b6282352b46d" target="id-d68a4801068b460980493854138f6eea" archimateRelationship="id-ff367271440d4e789b00c4073d58f86a"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-d68a4801068b460980493854138f6eea" targetConnections="id-9be5ec36d1384a3eb4936b9f27d8d4f2" archimateElement="id-139e3b91750b4dc88918ecc99fcdae2b">
-          <bounds x="1692" y="564" width="196" height="240"/>
-          <sourceConnection xsi:type="archimate:Connection" id="id-13f5e9cb66f84e198b98469ec2a14c34" source="id-d68a4801068b460980493854138f6eea" target="id-3c07275109b143799d5251d5f1ff89ca" archimateRelationship="id-f9258f8fe8944ddb9cc4192ee3cd827a"/>
-          <sourceConnection xsi:type="archimate:Connection" id="id-8afd6c547a2b45e5907307d4c359f608" source="id-d68a4801068b460980493854138f6eea" target="id-200a5d9529374df99e1edf4f63129908" archimateRelationship="id-6d3298d8bf0942a9bc547f2d3c5ba27e"/>
-          <sourceConnection xsi:type="archimate:Connection" id="id-708753e9d63546f48d35e8eb4ddb1cba" source="id-d68a4801068b460980493854138f6eea" target="id-8b658896fedd44d5b36af0fe0f717b21" archimateRelationship="id-bf4f9f9ca6ef4321aa353c537a7de2e4"/>
-          <sourceConnection xsi:type="archimate:Connection" id="id-fc100dbbe4b94202b39fc582bc69b3aa" source="id-d68a4801068b460980493854138f6eea" target="id-b058da4b834f4d9bac32dce08d3d686a" archimateRelationship="id-df09628307424b63809b805b3932c059"/>
-          <child xsi:type="archimate:DiagramObject" id="id-3c07275109b143799d5251d5f1ff89ca" targetConnections="id-13f5e9cb66f84e198b98469ec2a14c34" archimateElement="id-2ceed8894fd14545a952df4c678cc3b4">
-            <bounds x="12" y="60" width="173" height="36"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="id-200a5d9529374df99e1edf4f63129908" targetConnections="id-8afd6c547a2b45e5907307d4c359f608" archimateElement="id-3218979a97894868bdb693fbba0f130f">
-            <bounds x="12" y="149" width="173" height="36"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="id-8b658896fedd44d5b36af0fe0f717b21" targetConnections="id-708753e9d63546f48d35e8eb4ddb1cba" archimateElement="id-931393849d424c5ba9ed053161db5ff5">
-            <bounds x="12" y="195" width="173" height="36"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="id-b058da4b834f4d9bac32dce08d3d686a" targetConnections="id-fc100dbbe4b94202b39fc582bc69b3aa" archimateElement="id-989f30d2c2064aa1b440bf69f75c546b">
-            <bounds x="12" y="104" width="173" height="36"/>
-          </child>
-        </child>
         <child xsi:type="archimate:DiagramObject" id="id-f3acc55f1f1f429c98aeaa5ebc9f8376" archimateElement="id-b907c48c433042b58ba1c6e318281c25">
-          <bounds x="1454" y="396" width="173" height="45"/>
+          <bounds x="1429" y="330" width="173" height="45"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-b6dd70c03cde4a8cb4763eea04ca0f91" archimateElement="id-be741456411345e0b93719a454bc4492">
-          <bounds x="1454" y="444" width="173" height="60"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-36505c010d82426baaa9bb0d3663ab1c" archimateElement="id-2ee22ab37fc942799ce9e9a2973c30fb">
-          <bounds x="1131" y="84" width="120" height="55"/>
+          <bounds x="1429" y="389" width="173" height="60"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-f0c2d810d554442a87e3b51389666f7f" archimateElement="id-a6347690863045759d166e04a2647932">
           <bounds x="4" y="156" width="304" height="55"/>
@@ -15883,14 +16102,17 @@ v0.1.20250616</content>
         <child xsi:type="archimate:DiagramObject" id="id-1986af2862864954813f8ea31c8c3986" archimateElement="id-b26904317b854a2d85f81824eb5c18e0">
           <bounds x="4" y="335" width="304" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-bc08796d7fa249d79200ee3d8d735d1e" archimateElement="id-d1e7a17bbfdb4b6e8b1400b81df1de76">
-          <bounds x="1224" y="193" width="173" height="84"/>
+        <child xsi:type="archimate:DiagramObject" id="id-0e5f743fb65548f49cb2a24dd8b90807" archimateElement="id-6cf78bdd3a0b4181a8652b78f6c35516">
+          <bounds x="72" y="440" width="173" height="40"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-46e3936aaedf42b884c6611e39365479" archimateElement="id-5f53e416b1f7464ea84d736ef75fdb77">
-          <bounds x="1216" y="293" width="173" height="84"/>
+        <child xsi:type="archimate:DiagramObject" id="id-c5ba6b68be04497d9c527a4b09ae3f8d" archimateElement="id-2468dc23988946038f85e3e8071f2c2d">
+          <bounds x="72" y="488" width="173" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-2c82d78e9a754cca954ca3b6e4245e7d" archimateElement="id-913da4c2ceb147da86c08ef3a6faa037">
-          <bounds x="1232" y="384" width="173" height="84"/>
+        <child xsi:type="archimate:DiagramObject" id="id-d9e9b9db7eb34ee0bb4289395aa825f3" archimateElement="id-2b1a6dfc73cf4741bea9b16b0f3f204c">
+          <bounds x="72" y="553" width="173" height="43"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b2557422920a4533b06d91577ba7a197" archimateElement="id-07fa1e08e486474789489e1f63e01489">
+          <bounds x="72" y="608" width="173" height="94"/>
         </child>
         <documentation>https://www.canada.ca/en/privy-council/campaigns/speech-throne/2025/building-canada-strong.html&#xD;
 &#xD;
