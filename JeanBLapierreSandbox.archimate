@@ -1684,6 +1684,27 @@ Published on 29 May 2025</documentation>
     <element xsi:type="archimate:CourseOfAction" name="Cap the Total Number of Temporary Foreign Workers and International Students to &lt;5% of Canada’s Population by 2027" id="id-7d3b76203a7647a59f405c69abf7c8b9">
       <documentation>The Government will cap the total number of temporary foreign workers and international students to less than five percent of Canada’s population by 2027. By doing this, the Government will attract the best talent in the world to build our economy, while sending a clear message to Canadians working abroad that there is no better time to come home.</documentation>
     </element>
+    <element xsi:type="archimate:Resource" name="ISSO SMMT Investment Proposal Document" id="id-accb8c2cd1e2485680f709ef6838f15d">
+      <documentation>https://014gc.sharepoint.com/:b:/r/sites/EDATeamADE/EDAADE/ASSESSMENT-%C3%89VALUATION/FOR%20EARB-Pour%20CEAE/ISSO%20Social%20Media%20Management%20Tool/ESDC%20Investment%20Proposal%20PDF%20Report_20250703.pdf</documentation>
+    </element>
+    <element xsi:type="archimate:Resource" name="ISSO SMMT Concept Case Document" id="id-48f09b32807e412b9370e9740e7a2fcd">
+      <documentation>https://014gc.sharepoint.com/:w:/r/sites/EDATeamADE/EDAADE/ASSESSMENT-%C3%89VALUATION/FOR%20EARB-Pour%20CEAE/ISSO%20Social%20Media%20Management%20Tool/PP-ConceptCase-SMMSProcurement-20250703_final_draft_rev.docx</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Undergo An RFP Process" id="id-79158ea2b78c40a4acdd1792c2d58157">
+      <documentation>This proposal aims to start the procurement activities needed to re-compete the SMMS contract, including posting a request for proposals (RFP).&#xD;
+The objective is to give all companies a fair opportunity to provide the SMMS offering and ensure the new contract is awarded in 2026.&#xD;
+In going back to market to compete the SMMS contract through a fair, competitive process, ESDC/SC aims to:&#xD;
+• maintain SMMS that enable GC departments to publish, schedule, gather analytics, and monitor topics of interest on social media content&#xD;
+• support federal institutions in meeting departmental communications objectives and the information needs of Canadians&#xD;
+• meet legislative requirements</documentation>
+    </element>
+    <element xsi:type="archimate:Capability" name="Information Management" id="id-33dbb7bbeefd4afdb1dfc56b395a0f7d">
+      <documentation>Type: Supporting&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:Capability" name="Content Management" id="id-3c9079e4b371472db1e5c94aedec5b98">
+      <documentation>Type: Core Delivery</documentation>
+    </element>
   </folder>
   <folder name="Business" id="id-fb9c94c240434273aa6d6f5df1a73407" type="business">
     <element xsi:type="archimate:BusinessEvent" name="EA Requests SAS Feedback" id="id-a7ebf3b84a7545f6a5b2e8eaca445cb6"/>
@@ -4306,6 +4327,18 @@ Integrity Case Management system | In Production | 896 | https://dialogue.spprod
     <element xsi:type="archimate:TechnologyInteraction" name="MyEMS PeopleSoft &amp; NAKISA Integration Enhancements (Technology Interaction)" id="id-2968ada406de4c4a8b493f466b59c001"/>
     <element xsi:type="archimate:TechnologyProcess" name="Case Management (Technology Process)" id="id-50554dcdde9f45bb828038ff9949296f"/>
     <element xsi:type="archimate:SystemSoftware" name="MyESDC HR (System Software)" id="id-c3b7000bf3b1476a9b7a13d352a948f1"/>
+    <element xsi:type="archimate:SystemSoftware" name="Social Media Management Tool" id="id-a68fc8296c5d4b7f814bc7389b0055a6">
+      <documentation>1. Social Media Management Tool&#xD;
+Allows users to publish live and scheduled social media content as well as engage with audiences, monitor topics of interests, and gather analytics.</documentation>
+    </element>
+    <element xsi:type="archimate:SystemSoftware" name="Social Media Analytics Tool" id="id-b8ab0831882a40b7a44e94fd9c5c7d2b">
+      <documentation>2. Social Media Analytics Tool&#xD;
+Allows users to measure content metrics from their owned social media accounts while also creating custom metrics to monitor specific goals.</documentation>
+    </element>
+    <element xsi:type="archimate:SystemSoftware" name="Social Media Listening Tool" id="id-bfa590e584b84498b1b8e72faed5343c">
+      <documentation>3. Social Media Listening Tool&#xD;
+Allows users to monitor and understand engagement on specific topics to inform their content strategy. The SMMS offering (social media management tool, social media analytics tool, social media listening tool) is currently provided by a single Canadian vendor, which increases contract predictability for Canada and reduces contract management overhead costs. The vendor of the SMMS only works with unclassified information and the SMMS only collects publicly available information from third-party platforms.</documentation>
+    </element>
   </folder>
   <folder name="Motivation" id="id-f0d4d184e3724f9581f16c817692f2b0" type="motivation">
     <element xsi:type="archimate:Principle" name="GC EA Principles" id="id-9f1bfe4676814b5b9e0db7e61200311f"/>
@@ -7536,6 +7569,81 @@ In parallel, the Government will take a series of measures to catalyse new inves
     <element xsi:type="archimate:Value" name="When Canadians come together, Canada builds things that last" id="id-2468dc23988946038f85e3e8071f2c2d"/>
     <element xsi:type="archimate:Value" name="The True North is indeed strong and free!" id="id-2b1a6dfc73cf4741bea9b16b0f3f204c"/>
     <element xsi:type="archimate:Value" name="The Government will always protect the rights and freedoms that the Charter guarantees for every Canadian" id="id-07fa1e08e486474789489e1f63e01489"/>
+    <element xsi:type="archimate:Assessment" name="Current SMMS SaaS Contract Ending 2027-03-14" id="id-be544949c9a0495b82dc517b765d0798">
+      <documentation>The current multi-departmental software-as-a-service contract for the Government of Canada (GC) Social Media Management Services (SMMS)[1] ends on March 14, 2027. Initially awarded in 2014 and extended twice, the contract will reach its lifecycle end in 2027 and must be re-competed. There is no possibility to extend the contract further. Employment and Social Development Canada/Service Canada (ESDC/SC) is the technical and project authority for this contract.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Order in Council PC2014-0349 and ESDC Act Mandates ESDC/SC to Administer Social Media Management Services" id="id-e3f6cc61d26845748e9088ad46778e59">
+      <documentation>By virtue of Order in Council (OiC) P.C. 2014-0349 and the ESDC Act,ESDC/SC is mandated to administer the SMMS that enable GC institutions to manage their official social media (SM) accounts.</documentation>
+    </element>
+    <element xsi:type="archimate:Constraint" name="A New SMMS Multidepartmental Software Contract Is To Be Competed and Awarded In 2026" id="id-58493c64842b4d09953b90d9aef93837">
+      <documentation>To comply with legislative requirements and to prevent any disruption in SMMS for 78 GC institutions, a new multidepartmental software contract (competitive) must be awarded in summer-fall 2026.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Ensure 78 GC Organizations Maintain SMMS Capabilities" id="id-36f0618b7ecd4be18e261f96c1c594bd">
+      <documentation>The new contract will ensure that all 78 GC institutions maintain existing SMMS capabilities for their daily communications operations and to meet the information needs of Canadians.&#xD;
+&#xD;
+SMMS capabilities include publishing and scheduling social media content, engaging with audiences, monitoring topics of interest and gathering analytics. The business need for SMMS is anticipated for the foreseeable future as social media platforms are widely used and continue to grow as digital communications channels of choice.</documentation>
+    </element>
+    <element xsi:type="archimate:Driver" name="ESDC/SC Mandate To Administer SMMS as per OiC PC2014-0349, ESDC Act and Communications &amp; Federal Identity Policy" id="id-ca1846d250164c279bcd9ab8a44c5283">
+      <documentation>Policy agenda: ESDC/SC is mandated to administer SMMS as per OiC P.C. 2014-0349, ESDC Act, and Communications and Federal Identity policy instruments.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Uninterrupted Social Media Operations (Lift-And-Shift or Status Quo)" id="id-b9ef3c59d81b41f8a4282515bb3f46b9">
+      <documentation>The procurement activities leading to contract award serve to keep GC social media operations uninterrupted, managed efficiently and securely via the successful SMMS vendor, resulting in a lift-and-shift or status-quo scenario.</documentation>
+    </element>
+    <element xsi:type="archimate:Stakeholder" name="Project Management Advisor" id="id-e10d94aae837406ca4b4341a5c128b05">
+      <documentation>[Enterprise Project Management Office]&#xD;
+(EPMO)Project Management Advisor assigned to re-procurement project.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:Stakeholder" name="SMMS Technical &amp; Project Authority" id="id-6cf49c0c757449869fc82307b9fcb23d">
+      <documentation>Service Canada/Principal Publisher/Social Media Team&#xD;
+Employees on Principal Publisher's social media team administering SMMS, advancing reprocurement efforts, ensuring adherence to social media prescribed processes, and providing one voice to social media platforms on behalf of 78 GC institutions.&#xD;
+The SMMS technical and project authority.</documentation>
+    </element>
+    <element xsi:type="archimate:Stakeholder" name="Privy Council Office" id="id-e9a00f38838d47469dfe5dd892d09895">
+      <documentation>Privy Council Office&#xD;
+The Privy Council Office is responsible for providing leadership, challenge, strategic direction, and coordination of departmental and horizontal communications activities, including government announcements, crisis communications, public opinion research, advertising, social media, web and digital initiatives.</documentation>
+    </element>
+    <element xsi:type="archimate:Stakeholder" name="Business Architecture Expert(s)" id="id-b6c1d496386c4eb495a59a96a1cdb8dd">
+      <documentation>Enterprise Architecture (EARB)&#xD;
+Business architecture experts that support ESDC projects that could meet the GC EARB criteria or that will be presented to GC EARB for approval or awareness.</documentation>
+    </element>
+    <element xsi:type="archimate:Stakeholder" name="Financial Management Advisor (Senior Financial Analyst)" id="id-b96188ecbec348e196ac034f770b2d2b">
+      <documentation>Financial Management Advisor (Senior Financial Analyst) assigned to re-procurement project.</documentation>
+    </element>
+    <element xsi:type="archimate:Stakeholder" name="Public Services and Procurement Canada (PSPC)" id="id-4dc9ff06455249d988cd3a22062880d1">
+      <documentation>Public Services and Procurement Canada (PSPC)&#xD;
+Public Services and Procurement Canada is responsible for issuing all relevant contracts, standing offers, and supply arrangements; managing contract amendments, dispute resolutions, contract terminations and contract close-outs; and reviewing supplier&#xD;
+performance.</documentation>
+    </element>
+    <element xsi:type="archimate:Stakeholder" name="Heads of Communications" id="id-a4b0bb155d9a44ec8531e01e818069cd">
+      <documentation>Heads of Communications&#xD;
+Heads of communications for departments listed in schedule I, I.1 or II of the Financial Administration Act are responsible for ensuring that the official social media management tools administered by Service Canada are used for managing their departmental social media accounts and for collecting analytics.</documentation>
+    </element>
+    <element xsi:type="archimate:Stakeholder" name="GC Social Media employees" id="id-471d308a75da44de9168922ad3ce9884">
+      <documentation>GC Social Media employees&#xD;
+GC employees use the SMMS to manage their official departmental social media accounts.</documentation>
+    </element>
+    <element xsi:type="archimate:Stakeholder" name="Canadian &amp; International Public Accessing Official GC Social Media Accounts" id="id-8a420c16da26445bb5fb0a7449ae23e4">
+      <documentation>Canadian and international public accessing official GC social media accounts&#xD;
+Followers worldwide who access and rely on GC official social media accounts for government information and services 24/7.&#xD;
+NOTE: Individuals who are followers or subscribers of GC official social media accounts are captured in 51M count; however, anyone visiting GC social media accounts has access to and may make use of the information; therefore, the number of people affected is greater than 51M, but cannot be confirmed.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Increase Productivity" id="id-6390687094ff42cb82689f04c96714f0">
+      <documentation>[Non-Financial]&#xD;
+GC can conduct SM operations more efficiently over time with SMMS offering continuously improved enterprise capabilities for publishing, scheduling, analytics and listening.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Reduced Risk Exposure" id="id-d04e75583d91407ab786551661d9823d">
+      <documentation>[Non-Financial]&#xD;
+GC cannot carry out social media operations without SMMS.</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="Reduced Operational Costs" id="id-763810e0910a461c84ef4520b7cc6aca">
+      <documentation>Minimize the risk of not having SMMS available for 78 GC departments.&#xD;
+Related Benefit: 1 - Reduced Risk Exposure</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="Improved Business Continuity Management" id="id-f4345429441b418cb6ad351a9844f5cf">
+      <documentation>Economies of scale for 78 GC departments in SM operations.&#xD;
+Related Benefit: 2 - Increase Productivity</documentation>
+    </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Gap" name="Unmanaged Data (Gap)" id="id-ed4e79d466fd4551a90d4cbfb6784e74">
@@ -8492,6 +8600,10 @@ The sub-committee is co-chaired by at least one CDOC member.</documentation>
 •	Jamal-Rahim, Ambereen (TBS/SCT)&#xD;
 •	Schultz, Christopher (TBS/SCT)&#xD;
 •	Little, Mike (TBS/SCT)</documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="Current Component Social Media Management Services Offering" id="id-68974e4df10b42ad894b9cca6663b3da"/>
+    <element xsi:type="archimate:Grouping" name="ISSO SMMT Stakeholders" id="id-85b348107c0e49ea95c46c8fd5ced8b5">
+      <documentation>A stakeholder is an individual, group or organization that can affect, be affected by, or perceive themselves to be affected by a business need, or an investment outcome. The following is a preliminary outline of this investment and their perception of its expected outcomes.</documentation>
     </element>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
@@ -9883,6 +9995,18 @@ The sub-committee is co-chaired by at least one CDOC member.</documentation>
     <element xsi:type="archimate:CompositionRelationship" id="id-1b9404b039994e07be11d76a6d31cfc7" source="id-6b08de1058984c0aa3789970bae45177" target="id-6d565528a66049749fac6771b5d03c5b"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-c8227b6ac1c841b3a2a844aa66c458de" source="id-6b08de1058984c0aa3789970bae45177" target="id-e57246cf91de4241b0f79c62795d8efa"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-097d5b5262504878b59e77c134b55965" source="id-266c0fc7e0db47c3a46291d7fa4ac048" target="id-bf592b5d561247f992b24ed14478fad8"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-18d8d16ccac5412aa10431cc6d946d90" source="id-68974e4df10b42ad894b9cca6663b3da" target="id-b8ab0831882a40b7a44e94fd9c5c7d2b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4208acd1276a43729a3bf9b86adc7a71" source="id-68974e4df10b42ad894b9cca6663b3da" target="id-bfa590e584b84498b1b8e72faed5343c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a65c3df8c2014a608c3d5753a3a1d710" source="id-68974e4df10b42ad894b9cca6663b3da" target="id-a68fc8296c5d4b7f814bc7389b0055a6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ac45ec91da20471eb03a051f966ff5db" source="id-85b348107c0e49ea95c46c8fd5ced8b5" target="id-4dc9ff06455249d988cd3a22062880d1"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a6feccafbf88479ba8bd0f56f1d75fbe" source="id-85b348107c0e49ea95c46c8fd5ced8b5" target="id-a4b0bb155d9a44ec8531e01e818069cd"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-241c9342b0bc44f18d821aefc1db3df3" source="id-85b348107c0e49ea95c46c8fd5ced8b5" target="id-b96188ecbec348e196ac034f770b2d2b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-bcd3510e10054b9985e206d475df9fb5" source="id-85b348107c0e49ea95c46c8fd5ced8b5" target="id-471d308a75da44de9168922ad3ce9884"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-83dbd5575ab743758910dbf95cd2f3b6" source="id-85b348107c0e49ea95c46c8fd5ced8b5" target="id-e9a00f38838d47469dfe5dd892d09895"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8166ac111dd14caf8e7f04a3608c3335" source="id-85b348107c0e49ea95c46c8fd5ced8b5" target="id-6cf49c0c757449869fc82307b9fcb23d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3fe629b78b9c4142ad8bea86cfd39b73" source="id-85b348107c0e49ea95c46c8fd5ced8b5" target="id-8a420c16da26445bb5fb0a7449ae23e4"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-90c543aa38334374a96e17d74e7336d1" source="id-85b348107c0e49ea95c46c8fd5ced8b5" target="id-e10d94aae837406ca4b4341a5c128b05"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-9c6b72593c974414b435d63f47eec1da" source="id-85b348107c0e49ea95c46c8fd5ced8b5" target="id-b6c1d496386c4eb495a59a96a1cdb8dd"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -17141,6 +17265,130 @@ v0.1.20250603</content>
             <bounds x="12" y="36" width="152" height="55"/>
           </child>
         </child>
+      </element>
+    </folder>
+    <folder name="ISSO" id="id-dfbd0f3a60d24b55bde498b33b5937d5">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="ISSO SMMD Gate 0" id="id-dfea62876dec4649a29356211a50fd8e">
+        <child xsi:type="archimate:Note" id="id-6c8e8068d03a4d9286b11667bf554d74" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="8" y="13" width="445" height="101"/>
+          <content>Archimate View: ISSO Social Media Management Tool (SMMT)&#xD;
+For discussion: Gate 0 Review by CDOB</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-910e4e7da4ca452a8e832568f9050110" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
+          <bounds x="452" y="13" width="289" height="101"/>
+          <content>ISSO SMMT G0</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-d3bfe90030cd458fb7e8eb441659c20b" textAlignment="1">
+          <bounds x="621" y="53" width="120" height="61"/>
+          <content>(DRAFT)&#xD;
+2025-07-07&#xD;
+v0.1.20250819</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-f948f32a84704a4caacfb02d56068bbd" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
+          <bounds x="744" y="10" width="149" height="108"/>
+          <content>DIAGRAM NOT ENDORSED</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-c0a74998ef1447f6b58c083a6b497059" archimateElement="id-be544949c9a0495b82dc517b765d0798">
+          <bounds x="24" y="132" width="145" height="61"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-c9fbf7fa0b2f4048a800aa1642077d68" archimateElement="id-e3f6cc61d26845748e9088ad46778e59">
+          <bounds x="24" y="204" width="145" height="136"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1b30d25c2fff4ba3b7514cfc8782e6e1" archimateElement="id-58493c64842b4d09953b90d9aef93837">
+          <bounds x="180" y="132" width="145" height="106"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-bcb0f449ef2a4deb851a9c61503e793c" archimateElement="id-36f0618b7ecd4be18e261f96c1c594bd">
+          <bounds x="180" y="244" width="145" height="75"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-bedc4d2af81940268329e010fab2f39a" archimateElement="id-ca1846d250164c279bcd9ab8a44c5283">
+          <bounds x="336" y="132" width="145" height="133"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-72fbfe453b6f4578a36352131ecc92d5" textAlignment="1" archimateElement="id-68974e4df10b42ad894b9cca6663b3da">
+          <bounds x="492" y="132" width="168" height="204"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6cccc3fa80154596b8fdd01a57ea3b35" source="id-72fbfe453b6f4578a36352131ecc92d5" target="id-3f70c6d79ca845be8426e628a4fd5054" archimateRelationship="id-18d8d16ccac5412aa10431cc6d946d90"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-674beb30a11f459abac5d88bdf26b342" source="id-72fbfe453b6f4578a36352131ecc92d5" target="id-f2c494f0b5d04f7e878e86f7a19a8a3a" archimateRelationship="id-4208acd1276a43729a3bf9b86adc7a71"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b536e2498ecf4355b00535dc02101a83" source="id-72fbfe453b6f4578a36352131ecc92d5" target="id-83317db2c5c34b92b3dbe5d4f9b4b5c9" archimateRelationship="id-a65c3df8c2014a608c3d5753a3a1d710"/>
+          <child xsi:type="archimate:DiagramObject" id="id-3f70c6d79ca845be8426e628a4fd5054" targetConnections="id-6cccc3fa80154596b8fdd01a57ea3b35" archimateElement="id-b8ab0831882a40b7a44e94fd9c5c7d2b">
+            <bounds x="12" y="107" width="144" height="39"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f2c494f0b5d04f7e878e86f7a19a8a3a" targetConnections="id-674beb30a11f459abac5d88bdf26b342" archimateElement="id-bfa590e584b84498b1b8e72faed5343c">
+            <bounds x="12" y="154" width="144" height="39"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-83317db2c5c34b92b3dbe5d4f9b4b5c9" targetConnections="id-b536e2498ecf4355b00535dc02101a83" archimateElement="id-a68fc8296c5d4b7f814bc7389b0055a6">
+            <bounds x="12" y="60" width="144" height="39"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-e038786b32e54c2991788c8e68033e20" archimateElement="id-accb8c2cd1e2485680f709ef6838f15d">
+          <bounds x="914" y="14" width="154" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1ae03e7ecdd94f7d9bdd047bc37d7311" archimateElement="id-48f09b32807e412b9370e9740e7a2fcd">
+          <bounds x="914" y="78" width="154" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-45ef6fca523441578927f3b58f872fdf" archimateElement="id-79158ea2b78c40a4acdd1792c2d58157">
+          <bounds x="674" y="133" width="159" height="48"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a368061239474dd7a89e2765c74c2188" archimateElement="id-b9ef3c59d81b41f8a4282515bb3f46b9">
+          <bounds x="180" y="324" width="145" height="85"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-64889a00d0d1497b8bd027c686bae8f4" textAlignment="1" archimateElement="id-85b348107c0e49ea95c46c8fd5ced8b5">
+          <bounds x="360" y="348" width="458" height="215"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-540b33a2023b49a0b545ca1de57eebb1" source="id-64889a00d0d1497b8bd027c686bae8f4" target="id-d489782241af4d21ad3eaa42bd0007f1" archimateRelationship="id-ac45ec91da20471eb03a051f966ff5db"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a3e818a005a04604a983053b9dd0f06a" source="id-64889a00d0d1497b8bd027c686bae8f4" target="id-1b0a1495b29d42839f232076e970523b" archimateRelationship="id-a6feccafbf88479ba8bd0f56f1d75fbe"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-aa944f7074d34b138b3daab293015b24" source="id-64889a00d0d1497b8bd027c686bae8f4" target="id-7704d2db129d4bc5b2c97e2fcf747b3b" archimateRelationship="id-241c9342b0bc44f18d821aefc1db3df3"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c766e4ed30784c06887f59a828ee52b3" source="id-64889a00d0d1497b8bd027c686bae8f4" target="id-814b8e4156b14336be385f28377456ad" archimateRelationship="id-bcd3510e10054b9985e206d475df9fb5"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b5cd682409374a339ef7d8fd74ff28bc" source="id-64889a00d0d1497b8bd027c686bae8f4" target="id-0c8e0e23c8154c698232619aaca82cff" archimateRelationship="id-83dbd5575ab743758910dbf95cd2f3b6"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a4ad8539eaf24de5a53180a55d740784" source="id-64889a00d0d1497b8bd027c686bae8f4" target="id-3f0ce58e475b4cffb38efe2bb2cb983f" archimateRelationship="id-8166ac111dd14caf8e7f04a3608c3335"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-caec2565dd2946fdbae9708900ced45c" source="id-64889a00d0d1497b8bd027c686bae8f4" target="id-833f5b6cfff2419692a34ba18ba92657" archimateRelationship="id-3fe629b78b9c4142ad8bea86cfd39b73"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5cf5691a91b6470091bea0301475f33b" source="id-64889a00d0d1497b8bd027c686bae8f4" target="id-a57739fddae64ede8904567fcec5ca69" archimateRelationship="id-90c543aa38334374a96e17d74e7336d1"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-aef1cd886767485086e34e4c824c2df8" source="id-64889a00d0d1497b8bd027c686bae8f4" target="id-3b3574770af1412c88fe98d2f22af57e" archimateRelationship="id-9c6b72593c974414b435d63f47eec1da"/>
+          <child xsi:type="archimate:DiagramObject" id="id-d489782241af4d21ad3eaa42bd0007f1" targetConnections="id-540b33a2023b49a0b545ca1de57eebb1" archimateElement="id-4dc9ff06455249d988cd3a22062880d1">
+            <bounds x="157" y="150" width="145" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1b0a1495b29d42839f232076e970523b" targetConnections="id-a3e818a005a04604a983053b9dd0f06a" archimateElement="id-a4b0bb155d9a44ec8531e01e818069cd">
+            <bounds x="301" y="25" width="145" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7704d2db129d4bc5b2c97e2fcf747b3b" targetConnections="id-aa944f7074d34b138b3daab293015b24" archimateElement="id-b96188ecbec348e196ac034f770b2d2b">
+            <bounds x="157" y="25" width="145" height="72"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-814b8e4156b14336be385f28377456ad" targetConnections="id-c766e4ed30784c06887f59a828ee52b3" archimateElement="id-471d308a75da44de9168922ad3ce9884">
+            <bounds x="301" y="80" width="145" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0c8e0e23c8154c698232619aaca82cff" targetConnections="id-b5cd682409374a339ef7d8fd74ff28bc" archimateElement="id-e9a00f38838d47469dfe5dd892d09895">
+            <bounds x="157" y="98" width="145" height="43"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3f0ce58e475b4cffb38efe2bb2cb983f" targetConnections="id-a4ad8539eaf24de5a53180a55d740784" archimateElement="id-6cf49c0c757449869fc82307b9fcb23d">
+            <bounds x="12" y="86" width="145" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-833f5b6cfff2419692a34ba18ba92657" targetConnections="id-caec2565dd2946fdbae9708900ced45c" archimateElement="id-8a420c16da26445bb5fb0a7449ae23e4">
+            <bounds x="301" y="150" width="145" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a57739fddae64ede8904567fcec5ca69" targetConnections="id-5cf5691a91b6470091bea0301475f33b" archimateElement="id-e10d94aae837406ca4b4341a5c128b05">
+            <bounds x="12" y="24" width="145" height="57"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3b3574770af1412c88fe98d2f22af57e" targetConnections="id-aef1cd886767485086e34e4c824c2df8" archimateElement="id-b6c1d496386c4eb495a59a96a1cdb8dd">
+            <bounds x="12" y="150" width="145" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-91e7bac5074d46609ccecbabb27e5b89" archimateElement="id-6390687094ff42cb82689f04c96714f0">
+          <bounds x="31" y="432" width="131" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-61c3019ce07e450c867486c5597127e5" archimateElement="id-d04e75583d91407ab786551661d9823d">
+          <bounds x="31" y="496" width="131" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-f8435606b83847f6abbcafe936632162" archimateElement="id-763810e0910a461c84ef4520b7cc6aca">
+          <bounds x="173" y="432" width="159" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-765280c0faf9419e988dfcbae445c970" archimateElement="id-f4345429441b418cb6ad351a9844f5cf">
+          <bounds x="173" y="495" width="159" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-d10a1310465241428b8afc55ff311f00" archimateElement="id-33dbb7bbeefd4afdb1dfc56b395a0f7d">
+          <bounds x="674" y="210" width="159" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b314a139ab5145a8a81d020360422805" archimateElement="id-3c9079e4b371472db1e5c94aedec5b98">
+          <bounds x="674" y="273" width="159" height="55"/>
+        </child>
+        <documentation>Chief Financial Officer Branch (CFOB)&#xD;
+Financial Management Advisor (Senior Financial Analyst) assigned to re-procurement project.</documentation>
       </element>
     </folder>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Top-Level Hierarchy of ArchiMate Concepts" id="id-d10f3fb17612466abc4e8fa9563db2a9">
