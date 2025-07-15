@@ -3885,6 +3885,104 @@ The sub-committee is co-chaired by at least one CDOC member. Both co-chairs are 
     <element xsi:type="archimate:BusinessActor" name="Little, Mike (TBS/SCT) (Business Actor)" id="id-da6f68c1f20044fc8df868cdf82b8cbb"/>
     <element xsi:type="archimate:BusinessActor" name="Schultz, Christopher (TBS/SCT) (Business Actor)" id="id-a3bc23ee3c4948a7b726d3b4b2758f6d"/>
     <element xsi:type="archimate:BusinessActor" name="Jamal-Rahim, Ambereen (TBS/SCT) (Business Actor)" id="id-f628c6bc254b43a0b4a3a11212b2e3eb"/>
+    <element xsi:type="archimate:BusinessRole" name="Innovation, Information and Technology Branch (IITB)" id="id-3a57a25fad74449ca614b8f5e9c55995"/>
+    <element xsi:type="archimate:BusinessFunction" name="EDFP Development Lead" id="id-87a426d0f80f4c429dc88f3a69991ac8">
+      <documentation>The Innovation, Information and Technology Branch (IITB) is leading the development, maintenance and operations of the EDFP; </documentation>
+    </element>
+    <element xsi:type="archimate:BusinessFunction" name="EDFP Maintenance &amp; Operations" id="id-dadf13787b124e9aac0ca017eae77c71">
+      <documentation>The Innovation, Information and Technology Branch (IITB) is leading the development, maintenance and operations of the EDFP; </documentation>
+    </element>
+    <element xsi:type="archimate:BusinessFunction" name="EDFP Sponsor &amp; Business Owner" id="id-bc9378d67dd7455c9c2bd81b9385f8c3">
+      <documentation>CDOB serves as the Sponsor, business owner and enabler to support the overall development, user onboarding, adoption and enablement of the platform .</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessFunction" name="EDFP Enabler" id="id-d7d00481bbac43ff88d5e06216f42967">
+      <documentation>CDOB serves as the Sponsor, business owner and enabler to support the overall development, user onboarding, adoption and enablement of the platform .</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Chief Data Officer Branch (CDOB)" id="id-e57468c605d54e8598fa61c9161b4469"/>
+    <element xsi:type="archimate:BusinessCollaboration" name="Multidisciplinary Team From Across CDOB and IITB With Expertise and Connection to the EDFP" id="id-1e8be50c4b23472887dd14b1cf7910b0">
+      <documentation>The EDFP Business Transformation Manager has established a multidisciplinary team assembled from across CDOB and IITB with expertise and connection to the EDFP.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="EDFP Business Transformation Manager" id="id-95e1b1b3c8714e25b110fe6616e6bc87"/>
+    <element xsi:type="archimate:BusinessFunction" name="Deliver Planning and Execution of Client Adoption and Enablement Functions of the EDFP" id="id-9c59d15239344a11808da802c7429d95">
+      <documentation>This group is designed to deliver the planning and execution of all client adoption and enablement functions of the EDFP through the forum of a working group. </documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Programme Manager (Oversight only)" id="id-0df28667d83c4c9ea8f2e98194a9e89f">
+      <documentation>·	Strategic and accountable oversight on behalf of the Programme, reporting directly to the Programme Sponsor.&#xD;
+·	Ensure integration in all aspects of the Programme.&#xD;
+·	Plan and design the programme and proactively monitor its overall progress, resolving issues and initiating corrective action as appropriate.&#xD;
+·	Secondary tier of escalation for blockers and unmitigated risk&#xD;
+·	Issues and risks Manager (R/A)&#xD;
+·	Develop and implement the programme’s governance framework.&#xD;
+·	Delegated decision-making authority on behalf of the Programme Sponsor.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Business Transformation Manager (Chairperson)" id="id-5f781883727343f1b2378e682d2ba881">
+      <documentation>·	Identify any new or emerging risks, issues, or dependencies for discussion and resolution.&#xD;
+·	Ensure that there are no blind spots, duplication or redundancy in current efforts (horizontally).&#xD;
+·	Create and update the EDFP-wide RACI as needed for all operationalization streams of work.&#xD;
+·	Identify and monitor programme dependencies where impacts to enablement may exist.&#xD;
+·	Clear coordination of the adoption and enablement projects and their interdependencies. &#xD;
+·	Manage, triage and delegate communications with stakeholders.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Change Manager / Business Transformation" id="id-7e34aee3c24b429d869f05518d22ddfc">
+      <documentation>·	Develop and gain consensus on the global (Programme level) Organizational Change Management Plan.&#xD;
+·	Develop the training plans for each component, in conjunction with the Subject Matter Experts (SME). &#xD;
+·	Develop, in collaboration with the CDOB communications and engagement team (EDAILE), the communications, awareness and engagement strategies for the EDFP and for each component.&#xD;
+·	Document, in collaboration with the SMEs, the onboarding process(es) for the EDFP.&#xD;
+·	Develop a framework for User Support, in conjunction with the SMEs, User Support teams and other core stakeholders.&#xD;
+·	Develop and execute user surveys to ensure alignment of the platform with the business needs.&#xD;
+·	Plan and implement a Resistance Management Strategy – Early identification of stakeholder concerns, targeted engagement tactics, and support mechanisms&#xD;
+·	Foster ongoing improvement in change management approach</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Enterprise Data Governance" id="id-2ac28058d6f5494daf22633151d51e2e">
+      <documentation>·	Provide updates on the progress of policy/directives and provide communication between the working group and the Enterprise Data and AI Governance division.&#xD;
+·	Inform the WG of the governance model of the EDFP (e.g. data access, data security, etc.).&#xD;
+·	Ensure alignment with data governance of all key deliverables produced for circulation.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Communications &amp; Engagement" id="id-08a0969d5d0b42be9f42caa5dfe7c637">
+      <documentation>·	Provide updates on any messaging/communications strategies in progress, ensure alignment of key messages with the project and programme updates and global strategy and raise any blockers or area(s) where input or collaboration is needed.&#xD;
+·	Assist with key deliverables including standardized use of terminology/language, draft communications and communications strategies, narrative to support the communications products, etc. &#xD;
+·	Maintain communications strategy framework and timeline and coordinate (with the Change Managers) to ensure timelines are in sync and adjust as needed.&#xD;
+·	Ensure messaging remains current and impactful by aligning with communications approaches that maximize audience reach. </documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="EDFP Project Managers(at the component level)" id="id-b0d0987a6246418ba629204574890f1e">
+      <documentation>•	Provide material updates on project-level deliverables including new or recently delivered features, current and/or imminent sprints.&#xD;
+•	Report on blockers, new risks, issues, dependencies in their projects.&#xD;
+•	Maintain global roadmap of each project within the Programme.&#xD;
+•	Responsible for SME input on communications and engagement materials&#xD;
+•	Responsible for developing training and end-user materials (in a variety of formats) in collaboration with the BCM team’s overall strategy. This function, where the process differs, may be shared with the User Support function (below). </documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Data Stewardship" id="id-910a8e39747d4fb297b24de27cbaaf04">
+      <documentation>·	Ensure communication (bi-directional) between the Working Group and the EDSN (Enterprise Data Stewardship Network).&#xD;
+·	Contribute to discussion on training, engagement, risks and benefits.&#xD;
+·	Provide material updates to and from the Lead Data Stewards and Data Stewards. &#xD;
+·	Provide metrics on data assets validated by the Lead Data Stewards.&#xD;
+·	Serve as lines of sight, awareness, communication and escalation from clients.&#xD;
+·	Monitor business stability and ongoing capacity to cope with the level of change and report on obstacles/change aversion and successes.&#xD;
+·	Shared responsibility to develop onboarding process and protocol. </documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Business Analyst and Technical Advisor" id="id-649ef6cd5f4e423fb034954ca1044c31">
+      <documentation>·	Provide insights based on client consultation (current/recently onboarded clients)&#xD;
+·	Document client journey from business problem to be solved, onboarding to the EDFP and realized outcomes&#xD;
+·	Document and present lessons learned based on client experience &#xD;
+·	Identify new or emerging clients to be added to the Client Register</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="User Support (IITB/CDOB)" id="id-ef572e3cc8e34d028926bd3b66c78b23">
+      <documentation>·	Once the user support teams have been stood up, representatives (at the component level, e.g. Data Catalogue, Data Lake, Data Warehouse, etc.) will provide stats and issues relating to user support. This may include number of tickets opened, number of issues outstanding, user feedback/survey results, number of new users onboarded, among others. &#xD;
+·	Responsible for SME input on communications and engagement materials.&#xD;
+·	Responsible for developing training and end-user materials (in a variety of formats) in collaboration with the BCM team’s overall strategy. This function, where the process differs, may be shared with the Project Manager function (above).&#xD;
+&#xD;
+NOTE: This is a new and emerging category and will be further refined as the RACI is developed and user support teams established.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="IT (IITB Project Managers)" id="id-dfb8d289926c460d9be8f7aafcbc5538">
+      <documentation>·	Key partners for the IT solution, component and application development&#xD;
+·	Leading file on User Support, support triage and serve as Tier 1 for Platform level support&#xD;
+·	Identify any blockers or potential constraints with resource availability.&#xD;
+·	Provide updates including current and most recent sprints.&#xD;
+·	Raise any blockers or concerns to provide the group with visibility into technical considerations, risks, delays, dependencies.&#xD;
+·	Provide all technical level user and power user support.&#xD;
+·	Participate in onboarding coordination.&#xD;
+·	Provide key metrics relative to platform use, onboarding, data assets ingested, etc. </documentation>
+    </element>
   </folder>
   <folder name="Application" id="id-4c073bc2342b490eae44200c8635c571" type="application">
     <element xsi:type="archimate:DataObject" name="Drupal-Sourced Data (Data Object)" id="id-a36acbc1b6124a03991eae20826f88c9">
@@ -7691,6 +7789,16 @@ Related Benefit: 2 - Increase Productivity</documentation>
     <element xsi:type="archimate:Constraint" name="Must Provide Web-Based Desktop Solution and Mobile Application Capabilities" id="id-821b15aaf2554565b4dc5d0973d4d64f">
       <documentation>The SMMS must be a Software as a Service (SaaS) that does not require integration with the GC network. It must be a web-based desktop solution with an associated mobile application that provides equivalent functionalities related but not limited to user login and content creation, scheduling, publishing. </documentation>
     </element>
+    <element xsi:type="archimate:Goal" name="Review, provide input and approve the EDFP Adoption and Enablement Plan" id="id-f135dc9ab089408e8b01d703aa1e094c"/>
+    <element xsi:type="archimate:Goal" name="Deliver on identified activities and deliverables" id="id-248cd6cf890c4a389d113c69baff2aa0"/>
+    <element xsi:type="archimate:Goal" name="Actively participate in the meetings, bringing expert advice and input" id="id-e8c499d9163a46cc82fc42c05e9e5fc4"/>
+    <element xsi:type="archimate:Goal" name="Raise risks, issues or blockers that could impact the EDFP Operationalization" id="id-13bbf2280ebe4456a5e77eee8d1bbedc"/>
+    <element xsi:type="archimate:Goal" name="Identify and report on all dependencies" id="id-a8a84248f3ec41679068439d47fb684f"/>
+    <element xsi:type="archimate:Goal" name="Report on progress of the activities" id="id-c3ea04c6dcc04a45a91c80f88970fa50"/>
+    <element xsi:type="archimate:Goal" name="Ensure alignment with EDFP strategic objectives to optimize benefits and outcomes" id="id-4a43fc9a1a2d40db9ea712fc6d42cde3"/>
+    <element xsi:type="archimate:Goal" name="Foster strategic collaboration with key stakeholders to ensure coherence, synergy and alignment across initiatives and between branches" id="id-09d21b1d04ad4947bbe47704ce9b8fd1"/>
+    <element xsi:type="archimate:Value" name="The Enterprise Data Foundation Platform (EDFP) is a key component of the ESDC Data Strategy, delivering on all four pillars of the strategy, with a focus on infrastructure." id="id-844ba026360a4fdf9e1a0aa60019bcdf"/>
+    <element xsi:type="archimate:Value" name="The EDFP enables secure , structured, and scalable, secure access to high-quality data, fostering innovation and supporting evidence-based decision-making through a robust suite of data services and platform components." id="id-a5a480c580614192b17e6d896b192621"/>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Gap" name="Unmanaged Data (Gap)" id="id-ed4e79d466fd4551a90d4cbfb6784e74">
@@ -8666,6 +8774,17 @@ The sub-committee is co-chaired by at least one CDOC member.</documentation>
 •	be able to accommodate future growth with existing GC systems and tools, integrating emerging social media platforms and evolving technologies such as artificial intelligence. </documentation>
     </element>
     <element xsi:type="archimate:Grouping" name="ESDC Business Capabilities v3" id="id-89f72e0d026743ac806b078571cde34c"/>
+    <element xsi:type="archimate:Grouping" name="WORKING GROUP MANDATES" id="id-4527ace8ae424594a37c92e27cadfe70">
+      <documentation>As such, the Working Group is mandated to achieve the following :&#xD;
+•	Review, provide input and approve the EDFP adoption and enablement Plan.&#xD;
+•	Deliver on identified activities and deliverables. &#xD;
+•	Actively participate to in the meetings, bringing expert advice and input.&#xD;
+•	Raise risks, issues or blockers that could impact the EDFP Operationalization.&#xD;
+•	Identify and report on all dependencies.&#xD;
+•	Report on progress of the activities.&#xD;
+•	Ensure alignment with EDFP strategic objectives to optimize benefits and outcomes.&#xD;
+•	Foster strategic collaboration with key stakeholders to ensure coherence, synergy and alignment across initiatives and between branches</documentation>
+    </element>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
     <element xsi:type="archimate:SpecializationRelationship" id="id-1fc9998b537248f0ab8efd6853b77d65" source="id-bbea9bb53b0d449e8af710c22edf18bc" target="id-a7f8beac2a2c416c96b351c66b79510c"/>
@@ -10080,6 +10199,20 @@ The sub-committee is co-chaired by at least one CDOC member.</documentation>
     <element xsi:type="archimate:CompositionRelationship" id="id-d0069984761c46afbcd9db2c6fbfa5f4" source="id-0cface66ac1b4b6db25d6fab5d24feae" target="id-cbd2012081f44f09b31afc547b5cbb26"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-ed9f820a2f964d5eae85a5ea0aacfe95" source="id-89f72e0d026743ac806b078571cde34c" target="id-33dbb7bbeefd4afdb1dfc56b395a0f7d"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-40549056833f4ed6bfbf16dc6cea83da" source="id-89f72e0d026743ac806b078571cde34c" target="id-3c9079e4b371472db1e5c94aedec5b98"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2ccb24654b2f452cbe7da96684e82206" source="id-4527ace8ae424594a37c92e27cadfe70" target="id-c3ea04c6dcc04a45a91c80f88970fa50"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-12cc8817a2874309a2fb9445118714dd" source="id-4527ace8ae424594a37c92e27cadfe70" target="id-09d21b1d04ad4947bbe47704ce9b8fd1"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d7cbaf92d87f48278c548dbd68bc4c8d" source="id-4527ace8ae424594a37c92e27cadfe70" target="id-13bbf2280ebe4456a5e77eee8d1bbedc"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-42dba183a3bc4d4caffb21c2150e69e8" source="id-4527ace8ae424594a37c92e27cadfe70" target="id-e8c499d9163a46cc82fc42c05e9e5fc4"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-786d9db5b87c4ae4ada1fb7a7823cbd5" source="id-4527ace8ae424594a37c92e27cadfe70" target="id-248cd6cf890c4a389d113c69baff2aa0"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-1685cb061bb54dddbdf8e0cb01283bba" source="id-4527ace8ae424594a37c92e27cadfe70" target="id-4a43fc9a1a2d40db9ea712fc6d42cde3"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-49808b0a1d954a229ceaee379cc3613d" source="id-4527ace8ae424594a37c92e27cadfe70" target="id-f135dc9ab089408e8b01d703aa1e094c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-44891c1095bb471294590de940e68d2c" source="id-4527ace8ae424594a37c92e27cadfe70" target="id-a8a84248f3ec41679068439d47fb684f"/>
+    <element xsi:type="archimate:AssignmentRelationship" id="id-fef0b3b080cc42d796c8220a392a18fb" source="id-3a57a25fad74449ca614b8f5e9c55995" target="id-87a426d0f80f4c429dc88f3a69991ac8"/>
+    <element xsi:type="archimate:AssignmentRelationship" id="id-98183badf4714bea8e95b058e5c3c1a0" source="id-3a57a25fad74449ca614b8f5e9c55995" target="id-dadf13787b124e9aac0ca017eae77c71"/>
+    <element xsi:type="archimate:AssignmentRelationship" id="id-14ccb23159d64ee7b4c66155fdec96de" source="id-e57468c605d54e8598fa61c9161b4469" target="id-bc9378d67dd7455c9c2bd81b9385f8c3"/>
+    <element xsi:type="archimate:AssignmentRelationship" id="id-1fbbdbccec0a4bc0a65b051f85d0610d" source="id-e57468c605d54e8598fa61c9161b4469" target="id-d7d00481bbac43ff88d5e06216f42967"/>
+    <element xsi:type="archimate:AssociationRelationship" name="established" id="id-d3d7d233116b4371b8aa183f2df821ed" source="id-95e1b1b3c8714e25b110fe6616e6bc87" target="id-1e8be50c4b23472887dd14b1cf7910b0"/>
+    <element xsi:type="archimate:AssignmentRelationship" id="id-14efe341c3ca4e5bb43882f53550beed" source="id-1e8be50c4b23472887dd14b1cf7910b0" target="id-9c59d15239344a11808da802c7429d95"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -15142,6 +15275,130 @@ Vehicle, Ship, Boat and Aircraft Accidents      PSE 908&#xD;
 Workplace Day Care      PSE 930&#xD;
 &#xD;
 https://www.canada.ca/en/employment-social-development/corporate/transparency/access-information/reports/infosource.html</documentation>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="EDFP WG ToR" id="id-de716d7a6f1e41faa6ef28d21199973c">
+        <child xsi:type="archimate:Note" id="id-32dc91a7fa3c4454a1249df374f00fb5" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="11" y="13" width="445" height="101"/>
+          <content>Archimate View: Enterprise Data Foundations Platform (EDFP) Working Group: Adoption and Enablement (WG:AE) Terms of Reference (ToR)</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-17c98f6b4fad4f6cad42f7ddfc131be5" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
+          <bounds x="455" y="13" width="289" height="101"/>
+          <content>EDFP WG:AE ToR</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-f715c5d00f424e73b3e7a9c688e8f2ed" textAlignment="1">
+          <bounds x="624" y="53" width="120" height="61"/>
+          <content>(DRAFT)&#xD;
+2025-07-15&#xD;
+v1.1.20250299</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-55c37dd40cd84305b0e7b8487126dfad" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
+          <bounds x="747" y="10" width="149" height="108"/>
+          <content>DIAGRAM NOT ENDORSED</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-185a2514765a46c19e3e60b71e87a7b1" textAlignment="1" archimateElement="id-4527ace8ae424594a37c92e27cadfe70">
+          <bounds x="11" y="261" width="397" height="325"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c092424158fb4ceeaa80577a651ef588" source="id-185a2514765a46c19e3e60b71e87a7b1" target="id-797446dc0ab04804b7f13095b9693e7c" archimateRelationship="id-2ccb24654b2f452cbe7da96684e82206"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-33afa831e7164bcb93d1c1cfa054dd0e" source="id-185a2514765a46c19e3e60b71e87a7b1" target="id-5abb34f1b5854da39e7d35231e2aa026" archimateRelationship="id-12cc8817a2874309a2fb9445118714dd"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2a7081a3c1694254baf9f1053de20253" source="id-185a2514765a46c19e3e60b71e87a7b1" target="id-c45e5066bc2347f3b9f6d676887de96d" archimateRelationship="id-d7cbaf92d87f48278c548dbd68bc4c8d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d980a706e7ff4f7fbb3d91b9da1a45f6" source="id-185a2514765a46c19e3e60b71e87a7b1" target="id-88bfc641814d40a195adb1bcfb410fb7" archimateRelationship="id-42dba183a3bc4d4caffb21c2150e69e8"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-bf49909431d74283a307de3b033cc74a" source="id-185a2514765a46c19e3e60b71e87a7b1" target="id-26aa47bb5f7d423c86c94e8398be9369" archimateRelationship="id-786d9db5b87c4ae4ada1fb7a7823cbd5"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-571135ecd30a4848b73841ad52115014" source="id-185a2514765a46c19e3e60b71e87a7b1" target="id-b9d7172c8a1a45ffaa8ad93bf74cb052" archimateRelationship="id-1685cb061bb54dddbdf8e0cb01283bba"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cb428182f72a45fb860e64499bd54306" source="id-185a2514765a46c19e3e60b71e87a7b1" target="id-1bb1ea88d6b444c595d28d5456eed8dd" archimateRelationship="id-49808b0a1d954a229ceaee379cc3613d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-22f8fc847ba34e00ab93350b04be6e8a" source="id-185a2514765a46c19e3e60b71e87a7b1" target="id-48dd59786c514864b22608fe08a3af41" archimateRelationship="id-44891c1095bb471294590de940e68d2c"/>
+          <child xsi:type="archimate:DiagramObject" id="id-797446dc0ab04804b7f13095b9693e7c" targetConnections="id-c092424158fb4ceeaa80577a651ef588" archimateElement="id-c3ea04c6dcc04a45a91c80f88970fa50">
+            <bounds x="204" y="69" width="177" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5abb34f1b5854da39e7d35231e2aa026" targetConnections="id-33afa831e7164bcb93d1c1cfa054dd0e" archimateElement="id-09d21b1d04ad4947bbe47704ce9b8fd1">
+            <bounds x="204" y="201" width="177" height="109"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-c45e5066bc2347f3b9f6d676887de96d" targetConnections="id-2a7081a3c1694254baf9f1053de20253" archimateElement="id-13bbf2280ebe4456a5e77eee8d1bbedc">
+            <bounds x="15" y="237" width="177" height="73"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-88bfc641814d40a195adb1bcfb410fb7" targetConnections="id-d980a706e7ff4f7fbb3d91b9da1a45f6" archimateElement="id-e8c499d9163a46cc82fc42c05e9e5fc4">
+            <bounds x="15" y="174" width="177" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-26aa47bb5f7d423c86c94e8398be9369" targetConnections="id-bf49909431d74283a307de3b033cc74a" archimateElement="id-248cd6cf890c4a389d113c69baff2aa0">
+            <bounds x="15" y="105" width="177" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b9d7172c8a1a45ffaa8ad93bf74cb052" targetConnections="id-571135ecd30a4848b73841ad52115014" archimateElement="id-4a43fc9a1a2d40db9ea712fc6d42cde3">
+            <bounds x="204" y="117" width="177" height="70"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1bb1ea88d6b444c595d28d5456eed8dd" targetConnections="id-cb428182f72a45fb860e64499bd54306" archimateElement="id-f135dc9ab089408e8b01d703aa1e094c">
+            <bounds x="15" y="24" width="177" height="70"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-48dd59786c514864b22608fe08a3af41" targetConnections="id-22f8fc847ba34e00ab93350b04be6e8a" archimateElement="id-a8a84248f3ec41679068439d47fb684f">
+            <bounds x="204" y="24" width="177" height="40"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-2317c5f0ccc14f55b5b843c4eafc4fc7" archimateElement="id-844ba026360a4fdf9e1a0aa60019bcdf">
+          <bounds x="24" y="123" width="229" height="97"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-29c76822721640c889defc36d42735c5" archimateElement="id-a5a480c580614192b17e6d896b192621">
+          <bounds x="264" y="123" width="229" height="133"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-46aad6c8ed7140c68fa14ae2e76a3238" archimateElement="id-3a57a25fad74449ca614b8f5e9c55995">
+          <bounds x="528" y="168" width="177" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-bd4caf4c5ce44ac1a75404b0fe656308" source="id-46aad6c8ed7140c68fa14ae2e76a3238" target="id-16d764f1a7964e899b51681337a539f5" archimateRelationship="id-fef0b3b080cc42d796c8220a392a18fb"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-251a64f647de4c3b8fbf23d7dd9bfe23" source="id-46aad6c8ed7140c68fa14ae2e76a3238" target="id-b83bbf9f636445af9c3041d178e9fb97" archimateRelationship="id-98183badf4714bea8e95b058e5c3c1a0"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-16d764f1a7964e899b51681337a539f5" targetConnections="id-bd4caf4c5ce44ac1a75404b0fe656308" archimateElement="id-87a426d0f80f4c429dc88f3a69991ac8">
+          <bounds x="762" y="132" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b83bbf9f636445af9c3041d178e9fb97" targetConnections="id-251a64f647de4c3b8fbf23d7dd9bfe23" archimateElement="id-dadf13787b124e9aac0ca017eae77c71">
+          <bounds x="762" y="198" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1fc76b9752514caab5c34f2c1ce60d96" targetConnections="id-8dc92923d2fc48d38f3a5b5c017f0b9a" archimateElement="id-bc9378d67dd7455c9c2bd81b9385f8c3">
+          <bounds x="763" y="264" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-204d7bf5a54046f7b7ae8107ac3fc64b" targetConnections="id-e7ab42dea4594c2f9c2a076772fe6b1b" archimateElement="id-d7d00481bbac43ff88d5e06216f42967">
+          <bounds x="763" y="324" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-fa9b84803050484db74ac3aa3bd2b289" archimateElement="id-e57468c605d54e8598fa61c9161b4469">
+          <bounds x="528" y="300" width="177" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8dc92923d2fc48d38f3a5b5c017f0b9a" source="id-fa9b84803050484db74ac3aa3bd2b289" target="id-1fc76b9752514caab5c34f2c1ce60d96" archimateRelationship="id-14ccb23159d64ee7b4c66155fdec96de"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e7ab42dea4594c2f9c2a076772fe6b1b" source="id-fa9b84803050484db74ac3aa3bd2b289" target="id-204d7bf5a54046f7b7ae8107ac3fc64b" archimateRelationship="id-1fbbdbccec0a4bc0a65b051f85d0610d"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-941292e846bb446fa26f2a2a0d5f01c3" targetConnections="id-db10c2b9aae643f4adbe94857b3b2138" archimateElement="id-1e8be50c4b23472887dd14b1cf7910b0">
+          <bounds x="763" y="396" width="189" height="73"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-19e20905094a4fa4a593d3c3ede0009a" source="id-941292e846bb446fa26f2a2a0d5f01c3" target="id-8dac264697cd4338b1ca98036d4ac4e2" archimateRelationship="id-14efe341c3ca4e5bb43882f53550beed"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-21f2b7b25f924a6baf3ecbaa54277818" archimateElement="id-95e1b1b3c8714e25b110fe6616e6bc87">
+          <bounds x="528" y="405" width="129" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-db10c2b9aae643f4adbe94857b3b2138" source="id-21f2b7b25f924a6baf3ecbaa54277818" target="id-941292e846bb446fa26f2a2a0d5f01c3" archimateRelationship="id-d3d7d233116b4371b8aa183f2df821ed"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-8dac264697cd4338b1ca98036d4ac4e2" targetConnections="id-19e20905094a4fa4a593d3c3ede0009a" archimateElement="id-9c59d15239344a11808da802c7429d95">
+          <bounds x="1020" y="393" width="177" height="80"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b53b6cb087cd4fe0bcf75cc7cf746200" archimateElement="id-0df28667d83c4c9ea8f2e98194a9e89f">
+          <bounds x="528" y="504" width="177" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b01f0e00514b48499cb6670454bef2ad" archimateElement="id-5f781883727343f1b2378e682d2ba881">
+          <bounds x="528" y="564" width="177" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-7f56a7b0c16b438cb948d09692c89dfc" archimateElement="id-7e34aee3c24b429d869f05518d22ddfc">
+          <bounds x="528" y="696" width="177" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-5138820027ee4770a384603275f5a233" archimateElement="id-2ac28058d6f5494daf22633151d51e2e">
+          <bounds x="708" y="504" width="177" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-2dbc5b0bd7844257ad99796958ad918e" archimateElement="id-08a0969d5d0b42be9f42caa5dfe7c637">
+          <bounds x="708" y="564" width="177" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-878f761a5da744cca2cfc4fc760e98f6" archimateElement="id-b0d0987a6246418ba629204574890f1e">
+          <bounds x="528" y="630" width="177" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-9b21d990e52845d5b14044a9093959e7" archimateElement="id-910a8e39747d4fb297b24de27cbaaf04">
+          <bounds x="528" y="756" width="177" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-08aa19baea3e4102afd40efce5c9e371" archimateElement="id-649ef6cd5f4e423fb034954ca1044c31">
+          <bounds x="708" y="696" width="177" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-2d476f6fa60d4c32a50c9551d053cc2c" archimateElement="id-ef572e3cc8e34d028926bd3b66c78b23">
+          <bounds x="708" y="756" width="177" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-c4b501abc1dc40c288d6b4192e9314c0" archimateElement="id-dfb8d289926c460d9be8f7aafcbc5538">
+          <bounds x="708" y="630" width="177" height="55"/>
+        </child>
       </element>
     </folder>
     <folder name="GC Language" id="id-43ad03cf472643fb9d735306dc35af0a">
