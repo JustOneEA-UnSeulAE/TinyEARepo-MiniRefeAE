@@ -1745,6 +1745,11 @@ In going back to market to compete the SMMS contract through a fair, competitive
     <element xsi:type="archimate:Capability" name="C8. Build, Publish and Integrate with AI Systems" id="id-9745f18a921b478f92ba5b50f7bc2ba3">
       <documentation>C8. ability to build, publish and integrate with tailored AI Systems</documentation>
     </element>
+    <element xsi:type="archimate:CourseOfAction" name="Existing Analytics Solutions To Be Explored (Course of Action)" id="id-3685871a19b647bb871af34b96ab0d24"/>
+    <element xsi:type="archimate:Capability" name="Service Management (Capability)" id="id-060630a939ae4d4e8a92ca5617cb3b16"/>
+    <element xsi:type="archimate:Capability" name="Campaign Management (Capability)" id="id-f91bf0f97df544abb918f885b54eac8b"/>
+    <element xsi:type="archimate:Capability" name="Information Management (Capability)" id="id-155f007dbf9742f690faa80ecd49ab80"/>
+    <element xsi:type="archimate:Capability" name="Asset Management (Capability)" id="id-fc4a108627dc40f0be445781985cfc6b"/>
   </folder>
   <folder name="Business" id="id-fb9c94c240434273aa6d6f5df1a73407" type="business">
     <element xsi:type="archimate:BusinessEvent" name="EA Requests SAS Feedback" id="id-a7ebf3b84a7545f6a5b2e8eaca445cb6"/>
@@ -4011,6 +4016,36 @@ NOTE: This is a new and emerging category and will be further refined as the RAC
     <element xsi:type="archimate:BusinessRole" name="SPO Administrator" id="id-0da23a2448ab4a228cb2d6a4f184c0c6"/>
     <element xsi:type="archimate:BusinessRole" name="EDA-ADE Collaborators" id="id-55634a984c404f18894e70a8f8ad8b21"/>
     <element xsi:type="archimate:BusinessRole" name="CDOB-DGDPD Collaborators" id="id-abee3e90cb54441e9724ccf06a6826f9"/>
+    <element xsi:type="archimate:BusinessRole" name="Employment and Social Development Canada (ESDC) (Business Role)" id="id-4fcfa6f5796e49a1aef8fdc0085fb79b"/>
+    <element xsi:type="archimate:BusinessCollaboration" name="Twelve Federal Departments, Agencies, and Crown Corps (Business Collaboration)" id="id-8385718bf5114f85be40a9161db0c4fb">
+      <documentation>12 federal departments, agencies, and Crown Corporations&#xD;
+&#xD;
+Federal organizations, departments, &amp; agencies:&#xD;
+• Agriculture and Agri-food Canada;&#xD;
+• Canadian Heritage&#xD;
+• Canada Mortgage and Housing Corporation&#xD;
+• Environment and Climate Change Canada;&#xD;
+• Employment and Social Development Canada;&#xD;
+• Global Affairs Canada;&#xD;
+• Indigenous Services Canada;&#xD;
+• Immigration, Refugees and Citizenship Canada;&#xD;
+• Innovation, Science and Economic Development Canada;&#xD;
+• National Research Council;&#xD;
+• Natural Resources Canada;&#xD;
+• Parks Canada&#xD;
+• Each federal organization is responsible to deliver the YESS within its own&#xD;
+department and under its Minister’s mandate. They are users of the New DCS&#xD;
+in terms of populating administrative and outcome data, and then&#xD;
+transferring to ESDC via the new solution. These organizations will benefit&#xD;
+from a New DCS by allowing them to have a standardized way to transfer and&#xD;
+store the new indicators under the modernized PMF, as well as reduce the&#xD;
+administrative burden on them for data reporting and ad-hoc queries</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessFunction" name="Evaluation Directorate Data Access (Business Function)" id="id-7dfebd5e966c452cbed00a8749e8d0c8">
+      <documentation>This feature would entail access for the Evaluation Directorate to extract data from the solution for summative and mid-cycle evaluations.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Executive Sponsor (Business Role)" id="id-21cc7525782543ab983cdf28ab769cfb"/>
+    <element xsi:type="archimate:BusinessRole" name="Business Owner (Business Role)" id="id-f5f79c118f35496bb01d1d8bb5237fdc"/>
   </folder>
   <folder name="Application" id="id-4c073bc2342b490eae44200c8635c571" type="application">
     <element xsi:type="archimate:DataObject" name="Drupal-Sourced Data (Data Object)" id="id-a36acbc1b6124a03991eae20826f88c9">
@@ -4528,6 +4563,14 @@ Allows users to monitor and understand engagement on specific topics to inform t
 - IT Solutions and dataset generation integrated with published AI Systems&#xD;
 - Responsible use of AI</documentation>
     </element>
+    <element xsi:type="archimate:TechnologyInterface" name="In-House Web Application (Technology Interface)" id="id-50bd80c6734c4dd5a9ddee596b7bf90a">
+      <documentation>This option would use an in-house web application (the Data Gateway) to transfer&#xD;
+the data to ESDC that could be used by all Federal Delivery Partners (FDPs) to&#xD;
+transfer and validate incoming data. This solution would also deposit the&#xD;
+transferred, verified data to a secure repository so that ESDC and the YESS Program&#xD;
+can access and analyze participant-level data from across the horizontal strategy</documentation>
+    </element>
+    <element xsi:type="archimate:SystemSoftware" name="Enterprise Data Lake" id="id-6c7c57de61ee459ca3e946e208837fa1"/>
   </folder>
   <folder name="Motivation" id="id-f0d4d184e3724f9581f16c817692f2b0" type="motivation">
     <element xsi:type="archimate:Principle" name="GC EA Principles" id="id-9f1bfe4676814b5b9e0db7e61200311f"/>
@@ -8018,6 +8061,182 @@ Promote a workplace culture that encourages employee collaboration, experimentat
 Enable employees to seamlessly access the data and information they need to perform meaningful analysis that drives better outcomes for the department and Canadians. By removing access barriers, we can: accelerate evidence-based decision-making ,empower staff to generate insights that improve programs and services, foster a more agile, data-literate workforce, maximize the value of departmental data assets. &#xD;
 This initiative supports a more open, collaborative, and data-driven culture across ESDC.</documentation>
     </element>
+    <element xsi:type="archimate:Stakeholder" name="Canadian Youth (15-30) (Stakeholder)" id="id-b32e2c10aeb64a11963a0718fefd0e1e"/>
+    <element xsi:type="archimate:Requirement" name="Help Develop Skills and Gain Experience To Transition Into the Labour Market (Requirement)" id="id-f79101059d314029851f04888e2f4b05"/>
+    <element xsi:type="archimate:Assessment" name="TBS: Lack of Aggregated Data Makes For Complex Program Improvement, ROI (Assessment)" id="id-decd17987d8443e5a5ef0e481e250377">
+      <documentation>The Treasury Board has also repeatedly indicated that the lack of disaggregated horizontal YESS data makes the process of improving the program or calculating Return-on-Investment (ROI) more difficult.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="5-Year YESS Evaluation: Impossible To Analyze Overall YESS Without Central Data Repository(Assessment)" id="id-5bef0a75737b41ffab40a0df7b434c76">
+      <documentation>This need was reiterated during the five-year evaluation of the YESS program evaluation (both 2023-2024), as the Evaluation team noted that the lack of a centralized data repository made it impossible to analyze the impact of the horizontal YESS.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Pre-2019 DCS: Limitations (Assessment)" id="id-24cf037dab94446187616da6897c60a7">
+      <documentation>The Original DCS (from pre-2019 modernization) had many limitations. This includes its incompatibility with contemporary&#xD;
+business intelligence or analytics software that would allow for more timely and effective use of data to inform program&#xD;
+and policy development; a lack of functionality that allows YESS program staff to easily query data to answer questions&#xD;
+about the program's reach; and a large technical debt, as updating the frontend and the data backend to align to the new&#xD;
+PMF would have been challenging. Additionally, the Original DCS had numerous security issues and was not interoperable&#xD;
+with other data assets or tools at ESDC.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Incompatibility With Modern BI&amp;A Software" id="id-787e11f0035847d2b08a4c97eff966f8">
+      <documentation>incompatibility with contemporary business intelligence or analytics software that would allow for more timely and effective use of data to inform program and policy development;</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="YESS Staff Unable To Effectively Query Key Data" id="id-9e92d9373afd496bbd08fca86ddc0bff">
+      <documentation>a lack of functionality that allows YESS program staff to easily query data to answer questions about the program's reach</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Tech Debt: Challenging To Synch F/E with Data B/E" id="id-c30d18c2472f405fb2fdb42ea60fe300">
+      <documentation>and a large technical debt, as updating the frontend and the data backend to align to the new PMF would have been challenging.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Transfer Data To ESDC (Requirement)" id="id-dfa1744959c7433f8d3b97cd356c51ea"/>
+    <element xsi:type="archimate:Requirement" name="Store Data (Requirement)" id="id-cbfc3dc3bcc1426b9545ee70e761fda0"/>
+    <element xsi:type="archimate:Requirement" name="Validate Data Quality (Requirement)" id="id-4310295752c3487292217fca457a592e"/>
+    <element xsi:type="archimate:Requirement" name="Access Data For Reporting and Basic Analysis (Requirement)" id="id-b8febe3613bb49f3be98d97ee6fe2dd7"/>
+    <element xsi:type="archimate:Requirement" name="MINIMUM Requirements" id="id-9262f246af6e4c79ab6a03fb253673b5">
+      <documentation>...this investment presents significant opportunities for ESDC to make use of digital Business Intelligence tools to better understand the program and generate timely and thorough insights to inform program and policy decisions.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="EA Alignment: Integrate With ESDC Digital Assets, Standardize and Use Data More Effectively (Requirement)" id="id-54080fb1538748d39de9ac2778424c4e">
+      <documentation>It also ensures a solution aligned with broader enterprise architecture and interoperability principles at ESDC. This alignment ensures that the solution will integrate seamlessly with other major digital assets used within the department, increasing the overall value of these investments by providing new opportunities to standardize and use data more effectively to grow the impact of the program.</documentation>
+    </element>
+    <element xsi:type="archimate:Stakeholder" name="Youth Skills Innovation Directorate/SEB" id="id-9a9776cd58a44011a384e0778c50eeb1">
+      <documentation>Youth Skills Innovation Directorate/SEB&#xD;
+YSID staff are responsible for reporting and coordinating YESS performance data on&#xD;
+behalf of the twelve delivery partners. They also act as the YESS lead on the&#xD;
+policy design and objectives. The New DCS will enable YSID to meet its reporting&#xD;
+obligations under the modernized strategy, as well as respond to emerging policy&#xD;
+considerations in a timely and more sophisticated manner.</documentation>
+    </element>
+    <element xsi:type="archimate:Stakeholder" name="Evaluation Directorate/SEB" id="id-63726892da5d4bf49171449f2273a64f">
+      <documentation>Evaluation Directorate/SEB&#xD;
+Conduct audit and summative evaluations of the YESS. They will benefit from the&#xD;
+New DCS by enhancing their ability to work with intermediate outcomes data, as&#xD;
+noted in successive evaluation report in 2020 and 2024. A more cohesive and&#xD;
+comprehensive source of data will strengthen future evaluations.</documentation>
+    </element>
+    <element xsi:type="archimate:Stakeholder" name="Program Operations Branch/SEB" id="id-ea3ac039df3144509d2cf0c79745832c">
+      <documentation>Program Operations Branch/SEB&#xD;
+POB facilitates the management of YESS for ESDC’s contribution agreements and&#xD;
+therefore holds access to the data currently. They will benefit from the&#xD;
+standardization of data collection, for improved coordination of YESS investments,&#xD;
+target setting and bench-marking to other YESS programs, etc. via the rollout of&#xD;
+the proposed New DCS project.</documentation>
+    </element>
+    <element xsi:type="archimate:Stakeholder" name="Federal YESS Partner Departments" id="id-a1d7572c22fc486a8518ab93ba759823">
+      <documentation>Federal organizations, departments, &amp; agencies:&#xD;
+• Agriculture and Agri-food Canada;&#xD;
+• Canadian Heritage&#xD;
+• Canada Mortgage and Housing Corporation&#xD;
+• Environment and Climate Change Canada;&#xD;
+• Employment and Social Development Canada;&#xD;
+• Global Affairs Canada;&#xD;
+• Indigenous Services Canada;&#xD;
+• Immigration, Refugees and Citizenship Canada;&#xD;
+• Innovation, Science and Economic Development Canada;&#xD;
+• National Research Council;&#xD;
+• Natural Resources Canada;&#xD;
+• Parks Canada&#xD;
+• Each federal organization is responsible to deliver the YESS within its own&#xD;
+department and under its Minister’s mandate. They are users of the New DCS&#xD;
+in terms of populating administrative and outcome data, and then&#xD;
+transferring to ESDC via the new solution. These organizations will benefit&#xD;
+from a New DCS by allowing them to have a standardized way to transfer and&#xD;
+store the new indicators under the modernized PMF, as well as reduce the&#xD;
+administrative burden on them for data reporting and ad-hoc queries</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Enhance Senior Management Decision-Making" id="id-16255bc645e34bc99d6b06c1ce87d62b">
+      <documentation>Senior Management benefits from policy/program recommendations that are informed by timelier, higher quality, more complete data.&#xD;
+&#xD;
+Enhance Senior Management decision-making&#xD;
+◦ improved data analysis and reporting,&#xD;
+◦ improved availability of horizontal data (currently there are only aggregate level reports available),&#xD;
+◦ validation against a pre-established schema, improves data quality.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Increase Productivity" id="id-ea23deee4c994ef0914056cff9c54f09">
+      <documentation>Increased efficiency in the production and analysis of data, enhance work flow management.&#xD;
+&#xD;
+Increase productivity&#xD;
+◦ enhanced workflow and workload management,&#xD;
+◦ user-friendly portal for FDPs to upload their data,&#xD;
+◦ metadata about data uploads, error reports available to ESDC,&#xD;
+◦ permissions management handled 'in-house' by the ESDC policy team to ensure smooth implementation.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Reduce Risk Exposure" id="id-b83dd3573d1940fba80442e5ddb39631">
+      <documentation>Reducing risk associated with being unable to comply with evaluation commitments, as well as security and privacy protocols associated with handling protected B data.&#xD;
+&#xD;
+• Reduce risk exposure&#xD;
+◦ enhanced compliance to reporting obligations (Evaluation Directorate, TBS Commitments)&#xD;
+◦ enhanced data security/privacy</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="Enhanced Reporting and Analysis" id="id-aa7c338641154012bc4598949adf0c1b">
+      <documentation>This investment will allow the department to better respond to new priorities and policy changes&#xD;
+by having performance data available in real time while being more effective (at a lower cost over&#xD;
+time) at program reporting requirements.&#xD;
+Related Benefit 6 - Enhance Senior Management Decision Making</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="Enhanced Workflow and Workload Management" id="id-1960ecab73ab41858619a8777fb2f0a2">
+      <documentation>A new platform will reduce the amount of time spent manually inputting, cleaning, aggregating,&#xD;
+and analyzing data. The Data Gateway will automate some of the validation processes that ensure&#xD;
+quality data.&#xD;
+Related Benefit 4 - Increase Productivity</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="Enhanced Compliance to Evaluation Obligations through Data Completeness" id="id-93efe2f1aebc4f73ae03894636bd5689">
+      <documentation>This project represents important improvements to the administration of the YESS that are&#xD;
+required for ESDC to effectively manage and measure performance results under the modernized&#xD;
+YESS and in accordance with commitments made to the Evaluation Directorate in 2019 and 2024.&#xD;
+The system will be able to collect administrative and outcome data under the modernized PMF.&#xD;
+Through data completeness across the horizontal program, higher-quality data will be available to&#xD;
+the Evaluation Directorate.&#xD;
+Related Benefit 7 - Reduce Risk Exposure</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="Improved Data Stewardship Practices" id="id-a5ca012ec6934a76895f791337c9470a">
+      <documentation>A user-friendly platform will allow for increased standardization of data collected and transferred&#xD;
+from delivery partners to ESDC, increasing quality of the data.&#xD;
+Related Benefit 7 - Reduce Risk Exposure</documentation>
+    </element>
+    <element xsi:type="archimate:Constraint" name="IITB Collaboration With Team For Data Storage (Constraint)" id="id-e61d60c44a3a47a7bfb906d1866c4481">
+      <documentation>• IITB would have to work hand in hand with another team (ESDC Data Lake or Sharepoint) responsible for data storage.</documentation>
+    </element>
+    <element xsi:type="archimate:Constraint" name="Sufficient IITB Resources For Dev &amp; Implemention (Constraint)" id="id-83c651f3acfc427e90be5bb36be0714d">
+      <documentation>• IITB having enough resources for development and implementation.</documentation>
+    </element>
+    <element xsi:type="archimate:Constraint" name="Buy-In from All 12 FDPs Into Solution (Constraint)" id="id-a56af19d9d38464785237a8cf80c4b4f">
+      <documentation>• All FDPs buy into the solution.</documentation>
+    </element>
+    <element xsi:type="archimate:Constraint" name="IITB Have Sufficient Resources and Time (Constraint)" id="id-f0472d8a725341c89896049a6abe88d9">
+      <documentation>• IITB has enough resources and time for development and implementation.</documentation>
+    </element>
+    <element xsi:type="archimate:Constraint" name="Solution Can Transfer Data To OGDs (Constraint)" id="id-a300d888d1324c0fb5c01551e9f1b18a">
+      <documentation>• Data Gateway application has the capability to transfer data from other government departments.&#xD;
+&#xD;
+FDP Access To Data&#xD;
+The solution is intended to be a one way data transfer, as all Federal Delivery partners (FDPs) have access to their own data via their one internal data sollection systems.</documentation>
+    </element>
+    <element xsi:type="archimate:Constraint" name="Solution Obtains Protected-B Certification (Constraint)" id="id-8bcbf0d6fc8d4582beeb5cb538b92606">
+      <documentation>• Data Gateway has sufficient privacy and security measures in place to transfer Protected B information.</documentation>
+    </element>
+    <element xsi:type="archimate:Constraint" name="Solution Lacks API Capabilities (Constraint)" id="id-c55aeac4dd0f4fbcbc1ed1dd9bb2888e">
+      <documentation>• Data Gateway does not have API capabilities, should that be a desirable feature in the future.</documentation>
+    </element>
+    <element xsi:type="archimate:Constraint" name="Solution Will Rely On Another Team For Data Storage (Constraint)" id="id-ed0ec4ebc7064695afeda453fa62feac">
+      <documentation>• Data Gateway can transfer the data but another team will ened to be engaged for data storage.</documentation>
+    </element>
+    <element xsi:type="archimate:Constraint" name="Solution Only Allows XML Batch Uploads (Constraint)" id="id-dcc25f10c0594501aa590630be25e37b">
+      <documentation>• Data Gateway does not accept direct data inputs into the system, only batch uploads in XML format.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Lifespan of 10 Years" id="id-f53aefee020e4926983019704adcea2e"/>
+    <element xsi:type="archimate:Meaning" name="Related Risks To Option" id="id-a395432b6e9e4988afba2729296ed0d6">
+      <documentation>2 - Changed client expectations&#xD;
+4 - Inaccurate cost assumptions&#xD;
+5 - Failure to Align with Systems Architecture&#xD;
+6 - Lack of clarity in business requirements&#xD;
+8 - Lack of human resources for project team&#xD;
+9 - Leadership&#xD;
+11 - Scope creep&#xD;
+16 - Delayed solution deployment&#xD;
+17 - Insufficient QC and testing&#xD;
+18 - Insufficient change management&#xD;
+20 - Insufficient time to complete build during sprints&#xD;
+21 - Solution is obsolete&#xD;
+22 - Insufficient project transition &amp; stabilization</documentation>
+    </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Gap" name="Unmanaged Data (Gap)" id="id-ed4e79d466fd4551a90d4cbfb6784e74">
@@ -8409,6 +8628,18 @@ CDOB Strategic Design and Business Transformation Office will coordinate the mee
       <documentation>Reporting&#xD;
 Reports on progress will be submitted to the Programme Manager monthly. This includes an escalation summary, and any action items to be approved, reviewed or actioned by the Programme Manager or Programme Sponsor. </documentation>
     </element>
+    <element xsi:type="archimate:Gap" name="No Central System To Receive Data From 12 Enabling Partners (Gap)" id="id-5b5d40669596499291257e39752f573f">
+      <documentation>Currently, there is no centralized system in place to receive horizontal data from the 12 partners that enable YESS.</documentation>
+    </element>
+    <element xsi:type="archimate:Deliverable" name="Custom-Built Data Intake Portal (Deliverable)" id="id-1aa1ce82bdc6465aa5a6d1a4ca919f1e">
+      <documentation>Several features have been cut to reduce the overall time and funding required to complete the project, such as the custom-built data intake portal, which was originally scoped to allow data entries directly from service providers. This was the costliest element of the Deferred DCS plan, and cutting it trims the project cost down significantly. ESDC does not need to position the Strategy to  receive data directly from external to government sources at this stage, therefore we do not need the higher levels of security (and the higher associated cost).</documentation>
+    </element>
+    <element xsi:type="archimate:Deliverable" name="Advanced Data Analytics Capabilities (Deliverable)" id="id-03fd58c47d7a4a35a5ed8975cf20861d">
+      <documentation>Another removed feature is advanced data analytics capabilities. The analytics layer was the second most costly element of the Deferred DCS plan, and cutting it trims the project costs as well. Existing analytics solutions, such as PowerBI or in-house data analysts, will be explored.&#xD;
+&#xD;
+Advanced business intelligence module for the YESS Policy Division would  allow better insights from performance measurement data to inform decision making and more robust policy analysis/development. This feature would entail the ability to analyze and manipulate the imported participant level data. Out of scope because of time and resource limitations for this project. As long as ESDC has access to disaggregated data, the department can pursue analytics solutions like PowerBI at a later time.</documentation>
+    </element>
+    <element xsi:type="archimate:Deliverable" name="De-Scoped Deliverables" id="id-c82943e8110c4b07b6ea5c4a58e3e19c"/>
   </folder>
   <folder name="Other" id="id-3b6502d62be54bf79bb29134a011622f" type="other">
     <element xsi:type="archimate:Junction" name="Junction" id="id-483568e04e5345cc8bc005461b6854a2" type="or"/>
@@ -9039,6 +9270,13 @@ ANNEX A includes a current list of roles with incumbents.</documentation>
     <element xsi:type="archimate:Grouping" name="OUTCOMES" id="id-bec91cd277e840cdb497b1c43c16314a"/>
     <element xsi:type="archimate:Grouping" name="BENEFITS" id="id-bf4ea363ba714e879ad9da0f367291c5"/>
     <element xsi:type="archimate:Grouping" name="ORGANIZATIONAL OBJECTIVES" id="id-a320b786a5804b49b6644d17afeddce6"/>
+    <element xsi:type="archimate:Grouping" name="STAKEHOLDERS" id="id-52a08851a8a94b8eafd88432a312c28f"/>
+    <element xsi:type="archimate:Grouping" name="BENEFITS" id="id-303aa3f0a81d4c23b84ff546e5d3ce75"/>
+    <element xsi:type="archimate:Grouping" name="OUTCOMES" id="id-bb3bcbb467f741c4a572553bd5541bee"/>
+    <element xsi:type="archimate:Grouping" name="DESIRED OPTION: Data Gateway Based DCS" id="id-077a974e58a940b2b0f0ada07ef4151e"/>
+    <element xsi:type="archimate:Grouping" name="OPTION DEPENDENCIES" id="id-fdd35b6d44f24c63b345d7144c575aa2"/>
+    <element xsi:type="archimate:Grouping" name="OPTION ASSUMPTIONs" id="id-be3b2af9d8274337b85e216db1d6c96c"/>
+    <element xsi:type="archimate:Grouping" name="OPTION CONSTRAINTs" id="id-6870c7f978ab44d18655d3bfc396c967"/>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
     <element xsi:type="archimate:SpecializationRelationship" id="id-1fc9998b537248f0ab8efd6853b77d65" source="id-bbea9bb53b0d449e8af710c22edf18bc" target="id-a7f8beac2a2c416c96b351c66b79510c"/>
@@ -10535,6 +10773,66 @@ ANNEX A includes a current list of roles with incumbents.</documentation>
     <element xsi:type="archimate:CompositionRelationship" id="id-d9f5b1be06d341fc8e452ad46340a102" source="id-a320b786a5804b49b6644d17afeddce6" target="id-e0cf1ed6c68d42a4aef28abb86824c74"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-4de48c996854426aae11e5c995be182d" source="id-a320b786a5804b49b6644d17afeddce6" target="id-5e19e9eab641466ca70523d1cf0f8caa"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-b1fabecaeaf84df5a0e51c90d86fa479" source="id-a320b786a5804b49b6644d17afeddce6" target="id-4842e3a92d7547c8aaf3691cd08a7af1"/>
+    <element xsi:type="archimate:AssociationRelationship" name="In Partnership" id="id-b0d249151aaf49c08b77382ce31fe1ff" source="id-f79101059d314029851f04888e2f4b05" target="id-8385718bf5114f85be40a9161db0c4fb"/>
+    <element xsi:type="archimate:ServingRelationship" id="id-a956db3d08404d009a64da1562d542b4" source="id-8385718bf5114f85be40a9161db0c4fb" target="id-4fcfa6f5796e49a1aef8fdc0085fb79b"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-d32bf339d0f04a5aa5de3ecea4a879ad" source="id-f79101059d314029851f04888e2f4b05" target="id-b32e2c10aeb64a11963a0718fefd0e1e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7698666dd1f8444d9ad76edf050992e9" source="id-24cf037dab94446187616da6897c60a7" target="id-787e11f0035847d2b08a4c97eff966f8"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-47669b77eb334db6ae9c9377c502bf5d" source="id-24cf037dab94446187616da6897c60a7" target="id-9e92d9373afd496bbd08fca86ddc0bff"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5a0741c746ff41dda41008b2ac5abfa9" source="id-24cf037dab94446187616da6897c60a7" target="id-c30d18c2472f405fb2fdb42ea60fe300"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-f9e88bea56c34b4286958f5ec257d894" source="id-c82943e8110c4b07b6ea5c4a58e3e19c" target="id-1aa1ce82bdc6465aa5a6d1a4ca919f1e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b0e27505e27a400e8a5d64703e9af7cd" source="id-c82943e8110c4b07b6ea5c4a58e3e19c" target="id-03fd58c47d7a4a35a5ed8975cf20861d"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-652a4592744249558ef050f5b365a62f" source="id-03fd58c47d7a4a35a5ed8975cf20861d" target="id-3685871a19b647bb871af34b96ab0d24"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7515fa1d609f44c0a9f9c1e49ee8b1ed" source="id-9262f246af6e4c79ab6a03fb253673b5" target="id-4310295752c3487292217fca457a592e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6677241973a14f8e8612aed6e28ac4b6" source="id-9262f246af6e4c79ab6a03fb253673b5" target="id-cbfc3dc3bcc1426b9545ee70e761fda0"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-73cf7c6e2c9b41dd9f1793b8a2e078e1" source="id-9262f246af6e4c79ab6a03fb253673b5" target="id-b8febe3613bb49f3be98d97ee6fe2dd7"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-05d22c32f402492dae808cadc4211b4f" source="id-9262f246af6e4c79ab6a03fb253673b5" target="id-dfa1744959c7433f8d3b97cd356c51ea"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-a4143c2babb342c5a52f13cf56f984d4" source="id-8385718bf5114f85be40a9161db0c4fb" target="id-a1d7572c22fc486a8518ab93ba759823"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3db2a31d216449c888108eb1479b4f9c" source="id-52a08851a8a94b8eafd88432a312c28f" target="id-a1d7572c22fc486a8518ab93ba759823"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c2f08ccad6434024adebdf70f8ff5c79" source="id-52a08851a8a94b8eafd88432a312c28f" target="id-ea3ac039df3144509d2cf0c79745832c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6e940b30ce8d423f8877009aed3bb0e4" source="id-52a08851a8a94b8eafd88432a312c28f" target="id-63726892da5d4bf49171449f2273a64f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7428a909e3d148d39caa5f2a5e692a19" source="id-52a08851a8a94b8eafd88432a312c28f" target="id-9a9776cd58a44011a384e0778c50eeb1"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-20445b89ffa2407c89e5f5e8760b4c61" source="id-16255bc645e34bc99d6b06c1ce87d62b" target="id-aa7c338641154012bc4598949adf0c1b"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-685c3b2e05bd4f57b6c0138c505550c1" source="id-ea23deee4c994ef0914056cff9c54f09" target="id-1960ecab73ab41858619a8777fb2f0a2"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-2adbfb218c054f1cb59f94a2c66af95d" source="id-b83dd3573d1940fba80442e5ddb39631" target="id-a5ca012ec6934a76895f791337c9470a"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-5940b1cbc4cb4949925918a778e29007" source="id-93efe2f1aebc4f73ae03894636bd5689" target="id-b83dd3573d1940fba80442e5ddb39631"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-dfa6dc00e3c34524a31cabe78636acf6" source="id-303aa3f0a81d4c23b84ff546e5d3ce75" target="id-b83dd3573d1940fba80442e5ddb39631"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b4409db89f7f4c4388ed9ad607ac68b0" source="id-303aa3f0a81d4c23b84ff546e5d3ce75" target="id-16255bc645e34bc99d6b06c1ce87d62b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-aeb8dccb8ee642d4a7e7c3dde62bcf21" source="id-303aa3f0a81d4c23b84ff546e5d3ce75" target="id-ea23deee4c994ef0914056cff9c54f09"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-14f0bfb2b4f142db9ed29bb6f561b9ef" source="id-bb3bcbb467f741c4a572553bd5541bee" target="id-1960ecab73ab41858619a8777fb2f0a2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5b6b7fc5e4cb4ebdb00c3e1356d34886" source="id-bb3bcbb467f741c4a572553bd5541bee" target="id-93efe2f1aebc4f73ae03894636bd5689"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8f9d903d54c44a4e87861b376ad0e647" source="id-bb3bcbb467f741c4a572553bd5541bee" target="id-aa7c338641154012bc4598949adf0c1b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b388514af14847ca9989675f4e576337" source="id-bb3bcbb467f741c4a572553bd5541bee" target="id-a5ca012ec6934a76895f791337c9470a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7189032dae1b4aefabeaf78563494026" source="id-077a974e58a940b2b0f0ada07ef4151e" target="id-50bd80c6734c4dd5a9ddee596b7bf90a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-63a517d5ad2c48e39d1f1a6883537f50" source="id-fdd35b6d44f24c63b345d7144c575aa2" target="id-e61d60c44a3a47a7bfb906d1866c4481"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3fc487065af3411faa887ab3b0d5b0c2" source="id-fdd35b6d44f24c63b345d7144c575aa2" target="id-a56af19d9d38464785237a8cf80c4b4f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-60b8c4840bc144a49ab1aa07ee269039" source="id-fdd35b6d44f24c63b345d7144c575aa2" target="id-83c651f3acfc427e90be5bb36be0714d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-64e0d7efa7534c5da52bda30789e9d9d" source="id-077a974e58a940b2b0f0ada07ef4151e" target="id-fdd35b6d44f24c63b345d7144c575aa2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d6a967cba063449fa1bbbb0317b710a6" source="id-be3b2af9d8274337b85e216db1d6c96c" target="id-8bcbf0d6fc8d4582beeb5cb538b92606"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-cbba6ac27f794dacbb10ea67051ded0c" source="id-be3b2af9d8274337b85e216db1d6c96c" target="id-f0472d8a725341c89896049a6abe88d9"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-be3f1204d894478b94209d597d1093e1" source="id-be3b2af9d8274337b85e216db1d6c96c" target="id-a300d888d1324c0fb5c01551e9f1b18a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d9bb4f889c9a466fb80a7d78d873d3fb" source="id-6870c7f978ab44d18655d3bfc396c967" target="id-ed0ec4ebc7064695afeda453fa62feac"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5968d4e20be6481aa9524d40747a621e" source="id-6870c7f978ab44d18655d3bfc396c967" target="id-c55aeac4dd0f4fbcbc1ed1dd9bb2888e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6d75f0012ff24e288fcf77b108013120" source="id-6870c7f978ab44d18655d3bfc396c967" target="id-dcc25f10c0594501aa590630be25e37b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b8c7480f13ca4a6985ccb56ca325b43e" source="id-077a974e58a940b2b0f0ada07ef4151e" target="id-be3b2af9d8274337b85e216db1d6c96c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-882736fd60254d62bdf518f6f79405be" source="id-077a974e58a940b2b0f0ada07ef4151e" target="id-6870c7f978ab44d18655d3bfc396c967"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6d5d21c74e604061a066fb69156e5f5b" source="id-077a974e58a940b2b0f0ada07ef4151e" target="id-f53aefee020e4926983019704adcea2e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-205a645c51ff4307a4106ab047d1095d" source="id-077a974e58a940b2b0f0ada07ef4151e" target="id-a395432b6e9e4988afba2729296ed0d6"/>
+    <element xsi:type="archimate:AssociationRelationship" name="Data Storage" id="id-bbc23b2137984b868da08b16b469c50c" source="id-ed0ec4ebc7064695afeda453fa62feac" target="id-6c7c57de61ee459ca3e946e208837fa1">
+      <documentation>After data is received by&#xD;
+ESDC via the Data&#xD;
+Gateway, is to be&#xD;
+securely stored by&#xD;
+ESDC. ESDC has a Data&#xD;
+Lake available for storing&#xD;
+data. Data Gateway can&#xD;
+also drop the data on a&#xD;
+SharePoint site, so there&#xD;
+are at least 2 options for&#xD;
+storage that do not&#xD;
+require procuring or&#xD;
+building a new solution.</documentation>
+    </element>
+    <element xsi:type="archimate:AssociationRelationship" id="id-68c23944b740454597e6e3c94a51049e" source="id-e61d60c44a3a47a7bfb906d1866c4481" target="id-6c7c57de61ee459ca3e946e208837fa1"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -18403,6 +18701,257 @@ v1.1.20250814</content>
             <bounds x="24" y="163" width="205" height="49"/>
           </child>
         </child>
+      </element>
+    </folder>
+    <folder name="EARB" id="id-2cdf4dacfe6a4107b81d08ba8cd45982">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="YESS DCS 2024 BC" id="id-9dd1f1cbc20e416e84a570c48bead09c">
+        <child xsi:type="archimate:Note" id="id-23d37358e2304e63a7c972d4431b8ba9" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="8" y="15" width="445" height="118"/>
+          <content>Archimate View: Youth Employment and SKills Strategy Data Colletion System 2024&#xD;
+Project # 202400049&#xD;
+Business Case Document</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-9883331bbe914ca8b2dd77004e616cb6" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
+          <bounds x="452" y="15" width="289" height="118"/>
+          <content>YESS DCS 2024 BC</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-b34e23d29e1041f9b3736ed76260f1af" textAlignment="1">
+          <bounds x="621" y="72" width="120" height="61"/>
+          <content>(DRAFT)&#xD;
+2025-03-25&#xD;
+v0.1.20250825</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-d2729e70a9f647468f9fda603409153f" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
+          <bounds x="744" y="15" width="149" height="108"/>
+          <content>DIAGRAM NOT ENDORSED</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-2917f46dbeb847358448c99c6496c443" targetConnections="id-459376d18ce14b12a0aa9bff64f78b3c" archimateElement="id-4fcfa6f5796e49a1aef8fdc0085fb79b">
+          <bounds x="12" y="180" width="168" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-8d6163f81d614c43a73854a039b78cd7" targetConnections="id-c07242ee1baa4502968c6c4142868bb8" archimateElement="id-8385718bf5114f85be40a9161db0c4fb">
+          <bounds x="12" y="270" width="168" height="67"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-459376d18ce14b12a0aa9bff64f78b3c" source="id-8d6163f81d614c43a73854a039b78cd7" target="id-2917f46dbeb847358448c99c6496c443" archimateRelationship="id-a956db3d08404d009a64da1562d542b4"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-535038fc08bf4018932e71ec007cf8ce" source="id-8d6163f81d614c43a73854a039b78cd7" target="id-4c31b8e3f5c84d24a0c8b5dca7dba253" archimateRelationship="id-a4143c2babb342c5a52f13cf56f984d4"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3b373862083e4c09b9edaabc3e736527" targetConnections="id-68465a57c9804cd29c22addebebfddfb" archimateElement="id-b32e2c10aeb64a11963a0718fefd0e1e">
+          <bounds x="507" y="150" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-5376ecc477ec48e6b39f76f39130562c" archimateElement="id-f79101059d314029851f04888e2f4b05">
+          <bounds x="291" y="149" width="168" height="86"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c07242ee1baa4502968c6c4142868bb8" source="id-5376ecc477ec48e6b39f76f39130562c" target="id-8d6163f81d614c43a73854a039b78cd7" archimateRelationship="id-b0d249151aaf49c08b77382ce31fe1ff"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-68465a57c9804cd29c22addebebfddfb" source="id-5376ecc477ec48e6b39f76f39130562c" target="id-3b373862083e4c09b9edaabc3e736527" archimateRelationship="id-d32bf339d0f04a5aa5de3ecea4a879ad"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-9aed71795b62474f90ffb6cffda388ee" archimateElement="id-5b5d40669596499291257e39752f573f">
+          <bounds x="219" y="276" width="177" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-be7c247aa5b742dda647bbe7843c6257" archimateElement="id-decd17987d8443e5a5ef0e481e250377">
+          <bounds x="651" y="150" width="168" height="86"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-148f2a753a864335afee2fa5447e1aa1" archimateElement="id-5bef0a75737b41ffab40a0df7b434c76">
+          <bounds x="651" y="245" width="168" height="86"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-354aa78b777e4ba79a5070197f051c5d" archimateElement="id-24cf037dab94446187616da6897c60a7">
+          <bounds x="831" y="150" width="181" height="229"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3b439849791449c8ae39628d67f340ec" source="id-354aa78b777e4ba79a5070197f051c5d" target="id-0e0ce41c51104236a1fc51d120b55324" archimateRelationship="id-7698666dd1f8444d9ad76edf050992e9"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-145ca0a747cd400eae870030321e77a7" source="id-354aa78b777e4ba79a5070197f051c5d" target="id-30b54bf0fc4e407aa2a5d51905ac892f" archimateRelationship="id-47669b77eb334db6ae9c9377c502bf5d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8c7fb89d49a6434381142bb66c082f4a" source="id-354aa78b777e4ba79a5070197f051c5d" target="id-df5622902dd44e55a82806284b3f1ca6" archimateRelationship="id-5a0741c746ff41dda41008b2ac5abfa9"/>
+          <child xsi:type="archimate:DiagramObject" id="id-0e0ce41c51104236a1fc51d120b55324" targetConnections="id-3b439849791449c8ae39628d67f340ec" archimateElement="id-787e11f0035847d2b08a4c97eff966f8">
+            <bounds x="12" y="48" width="157" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-30b54bf0fc4e407aa2a5d51905ac892f" targetConnections="id-145ca0a747cd400eae870030321e77a7" archimateElement="id-9e92d9373afd496bbd08fca86ddc0bff">
+            <bounds x="12" y="108" width="157" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-df5622902dd44e55a82806284b3f1ca6" targetConnections="id-8c7fb89d49a6434381142bb66c082f4a" archimateElement="id-c30d18c2472f405fb2fdb42ea60fe300">
+            <bounds x="12" y="168" width="157" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-220cc0129b7a46339df20a48007aa700" archimateElement="id-c82943e8110c4b07b6ea5c4a58e3e19c">
+          <bounds x="314" y="360" width="145" height="169"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9959d1d6b9f64701b846f66a27b73aeb" source="id-220cc0129b7a46339df20a48007aa700" target="id-ad58878217df4dd393c162a10a4a7c92" archimateRelationship="id-f9e88bea56c34b4286958f5ec257d894"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4632c3f0a7074443a6f848a7de224d5b" source="id-220cc0129b7a46339df20a48007aa700" target="id-0db433de1e654986bd49940125df88ad" archimateRelationship="id-b0e27505e27a400e8a5d64703e9af7cd"/>
+          <child xsi:type="archimate:DiagramObject" id="id-ad58878217df4dd393c162a10a4a7c92" targetConnections="id-9959d1d6b9f64701b846f66a27b73aeb" archimateElement="id-1aa1ce82bdc6465aa5a6d1a4ca919f1e">
+            <bounds x="12" y="48" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0db433de1e654986bd49940125df88ad" targetConnections="id-4632c3f0a7074443a6f848a7de224d5b" lineWidth="3" fillColor="#ff9191" archimateElement="id-03fd58c47d7a4a35a5ed8975cf20861d">
+            <bounds x="12" y="108" width="120" height="55"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-6f3a6eb0bbe04887955ce68944085bf7" source="id-0db433de1e654986bd49940125df88ad" target="id-9bf816b31ed7480a8ec7651447f3ffff" archimateRelationship="id-652a4592744249558ef050f5b365a62f"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-9bf816b31ed7480a8ec7651447f3ffff" targetConnections="id-6f3a6eb0bbe04887955ce68944085bf7" lineWidth="3" fillColor="#ebbd52" archimateElement="id-3685871a19b647bb871af34b96ab0d24">
+          <bounds x="507" y="457" width="144" height="72"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-6be09625b0e44b2ab3e2b697eecec2f0" archimateElement="id-9262f246af6e4c79ab6a03fb253673b5">
+          <bounds x="682" y="396" width="274" height="152"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-384680f276d44a3ea9cde6fa1a7292d5" source="id-6be09625b0e44b2ab3e2b697eecec2f0" target="id-26ceb7f372444b0bb562f7c1046f5a90" archimateRelationship="id-7515fa1d609f44c0a9f9c1e49ee8b1ed"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d691d4a2ab17401284f9016ec4a72138" source="id-6be09625b0e44b2ab3e2b697eecec2f0" target="id-b236d39816fa416c86701bec98f53eb7" archimateRelationship="id-6677241973a14f8e8612aed6e28ac4b6"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cdb2861a013e42d79f0bd2a2011a9bec" source="id-6be09625b0e44b2ab3e2b697eecec2f0" target="id-1379acb7050a4a1698f7db683f72f44e" archimateRelationship="id-73cf7c6e2c9b41dd9f1793b8a2e078e1"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-751ac488385744dd9acb90e57d3307f4" source="id-6be09625b0e44b2ab3e2b697eecec2f0" target="id-3b01a6fb3d8f40b5971e7fb05e1a01c0" archimateRelationship="id-05d22c32f402492dae808cadc4211b4f"/>
+          <child xsi:type="archimate:DiagramObject" id="id-26ceb7f372444b0bb562f7c1046f5a90" targetConnections="id-384680f276d44a3ea9cde6fa1a7292d5" archimateElement="id-4310295752c3487292217fca457a592e">
+            <bounds x="11" y="86" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b236d39816fa416c86701bec98f53eb7" targetConnections="id-d691d4a2ab17401284f9016ec4a72138" archimateElement="id-cbfc3dc3bcc1426b9545ee70e761fda0">
+            <bounds x="144" y="24" width="120" height="42"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1379acb7050a4a1698f7db683f72f44e" targetConnections="id-cdb2861a013e42d79f0bd2a2011a9bec" archimateElement="id-b8febe3613bb49f3be98d97ee6fe2dd7">
+            <bounds x="145" y="71" width="120" height="69"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3b01a6fb3d8f40b5971e7fb05e1a01c0" targetConnections="id-751ac488385744dd9acb90e57d3307f4" archimateElement="id-dfa1744959c7433f8d3b97cd356c51ea">
+            <bounds x="11" y="24" width="120" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-4fecc0ccceb24cbbb9cd62467e15e28c" archimateElement="id-54080fb1538748d39de9ac2778424c4e">
+          <bounds x="452" y="245" width="168" height="99"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-aa53245ef3814886bcbe20faf6998139" textAlignment="1" archimateElement="id-52a08851a8a94b8eafd88432a312c28f">
+          <bounds x="8" y="369" width="298" height="152"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4822aca2589a4664ba249515d275b04f" source="id-aa53245ef3814886bcbe20faf6998139" target="id-4c31b8e3f5c84d24a0c8b5dca7dba253" archimateRelationship="id-3db2a31d216449c888108eb1479b4f9c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1cbf0a3ef0fe4d65b318a2bb32545a23" source="id-aa53245ef3814886bcbe20faf6998139" target="id-b5d6e8b70ee841f391cc0fe3cb90f32b" archimateRelationship="id-c2f08ccad6434024adebdf70f8ff5c79"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ed7d933e24ff49478c8688ad4f108f83" source="id-aa53245ef3814886bcbe20faf6998139" target="id-f2f144f5723b4541bd6642d0f63b6c69" archimateRelationship="id-6e940b30ce8d423f8877009aed3bb0e4"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-00c4702eb1fa482c8a54c97c9a649a0f" source="id-aa53245ef3814886bcbe20faf6998139" target="id-888bc193b9154bba929781f472896e83" archimateRelationship="id-7428a909e3d148d39caa5f2a5e692a19"/>
+          <child xsi:type="archimate:DiagramObject" id="id-4c31b8e3f5c84d24a0c8b5dca7dba253" targetConnections="id-535038fc08bf4018932e71ec007cf8ce id-4822aca2589a4664ba249515d275b04f" archimateElement="id-a1d7572c22fc486a8518ab93ba759823">
+            <bounds x="156" y="24" width="131" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b5d6e8b70ee841f391cc0fe3cb90f32b" targetConnections="id-1cbf0a3ef0fe4d65b318a2bb32545a23" archimateElement="id-ea3ac039df3144509d2cf0c79745832c">
+            <bounds x="12" y="86" width="131" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-888bc193b9154bba929781f472896e83" targetConnections="id-00c4702eb1fa482c8a54c97c9a649a0f" archimateElement="id-9a9776cd58a44011a384e0778c50eeb1">
+            <bounds x="12" y="24" width="131" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f2f144f5723b4541bd6642d0f63b6c69" targetConnections="id-ed7d933e24ff49478c8688ad4f108f83" archimateElement="id-63726892da5d4bf49171449f2273a64f">
+            <bounds x="156" y="86" width="131" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-70ac04d35e8e46f38c3eaa19afd2b60f" textAlignment="1" archimateElement="id-303aa3f0a81d4c23b84ff546e5d3ce75">
+          <bounds x="51" y="576" width="169" height="313"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5fb87e3ed87241ae97b43789f08daaa5" source="id-70ac04d35e8e46f38c3eaa19afd2b60f" target="id-3a0b6cf7d37d41f8b6a904eb88f602f2" archimateRelationship="id-dfa6dc00e3c34524a31cabe78636acf6"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1e04f82a428d439db1eddc112519bdae" source="id-70ac04d35e8e46f38c3eaa19afd2b60f" target="id-1f0a2898ef52490d9dc1c5f5b8c275e6" archimateRelationship="id-b4409db89f7f4c4388ed9ad607ac68b0"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-0f93c72ef89d41e38d9f97b6fbc5d784" source="id-70ac04d35e8e46f38c3eaa19afd2b60f" target="id-d29a2988ae534113a18dac2d2ad84bb7" archimateRelationship="id-aeb8dccb8ee642d4a7e7c3dde62bcf21"/>
+          <child xsi:type="archimate:DiagramObject" id="id-3a0b6cf7d37d41f8b6a904eb88f602f2" targetConnections="id-5fdacb7049de49858e1deaf812757e76 id-5fb87e3ed87241ae97b43789f08daaa5" archimateElement="id-b83dd3573d1940fba80442e5ddb39631">
+            <bounds x="12" y="192" width="140" height="96"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-a2b89f1237e3464297fd87ac3fee0071" source="id-3a0b6cf7d37d41f8b6a904eb88f602f2" target="id-6b63d64d35814222b8f7ba74b1f961a0" archimateRelationship="id-2adbfb218c054f1cb59f94a2c66af95d"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1f0a2898ef52490d9dc1c5f5b8c275e6" targetConnections="id-1e04f82a428d439db1eddc112519bdae" archimateElement="id-16255bc645e34bc99d6b06c1ce87d62b">
+            <bounds x="12" y="36" width="140" height="55"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-de97115a727b41e5802d2963f1fdd04f" source="id-1f0a2898ef52490d9dc1c5f5b8c275e6" target="id-397437e3fb924bb1aa59ae491c1c1217" archimateRelationship="id-20445b89ffa2407c89e5f5e8760b4c61"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d29a2988ae534113a18dac2d2ad84bb7" targetConnections="id-0f93c72ef89d41e38d9f97b6fbc5d784" archimateElement="id-ea23deee4c994ef0914056cff9c54f09">
+            <bounds x="12" y="96" width="140" height="55"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-c0214273ff644c8fb1bcb2663612d911" source="id-d29a2988ae534113a18dac2d2ad84bb7" target="id-f808aba700cd44c68b1522575ea6cedc" archimateRelationship="id-685c3b2e05bd4f57b6c0138c505550c1"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-8d234b3d910e4198b54d3817b8ca805b" textAlignment="1" archimateElement="id-bb3bcbb467f741c4a572553bd5541bee">
+          <bounds x="279" y="576" width="193" height="313"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-289828f56da44fe49b1674dcdd1b313f" source="id-8d234b3d910e4198b54d3817b8ca805b" target="id-f808aba700cd44c68b1522575ea6cedc" archimateRelationship="id-14f0bfb2b4f142db9ed29bb6f561b9ef"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-31c590b8bfe84d33b0d37bc0deda49d2" source="id-8d234b3d910e4198b54d3817b8ca805b" target="id-aec02be8e24245f888c47560927b4401" archimateRelationship="id-5b6b7fc5e4cb4ebdb00c3e1356d34886"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a2a7fabf953b4583ab02620cbea1bc88" source="id-8d234b3d910e4198b54d3817b8ca805b" target="id-397437e3fb924bb1aa59ae491c1c1217" archimateRelationship="id-8f9d903d54c44a4e87861b376ad0e647"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b420d3c83d3247c7882d01f3db5897c7" source="id-8d234b3d910e4198b54d3817b8ca805b" target="id-6b63d64d35814222b8f7ba74b1f961a0" archimateRelationship="id-b388514af14847ca9989675f4e576337"/>
+          <child xsi:type="archimate:DiagramObject" id="id-f808aba700cd44c68b1522575ea6cedc" targetConnections="id-c0214273ff644c8fb1bcb2663612d911 id-289828f56da44fe49b1674dcdd1b313f" archimateElement="id-1960ecab73ab41858619a8777fb2f0a2">
+            <bounds x="12" y="89" width="167" height="57"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-aec02be8e24245f888c47560927b4401" targetConnections="id-31c590b8bfe84d33b0d37bc0deda49d2" archimateElement="id-93efe2f1aebc4f73ae03894636bd5689">
+            <bounds x="12" y="150" width="167" height="87"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-5fdacb7049de49858e1deaf812757e76" source="id-aec02be8e24245f888c47560927b4401" target="id-3a0b6cf7d37d41f8b6a904eb88f602f2" archimateRelationship="id-5940b1cbc4cb4949925918a778e29007"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-397437e3fb924bb1aa59ae491c1c1217" targetConnections="id-de97115a727b41e5802d2963f1fdd04f id-a2a7fabf953b4583ab02620cbea1bc88" archimateElement="id-aa7c338641154012bc4598949adf0c1b">
+            <bounds x="12" y="36" width="167" height="44"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-6b63d64d35814222b8f7ba74b1f961a0" targetConnections="id-a2b89f1237e3464297fd87ac3fee0071 id-b420d3c83d3247c7882d01f3db5897c7" archimateElement="id-a5ca012ec6934a76895f791337c9470a">
+            <bounds x="12" y="246" width="167" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-d102a15cee9c4a74922c71cdaa15be74" archimateElement="id-060630a939ae4d4e8a92ca5617cb3b16">
+          <bounds x="507" y="576" width="144" height="51"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-ad194b3f6d454ba2bce778bd2650ae47" archimateElement="id-f91bf0f97df544abb918f885b54eac8b">
+          <bounds x="507" y="676" width="144" height="51"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-d6ade59ec4d343de94b9603dfb41e24f" archimateElement="id-155f007dbf9742f690faa80ecd49ab80">
+          <bounds x="507" y="626" width="144" height="51"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-5bcf2df62334483686648e6db2d0d256" archimateElement="id-fc4a108627dc40f0be445781985cfc6b">
+          <bounds x="507" y="726" width="144" height="51"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-f5e4b3709f054eef949be87e4ea7b076" textAlignment="1" fillColor="#ffe1ff" archimateElement="id-077a974e58a940b2b0f0ada07ef4151e">
+          <bounds x="672" y="565" width="637" height="373"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1820d778fbef4825961faf18e6ecae30" source="id-f5e4b3709f054eef949be87e4ea7b076" target="id-98b664f77899451596dcf8ec569af9c8" archimateRelationship="id-7189032dae1b4aefabeaf78563494026"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-92411ae3c4074327898b635430a7da96" source="id-f5e4b3709f054eef949be87e4ea7b076" target="id-e9319f85ca9c4a88a7ca0ff514900cc9" archimateRelationship="id-64e0d7efa7534c5da52bda30789e9d9d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-57d7dc3388144b9eb6ccfeab2151ebab" source="id-f5e4b3709f054eef949be87e4ea7b076" target="id-606ed10fda724e0094ac0cc0a6915774" archimateRelationship="id-b8c7480f13ca4a6985ccb56ca325b43e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-37482a80a18045769c73c30461e7b224" source="id-f5e4b3709f054eef949be87e4ea7b076" target="id-66b9f6493c3440d0a91cd212b5e14e2f" archimateRelationship="id-882736fd60254d62bdf518f6f79405be"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-639e409d7dfd47b1a34fe18060d8880d" source="id-f5e4b3709f054eef949be87e4ea7b076" target="id-81456f655504483ca32e4bf2c43837d9" archimateRelationship="id-6d5d21c74e604061a066fb69156e5f5b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d52930230c5d4070908efdcc10547d2a" source="id-f5e4b3709f054eef949be87e4ea7b076" target="id-ddb6512c1c5b4625ac34be33e3242211" archimateRelationship="id-205a645c51ff4307a4106ab047d1095d"/>
+          <child xsi:type="archimate:DiagramObject" id="id-98b664f77899451596dcf8ec569af9c8" targetConnections="id-1820d778fbef4825961faf18e6ecae30" archimateElement="id-50bd80c6734c4dd5a9ddee596b7bf90a">
+            <bounds x="33" y="24" width="171" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e9319f85ca9c4a88a7ca0ff514900cc9" targetConnections="id-92411ae3c4074327898b635430a7da96" textAlignment="1" archimateElement="id-fdd35b6d44f24c63b345d7144c575aa2">
+            <bounds x="24" y="106" width="190" height="241"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-d7862a8af1694431b74cbdbc60cf07ed" source="id-e9319f85ca9c4a88a7ca0ff514900cc9" target="id-8caa5d7fe93648b38bbbc23bac710d98" archimateRelationship="id-63a517d5ad2c48e39d1f1a6883537f50"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-b1667d0cab1348c5b42d5f630c4daa30" source="id-e9319f85ca9c4a88a7ca0ff514900cc9" target="id-d18ce9d7b713409bac99590bd701e1c2" archimateRelationship="id-3fc487065af3411faa887ab3b0d5b0c2"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-c9301359ab134bba971b6874b66b406e" source="id-e9319f85ca9c4a88a7ca0ff514900cc9" target="id-29cb803e055c43dbb2e769ee403357ea" archimateRelationship="id-60b8c4840bc144a49ab1aa07ee269039"/>
+            <child xsi:type="archimate:DiagramObject" id="id-8caa5d7fe93648b38bbbc23bac710d98" targetConnections="id-d7862a8af1694431b74cbdbc60cf07ed" archimateElement="id-e61d60c44a3a47a7bfb906d1866c4481">
+              <bounds x="24" y="24" width="144" height="68"/>
+              <sourceConnection xsi:type="archimate:Connection" id="id-7a9481f738b64b32883f2eed2d3b756c" source="id-8caa5d7fe93648b38bbbc23bac710d98" target="id-4ad367268a354919987be2644ecf0452" archimateRelationship="id-68c23944b740454597e6e3c94a51049e"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-d18ce9d7b713409bac99590bd701e1c2" targetConnections="id-b1667d0cab1348c5b42d5f630c4daa30" archimateElement="id-a56af19d9d38464785237a8cf80c4b4f">
+              <bounds x="24" y="169" width="144" height="61"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-29cb803e055c43dbb2e769ee403357ea" targetConnections="id-c9301359ab134bba971b6874b66b406e" archimateElement="id-83c651f3acfc427e90be5bb36be0714d">
+              <bounds x="24" y="97" width="144" height="68"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-606ed10fda724e0094ac0cc0a6915774" targetConnections="id-57d7dc3388144b9eb6ccfeab2151ebab" textAlignment="1" archimateElement="id-be3b2af9d8274337b85e216db1d6c96c">
+            <bounds x="228" y="106" width="190" height="255"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-36cf737a8b834be6bed328dde4919b42" source="id-606ed10fda724e0094ac0cc0a6915774" target="id-00120a993d184e039af357461bf1c519" archimateRelationship="id-d6a967cba063449fa1bbbb0317b710a6"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-343f521c69ec4a3fbdce7e1db565e673" source="id-606ed10fda724e0094ac0cc0a6915774" target="id-f7098e05352f4e3ba48efef544a072dd" archimateRelationship="id-cbba6ac27f794dacbb10ea67051ded0c"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-f727bd1980d943beb9936a83cb635395" source="id-606ed10fda724e0094ac0cc0a6915774" target="id-a04faae177654da9965896144f0ef3dd" archimateRelationship="id-be3f1204d894478b94209d597d1093e1"/>
+            <child xsi:type="archimate:DiagramObject" id="id-00120a993d184e039af357461bf1c519" targetConnections="id-36cf737a8b834be6bed328dde4919b42" archimateElement="id-8bcbf0d6fc8d4582beeb5cb538b92606">
+              <bounds x="24" y="174" width="144" height="68"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-f7098e05352f4e3ba48efef544a072dd" targetConnections="id-343f521c69ec4a3fbdce7e1db565e673" archimateElement="id-f0472d8a725341c89896049a6abe88d9">
+              <bounds x="24" y="36" width="144" height="68"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-a04faae177654da9965896144f0ef3dd" targetConnections="id-f727bd1980d943beb9936a83cb635395" archimateElement="id-a300d888d1324c0fb5c01551e9f1b18a">
+              <bounds x="24" y="112" width="144" height="56"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-66b9f6493c3440d0a91cd212b5e14e2f" targetConnections="id-37482a80a18045769c73c30461e7b224" textAlignment="1" archimateElement="id-6870c7f978ab44d18655d3bfc396c967">
+            <bounds x="432" y="106" width="190" height="245"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-354c64faeda0498593031fecc560980e" source="id-66b9f6493c3440d0a91cd212b5e14e2f" target="id-ac1d4857940546718c64dfc804eeb457" archimateRelationship="id-d9bb4f889c9a466fb80a7d78d873d3fb"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-9afb952bf7964e5f94603283d1f30eb8" source="id-66b9f6493c3440d0a91cd212b5e14e2f" target="id-c12d9dc6040e49c3ba8f7e999c03a0a2" archimateRelationship="id-5968d4e20be6481aa9524d40747a621e"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-107322a77bf14cbba11e29197d5fdf52" source="id-66b9f6493c3440d0a91cd212b5e14e2f" target="id-5d047cc7517e465baf018655f44e753a" archimateRelationship="id-6d75f0012ff24e288fcf77b108013120"/>
+            <child xsi:type="archimate:DiagramObject" id="id-ac1d4857940546718c64dfc804eeb457" targetConnections="id-354c64faeda0498593031fecc560980e" archimateElement="id-ed0ec4ebc7064695afeda453fa62feac">
+              <bounds x="24" y="24" width="144" height="68"/>
+              <sourceConnection xsi:type="archimate:Connection" id="id-13ae50b922704f75ada10ea7fc96ee80" source="id-ac1d4857940546718c64dfc804eeb457" target="id-4ad367268a354919987be2644ecf0452" archimateRelationship="id-bbc23b2137984b868da08b16b469c50c"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-c12d9dc6040e49c3ba8f7e999c03a0a2" targetConnections="id-9afb952bf7964e5f94603283d1f30eb8" archimateElement="id-c55aeac4dd0f4fbcbc1ed1dd9bb2888e">
+              <bounds x="24" y="101" width="144" height="56"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-5d047cc7517e465baf018655f44e753a" targetConnections="id-107322a77bf14cbba11e29197d5fdf52" archimateElement="id-dcc25f10c0594501aa590630be25e37b">
+              <bounds x="24" y="162" width="144" height="68"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-81456f655504483ca32e4bf2c43837d9" targetConnections="id-639e409d7dfd47b1a34fe18060d8880d" archimateElement="id-f53aefee020e4926983019704adcea2e">
+            <bounds x="216" y="24" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ddb6512c1c5b4625ac34be33e3242211" targetConnections="id-d52930230c5d4070908efdcc10547d2a" archimateElement="id-a395432b6e9e4988afba2729296ed0d6">
+            <bounds x="348" y="24" width="120" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-4ad367268a354919987be2644ecf0452" targetConnections="id-13ae50b922704f75ada10ea7fc96ee80 id-7a9481f738b64b32883f2eed2d3b756c" archimateElement="id-6c7c57de61ee459ca3e946e208837fa1">
+          <bounds x="1205" y="480" width="104" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-5c6037dd8c424be6b0e19756fac3810f" archimateElement="id-7dfebd5e966c452cbed00a8749e8d0c8">
+          <bounds x="1004" y="480" width="160" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-8f54765f338242f3b9e94e713cf76f54" archimateElement="id-21cc7525782543ab983cdf28ab769cfb">
+          <bounds x="1044" y="150" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-6b9a403518fe47f6a2678129783775a0" archimateElement="id-f5f79c118f35496bb01d1d8bb5237fdc">
+          <bounds x="1044" y="210" width="120" height="55"/>
+        </child>
+        <documentation>Business Case Document: https://014gc.sharepoint.com/:b:/r/sites/EACollab/Shared%20Documents/Youth%20Employment%20and%20Skills%20Strategy%20Data%20Collecti/Documentation/Gate%200%20and%20Gate%201/Business%20Case%2025-03-2025%20DG%20Signed.pdf?csf=1&amp;web=1&amp;e=lfVv7r&#xD;
+&#xD;
+EXECUTIVE SUMMARY&#xD;
+This business case demonstrates the value of a new Data Collection System (DCS) for the Youth Employment and Skills Strategy (YESS). The YESS was modernized in 2019 to adapt to emerging labour market conditions and improve outcomes for youth facing barriers to employment. To support modernization, a new Performance Measurement Framework (PMF) has been implemented. In order to support this, the Department requires the new DCS to continue the collection, storage and analysis of program data for the YESS from its twelve horizontal delivery partners. There was a previous DCS, however it was decommissioned due to system security issues, lack of ability to make meaningful performance measurement updates, and severe technical debt. The YESS-DCS is necessary to support core program functions such as meeting reporting and evaluation requirements. It will also help grow the program's impact for Canadian youth by allowing for easier, timelier access to better data about program outcomes and allowing for adaptive policy/program responses.</documentation>
       </element>
     </folder>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Top-Level Hierarchy of ArchiMate Concepts" id="id-d10f3fb17612466abc4e8fa9563db2a9">
