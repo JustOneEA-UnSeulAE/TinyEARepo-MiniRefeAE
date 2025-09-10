@@ -8880,11 +8880,35 @@ Reports on progress will be submitted to the Programme Manager monthly. This inc
 Advanced business intelligence module for the YESS Policy Division would  allow better insights from performance measurement data to inform decision making and more robust policy analysis/development. This feature would entail the ability to analyze and manipulate the imported participant level data. Out of scope because of time and resource limitations for this project. As long as ESDC has access to disaggregated data, the department can pursue analytics solutions like PowerBI at a later time.</documentation>
     </element>
     <element xsi:type="archimate:Deliverable" name="De-Scoped Deliverables" id="id-c82943e8110c4b07b6ea5c4a58e3e19c"/>
-    <element xsi:type="archimate:Plateau" name="1. Manual Data Management" id="id-bd7c825d50ed4c5dbd4e464c1e7754ce"/>
-    <element xsi:type="archimate:Plateau" name="2. Increased Data Visualization" id="id-32a487e23e3a4482a1c5b08f02334779"/>
-    <element xsi:type="archimate:Plateau" name="3. Clear Data Narrative" id="id-5f46232d60b9448a9a68b73409d5192f"/>
-    <element xsi:type="archimate:Plateau" name="4. Emerging Data Intelligence" id="id-8548ddf1af9b4d9c90df92060974e27a"/>
-    <element xsi:type="archimate:Plateau" name="5. Full Data Maturity" id="id-209a26360bc24a9d8dec0968a75b5a1a"/>
+    <element xsi:type="archimate:Plateau" name="1. Manual Data Management" id="id-bd7c825d50ed4c5dbd4e464c1e7754ce">
+      <documentation>- Reporting is siloed and manual (Excel spreadsheets, manual PowerPoint graphs)&#xD;
+- Data are not governed and are used inconsistently&#xD;
+- Data are misunderstood and disjointed</documentation>
+    </element>
+    <element xsi:type="archimate:Plateau" name="2. Increased Data Visualization" id="id-32a487e23e3a4482a1c5b08f02334779">
+      <documentation>- Various dashboards serving different reporting needs&#xD;
+- Individuals claim they &quot;own&quot; the data in a silo, and information is inconsistent and not repeatable&#xD;
+- Visualization tools are only available to certain employees&#xD;
+- Employees are not sure if data are correct and unsure where to find the right data</documentation>
+    </element>
+    <element xsi:type="archimate:Plateau" name="3. Clear Data Narrative" id="id-5f46232d60b9448a9a68b73409d5192f">
+      <documentation>- Accounabilities around data are clear, and there is transparency around where to find data&#xD;
+- Employees and executives understand the considerations and importance of using data to generate insights and support evidence-informed decision-making&#xD;
+- Benchmark Data Literacy levels are established&#xD;
+- Data help improve processes for program and service delivery</documentation>
+    </element>
+    <element xsi:type="archimate:Plateau" name="4. Emerging Data Intelligence" id="id-8548ddf1af9b4d9c90df92060974e27a">
+      <documentation>- Data infrastructure and governance processes break down data silos&#xD;
+- Consistent, repeatable and measurable results&#xD;
+- Data Literacy and governance are improved through training tailored to the needs of employees and the organization&#xD;
+- Employees are empowered and have the capability to leverage data and derive novel solutions to business problems</documentation>
+    </element>
+    <element xsi:type="archimate:Plateau" name="5. Full Data Maturity" id="id-209a26360bc24a9d8dec0968a75b5a1a">
+      <documentation>- Enterprise data infrastructure provides consistent data, enabled by privacy and security by design concepts&#xD;
+- Data are discoverable and enable new ways of working, with data governance and risk management embedded in all processes&#xD;
+- Evolving technologies leverage data responsibly and ethically to drive optimization within the boundaries of the law&#xD;
+- Employees across the organization understand and use data to inform day to day decision making and long-term strategic planning and analysis</documentation>
+    </element>
   </folder>
   <folder name="Other" id="id-3b6502d62be54bf79bb29134a011622f" type="other">
     <element xsi:type="archimate:Junction" name="Junction" id="id-483568e04e5345cc8bc005461b6854a2" type="or"/>
@@ -16433,8 +16457,8 @@ Name (FR) - Stratégie de données d'EDSC 2023-2026</content>
 v0.1.20250910</content>
         </child>
         <child xsi:type="archimate:Note" id="id-85c3eb1a56714ff791f1cdf7e1ebcfb3" font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
-          <bounds x="864" y="60" width="372" height="49"/>
-          <content>CDOB's FOUR SERVICE AREAS</content>
+          <bounds x="828" y="7" width="157" height="63"/>
+          <content>Diagram not endorsed</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-70ce7b8e2e9944e3b99883ae69e23810" archimateElement="id-cff46a208d6746759e526562b891aac4">
           <bounds x="7" y="84" width="138" height="61"/>
