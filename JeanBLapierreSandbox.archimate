@@ -20740,7 +20740,7 @@ Happy anniversary: Celebrating 20 years of Service Canada&#xD;
 Joyeux anniversaire: Célébration des 20 ans de Service Canada</content>
         </child>
         <child xsi:type="archimate:Note" id="id-bfe35941e304453a93322540e7a8dd6c" textAlignment="1">
-          <bounds x="469" y="10" width="120" height="61"/>
+          <bounds x="469" y="10" width="120" height="54"/>
           <content>(DRAFT)&#xD;
 2025-09-25&#xD;
 v0.1.20250925</content>
