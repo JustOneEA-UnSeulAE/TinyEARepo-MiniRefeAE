@@ -8633,6 +8633,37 @@ Challenging to keep up with the demand of supporting numerous concurrent project
     <element xsi:type="archimate:Value" name="The EDFP is a central, standardized repository where raw data is stored, all manipulation and transformation information is listed, and certified and audited data is accessible, acting as a single truth shared by the whole organization, avoiding duplication and contradictions." id="id-ac580c5b4f82483fa29c8660afb635bc"/>
     <element xsi:type="archimate:Value" name="EDFP offers a wide variety of tools in an environment where technological solutions, such as reporting, advanced analytics and artificial intelligence, can be developed, published, deployed and accessed, with IT security, confidentiality and ethical considerations as the foundations, and all that up to and including Protected B data." id="id-00ed9872552448cea686d30b75979593"/>
     <element xsi:type="archimate:Value" name="EDFP lists all the necessary information about available data in a single central catalog, enabling consultation of what is available for the whole organization. Anyone can request access to an available dataset, and the data stewards decide who to grant access to. Once access is granted, sharing, manipulation and analysis take place directly on the platform. Everything is centralized: storage, sharing, use and publication." id="id-c7837d3bced74d7ab1107ce69fe5d21a"/>
+    <element xsi:type="archimate:Value" name="Strengthening Canada’s social safety net | Renforcer le filet de sécurité sociale du Canada" id="id-e06365a54eea43759cfeba90c4f18057">
+      <documentation>Strengthening Canada’s social safety net&#xD;
+Nobody should be left behind in this country. Service Canada’s role is critical in breaking down barriers and building economic opportunity for all. That is why, as we’re navigating the serious consequences of the trade war with one of our most important trade partners, Employment Insurance (EI) remains a cornerstone of Canada’s social safety net, supporting workers through job loss, parental leave, illness and caregiving responsibilities.&#xD;
+&#xD;
+Renforcer le filet de sécurité sociale du Canada&#xD;
+Personne ne devrait être laissé pour compte dans notre pays. Service Canada joue un rôle essentiel pour éliminer les obstacles et créer des possibilités économiques pour tous. C’est pourquoi, à un moment où faisons face aux graves conséquences de la guerre commerciale avec l’un de nos plus importants partenaires commerciaux, l’assurance-emploi demeure la pierre angulaire du filet de sécurité sociale du Canada en soutenant les travailleurs lorsque survient une perte d’emploi, un congé parental ou une maladie ou lorsqu’ils doivent assumer des responsabilités d’aidant naturel.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Expanding access to essential programs | Élargir l’accès aux programmes essentiels" id="id-46303cb0a8dd4c60a1d9fc4e9e5dbb7f">
+      <documentation>Expanding access to essential programs&#xD;
+Service Canada continues to broaden access to vital programs that support Canadians’ health and financial well-being. The launch of the Canadian Dental Care Plan has opened the door to affordable dental care for eligible individuals across the country. More recently, Service Canada began processing applications for the Canada Disability Benefit, delivering direct financial support to persons with disabilities.&#xD;
+This work goes beyond fairness—it’s about creating meaningful change, empowering individuals, and helping Canadians build a stronger future by unlocking their full potential.&#xD;
+&#xD;
+Élargir l’accès aux programmes essentiels&#xD;
+Service Canada continue d’élargir l’accès à des programmes essentiels qui favorisent la santé et le bien-être financier des Canadiens. Le lancement du Régime canadien de soins dentaires a ouvert la voie à des soins dentaires abordables aux personnes admissibles à travers le pays. Plus récemment, Service Canada a amorcé le traitement des demandes pour la Prestation canadienne pour les personnes handicapées, qui offre du soutien financier direct aux personnes en situation de handicap. &#xD;
+Ce travail va au-delà de l’équité, il s’agit de créer un véritable changement, de favoriser l’autonomie des individus et d’aider les Canadiens à bâtir un avenir plus solide en leur permettant de s’épanouir pleinement.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Modernizing and improving service delivery | Moderniser et améliorer la prestation des services" id="id-ee13d4e9b90046a39fd81e7ff21625f3">
+      <documentation>Modernizing and improving service delivery&#xD;
+As Canadians’ needs continue to evolve, Service Canada has expanded its offerings to provide more accessible and responsive support. One key advancement has been the enhancement of self-serve tools for Old Age Security (OAS) clients. Today, more than 7.4 million Canadians can apply for OAS benefits online, update personal information, upload documents and access or download their tax slips—all through a streamlined digital service. &#xD;
+&#xD;
+Moderniser et améliorer la prestation des services&#xD;
+À mesure que les besoins des Canadiens évoluent, Service Canada a élargi son offre afin de fournir du soutien plus accessible et plus réactif. L’une des principales avancées a été l’amélioration des outils libre-service pour les clients de la Sécurité de la vieillesse (SV). Aujourd’hui, plus de 7,4 millions de Canadiens peuvent demander des prestations de la SV en ligne, mettre à jour leurs renseignements personnels, télécharger des documents et accéder à leurs relevés fiscaux ou les télécharger, le tout grâce à un service numérique simplifié. </documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Our strength is our people | Notre force, ce sont nos employés" id="id-916de50b3d774bb8b067cd0396a4cfd8">
+      <documentation>Our strength is our people&#xD;
+Whether it’s providing support to millions of Canadians to ensuring access to benefits and services or stepping up during times of national crises like the COVID-19 pandemic, Service Canada employees have consistently shown that they are up to the task through their dedication, compassion and professionalism.&#xD;
+&#xD;
+Notre force, ce sont nos employés&#xD;
+Que ce soit en offrant du soutien à des millions de Canadiens, en assurant l’accès à des prestations et services ou en retroussant nos manches en situation de crise nationale comme la pandémie de COVID 19, les employés de Service Canada sont toujours à la hauteur de la tâche par leur dévouement, leur compassion et leur professionnalisme.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Government’s commitment to Canadians: to make government services more inclusive, accessible and focused on people | La promesse faite par le gouvernement aux Canadiens et rendre les services gouvernementaux plus inclusifs, accessibles et axés sur le public" id="id-b660cc3c04474f02be1a1ee354b257d4"/>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Gap" name="Unmanaged Data (Gap)" id="id-ed4e79d466fd4551a90d4cbfb6784e74">
@@ -20697,6 +20728,96 @@ v0.1.20250916</content>
         <child xsi:type="archimate:DiagramObject" id="id-4fab9c6040974a708f946ddffd6458ef" targetConnections="id-c18eca89d4884fc8b88a5b28b53a8fef id-b8985053ac9e4fab8feccb870668c8b5 id-ba6e91c11f15446db454165fd6e21635 id-3b75ead035c142ad8ec60a2a22a05361 id-673896d59efa4d9c9a300f33634ef13e id-faf7b0e9b674479ba0a2676789dbf859" archimateElement="id-c6ad87ac3296407689121cdc24fce0a5">
           <bounds x="539" y="591" width="15" height="15"/>
         </child>
+      </element>
+    </folder>
+    <folder name="ESDC" id="id-d9cf8c4239664ac5a9826592dc24d057">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="Service Canada 20 Years" id="id-307dc142a16d49d1a84241b3a70be64c">
+        <child xsi:type="archimate:Note" id="id-e29d995a2ccc468290fa8ac707786521" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="9" y="10" width="580" height="118"/>
+          <content>Archimate View: &#xD;
+ESDC/EDSC Ministers' Email: &#xD;
+Happy anniversary: Celebrating 20 years of Service Canada&#xD;
+Joyeux anniversaire: Célébration des 20 ans de Service Canada</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-bfe35941e304453a93322540e7a8dd6c" textAlignment="1">
+          <bounds x="469" y="10" width="120" height="61"/>
+          <content>(DRAFT)&#xD;
+2025-09-25&#xD;
+v0.1.20250925</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-c756cf6177934102a5baf27b93862ff7" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
+          <bounds x="588" y="10" width="149" height="108"/>
+          <content>DIAGRAM NOT ENDORSED</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-fd222905b72e43d7911994d3abb4b0e7" archimateElement="id-e06365a54eea43759cfeba90c4f18057">
+          <bounds x="12" y="156" width="153" height="109"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-f9920d96624247ab98196060b20f4a3b" archimateElement="id-46303cb0a8dd4c60a1d9fc4e9e5dbb7f">
+          <bounds x="180" y="156" width="153" height="109"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-542ff1d8ecc7433fbad8b917882f521a" archimateElement="id-ee13d4e9b90046a39fd81e7ff21625f3">
+          <bounds x="348" y="156" width="153" height="109"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-54e1b0aa4e444152b0db1b41f53abc09" archimateElement="id-916de50b3d774bb8b067cd0396a4cfd8">
+          <bounds x="516" y="156" width="153" height="109"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-d55111e4954b46af935cacdf0c7a7caf" archimateElement="id-b660cc3c04474f02be1a1ee354b257d4">
+          <bounds x="12" y="288" width="657" height="73"/>
+        </child>
+        <documentation>Joyeux anniversaire : Célébration des 20 ans de Service Canada / Happy anniversary: Celebrating 20 years of Service Canada&#xD;
+&#xD;
+From: Ministres / Ministers (EDSC/ESDC)&#xD;
+Sent: September 25, 2025 1:37 PM&#xD;
+Subject: Joyeux anniversaire : Célébration des 20 ans de Service Canada / Happy anniversary: Celebrating 20 years of Service Canada&#xD;
+&#xD;
+(English follows the French)&#xD;
+ &#xD;
+Légende : Message de la ministre – Un message pour les employés d’EDSC&#xD;
+Chers collègues,&#xD;
+Il y a 20 ans cette semaine, le gouvernement fédéral a pris une grande décision : créer Service Canada, en tant que point d’accès unique où les Canadiens pourraient recevoir un vaste éventail de prestations et de services gouvernementaux conçus pour les aider à traverser toutes les étapes de la vie.&#xD;
+Depuis 20 ans, Service Canada remplit cette mission, et en a fait bien plus encore. Par téléphone, en personne dans les Centres Service Canada, aux sites de services mobiles dans les communautés, et dans les coulisses de nos centres de traitement, Service Canada a été une présence fiable dans tout le pays, jour après jour, même dans les circonstances les plus difficiles. Les exemples suivants ne sont que quelques-unes des façons dont Service Canada change la donne :&#xD;
+Renforcer le filet de sécurité sociale du Canada&#xD;
+Personne ne devrait être laissé pour compte dans notre pays. Service Canada joue un rôle essentiel pour éliminer les obstacles et créer des possibilités économiques pour tous. C’est pourquoi, à un moment où faisons face aux graves conséquences de la guerre commerciale avec l’un de nos plus importants partenaires commerciaux, l’assurance-emploi demeure la pierre angulaire du filet de sécurité sociale du Canada en soutenant les travailleurs lorsque survient une perte d’emploi, un congé parental ou une maladie ou lorsqu’ils doivent assumer des responsabilités d’aidant naturel.&#xD;
+Élargir l’accès aux programmes essentiels&#xD;
+Service Canada continue d’élargir l’accès à des programmes essentiels qui favorisent la santé et le bien-être financier des Canadiens. Le lancement du Régime canadien de soins dentaires a ouvert la voie à des soins dentaires abordables aux personnes admissibles à travers le pays. Plus récemment, Service Canada a amorcé le traitement des demandes pour la Prestation canadienne pour les personnes handicapées, qui offre du soutien financier direct aux personnes en situation de handicap. &#xD;
+Ce travail va au-delà de l’équité, il s’agit de créer un véritable changement, de favoriser l’autonomie des individus et d’aider les Canadiens à bâtir un avenir plus solide en leur permettant de s’épanouir pleinement.&#xD;
+Moderniser et améliorer la prestation des services&#xD;
+À mesure que les besoins des Canadiens évoluent, Service Canada a élargi son offre afin de fournir du soutien plus accessible et plus réactif. L’une des principales avancées a été l’amélioration des outils libre-service pour les clients de la Sécurité de la vieillesse (SV). Aujourd’hui, plus de 7,4 millions de Canadiens peuvent demander des prestations de la SV en ligne, mettre à jour leurs renseignements personnels, télécharger des documents et accéder à leurs relevés fiscaux ou les télécharger, le tout grâce à un service numérique simplifié. &#xD;
+Notre force, ce sont nos employés&#xD;
+Que ce soit en offrant du soutien à des millions de Canadiens, en assurant l’accès à des prestations et services ou en retroussant nos manches en situation de crise nationale comme la pandémie de COVID 19, les employés de Service Canada sont toujours à la hauteur de la tâche par leur dévouement, leur compassion et leur professionnalisme.&#xD;
+Ce 20e anniversaire, c’est davantage qu’un chiffre. C’est l’occasion de rendre hommage aux personnes qui œuvrent dans l’ombre du nom de Service Canada, aux personnes qui travaillent, jour après jour, pour offrir aux Canadiens le soutien dont ils ont besoin. L’engagement à servir le public n’est pas toujours facile à respecter, mais d’avoir la confiance des Canadiens au quotidien est une récompense plus que suffisante.&#xD;
+Notre objectif pour l’avenir : renforcer la promesse faite par le gouvernement aux Canadiens et rendre les services gouvernementaux plus inclusifs, accessibles et axés sur le public.&#xD;
+La contribution que vous apportez est inestimable et instrumentale au succès du Canada, génération après génération.&#xD;
+Merci pour tout votre travail et bravo pour ces 20 années au service de notre pays et de nos collectivités.&#xD;
+L’honorable Patty Hajdu&#xD;
+(Elle)&#xD;
+La ministre de l’Emploi et des Familles et ministre responsable de l’Agence fédérale de développement économique pour le Nord de l’Ontario&#xD;
+Ce message a été approuvé par EDSC. Visitez iService si vous êtes préoccupés par l’authenticité du message.&#xD;
+ &#xD;
+&#xD;
+Caption: Minister’s Message – A message for ESDC employees&#xD;
+Dear colleagues,&#xD;
+Two decades ago, the federal government took an important step to establish Service Canada as a single point of access where Canadians could receive a wide range of government benefits and services designed to support them through life’s many transitions.&#xD;
+For 20 years, Service Canada has fulfilled that mission—and done so much more. By phone, in-person at Service Canada Centres, at community outreach sites, and behind the scenes in our processing centres, Service Canada has been a reliable presence across the country—day in and day out—even in the most challenging circumstances. The following examples highlight just some of the ways Service Canada is making a difference:&#xD;
+Strengthening Canada’s social safety net&#xD;
+Nobody should be left behind in this country. Service Canada’s role is critical in breaking down barriers and building economic opportunity for all. That is why, as we’re navigating the serious consequences of the trade war with one of our most important trade partners, Employment Insurance (EI) remains a cornerstone of Canada’s social safety net, supporting workers through job loss, parental leave, illness and caregiving responsibilities. &#xD;
+Expanding access to essential programs&#xD;
+Service Canada continues to broaden access to vital programs that support Canadians’ health and financial well-being. The launch of the Canadian Dental Care Plan has opened the door to affordable dental care for eligible individuals across the country. More recently, Service Canada began processing applications for the Canada Disability Benefit, delivering direct financial support to persons with disabilities.&#xD;
+This work goes beyond fairness—it’s about creating meaningful change, empowering individuals, and helping Canadians build a stronger future by unlocking their full potential.&#xD;
+Modernizing and improving service delivery&#xD;
+As Canadians’ needs continue to evolve, Service Canada has expanded its offerings to provide more accessible and responsive support. One key advancement has been the enhancement of self-serve tools for Old Age Security (OAS) clients. Today, more than 7.4 million Canadians can apply for OAS benefits online, update personal information, upload documents and access or download their tax slips—all through a streamlined digital service. &#xD;
+Our strength is our people&#xD;
+Whether it’s providing support to millions of Canadians to ensuring access to benefits and services or stepping up during times of national crises like the COVID-19 pandemic, Service Canada employees have consistently shown that they are up to the task through their dedication, compassion and professionalism.&#xD;
+This 20-year anniversary goes far beyond a number, it's a celebration of the people behind the name, those who work to make sure Canadians have the support they need. Commitment to public service isn’t always easy, but earning the trust of Canadians every day makes it all worth it. &#xD;
+As we move forward, let’s build on the Government’s commitment to Canadians: to make government services more inclusive, accessible and focused on people. &#xD;
+Your contributions are highly valued and instrumental to Canada’s success, across generations.&#xD;
+Thank you for your work, and congratulations on 20 years of service to our country and communities. &#xD;
+&#xD;
+The Honourable Patty Hajdu&#xD;
+(She/her/hers)&#xD;
+&#xD;
+Minister of Jobs and Families and Minister responsible for the Federal Economic Development Agency for Northern Ontario&#xD;
+This message has been approved by ESDC. Visit iService if you are concerned about the authenticity of the message.</documentation>
       </element>
     </folder>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Top-Level Hierarchy of ArchiMate Concepts" id="id-d10f3fb17612466abc4e8fa9563db2a9">
