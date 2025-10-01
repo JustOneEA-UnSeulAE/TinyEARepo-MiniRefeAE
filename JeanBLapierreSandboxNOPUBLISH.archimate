@@ -2,139 +2,8 @@
 <archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Sandbox-NOT TO PUBLISH-Lapierre, Jean B" id="id-efb5761d91674ff9bab2676ba1e45efc" version="5.0.0">
   <folder name="Strategy" id="id-c5718a53d1374590abe4f42635dc3c71" type="strategy">
     <element xsi:type="archimate:Capability" name="Document Upload (Capability)" id="id-e26947d355824f088b2fcaf5816aa44f"/>
-    <element xsi:type="archimate:CourseOfAction" name="Recover OR Create New Google DTiG Account (Course of Action)" id="id-a7ce794a9e7c4780abbf12c04264bac6"/>
-    <element xsi:type="archimate:CourseOfAction" name="Add Web Links To Each Presentation Profile To Recording Video Stream, Deck PDF (Course of Action)" id="id-8ff8d6defed244dba4ea4a9bed861f84"/>
-    <element xsi:type="archimate:Capability" name="Volunteer Management (Capability)" id="id-1de94468795a4be18e0ea9f23774f488">
-      <documentation>- Many UofO Grad Students were keen, but not needed at DTiG 2022.</documentation>
-    </element>
   </folder>
   <folder name="Business" id="id-e7ec70e4f255420fbd97f5726f1aeccf" type="business">
-    <element xsi:type="archimate:BusinessActor" name="??? (Business Actor)" id="id-b5c86a8aa4104c248e5e8ba7e8bb0c54">
-      <documentation>Jean-Luc Lemieux CPA, CMA, CISA, CIDA&#xD;
-ISACA Ottawa Valley Director Conferences and Secretary Designate&#xD;
-Jean-Luc is a senior consultant at Samson and Associates and President of Jean Luc Lemieux CPA Inc. He has volunteered to manage the technology platform supporting the DTiG 2021 Conference.&#xD;
-&#xD;
-Jean-Luc Lemieux CPA, CISA, CIDA&#xD;
-Vice-Chair Cvent for DTiG 2022; Director Conferences and Secretary, ISACA Ottawa Valley Chapter&#xD;
-Jean-Luc is a senior consultant at Samson and Associates and President of Jean-Luc Lemieux CPA Inc. He has volunteered to manage the technology platform supporting the DTiG 2022 Conference.</documentation>
-    </element>
-    <element xsi:type="archimate:BusinessActor" name="Robert (Bob) Weisman (Business Actor)" id="id-e2af2d5e828e488e82df789bb15c41e5">
-      <documentation>Robert Weisman, PhD, PEng, PMP, CD1&#xD;
-Conference Chair for DTiG 2022; President, ISACA Ottawa Valley Chapter; and President, Association of Enterprise Architects (AEA), Ottawa-Gatineau Chapter&#xD;
-Robert is an Engineer in Residence and Professor Digital Transformation and Innovation at University of Ottawa where he now teaches enterprise architecture to graduate and undergraduate students and soon Digital Transformation Leadership. He is a very active member of The Open Group and also CEO and Executive Management Consultant at Build The Vision Inc.</documentation>
-    </element>
-    <element xsi:type="archimate:BusinessActor" name="??? (Business Actor)" id="id-9dcb521e32aa4b51862f160d3572c5a4">
-      <documentation>Scarlett Kelly&#xD;
-Academic and Government Advocacy for DTiG 2022&#xD;
-&#xD;
-Scarlett is an Analyst/Economist in the Office of the Comptroller General at Treasury Board Canada Secretariat (TBS), providing policy advice in project management and investment. Her previous public service experience includes performance measurement and expert research. Scarlett is also a PhD candidate in Digital Transformation and Innovation at University of Ottawa. Scarlett’s main research area is in successful change management regarding technology from interdisciplinary lenses and project management practices in both public and private sectors. For the DTiG 2022, Scarlett is responsible for establishing partnership in academia and government.</documentation>
-    </element>
-    <element xsi:type="archimate:BusinessActor" name="Jean Lapierre (Business Actor)" id="id-9503443ae77d4641a1121629a92a411d">
-      <documentation>Jean Lapierre&#xD;
-Vice-Chair Government Advocacy for DTiG 2022; Director for Government Advocacy, Association of Enterprise Architects (AEA), Ottawa-Gatineau Chapter&#xD;
-Jean’s most recent public service engagement is at Employment and Social Development Canada (ESDC) is as an enterprise architect, seeking to enable architectural alignment and reduce technical debt. Previously, his career was focussed in the field of Data Warehousing, having worked at National Defence (DND), Treasury Board of Canada Secretariat (TBS), and Shared Services Canada (SSC). For the conference, Jean is responsible for getting key speakers for DTiG 2022 and communicating with the public service.</documentation>
-    </element>
-    <element xsi:type="archimate:BusinessActor" name="Will Xu (Business Actor)" id="id-858d2e0bc7484e6c8f75666f45c1a409">
-      <documentation>Will Xu&#xD;
-Conference Website Administrator, DTiG 2022&#xD;
-&#xD;
-Will serves as the Director of Communications and Webmaster for the ISACA Ottawa Valley chapter. Professionally, he is a member of the audit team at the Office of the Auditor General of Canada, conducting IT performance audits of federal government departments. He has created and maintained the web presence of DTiG 2022.</documentation>
-    </element>
-    <element xsi:type="archimate:BusinessActor" name="??? (Business Actor)" id="id-1cd64186469e4b5fb7063f134b5e2c80">
-      <documentation>Jennifer Smith&#xD;
-Committee Member, DTiG 2022&#xD;
-&#xD;
-Jennifer is the President of Intergage Consulting Group Inc. and she has extensive experience working in various senior leadership positions in the areas of strategic planning, governance, organizational renewal, transformation and change management and talent management.&#xD;
-&#xD;
-Her expertise spans the public, not-for-profit and private sectors with an in-depth experience and understanding of the requirements and challenges of operating in a public sector environment. She has a wealth of experience in working with and coaching senior leadership teams in planning for the future and dealing with change in a timely and holistic way; engaging stakeholders to inform transformations; and monitoring and reporting on results.&#xD;
-&#xD;
-Jennifer is dedicated to supporting Canada’s commitments to reconciliation. Her work focuses on building understanding and bridges between various levels of government in Canada and Indigenous governments, organizations, communities and peoples and developing plans that support Indigenous self-determination and shared outcomes that lead to new and revitalized nations, communities, and relationships.&#xD;
-&#xD;
-Jennifer holds a Master of Arts, Public Administration from Carleton University. She is a Certified Management Consultant (CMC Canada); she has a Leadership Coaching Certificate (International Coaching Federation) and she is a Credentialed Evaluator (Canadian Evaluation Society). She is also a Board Member for a number of non-profit organizations.</documentation>
-    </element>
-    <element xsi:type="archimate:BusinessActor" name="Stephen Donahoe (Business Actor)" id="id-c66573ee11204adc8efd3e82d7ca9196">
-      <documentation>Stephen Donahoe&#xD;
-Committee Member, DTiG 2022&#xD;
-&#xD;
-Stephen Donahoe is recognized as an Information and Data Management (IDM) strategist by both the public and private sectors. Superior communication and negotiation skills enable him to deal with end-users, stakeholders, and senior managers when determining IDM requirements at the enterprise and business unit levels. He is also a Fellow Certified Management Consultant (FCMC); a fellowship designation awarded in recognition of outstanding contributions made to clients, the community, and the profession, and for maintaining the highest levels of standards as a CMC.</documentation>
-    </element>
-    <element xsi:type="archimate:BusinessActor" name="??? (Business Actor)" id="id-93bce8ae33ea462e8afa6731eb10d4d1">
-      <documentation>Robert Weisman, PhD, PEng, PMP, CD1&#xD;
-Conference Chair for DTiG 2022; President, ISACA Ottawa Valley Chapter; and President, Association of Enterprise Architects (AEA), Ottawa-Gatineau Chapter&#xD;
-Robert is an Engineer in Residence and Professor Digital Transformation and Innovation at University of Ottawa where he now teaches enterprise architecture to graduate and undergraduate students and soon Digital Transformation Leadership. He is a very active member of The Open Group and also CEO and Executive Management Consultant at Build The Vision Inc.</documentation>
-    </element>
-    <element xsi:type="archimate:BusinessRole" name="DTiG Conference Chair (Business Role)" id="id-706fc94b96e84aef82137c9db957ee3e"/>
-    <element xsi:type="archimate:BusinessRole" name="DTiG Website Administrator (Business Role)" id="id-5e9c639df7fd4ea4b24db0b54d7aa97b"/>
-    <element xsi:type="archimate:BusinessRole" name="DTiG Conference Vice-Chair (Business Role)" id="id-887fff287b2b472cbed950abcd334f72"/>
-    <element xsi:type="archimate:BusinessRole" name="DTiG Vice-Chair for Government Advocacy (Business Role)" id="id-c5853b2cc4e749baa1f7e8f455886885"/>
-    <element xsi:type="archimate:BusinessRole" name="DTiG Academic and Government Advocacy (Business Role)" id="id-1d6bc54bb0154f109523d9574389264b"/>
-    <element xsi:type="archimate:BusinessRole" name="DTiG Committee Member (Business Role)" id="id-02ab452dfa4e4fb5bc3a416dcee62555"/>
-    <element xsi:type="archimate:BusinessRole" name="DTiG Committee Member (Business Role)" id="id-a829e15d14ba485bafd146c958e24660">
-      <documentation>Role to be discussed at a later date</documentation>
-    </element>
-    <element xsi:type="archimate:BusinessFunction" name="Content Management (Business Function)" id="id-eb041f79c1db4587b894f533f4d3c185">
-      <documentation>Need to create and manage a Google account, with sufficient security settings and credentials, to be managed by key members of the group.&#xD;
-Ensure consistent naming is used, ideally starting with &quot;YYYYMMDD&quot; to indicate the day of presentation.  &quot;&lt;Date Presented in format: YYYYMMDD>-&lt;Digit indicating the order: 1, 2, 3, etc. from that day> - &lt;Last Name> - &lt;Organization Acronym> - &lt;Shortened Title>.pdf&quot;</documentation>
-    </element>
-    <element xsi:type="archimate:BusinessRole" name="Director for Academic Advocacy (Business Role)" id="id-0385fa86c4c445389986a4cc79e92aef"/>
-    <element xsi:type="archimate:BusinessFunction" name="Facilitation of Whitepaper Peer Reviews (Business Function)" id="id-f0c84f5b6c5948ddb2eca7f02548b6f5"/>
-    <element xsi:type="archimate:BusinessInteraction" name="In-Person Presentations (Business Interaction)" id="id-ad9d504c483342f1aac9efd1f7c9cbaa"/>
-    <element xsi:type="archimate:BusinessRole" name="Potential DTiG 2023 Sponsors (Business Role)" id="id-716359a5de744163b4b784077a275de2"/>
-    <element xsi:type="archimate:BusinessActor" name="Deloitte (Business Actor)" id="id-dfb3cc531c6142ce85f30c80833b6ab4"/>
-    <element xsi:type="archimate:BusinessActor" name="Treasury Board of Canada Secretariat (Business Actor)" id="id-bc4327fc8ac04e1b975905b6a59cf642"/>
-    <element xsi:type="archimate:BusinessActor" name="Price Waterhouse Cooper (PWC) (Business Actor)" id="id-9caa01117a5546998a8965c8531dbc00"/>
-    <element xsi:type="archimate:BusinessActor" name="International Business Machines (IBM) (Business Actor)" id="id-223ca5689ed847849c81368fac0f99b6"/>
-    <element xsi:type="archimate:BusinessActor" name="Ernst and Young (Business Actor)" id="id-2aa46b59382e4e6f9d447115b4c1b30e"/>
-    <element xsi:type="archimate:BusinessActor" name="Amazon Web Services (Business Actor)" id="id-6c56fad52ff04819a24b061869228563"/>
-    <element xsi:type="archimate:BusinessRole" name="Host Aide (Business Role)" id="id-39cd54a8629d47f8bb51bebcfef45cc4"/>
-    <element xsi:type="archimate:BusinessRole" name="Session Reviewers / Assessors (Business Role)" id="id-f3b1fdcffa98420b9958dfe18996dd67"/>
-    <element xsi:type="archimate:BusinessRole" name="Director of Sponsors-and-Marketing (Business Role)" id="id-d62710fad747482aa964b87e7d4246f4"/>
-    <element xsi:type="archimate:BusinessObject" name="Speaker Notes (Business Object)" id="id-f6f630e93fe14d3783da24af46f2dbcd">
-      <documentation>&#xD;
-- Get Presenters to download latest version of software (e.g. Zoom) about 1 week prior to presenting, and perform video / audio tests&#xD;
-- Ensure Presenters know &#xD;
-		a. they are to present their content themselves, unless they are unable to (in which case 2 helpers may be needed)&#xD;
-		b. (If connecting to work via VPN,) Disconnect from any VPN, to ensure appropriate bandwidth.&#xD;
-</documentation>
-    </element>
-    <element xsi:type="archimate:BusinessObject" name="Moderator Notes (Business Object)" id="id-de4e08be09df446985217cb59f6a91d5">
-      <documentation>MODERATOR NOTES.&#xD;
-	1. When introducing someone:&#xD;
-		a. Have a script that you wrote / modified from the original, so you know it makes sense, and flows properly.&#xD;
-	2. When going to Q&amp;A:&#xD;
-		Thank you very much. Wonderful presentation. &#xD;
-		Pose Question: &quot;Please post questions (and vote) here. I will ask them after the presentation. The most votes make the questions go to the top of the queue.&quot; and click &quot;Answering now&quot;&#xD;
-	3. When closing out:&#xD;
-		Work is stunning. More than EA; Digital Transformation. For those of you listening: Looking at things, globally. Yolanda Martinez: Models that Haleb highlighted. Emerging nations. Patterns for reuse, save years of work…&#xD;
-	4. DAILY CHECKLIST:&#xD;
-		a. Have list of all Bios, topics&#xD;
-		b. Have Zoom Host Links handy&#xD;
-		c. Open OneNote to take Notes, in order to be able to draft q's.&#xD;
-		d. Have access to 2FA device&#xD;
-		e. Ensure &quot;web browser&quot; / secondary session's volume is OFF, to avoid echo&#xD;
-		f. Remind GC speakers / anyone having conn'y issues to jump off VPN, prior to presenting&#xD;
-&#xD;
-Moderators should have access to the Presenters' contact info, in case something goes wrong…&#xD;
-&#xD;
-</documentation>
-    </element>
-    <element xsi:type="archimate:BusinessObject" name="Close-Out Notes (Business Object)" id="id-225754e03e9b44d9ba7f632df6a71073">
-      <documentation>	6. Ensure an end-of-day, AND end-of-Conference message is shared, with Conference Chair presenting for ~10 minutes (What happened, what will be happening, and how people can engage further).&#xD;
-		a. End-of-Day scripts to ALL moderators; a common script that can be read by all&#xD;
-		b. End-of Conference session, to &#xD;
-			i. Thank everyone (speakers, attendees, sponsors)&#xD;
-			ii. Quick review of major sessions this year.&#xD;
-			iii. Mention of next year, at UofO&#xD;
-			iv. Mention of how to engage, volunteer, speak at next year's session&#xD;
-</documentation>
-    </element>
-    <element xsi:type="archimate:BusinessObject" name="Pre-Conference Notes (Business Object)" id="id-e6b487592f0b4ad692432030c0fca8cb">
-      <documentation>- Issue of Cvent and Zoom integration, bad. Lags. Speakers couldn't see # people.&#xD;
-		a. Lag: Any streaming cap's, no streaming available online where it's right-away to the second…&#xD;
-		b. Dry Run: Understanding the Lag, see what it looks like.&#xD;
-		c. Lag has no impact on what people see.&#xD;
-		d. Turn Volume off on the Cvent. Wait as a statue, afterwards.</documentation>
-    </element>
     <element xsi:type="archimate:BusinessRole" name="Shared Services Canada (Business Role)" id="id-4967f4e7cf8049adbf4dc55a14b7e6e6"/>
     <element xsi:type="archimate:BusinessRole" name="Public Services and Procurement Canada (PSPC) (Business Role)" id="id-b4dcfc6167ed46009bb28a72e85c01be"/>
     <element xsi:type="archimate:BusinessRole" name="GCSI DG Steering Committee (SC) (Business Role)" id="id-9d05e11521674ad6800d6399296bb65c">
@@ -152,44 +21,8 @@ Moderators should have access to the Presenters' contact info, in case something
 ▪ Assist GCdocs Secret clients on GCSI to determine their storage requirements.</documentation>
     </element>
   </folder>
-  <folder name="Application" id="id-19fc5dff64fe43109c1223ccb74f656f" type="application">
-    <element xsi:type="archimate:ApplicationService" name="DTiG Website File Downloading (Application Service)" id="id-846b495bc3f44cdfad825f3697e4ad29">
-      <documentation>Unreliable. >100 GB with GoDaddy. Pay more to get more.</documentation>
-    </element>
-    <element xsi:type="archimate:ApplicationService" name="DTiG YouTube Channel Video Streaming (Application Service)" id="id-c03e25739f1b47618a6552a57e908578">
-      <documentation>No capacity issues. No retention issues.</documentation>
-    </element>
-    <element xsi:type="archimate:ApplicationService" name="GCcollab File Sharing (Application Service)" id="id-7f6fc0a969ad44a09a03540a3d0a6e4a">
-      <documentation>Your personal one-stop shop to work openly, exchange ideas, and collaborate with over 400,000 of your GC peers!&#xD;
-https://www.gcx-gce.gc.ca/&#xD;
-https://gcxgce.sharepoint.com/sites/Support/SitePages/Learn-more-about-gcxchange.aspx&#xD;
-&#xD;
-Will I be able to collaborate with people outside the GC?&#xD;
-​At this time gcxchange is only open to anyone with an active government-issued Microsoft 365 account. We are working on the best strategy to allow people outside of GC to visit and participate in gcxchange. In the meantime, we recommend that you use GCcollab.ca to collaborate with people external to GCnet.&#xD;
-&#xD;
-Uploading a video&#xD;
-Uploading a video file on GCcollab uses the exact same steps as uploading a regular file, however it is important to note that the size of the video to be uploaded should not exceed 1GB. While GCcollab does not have video player functionality, users can upload video file types.&#xD;
-&#xD;
-Accepted file formats:: txt, jpg, jpeg, png, bmp, gif, pdf, doc, docx, xls, xlsx, ppt, pptx, odt, ods, odp, accdb, mdb, m4a, mp4, grd, map, rar, gdb, dwg, zip, mp3, ppsx, mid, mov, xlsm, ai, xd, svg, indd, vsd, vsdx, mpp, mppx, potx, dotx, .dotx</documentation>
-    </element>
-    <element xsi:type="archimate:ApplicationService" name="DropBox File Storage (Application Service)" id="id-5cd470b696f24a08afb7867c0ec65d7b">
-      <documentation>Max size for BuildTheVision DropBox is &lt;unknown> GB.</documentation>
-    </element>
-    <element xsi:type="archimate:ApplicationService" name="cvent Web Site (Application Service)" id="id-e1b11268df754e87b25893ea53393c78"/>
-    <element xsi:type="archimate:ApplicationService" name="cvent File Sharing (Application Service)" id="id-206d6a2d1e094b71b3fee5fc09fd7f83"/>
-    <element xsi:type="archimate:ApplicationService" name="cvent Video Streaming (Application Service)" id="id-40a8528543f645e68295cc6e47118e01"/>
-    <element xsi:type="archimate:ApplicationService" name="University of Ottawa Libraries (Application Service)" id="id-4574664395f0488ebf2ca3ee0d1d5607"/>
-    <element xsi:type="archimate:ApplicationService" name="Eventbrite Registration (Application Service)" id="id-150332b51aa2480c877e9be0d8ab3320"/>
-    <element xsi:type="archimate:ApplicationFunction" name="DTiG Knowledge Hub (Application Function)" id="id-49880a79186246b785f089be3353e4f0"/>
-    <element xsi:type="archimate:ApplicationFunction" name="DTiG Book Reviews (Application Function)" id="id-38cbb5d9fd6f4792bb898d2aae721d8f"/>
-    <element xsi:type="archimate:ApplicationFunction" name="DTiG Selected Reprints (Application Function)" id="id-609b47021b524be4a1cc4c55811dc425"/>
-    <element xsi:type="archimate:ApplicationFunction" name="DTiG Practitioner Articles (Application Function)" id="id-25111e96d11646df8de1f8099e438bb4"/>
-    <element xsi:type="archimate:ApplicationFunction" name="DTiG Best Practices / Frameworks (Application Function)" id="id-60aba4dbaedb467fb2f124fb7b79b508"/>
-    <element xsi:type="archimate:ApplicationFunction" name="DTiG New Peer-Reviewed, Multi-Disciplinary (Application Function)" id="id-9cdb1a14d4314d02a77c48b08de2a12e"/>
-  </folder>
+  <folder name="Application" id="id-19fc5dff64fe43109c1223ccb74f656f" type="application"/>
   <folder name="Technology &amp; Physical" id="id-3afeff7715fe40549f3ef0a1e5eecaed" type="technology">
-    <element xsi:type="archimate:Facility" name="University of Ottawa Facilities (Facility)" id="id-0ec3816d5457442399079b47d8ea18e0"/>
-    <element xsi:type="archimate:TechnologyInteraction" name="Live-Streaming Presentations (Technology Interaction)" id="id-c8db82fdcc094a94ae4134c7e96a4da2"/>
     <element xsi:type="archimate:CommunicationNetwork" name="Government of Canada Secret Infrastructure (GCSI) (Communication Network)" id="id-2c331e2a3c594f19a4f7fcc9756829e0">
       <documentation>The Government of Canada Secret Infrastructure (GCSI) is the current Government of Canada (GC) enterprise environment approved for digital creation, processing, storage, and sharing of information that is classified as Secret. GCSI is a key enabler for implementation of the GC’s digital agenda in the classified domain for Secret.&#xD;
 &#xD;
@@ -257,10 +90,6 @@ GCSI is the only GC approved solution, offered by SSC, which supports the electr
 •	IF no proof received processing to establish overpayment. &#xD;
 </documentation>
     </element>
-    <element xsi:type="archimate:Requirement" name="Requirement" id="id-34f6a4b6d85942db82ee5cb17439576d">
-      <documentation>•	IF no proof received processing to establish overpayment. &#xD;
-</documentation>
-    </element>
     <element xsi:type="archimate:Requirement" name="Keep Entitlement Conditions To A Minimum (Requirement)" id="id-2313852725a6493fad43d9e67a23597a">
       <documentation>•	Minimal entitlement conditions.   &#xD;
 </documentation>
@@ -288,91 +117,6 @@ GCSI is the only GC approved solution, offered by SSC, which supports the electr
     <element xsi:type="archimate:Principle" name="Be Clear" id="id-fa3de973db6040cab4bcc8a67e599625"/>
     <element xsi:type="archimate:Principle" name="Be Concise" id="id-89fef002cd704b71bb43dd526762d8c6"/>
     <element xsi:type="archimate:Principle" name="Be Quick" id="id-0ccff44f501440bcb5e5c999d19cc823"/>
-    <element xsi:type="archimate:Principle" name="Ensure Backup Actor(s) for Each Role (Principle)" id="id-6a53106277d94958ade9f4f0b0cf4431"/>
-    <element xsi:type="archimate:Goal" name="A Highly Diverse Group of Speakers (Goal)" id="id-3dcc670a619c48e88be2e56f6e088d66"/>
-    <element xsi:type="archimate:Goal" name="Full Cost Recovery For DTiG 2022 Conference (Goal)" id="id-e84375de7f8347369605bd7ade51dad2">
-      <documentation>Attempt to find multiple Platinum Sponsors</documentation>
-    </element>
-    <element xsi:type="archimate:Assessment" name="Streaming Capacity (Assessment)" id="id-a11cbba6fd5c4a00b9761f09df59ce48"/>
-    <element xsi:type="archimate:Assessment" name="Storage Capacity (Assessment)" id="id-6cb95c6214f74740ae56cd9fda02ebb2"/>
-    <element xsi:type="archimate:Assessment" name="Retention Limitations (Assessment)" id="id-85df2a3ed5e0482f9388d7dc99d317b1"/>
-    <element xsi:type="archimate:Goal" name="Increase Provinces-and-Territories, and Municipal Government Representation (Goal)" id="id-60b7efc5bbcd4343b989c98db25f9eaf"/>
-    <element xsi:type="archimate:Goal" name="A Highly Diverse Group of Speakers (Goal)" id="id-717b4a1b7bab43f983317cfad3029b05"/>
-    <element xsi:type="archimate:Principle" name="Ensure Schedule Leaves Sufficient Time (Principle)" id="id-e71a5670eba2486c993789d8be03ef49">
-      <documentation>Leave time enough for moderators to get to the next session (avoid back-to-back </documentation>
-    </element>
-    <element xsi:type="archimate:Assessment" name="turd Annual Digital Transformation in Government Conference (Assessment)" id="id-93ee5dce9b444d1f8a1a1a72a801912e">
-      <documentation>REGISTRATED: 281&#xD;
-     UNIQUE LOGINS: 237 (~85%)&#xD;
-SPEAKERS: 52&#xD;
-REVENUES: $21,369.48&#xD;
-COSTS: $21,369.48&#xD;
-&#xD;
-Agenda Item Name	Session Start Date	Session End Date	Session Speakers	Number of Views&#xD;
-#1 The Race to Innovate: Digitization and Privacy Rights in the Government of Canada&#xD;
-Jun 14, 2022 9:00 AM (GMT-05:00) Eastern [US &amp; Canada]&#xD;
-Jun 14, 2022 10:00 AM (GMT-05:00) Eastern [US &amp; Canada]&#xD;
-Dr. Gregory Smolynec&#xD;
-504&#xD;
-&#xD;
-#2 Digital Transformation initiatives of The European Commission&#xD;
-Jun 14, 2022 10:10 AM (GMT-05:00) Eastern [US &amp; Canada]&#xD;
-Jun 14, 2022 11:00 AM (GMT-05:00) Eastern [US &amp; Canada]&#xD;
-Dr. Raul Abril&#xD;
-331&#xD;
-&#xD;
-#3 Data strategy implementation in a Major Government Department in the era of digital transformation&#xD;
-Jun 16, 2022 10:10 AM (GMT-05:00) Eastern [US &amp; Canada]&#xD;
-Jun 16, 2022 11:00 AM (GMT-05:00) Eastern [US &amp; Canada]&#xD;
-Ima Okonny&#xD;
-261&#xD;
-&#xD;
-#4 Shared Services Canada's Digital Transformation Role within the Government of Canada&#xD;
-Jun 15, 2022 10:10 AM (GMT-05:00) Eastern [US &amp; Canada]&#xD;
-Jun 15, 2022 11:00 AM (GMT-05:00) Eastern [US &amp; Canada]&#xD;
-Scott Taylor&#xD;
-243&#xD;
-&#xD;
-#5 The Cyber Landscape in the New Cold War&#xD;
-Jun 16, 2022 9:00 AM (GMT-05:00) Eastern [US &amp; Canada]&#xD;
-Jun 16, 2022 10:00 AM (GMT-05:00) Eastern [US &amp; Canada]&#xD;
-Robert Gordon&#xD;
-219</documentation>
-    </element>
-    <element xsi:type="archimate:Assessment" name="DTiG 2022 Government Registration Analysis (Assessment)" id="id-9a1b16e7c8b54269a486bf8ec4e275b2">
-      <documentation>ORGANIZATION	TOTAL REGISTRANTS&#xD;
-=========================&#xD;
-Agriculture and Agri-Food Canada	1&#xD;
-AI Manager	1&#xD;
-Alberta Innovates	2&#xD;
-Bank of Canada	1&#xD;
-CBSA	7&#xD;
-CIHR	4&#xD;
-Correctional Service Canada	1&#xD;
-CRA	42&#xD;
-CSE	1&#xD;
-Deparment of Finance	1&#xD;
-DND	2&#xD;
-ESDC	3&#xD;
-Fisheries and Oceans Canada	1&#xD;
-GAC	1&#xD;
-Government of the Northwest Territories	1&#xD;
-Immigration Refugiees Citizenship Canada	1&#xD;
-Infrastructure Canada	1&#xD;
-ISC	1&#xD;
-ISED	4&#xD;
-Library and Archives Canada	1&#xD;
-Natural Resources Canada	1&#xD;
-Parks Canada	1&#xD;
-PSPC	4&#xD;
-Public Prosecution Service Canada	1&#xD;
-RCMP	1&#xD;
-SSC	1&#xD;
-Statistics Canada	1&#xD;
-TBS	4&#xD;
-Transport Canada	8&#xD;
-Grand Total	99</documentation>
-    </element>
     <element xsi:type="archimate:Requirement" name="Electronically send, receive and collaborate on Secret documents within ESDC and with OGDs (Requirement)" id="id-bfec5faf75f94a9d9b1a3ac4b32b7937">
       <documentation>ESDC processes a large amount of protected and sensitive information and has an immediate business requirement to electronically send, receive and collaborate on Secret documents within the department and with other government departments (OGDs).</documentation>
     </element>
@@ -409,68 +153,6 @@ Infrastructure (GCSI).&quot;</documentation>
     </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-bc3a12275b9545e29f31c5f3a01b391d" type="implementation_migration">
-    <element xsi:type="archimate:Plateau" name="5th Annual 2024 Digital Transformation in Government Conference (Plateau)" id="id-ab854831eef64c91af632113493cce6d">
-      <documentation>About The Event&#xD;
-The 2024 (5th Annual) Digital Transformation in Government (DTiG) Conference is hosted by the ISACA Ottawa Valley Chapter, the University of Ottawa and the Association of Enterprise Architects (AEA) and is conducted in partnership with the Canadian Information Processing Society (CIPS).&#xD;
-&#xD;
-The conference brings together government professionals, private sector practitioners, and academia to share experiences, innovation and emerging standards and technologies in support of both government digital transformation (strategic effectiveness) and digitization (operational efficiency) initiatives. Attendees will be able to claim up to 40 CPEs, PDUs, or CEUs.&#xD;
-&#xD;
-The 2024 (5th Annual) Digital Transformation in Government (DTiG) Conference is hosted by the ISACA Ottawa Valley Chapter, the University of Ottawa and the Association of Enterprise Architects (AEA) and is conducted in partnership with the Canadian Information Processing Society (CIPS). Last year more than 300 professionals attended the conference.&#xD;
-&#xD;
-The annual conference brings together government professionals, private sector practitioners, and academia to share experiences, innovation and emerging standards and technologies in support of both government digital transformation (strategic effectiveness) and digitization (operational efficiency) initiatives. The conference is not for profit and virtual (no travel required).&#xD;
-&#xD;
-Themes include (but are not limited to):&#xD;
-· Government Transformation&#xD;
-· Promoting Women in STEM SheLeadsTech&#xD;
-· Cyber-Security and Privacy&#xD;
-· Governance and Enterprise Architecture&#xD;
-· Management of Change&#xD;
-· Workforce of the Future&#xD;
-· Ethics and Responsible Use of AI&#xD;
-· Audit and Risk Management&#xD;
-· Deliver business value with Technology&#xD;
-· Government Design and Innovation&#xD;
-· Analytics, AI, and knowledge management&#xD;
-· The Future of Work</documentation>
-    </element>
-    <element xsi:type="archimate:Plateau" name="4th Annual 2023 Digital Transformation in Government Conference (Plateau)" id="id-344dca167dea45c18a76a1275f9aaba8"/>
-    <element xsi:type="archimate:WorkPackage" name="DTiG 2024 Finalize Activities (Work Package)" id="id-52b58366bf254f46a6f917ece8b314ed"/>
-    <element xsi:type="archimate:Deliverable" name="Draft and Finalize Speaker Listing (Deliverable)" id="id-07edfe02e0614dd7aa041a0deb977587"/>
-    <element xsi:type="archimate:Deliverable" name="Increase Marketing Of DTiG 2022 To All Stakeholders (Deliverable)" id="id-4a857e15acb34f1d84c6e372f84fd6b5"/>
-    <element xsi:type="archimate:Deliverable" name="Draft &amp; Finalize Schedule for Plenaries and Streams (Deliverable)" id="id-74229bdf226e4e92894714576ce974f2"/>
-    <element xsi:type="archimate:Deliverable" name="Access, Monitor, Review EventBrite Content (Deliverable)" id="id-6ad44069ef4a4fecadfcbd6a83ab8843"/>
-    <element xsi:type="archimate:Deliverable" name="Manage Funds, Etc. (Deliverable)" id="id-2dddebacf99840058077a779cf92c8f2"/>
-    <element xsi:type="archimate:Deliverable" name="Confirm Details For Hybrid Event Venue (UofO) (Deliverable)" id="id-528086ad9f914979be6c08eb2715eba0"/>
-    <element xsi:type="archimate:WorkPackage" name="DTiG 2023 Delivery Activities (Work Package)" id="id-35b1d6dbc571491ea0f53351185ec421"/>
-    <element xsi:type="archimate:WorkPackage" name="DTiG 2024 Refining Activities (Work Package)" id="id-c37c0e8ed4c34597923344a5cd42210e"/>
-    <element xsi:type="archimate:Deliverable" name="Recruit / Enlist Volunteers for Vacant Roles (Deliverable)" id="id-549c86e2871d4b9ca61c497438e3302b"/>
-    <element xsi:type="archimate:Deliverable" name="Finalize Guides, Checklists For Hosts and Presenters (Deliverable)" id="id-936e913fc10d41b7b71a71d9f2952e1f">
-      <documentation> - If there are text limits for naming (Cvent restriction on Titles, etc.), communicate those in Speaker guidance.&#xD;
- - Provide guidance on file naming to presenters, where applicable.&#xD;
- - Conference Etiquette Guide: Guidance for attendees on etiquette for asking q's. No 'stump-the-chump' type questions. When will questions submitted online be accepted? Will in-person questions be vetted?&#xD;
- - Avoid the use of Acronyms...OMG!&#xD;
-</documentation>
-    </element>
-    <element xsi:type="archimate:Deliverable" name="Obtain Speaker Decks, Bios, Photos, etc. (Deliverable)" id="id-9d7ecc721b834b069f3a54497813fcae"/>
-    <element xsi:type="archimate:Deliverable" name="Confirm, Setup, Test Zoom Call Event Links, Etc. (Deliverable)" id="id-735283d908e546ccad1c9167eb49972d"/>
-    <element xsi:type="archimate:Deliverable" name="Update DTiG 2023 Page(s) for Speakers, Schedules(Deliverable)" id="id-3cc97efeb1324f669dfba0f25928ca4f"/>
-    <element xsi:type="archimate:WorkPackage" name="DTiG 2023 Close-Out Activities (Work Package)" id="id-79827e26a04e45a9be1966014169933f"/>
-    <element xsi:type="archimate:Deliverable" name="Provide Members With CPE's and PDU's (Deliverable)" id="id-65528015ea5548c78d01231b3bf18e9a">
-      <documentation>Send out certificates to those who attended</documentation>
-    </element>
-    <element xsi:type="archimate:Deliverable" name="Make Conference Content Available (Deliverable)" id="id-78ea8b91c9554717bde1dad351e372aa"/>
-    <element xsi:type="archimate:Deliverable" name="Close-Out Conference Finances (Deliverable)" id="id-f13a9ae93dc14c12b6870877b92af97b"/>
-    <element xsi:type="archimate:Deliverable" name="Make Conference Material Compliant With Creative Commons Licensing (Deliverable)" id="id-0b4166a13cfe4eb9b8c8328c18bd1508">
-      <documentation>Place decks as PDF on https://digitaltransform.ca (copies in DropBox).</documentation>
-    </element>
-    <element xsi:type="archimate:Deliverable" name="Update DTiG Page (for Future) (Deliverable)" id="id-37eed346e52e49fe9c639c10e41e63df"/>
-    <element xsi:type="archimate:Deliverable" name="Draft and Complete Lessons Learned Document (Deliverable)" id="id-d64398f69c9840c3b7bf7ce64f5f5ccc">
-      <documentation> - Review statistics. Identify need for marketing, etc.&#xD;
- - </documentation>
-    </element>
-    <element xsi:type="archimate:Deliverable" name="Identify Attendees and Poll Them For 2023 Guidance (Deliverable)" id="id-b32dc4fe9c044851918677ee89c442e6"/>
-    <element xsi:type="archimate:Deliverable" name="Week Prior Walk-Through (Deliverable)" id="id-7d1488a6b8834e64bb586e95d5c723e2"/>
-    <element xsi:type="archimate:Deliverable" name="Review All Speaker Decks In Advance (Deliverable)" id="id-042797da7808481289a5ff2819e4b866"/>
     <element xsi:type="archimate:Plateau" name="WAVE 1: Critical Business Units needing to Exchange Secret Documents with OGDs (Plateau)" id="id-ccdec95ac0d54ddf95457d2b018425b7">
       <documentation>The implementation of GCSI will be carried out through three (3) waves starting with critical business units who have an immediate need to exchange Secret documents with OGDs and gradually onboarding remaining business lines and users currently using SDCS internally. The implementation of GCSI also addresses the existing technical debt risks associated with using an aging platform.</documentation>
     </element>
@@ -516,12 +198,6 @@ We are not performing a full migration and instead more of an archive of SDCS in
   <folder name="Other" id="id-1d630884b2114449a4a0da0410d21f0e" type="other">
     <element xsi:type="archimate:Grouping" name="Assumptions: Pay To Training Institute On Client's Behalf (Grouping)" id="id-ceb0308b131a4283a1891c529d6ce15b"/>
     <element xsi:type="archimate:Grouping" name="Client Intake (Grouping)" id="id-b2cd02d6508c4839918ae5cf4ea12f89"/>
-    <element xsi:type="archimate:Grouping" name="DTiG 2022 Conference Leadership (Grouping)" id="id-2aacf8b2e97542f9b21c4b7b890cca5d">
-      <documentation>https://digitaltransform.ca/2022/conference-organizing-committee/</documentation>
-    </element>
-    <element xsi:type="archimate:Grouping" name="DTiG Conference Roles (Grouping)" id="id-e6402f2517d5428ea80ac577a45cd17f"/>
-    <element xsi:type="archimate:Grouping" name="Conference Content Storage and Delivery (Grouping)" id="id-9f1f0fc5cd3c483e93e3501c2c959960"/>
-    <element xsi:type="archimate:Grouping" name="DTiG Conference Work Packages (Grouping)" id="id-44a8ac36e87e4553a07088b9a21da9d2"/>
     <element xsi:type="archimate:Location" name="GC Buildings (Location)" id="id-3ed6656fb8e54ee0b10a23e885bba440"/>
     <element xsi:type="archimate:Grouping" name="Reduction of Risk" id="id-1067913c460142bea6f6e06f6c866c6c"/>
     <element xsi:type="archimate:Grouping" name="Increase Productivity" id="id-c7f65e6ae50f43798cfdc81daa1f417b"/>
@@ -546,94 +222,6 @@ We are not performing a full migration and instead more of an archive of SDCS in
     <element xsi:type="archimate:CompositionRelationship" id="id-e0a681a8f7af4756a78cec120f9dfd24" source="id-b2cd02d6508c4839918ae5cf4ea12f89" target="id-2313852725a6493fad43d9e67a23597a"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-e4872f46669c460a917e174d0b507611" source="id-b2cd02d6508c4839918ae5cf4ea12f89" target="id-f983a23da2f34c71910de9d3f1e72ce4"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-1b5921141edb4811a319f431668ab3d7" source="id-b2cd02d6508c4839918ae5cf4ea12f89" target="id-c4b534f498834b25b716aabb4f5e17f4"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-db5015f17008472e9a5d31ae8d45af6f" source="id-e6402f2517d5428ea80ac577a45cd17f" target="id-c5853b2cc4e749baa1f7e8f455886885"/>
-    <element xsi:type="archimate:InfluenceRelationship" name="Unreliable" id="id-c3820a5563cb47b1bf845b6a4dd2dc0b" source="id-846b495bc3f44cdfad825f3697e4ad29" target="id-a11cbba6fd5c4a00b9761f09df59ce48" strength="--"/>
-    <element xsi:type="archimate:InfluenceRelationship" name="256 GB" id="id-e5eea67f76a84e2a8cfff9df3d519a12" source="id-c03e25739f1b47618a6552a57e908578" target="id-6cb95c6214f74740ae56cd9fda02ebb2" strength="++">
-      <documentation>Limit will likely never be reached.</documentation>
-    </element>
-    <element xsi:type="archimate:CompositionRelationship" id="id-bedbe38531e34570aa254a15c7a7b4a1" source="id-49880a79186246b785f089be3353e4f0" target="id-38cbb5d9fd6f4792bb898d2aae721d8f"/>
-    <element xsi:type="archimate:FlowRelationship" id="id-42a15113a6b0413782d896ad48551ad0" source="id-52b58366bf254f46a6f917ece8b314ed" target="id-c37c0e8ed4c34597923344a5cd42210e"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-0a60ea31bb5d4457905198e85828f829" source="id-79827e26a04e45a9be1966014169933f" target="id-d64398f69c9840c3b7bf7ce64f5f5ccc"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-91ba980d441e40da8bd1ef646dad6e2e" source="id-e6402f2517d5428ea80ac577a45cd17f" target="id-a829e15d14ba485bafd146c958e24660"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-4251cf29cf3b454780594064c7f16bdd" source="id-c03e25739f1b47618a6552a57e908578" target="id-a7ce794a9e7c4780abbf12c04264bac6"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-9e87fb8f84024aae9c69666044b83a99" source="id-79827e26a04e45a9be1966014169933f" target="id-f13a9ae93dc14c12b6870877b92af97b"/>
-    <element xsi:type="archimate:AssignmentRelationship" id="id-87099782c2224490abbd109715b78a68" source="id-1cd64186469e4b5fb7063f134b5e2c80" target="id-02ab452dfa4e4fb5bc3a416dcee62555"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-22d6059741de47839029aa863d244947" source="id-2aacf8b2e97542f9b21c4b7b890cca5d" target="id-93bce8ae33ea462e8afa6731eb10d4d1"/>
-    <element xsi:type="archimate:AssignmentRelationship" id="id-3ffb33dc8fb1474f90c750f514b82cd8" source="id-b5c86a8aa4104c248e5e8ba7e8bb0c54" target="id-887fff287b2b472cbed950abcd334f72"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-669aa292c9584d329be543747a6cb04c" source="id-c37c0e8ed4c34597923344a5cd42210e" target="id-549c86e2871d4b9ca61c497438e3302b"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-a91e9188a63348808d94098e1beb9d9b" source="id-eb041f79c1db4587b894f533f4d3c185" target="id-a7ce794a9e7c4780abbf12c04264bac6"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-923979085457402291622646438c357f" source="id-2aacf8b2e97542f9b21c4b7b890cca5d" target="id-858d2e0bc7484e6c8f75666f45c1a409"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-87b8409f82a746ea8e85893feb17a448" source="id-2aacf8b2e97542f9b21c4b7b890cca5d" target="id-9dcb521e32aa4b51862f160d3572c5a4"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-d1cd6fa3f58042aba9c03615342c9bff" source="id-e6402f2517d5428ea80ac577a45cd17f" target="id-1d6bc54bb0154f109523d9574389264b"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-74421f8bddef49d8974bf539335ddaf0" source="id-eb041f79c1db4587b894f533f4d3c185" target="id-8ff8d6defed244dba4ea4a9bed861f84"/>
-    <element xsi:type="archimate:AssignmentRelationship" id="id-3b5047eb88894e968406cfcb79ad3574" source="id-858d2e0bc7484e6c8f75666f45c1a409" target="id-5e9c639df7fd4ea4b24db0b54d7aa97b"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-f8b0043d28a8441dae002d52cc46682e" source="id-93ee5dce9b444d1f8a1a1a72a801912e" target="id-344dca167dea45c18a76a1275f9aaba8"/>
-    <element xsi:type="archimate:AssignmentRelationship" id="id-017eeba8bfb74f07be350a8f7f218733" source="id-bc4327fc8ac04e1b975905b6a59cf642" target="id-716359a5de744163b4b784077a275de2"/>
-    <element xsi:type="archimate:AssignmentRelationship" id="id-b79e96a326a047a486426949c5a099bf" source="id-dfb3cc531c6142ce85f30c80833b6ab4" target="id-716359a5de744163b4b784077a275de2"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-f4c76d4aa3e74875ac5c539c43aac497" source="id-52b58366bf254f46a6f917ece8b314ed" target="id-2dddebacf99840058077a779cf92c8f2"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-ea05ecf69e174c9d966f7f016122b412" source="id-44a8ac36e87e4553a07088b9a21da9d2" target="id-35b1d6dbc571491ea0f53351185ec421"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-f23248b9ebf34830a85f2b0033bee441" source="id-e6402f2517d5428ea80ac577a45cd17f" target="id-5e9c639df7fd4ea4b24db0b54d7aa97b"/>
-    <element xsi:type="archimate:AssignmentRelationship" id="id-f5611dd148fe46f5ac1a8f8c219cc596" source="id-e2af2d5e828e488e82df789bb15c41e5" target="id-706fc94b96e84aef82137c9db957ee3e"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-2b39208fd3cb404e97482b52b0d2df9b" source="id-44a8ac36e87e4553a07088b9a21da9d2" target="id-52b58366bf254f46a6f917ece8b314ed"/>
-    <element xsi:type="archimate:FlowRelationship" id="id-9f17ad119d944e3a8864a4b243781c43" source="id-35b1d6dbc571491ea0f53351185ec421" target="id-ab854831eef64c91af632113493cce6d"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-eec0a049ac904408906d7601f8732dac" source="id-9f1f0fc5cd3c483e93e3501c2c959960" target="id-4574664395f0488ebf2ca3ee0d1d5607"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-55cb3515efd344368947d40a38f9e576" source="id-79827e26a04e45a9be1966014169933f" target="id-0b4166a13cfe4eb9b8c8328c18bd1508"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-fdccecc4496346da9cfc4e15135bb25a" source="id-79827e26a04e45a9be1966014169933f" target="id-65528015ea5548c78d01231b3bf18e9a"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-8d6db2c2c1594a0ab22e9c479586f737" source="id-c37c0e8ed4c34597923344a5cd42210e" target="id-3cc97efeb1324f669dfba0f25928ca4f"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-7972bdb28690433e848ef96b99d9577c" source="id-e6402f2517d5428ea80ac577a45cd17f" target="id-706fc94b96e84aef82137c9db957ee3e"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-2a1f99de217e49a69c5e6c14a0d88363" source="id-9f1f0fc5cd3c483e93e3501c2c959960" target="id-e1b11268df754e87b25893ea53393c78"/>
-    <element xsi:type="archimate:AssignmentRelationship" id="id-948ca794344942d195ad4d926fbc439f" source="id-0385fa86c4c445389986a4cc79e92aef" target="id-f0c84f5b6c5948ddb2eca7f02548b6f5"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-ae8153ae30164e8691fd6db56b262725" source="id-93ee5dce9b444d1f8a1a1a72a801912e" target="id-9a1b16e7c8b54269a486bf8ec4e275b2"/>
-    <element xsi:type="archimate:FlowRelationship" id="id-572050c4c21f4682bf3b5b5ec8a4e4c4" source="id-344dca167dea45c18a76a1275f9aaba8" target="id-52b58366bf254f46a6f917ece8b314ed"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-77e204ef8dff45fa97cb94bb20e0ad9e" source="id-e6402f2517d5428ea80ac577a45cd17f" target="id-ab854831eef64c91af632113493cce6d"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-3f0df2a82f1f42c493144dd02a94e7f7" source="id-c37c0e8ed4c34597923344a5cd42210e" target="id-9d7ecc721b834b069f3a54497813fcae"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-3b014634e4864182a50abcf4781a1258" source="id-2aacf8b2e97542f9b21c4b7b890cca5d" target="id-1cd64186469e4b5fb7063f134b5e2c80"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-b5457d8b98b24c73bc7c4b914180e461" source="id-e6402f2517d5428ea80ac577a45cd17f" target="id-887fff287b2b472cbed950abcd334f72"/>
-    <element xsi:type="archimate:ServingRelationship" id="id-004ca34efea2468fb07c3febd209e88c" source="id-eb041f79c1db4587b894f533f4d3c185" target="id-9f1f0fc5cd3c483e93e3501c2c959960"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-b8025e4bc729425abd1b826becdc6dd5" source="id-c37c0e8ed4c34597923344a5cd42210e" target="id-735283d908e546ccad1c9167eb49972d"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-ace38e89d3ad44dd9b446da107a54337" source="id-e6402f2517d5428ea80ac577a45cd17f" target="id-02ab452dfa4e4fb5bc3a416dcee62555"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-a0f4041f540b4a12a4f3864907b70093" source="id-846b495bc3f44cdfad825f3697e4ad29" target="id-8ff8d6defed244dba4ea4a9bed861f84"/>
-    <element xsi:type="archimate:AssignmentRelationship" id="id-547caefbbe6742cd8377d40350123da9" source="id-9503443ae77d4641a1121629a92a411d" target="id-c5853b2cc4e749baa1f7e8f455886885"/>
-    <element xsi:type="archimate:InfluenceRelationship" name="Move To M365 (2-years R&amp;D)" id="id-f27eaf46198441f2bf663a337f219672" source="id-7f6fc0a969ad44a09a03540a3d0a6e4a" target="id-85df2a3ed5e0482f9388d7dc99d317b1" strength="-">
-      <documentation>Time and Dates are unclear. GCcollab will not undergo any new development as a result of the planned consolidation of all GCTools (i.e. GCconnex, GCpedia, GCwiki, GCdirectory, GCcollab, etc.) to a single platform (e.g. Microsoft M365 Platform). Risk of loss of any information is low.</documentation>
-    </element>
-    <element xsi:type="archimate:CompositionRelationship" id="id-b8919ddb38f9452e8f7695e7b3824acb" source="id-2aacf8b2e97542f9b21c4b7b890cca5d" target="id-e2af2d5e828e488e82df789bb15c41e5"/>
-    <element xsi:type="archimate:FlowRelationship" id="id-624f7783b6b8409fb8e0fc0891a67c15" source="id-35b1d6dbc571491ea0f53351185ec421" target="id-79827e26a04e45a9be1966014169933f"/>
-    <element xsi:type="archimate:InfluenceRelationship" name="90 Days Limit" id="id-90fa721b997041799abaee05ffcee563" source="id-206d6a2d1e094b71b3fee5fc09fd7f83" target="id-85df2a3ed5e0482f9388d7dc99d317b1" strength="-"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-8454146417294404bfecaace2ef3c8d0" source="id-52b58366bf254f46a6f917ece8b314ed" target="id-07edfe02e0614dd7aa041a0deb977587"/>
-    <element xsi:type="archimate:InfluenceRelationship" name="1 GB Limit Per File" id="id-fc9afda356e74cc488c62a0ba38ed71d" source="id-7f6fc0a969ad44a09a03540a3d0a6e4a" target="id-6cb95c6214f74740ae56cd9fda02ebb2" strength="+"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-8fccd2607b6147dda2df1536a60f333f" source="id-e6402f2517d5428ea80ac577a45cd17f" target="id-344dca167dea45c18a76a1275f9aaba8"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-c337d07dc0a446e98bf99aebf665fff3" source="id-44a8ac36e87e4553a07088b9a21da9d2" target="id-79827e26a04e45a9be1966014169933f"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-7cf0c53611164694b33f94782a721c32" source="id-44a8ac36e87e4553a07088b9a21da9d2" target="id-c37c0e8ed4c34597923344a5cd42210e"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-25deee0c0b7447acb767f07ea7a78c74" source="id-79827e26a04e45a9be1966014169933f" target="id-78ea8b91c9554717bde1dad351e372aa"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-037b108f57504f1e955ec13abde4d7c5" source="id-49880a79186246b785f089be3353e4f0" target="id-9cdb1a14d4314d02a77c48b08de2a12e"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-fd7cf21f1c0040699bffbcdb434e3a51" source="id-2aacf8b2e97542f9b21c4b7b890cca5d" target="id-c66573ee11204adc8efd3e82d7ca9196"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-1c6031c06b88480695fc76185e094801" source="id-9f1f0fc5cd3c483e93e3501c2c959960" target="id-846b495bc3f44cdfad825f3697e4ad29"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-a3a2f589c33d4184b9d73c6ac423c092" source="id-9f1f0fc5cd3c483e93e3501c2c959960" target="id-5cd470b696f24a08afb7867c0ec65d7b"/>
-    <element xsi:type="archimate:AssignmentRelationship" id="id-8924e181d2ee42249defbc0c8f33beb2" source="id-93bce8ae33ea462e8afa6731eb10d4d1" target="id-706fc94b96e84aef82137c9db957ee3e"/>
-    <element xsi:type="archimate:InfluenceRelationship" name="90 Days Limit" id="id-db9e2c935d70491eb05aab1f097101f6" source="id-40a8528543f645e68295cc6e47118e01" target="id-85df2a3ed5e0482f9388d7dc99d317b1" strength="-"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-63cb882efb424e9991d03a08bd834979" source="id-9f1f0fc5cd3c483e93e3501c2c959960" target="id-7f6fc0a969ad44a09a03540a3d0a6e4a"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-ca9554873240414bb5476a289f71ee63" source="id-c37c0e8ed4c34597923344a5cd42210e" target="id-936e913fc10d41b7b71a71d9f2952e1f"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-7db062fdd48f40ab90edf603df5f88ed" source="id-52b58366bf254f46a6f917ece8b314ed" target="id-74229bdf226e4e92894714576ce974f2"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-364ff10a14f0459dbfb4e426488a2d06" source="id-e1b11268df754e87b25893ea53393c78" target="id-206d6a2d1e094b71b3fee5fc09fd7f83"/>
-    <element xsi:type="archimate:AssignmentRelationship" id="id-5bd85e95beeb466dba04365cc8b1b75b" source="id-c66573ee11204adc8efd3e82d7ca9196" target="id-a829e15d14ba485bafd146c958e24660"/>
-    <element xsi:type="archimate:FlowRelationship" id="id-901c4ed033f141888dcf93f8d7c078fe" source="id-c37c0e8ed4c34597923344a5cd42210e" target="id-35b1d6dbc571491ea0f53351185ec421"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-0d2e45cc4c5e4b98835b7e2007815d1a" source="id-52b58366bf254f46a6f917ece8b314ed" target="id-6ad44069ef4a4fecadfcbd6a83ab8843"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-a6d81498f5244eacb24d6faab095f3ce" source="id-52b58366bf254f46a6f917ece8b314ed" target="id-528086ad9f914979be6c08eb2715eba0"/>
-    <element xsi:type="archimate:InfluenceRelationship" name="Unlimited, Regionalized" id="id-e8fd8f4d2ce44faab74d30108550811c" source="id-c03e25739f1b47618a6552a57e908578" target="id-a11cbba6fd5c4a00b9761f09df59ce48" strength="++"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-750cb5027eff4ad1b8a969a6f9b2d00d" source="id-49880a79186246b785f089be3353e4f0" target="id-609b47021b524be4a1cc4c55811dc425"/>
-    <element xsi:type="archimate:AssignmentRelationship" id="id-4c674705dbd44cd2b8808f18c71f9ca6" source="id-9dcb521e32aa4b51862f160d3572c5a4" target="id-1d6bc54bb0154f109523d9574389264b"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-b597c2d282a0486ba3ed4d0212101897" source="id-49880a79186246b785f089be3353e4f0" target="id-60aba4dbaedb467fb2f124fb7b79b508"/>
-    <element xsi:type="archimate:InfluenceRelationship" name="Unknown" id="id-05f0de534b3844cd9b1de4017610cc73" source="id-5cd470b696f24a08afb7867c0ec65d7b" target="id-6cb95c6214f74740ae56cd9fda02ebb2"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-57f9061a603f434e9df83edf58941417" source="id-2aacf8b2e97542f9b21c4b7b890cca5d" target="id-9503443ae77d4641a1121629a92a411d"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-31d2c6d0968b4f32b46be65c7109c0e9" source="id-79827e26a04e45a9be1966014169933f" target="id-37eed346e52e49fe9c639c10e41e63df"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-edb5efa43aff43c6b30fb3e095666438" source="id-9f1f0fc5cd3c483e93e3501c2c959960" target="id-c03e25739f1b47618a6552a57e908578"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-a41cf93577784690bf9a7d41e7452b96" source="id-49880a79186246b785f089be3353e4f0" target="id-25111e96d11646df8de1f8099e438bb4"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-989c3b89d1674c7599f20d17fffdbf58" source="id-79827e26a04e45a9be1966014169933f" target="id-b32dc4fe9c044851918677ee89c442e6"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-26dca5df70f84cd1b557d07c4f0fc61d" source="id-52b58366bf254f46a6f917ece8b314ed" target="id-4a857e15acb34f1d84c6e372f84fd6b5"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-0c4f05aff2f2445da4cc11f4fefaf524" source="id-e1b11268df754e87b25893ea53393c78" target="id-40a8528543f645e68295cc6e47118e01"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-b562c4b92bf94318b2b12a8a660811b5" source="id-2aacf8b2e97542f9b21c4b7b890cca5d" target="id-b5c86a8aa4104c248e5e8ba7e8bb0c54"/>
-    <element xsi:type="archimate:AssignmentRelationship" id="id-d50fed25f0ff4fee98a3d6127f7bfe18" source="id-e6402f2517d5428ea80ac577a45cd17f" target="id-eb041f79c1db4587b894f533f4d3c185"/>
     <element xsi:type="archimate:RealizationRelationship" id="id-8f7b96ac8cef432a8b5b3864436c2e76" source="id-f5d74ee8436c49abbb06bdf7bcf5cc6c" target="id-f4b4d6dd2c024656a969d79966c90bc2"/>
     <element xsi:type="archimate:ServingRelationship" id="id-cf3964a6b72d438093e7c06c3dac718e" source="id-2c331e2a3c594f19a4f7fcc9756829e0" target="id-75c5370389f34f32b2abb8912cdf1d37"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-4f4af1af0b994618a86a17b7fb4f9ea5" source="id-f5d74ee8436c49abbb06bdf7bcf5cc6c" target="id-bfa730d167884098a1ce478d7a6f89c3"/>
