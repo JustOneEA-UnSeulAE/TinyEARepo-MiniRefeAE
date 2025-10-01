@@ -137,6 +137,20 @@ Moderators should have access to the Presenters' contact info, in case something
     </element>
     <element xsi:type="archimate:BusinessRole" name="Shared Services Canada (Business Role)" id="id-4967f4e7cf8049adbf4dc55a14b7e6e6"/>
     <element xsi:type="archimate:BusinessRole" name="Public Services and Procurement Canada (PSPC) (Business Role)" id="id-b4dcfc6167ed46009bb28a72e85c01be"/>
+    <element xsi:type="archimate:BusinessRole" name="GCSI DG Steering Committee (SC) (Business Role)" id="id-9d05e11521674ad6800d6399296bb65c">
+      <documentation>A GCSI DG Steering Committee (SC) was established as an interdepartmental committee that enables informed strategic decision-making to ensure that business, technical and service delivery teams are working towards common goals and objectives. It provides advice and guidance for the development, prioritization, implementation, and ongoing operations of the GCSI enterprise capabilities that meets the GC needs. The GCSI SC will ensure that appropriate monitoring and oversight is in place to achieve timely implementation, and ensure that GC’s business and user requirements are satisfied and aligned with overall GC strategies.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessService" name="Service Provider for Secret GCDocs (Business Service)" id="id-f332346b04ea4f449c284908b74cde7b">
+      <documentation>▪ Create and provide to the Client two (main/backup) client system administrator account(s) for user account provisioning in accordance with GCdocs user account naming convention standard.&#xD;
+▪ Engineer architecture and system design of GCdocs.&#xD;
+▪ Build, configure and maintain GCdocs Client environment further to GCdocs Gold Build.&#xD;
+▪ Define, manage and operate the database layer for the application hosting environments.&#xD;
+▪ Patch, apply service packs and upgrade the version of Content Server further to the Change and Release Management service.&#xD;
+▪ Maintain Security Assessment and Authorization (SA&amp;A) and Authority to Operate (ATO).&#xD;
+▪ Implement the Client application using GCdocs licenses in accordance with the Government Security Policy (GSP), Management of IT Security (MITS), and any other applicable privacy and security policies, legislation and/or standards, appropriate to the sensitivity of information being handled; and&#xD;
+▪ Apply safeguards for the safe and secure storage of Client data within the GCdocs environments (refer to the GCdocs Onboarding Security Requirements).&#xD;
+▪ Assist GCdocs Secret clients on GCSI to determine their storage requirements.</documentation>
+    </element>
   </folder>
   <folder name="Application" id="id-19fc5dff64fe43109c1223ccb74f656f" type="application">
     <element xsi:type="archimate:ApplicationService" name="DTiG Website File Downloading (Application Service)" id="id-846b495bc3f44cdfad825f3697e4ad29">
@@ -635,6 +649,7 @@ We are not performing a full migration and instead more of an archive of SDCS in
     <element xsi:type="archimate:CompositionRelationship" id="id-45352bdbc2cc44878ad20027d863bc8d" source="id-1067913c460142bea6f6e06f6c866c6c" target="id-b37366b9c8fc422f947bc1feafe9f99f"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-a2e36307ddf0435399943a4949d0221a" source="id-1067913c460142bea6f6e06f6c866c6c" target="id-febf2928aa1b4c86bf9e5d8d1382a2a2"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-11047419c2d44eb79a67fa348853246b" source="id-c7f65e6ae50f43798cfdc81daa1f417b" target="id-af4f48ac079a4549aa5443d62643df16"/>
+    <element xsi:type="archimate:AssignmentRelationship" id="id-b36d6608461a4c448b11059575ee014c" source="id-b4dcfc6167ed46009bb28a72e85c01be" target="id-f332346b04ea4f449c284908b74cde7b"/>
   </folder>
   <folder name="Views" id="id-a823d52dea5b46019442ad76b1077b50" type="diagrams">
     <folder name="CDB" id="id-40c51487e639471896c3f8c2977be821">
@@ -782,11 +797,6 @@ v0.1.20250521</content>
           <bounds x="813" y="41" width="149" height="108"/>
           <content>DIAGRAM NOT ENDORSED</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-ed1010fc820d495a8627adf33daaadb1" textAlignment="1">
-          <bounds x="992" y="18" width="229" height="96"/>
-          <content>MISSING FROM THE CONCEPT CASE:&#xD;
- - </content>
-        </child>
         <child xsi:type="archimate:DiagramObject" id="id-fb2b2089636942fc8954366abe1c13af" archimateElement="id-bfec5faf75f94a9d9b1a3ac4b32b7937">
           <bounds x="208" y="327" width="188" height="82"/>
         </child>
@@ -837,6 +847,7 @@ v0.1.20250521</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d001bb30366949af9d102eacb62e25fa" targetConnections="id-d3425035ef2b490f9849a76a4266f661" archimateElement="id-b4dcfc6167ed46009bb28a72e85c01be">
           <bounds x="816" y="333" width="188" height="56"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-73991a5a39664e4e9c10493363ba982a" source="id-d001bb30366949af9d102eacb62e25fa" target="id-79b5b6323e4740d890071f1ffe0a6f6f" archimateRelationship="id-b36d6608461a4c448b11059575ee014c"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-2e1d6a15d3974fc68f450862837574df" targetConnections="id-b635438256f94fd991c93ee261a56e75" archimateElement="id-00dfe4479d00481ca2d00de70c649022">
           <bounds x="207" y="274" width="188" height="52"/>
@@ -864,7 +875,7 @@ v0.1.20250521</content>
           <bounds x="50" y="344" width="120" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d26a542dcefd4acd83cb74eb2901d9bf" textAlignment="1" archimateElement="id-1067913c460142bea6f6e06f6c866c6c">
-          <bounds x="732" y="552" width="208" height="192"/>
+          <bounds x="912" y="509" width="208" height="192"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-f1c611350b874c5986206f8b0afa138d" source="id-d26a542dcefd4acd83cb74eb2901d9bf" target="id-1c9f41e0aabc4ce0b0179066ca069628" archimateRelationship="id-8644fcb8e5e04842b0162718834ed2ca"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-440c448636744ede9a1c64e6932a060c" source="id-d26a542dcefd4acd83cb74eb2901d9bf" target="id-09fb1f76100741b991f78193504778c9" archimateRelationship="id-45352bdbc2cc44878ad20027d863bc8d"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-c079fa622f264686b2beedbe43b10242" source="id-d26a542dcefd4acd83cb74eb2901d9bf" target="id-9686730c8e39414f9ebf43337df5ab97" archimateRelationship="id-a2e36307ddf0435399943a4949d0221a"/>
@@ -879,26 +890,32 @@ v0.1.20250521</content>
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-303dca21a82545f98d64b3af68fbadf5" textAlignment="1" archimateElement="id-c7f65e6ae50f43798cfdc81daa1f417b">
-          <bounds x="732" y="744" width="208" height="84"/>
+          <bounds x="912" y="701" width="208" height="84"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-a4cd1161041344498168508b14a47464" source="id-303dca21a82545f98d64b3af68fbadf5" target="id-19fd9dfe906f4b35a93f287d4b46ec64" archimateRelationship="id-11047419c2d44eb79a67fa348853246b"/>
           <child xsi:type="archimate:DiagramObject" id="id-19fd9dfe906f4b35a93f287d4b46ec64" targetConnections="id-a4cd1161041344498168508b14a47464" archimateElement="id-af4f48ac079a4549aa5443d62643df16">
             <bounds x="12" y="24" width="188" height="48"/>
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-0430ef557fd4445a94a3ce6113a52f60" archimateElement="id-742a7e0606784782a348f104b396bd9e">
-          <bounds x="990" y="448" width="188" height="55"/>
+          <bounds x="696" y="559" width="188" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-df17bd1c83c043d985259118bd2add12" archimateElement="id-54373bdb96564291855cb9e0083527a3">
-          <bounds x="1013" y="549" width="188" height="55"/>
+          <bounds x="696" y="627" width="188" height="36"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-daae99f075fd49fc979b22a665013673" archimateElement="id-26d59cbc68a34f20961db18234df8ade">
-          <bounds x="1013" y="612" width="188" height="55"/>
+          <bounds x="696" y="662" width="188" height="36"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-7f0fa7a2c2fb47078d348e4e24397b93" archimateElement="id-47f1b73fa04240e18e859f2e60806f80">
-          <bounds x="1013" y="672" width="188" height="55"/>
+          <bounds x="696" y="699" width="188" height="36"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-11d0a83762974c6088f844d3f20a60ad" archimateElement="id-e7654208a8514edbad40037ba2cdba01">
-          <bounds x="1013" y="733" width="188" height="55"/>
+          <bounds x="696" y="734" width="188" height="36"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-5624ae851f5b47578e350fd149c1e006" archimateElement="id-9d05e11521674ad6800d6399296bb65c">
+          <bounds x="48" y="213" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-79b5b6323e4740d890071f1ffe0a6f6f" targetConnections="id-73991a5a39664e4e9c10493363ba982a" archimateElement="id-f332346b04ea4f449c284908b74cde7b">
+          <bounds x="1033" y="342" width="188" height="37"/>
         </child>
         <documentation>EA Collab SPO Folder: https://014gc.sharepoint.com/:f:/r/sites/EACollab/Shared%20Documents/Adoption%20of%20Government%20of%20Canada%20Secret%20GCSI%20-%20CR</documentation>
       </element>
