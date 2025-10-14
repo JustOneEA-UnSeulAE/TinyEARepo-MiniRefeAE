@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Data Integration Context</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Data Integration Context</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-Grouping"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-Grouping" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Data Integration Context
+A data integration may be architected as part of a Solution or Capability Architecture development or as part of an Enterprise Architecture development. The TOGAF&#174; Standard (see References) defines an Architecture Development Method (ADM), and its Enterprise Continuum provides an overall context for architectures and solutions, and classifies assets that apply across the entire scope of the enterprise.
+One of the key aspects of Enterprise Architecture implementation is data migration from the existing to the target environment. The target environment is generally rationalized and streamlined, entailing a major data integration effort to migrate the data.
+Most data integration architectures are in the organization-specific part of that continuum, guiding and supporting organization-specific data integration solutions. Portals, integrated information environments (An Information Architecture Vision: Moving from Data Rich to Information Smart; see References), information sharing environments, and emerging data fabric/data mesh concepts are common systems architecture concepts, and they guide and support the use of vendor and open source data platforms that are common systems solutions.
+A data integration is typically preceded by planning, discovery, and extraction, and followed by verification before the integrated data &#8220;goes live&#8221;. From that point, it is subject to lifecycle management, which determines its storage, use, and eventual disposal. These activities are all carried out in accordance with information governance, as illustrated in Figure 1:
+&#8226; Plan: includes representing information holdings and identifying shortfalls, such as a lack of requisite quality
+&#8226; Discover &amp; Extract: includes analyzing the shortfalls, finding sources and information quality (often through metadata), assessing privacy and legality of extraction, cost-benefit analysis, and getting the information required directly or indirectly (e.g., through data as a service)
+&#8226; Transform &amp; Integrate: includes transforming data into a standard enterprise format, assessing information loss and resultant quality, information sub-integration (e.g., multi-sensor), creating metadata for integrated data, and integration with existing information holdings
+&#8226; Verify: includes establishing the legal/privacy/policy framework, determining whether the integration is legal, determining whether the integration is in line with enterprise values and brand, and determining the need to transform (e.g., anonymize) integrated data
+&#8226; Use: includes operations, decision support, and analytics; for example, Business Intelligence (BI) and Machine Learning (ML)
+
+&lt;Figure 1: Data Integration Context&gt;
+
+In a complex case &#8211; for example, following a merger &#8211; there may be many data integrations carried out in parallel, and the integration may not be a &#8220;one-off&#8221; event, but a continuous process operating on data that is continually changing. This process may be partly or entirely automated. Establishing such processes can be a significant part of a Solution or Enterprise Architecture.
+The Technology Architecture phase of a TOGAF architecture development includes the identification of appropriate technical standards. The standards described in this document are candidates for inclusion in the Technology Architecture of an architecture development that covers data integration.</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr id="used-in-views-id-d9909dd12f554de389156fd3fa022044">
+																	<td><a href="../views/id-d9909dd12f554de389156fd3fa022044.html" target="view" title="Data Integration - Technical Standards"> Data Integration - Technical Standards </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+											<td><a href="../elements/id-b848aa92ee1a41ada9a63f702cc3dc1f.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-CompositionRelationship" /></td>
+											<td><a href="../elements/id-18c7fce0b8f04b16ab560a9a0973e1a1.html" target="element"> Data Integration Context</a></td>
+											<td><a href="../elements/id-443c60b340bf4973806f6751b60ace0c.html" target="element"> Data Discover &amp; Extract</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-21637fde447e46db9a5e52caf9d9cf3d.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-CompositionRelationship" /></td>
+											<td><a href="../elements/id-18c7fce0b8f04b16ab560a9a0973e1a1.html" target="element"> Data Integration Context</a></td>
+											<td><a href="../elements/id-6269942d585f4d3f94af67053983ebd6.html" target="element"> Data Transform &amp; Integrate</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-e67f2bd5cbe24466a0fa18d1fe368260.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-CompositionRelationship" /></td>
+											<td><a href="../elements/id-18c7fce0b8f04b16ab560a9a0973e1a1.html" target="element"> Data Integration Context</a></td>
+											<td><a href="../elements/id-7e2307c3fac24bc38e383735353a7882.html" target="element"> Data Planning</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-3a583b03d3f64ce88bbdeb445ac86846.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-CompositionRelationship" /></td>
+											<td><a href="../elements/id-18c7fce0b8f04b16ab560a9a0973e1a1.html" target="element"> Data Integration Context</a></td>
+											<td><a href="../elements/id-66f1145bea4a4e1d85c982362f754042.html" target="element"> Data Verify</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-bec02767939943d5b15cb2de051c5620.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-CompositionRelationship" /></td>
+											<td><a href="../elements/id-18c7fce0b8f04b16ab560a9a0973e1a1.html" target="element"> Data Integration Context</a></td>
+											<td><a href="../elements/id-a549838ddd15473692cb61ea4bfc4caa.html" target="element"> Lifecycle Management</a></td>
+										</tr>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
