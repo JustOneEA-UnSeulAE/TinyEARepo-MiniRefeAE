@@ -2782,6 +2782,26 @@ Define the roles and procedures that assure the effective management of data, i.
     <element xsi:type="archimate:CourseOfAction" name="Data Policy - Consistently Towards Successful Strategy Implementation" id="id-6f5ecaee728c40f1b05f7669bdc94a67">
       <documentation>•	Data Policy  Support the strategy with overarching policy that provides guidance to ensure that organization acts in a manner that is consistent with successful implementation of the strategy.</documentation>
     </element>
+    <element xsi:type="archimate:Resource" name="PIPEDA FAQs (Resource)" id="id-1af25b4298f74d6cb9b4966c7f149890">
+      <documentation>PIPEDA FAQS&#xD;
+Is PIPEDA mandatory in Canada?&#xD;
+Whether your business is subject to PIPEDA or not depends on the type of business you run and the data it collects. PIPEDA, which stands for Personal Information Protection and Electronic Documents Act, is a Canadian federal privacy law that governs how private sector organizations collect, use, and disclose personal information during commercial activities. So, if your business operates in Canada and collects personal information from customers, employees, or others, it may be subject to PIPEDA.&#xD;
+&#xD;
+Is PIPEDA the same as GDPR?&#xD;
+PIPEDA is specific to Canada and focuses on protecting personal information in the context of commercial activities. GDPR, on the other hand, has a much broader scope and applies to any business that collects EU citizen data, regardless of location. Both laws aim to protect the privacy rights of individuals and ensure that organizations handle personal data responsibly.&#xD;
+&#xD;
+Does PIPEDA apply to USA?&#xD;
+No, PIPEDA is only for companies with Canada.</documentation>
+    </element>
+    <element xsi:type="archimate:Resource" name="Understanding PIPEDA: Privacy Regulations in Canada from the Office of the Privacy Commissioner (Resource)" id="id-8dbb74429cf94522990e00809a059f8d">
+      <documentation>https://secureprivacy.ai/blog/what-is-pipeda</documentation>
+    </element>
+    <element xsi:type="archimate:Resource" name="[Justince.gc.ca] PIPEDA (Resource)" id="id-b72ebb95026a4a83883f8a20370bcac4">
+      <documentation>https://laws-lois.justice.gc.ca/eng/acts/p-8.6/page-7.html&#xD;
+&#xD;
+SCHEDULE 1 (Section 5)&#xD;
+Principles Set Out in the National Standard of Canada Entitled Model Code for the Protection of Personal Information, CAN/CSA-Q830-96</documentation>
+    </element>
   </folder>
   <folder name="Business" id="id-fb9c94c240434273aa6d6f5df1a73407" type="business">
     <element xsi:type="archimate:BusinessEvent" name="EA Requests SAS Feedback" id="id-a7ebf3b84a7545f6a5b2e8eaca445cb6"/>
@@ -9378,10 +9398,6 @@ XSD XML</documentation>
     </element>
     <element xsi:type="archimate:Goal" name="Further Solidify Efficiencies (Goal)" id="id-416e4562df914ffbbcad1e13a0730373"/>
     <element xsi:type="archimate:Goal" name="Generate Savings, Recover Debt (Goal)" id="id-8dc878dcc2c6401c89d30ee9edf70963"/>
-    <element xsi:type="archimate:Constraint" name="Manual Processing (Constraint)" id="id-cd5a5dca1cb1427ab84851d468aab42c"/>
-    <element xsi:type="archimate:Constraint" name="Limited Payment Options (Constraint)" id="id-d184d78c49c244c09941bf41cd9022e6"/>
-    <element xsi:type="archimate:Constraint" name="No Real-Time Information (Constraint)" id="id-a4af299a182945448584be26b525642c"/>
-    <element xsi:type="archimate:Constraint" name="Resource-Intensive Tasking (Constraint)" id="id-5da05176b8f74a6c9b3961e09ea2394f"/>
     <element xsi:type="archimate:Goal" name="Integrate MSCA-SAP PSCD-RGBB-PAD (Goal)" id="id-c1cd2a771abe4faabb333184f68f8964"/>
     <element xsi:type="archimate:Outcome" name="Provide Near Real-Time Client Account Updates (Outcome)" id="id-930173bfc47946ee99838526d5ac265d"/>
     <element xsi:type="archimate:Outcome" name="Portal Including Comprehensive Payments (Outcome)" id="id-cefdecd37bf0467083d2019db85f6728"/>
@@ -12140,6 +12156,399 @@ o	Performance reporting, forecasting and workload management are limited and inc
     <element xsi:type="archimate:Driver" name="Spreadmarts and Black Books Mean A Lack of Clarity Around Data Access and Use" id="id-173d4b684968466b93d409c2e5071fa3">
       <documentation>•	To get work done, employees often extract data from secure systems into network assets such as Excel work sheets to manipulate data.  Executives often do not have clear line of sight into who has access to what data, and for what purpose.  </documentation>
     </element>
+    <element xsi:type="archimate:Principle" name="Principle 1 – Accountability" id="id-4606b20de28047c591256e6f1e4a8f49">
+      <documentation>Principle 1 – Accountability&#xD;
+The principle of accountability in PIPEDA (Personal Information Protection and Electronic Documents Act) outlines organizations’ responsibility in protecting the personal information they collect, use, and disclose. The accountability principle is the first of the ten principles set forth in PIPEDA and establishes the foundation for the other principles.&#xD;
+&#xD;
+1. Accountability: Organizations are responsible for the personal information under their control and must designate an individual or individuals who are accountable for ensuring compliance with the principles.&#xD;
+The accountability principle under PIPEDA requires businesses to designate at least one individual whose responsibility is to ensure compliance with this data privacy law.&#xD;
+&#xD;
+The designated individual responsible for PIPEDA compliance should create a simple and easily understandable privacy notice that outlines the ten crucial principles. They may also be responsible for responding to access requests, assisting in conducting data security audits, and other related tasks.&#xD;
+&#xD;
+It is important to ensure that your PIPEDA compliance appointee is qualified and adequately supported to fulfill their duties.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Principle 2 – Identifying Purposes" id="id-09c228a5de164865aea5b3f13ab8da39">
+      <documentation>Principle 2 – Identifying Purposes&#xD;
+The principle of identifying purposes is a key component of PIPEDA (Personal Information Protection and Electronic Documents Act) in Canada. This principle emphasizes the importance of organizations being transparent and upfront about the reasons for collecting personal information. The goal is to ensure that individuals know and understand why their information is being collected, used, or disclosed.&#xD;
+&#xD;
+2. Identifying purposes: Organizations must identify the purposes for collecting personal information at or before the time the information is collected.&#xD;
+Regarding this principle, Canada's PIPEDA requires you to clearly define and communicate the reasons why you are collecting a specific type of data. The purpose of this requirement is to ensure that you:&#xD;
+1. Inform individuals about why their information is being collected.&#xD;
+2. Take necessary measures to avoid using the collected data for purposes other than those specified.&#xD;
+3. Notify consumers if the collected information will be used for a new purpose, allowing you to seek fresh consent to use the data for that purpose.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Principle 4 – Limiting Collection" id="id-47e565269efc4acca0e68020f7f9d62a">
+      <documentation>Principle 4 – Limiting Collection&#xD;
+The principle of limiting collection is a fundamental aspect of PIPEDA (Personal Information Protection and Electronic Documents Act) in Canada. This principle outlines the requirement for organizations to limit the collection of personal information to what is necessary for the purposes identified. The goal is to ensure that organizations do not indiscriminately gather more personal information than is needed for their stated objectives.&#xD;
+&#xD;
+4. Limiting data collection: Organizations must limit the collection of personal information to that which is necessary for the purposes identified and must collect information by fair and lawful means.&#xD;
+It is essential to review your processes for the collection of personal information to differentiate between information that is absolutely necessary to collect and information that you do not need to collect.&#xD;
+&#xD;
+This distinction is important because the fourth principle of Canada's PIPEDA requires your business to only collect information that is strictly necessary and consistent with the purposes for which your users have given consent. This includes being mindful of collecting sensitive personal health information and ensuring that its collection is justified and appropriate for the intended purposes.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Principle 5 – Limiting Use, Disclosure, and Retention" id="id-e057c3ae38ba40deb7ba48bcc1df1217">
+      <documentation>Principle 5 – Limiting Use, Disclosure, and Retention&#xD;
+The PIPEDA principle of limiting use, disclosure, and retention is part of the broader framework that governs the protection of personal information under the Personal Information Protection and Electronic Documents Act in Canada. This principle establishes guidelines for organizations regarding the appropriate use, disclosure, and retention of personal information.&#xD;
+&#xD;
+5. Limiting use, disclosure, and retention: Organizations must use or disclose personal information only for the purposes for which it was collected, unless the individual has consented to another use or disclosure, or when required by law. They must retain personal information only as long as necessary for the identified purposes.&#xD;
+To achieve compliance with Canada PIPEDA, you need to create policies and guidelines, which guarantee that you utilize consumer information for reasons that are in line with what your users consented to.&#xD;
+&#xD;
+Similarly, you need to institute policies concerning the duration you intend to retain this data. Ideally, the duration should not exceed the time necessary period to execute the stated purposes of collection.&#xD;
+&#xD;
+Conversely, if you employ this data to draw conclusions about a user, you are required to retain this information for a period considered enough to allow the user in question to review this information.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Principle 3 – Consent" id="id-568d110d10e546cebc061e56e133edb7">
+      <documentation>Principle 3 – Consent&#xD;
+The principle of consent is a fundamental aspect of Canada’s PIPEDA (Personal Information Protection and Electronic Documents Act). This principle governs organizations’ collection, use, and disclosure of personal information, emphasizing the importance of obtaining the individual’s consent as a key element of respecting privacy rights.&#xD;
+&#xD;
+3. Consent: Individuals must be informed of the purposes for which their personal information is being collected, and consent must be obtained before or at the time of collection.&#xD;
+If you are a data controller subject to Canada's PIPEDA, you are obligated to seek implied or explicit consent, depending on the circumstances. The consent has to be meaningful. In some cases, implied consent is considered meaningful, while in other cases, only express consent is considered meaningful.&#xD;
+&#xD;
+It is important to ensure that your data subjects are fully aware of what giving consent means and that they do not feel coerced or deceived into giving consent. This includes informing them about any potential risks or significant harm that may arise from the collection, use, or disclosure of their personal information.&#xD;
+&#xD;
+Additionally, you need to keep records of instances where you do not deem user consent necessary, especially when there may be a risk of significant harm or when dealing with sensitive personal health information.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Principle 6 – Accuracy" id="id-2d71ef489b17400499005c40d0f0408f">
+      <documentation>Principle 6 – Accuracy&#xD;
+The principle of accuracy is one of the fundamental principles outlined in PIPEDA (Personal Information Protection and Electronic Documents Act) in Canada. This principle emphasizes the importance of ensuring that personal information collected by organizations is accurate, complete, and up-to-date.&#xD;
+&#xD;
+6. Accuracy: Organizations must keep personal information as accurate, complete, and up-to-date as necessary for the purposes for which it is to be used.&#xD;
+According to this principle, you are expected to ensure that all the personal information you collect is precise, complete, and updated as required for the stated purpose.&#xD;
+&#xD;
+Compliance with Canada PIPEDA requirements in line with this principle is dependent on how you utilize the information you collect.&#xD;
+&#xD;
+Ideally, you need to ensure the information you use to make inferences about users is updated to minimize the risk of making decisions about individuals using inaccurate data.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Principle 7 – Safeguards" id="id-ae6c7681e1de416087390563db072cd7">
+      <documentation>Principle 7 – Safeguards&#xD;
+The principle of safeguards is a key component of PIPEDA (Personal Information Protection and Electronic Documents Act) in Canada. This principle emphasizes the responsibility of organizations to implement measures to protect personal information from unauthorized access, disclosure, use, and alteration. The goal is to ensure the security and confidentiality of individuals’ personal information.&#xD;
+&#xD;
+7. Safeguards: Organizations must protect personal information against unauthorized access, disclosure, copying, use, or modification through appropriate security measures.&#xD;
+Considered one of the most crucial principles under Canada's PIPEDA, you need to ensure that the information you collect is safeguarded against unauthorized access, theft, copying, or modification.&#xD;
+&#xD;
+It is important to note that the security of user information is essential even when you are disposing of records.&#xD;
+&#xD;
+The level of protection should be proportionate to the sensitivity of the information you collect. Your data protection measures can include physical access barriers, such as passwords, organizational measures, such as granting access to specific staff members, or technological approaches, such as encryption.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Principle 8 – Openness" id="id-a40dfde3b1ba4256a9768e0bbd4c082d">
+      <documentation>Principle 8 – Openness&#xD;
+The principle of openness, also known as the principle of transparency, is a fundamental component of Canada’s PIPEDA (Personal Information Protection and Electronic Documents Act). This principle emphasizes the importance of organizations being open and transparent about their privacy policies, practices, and procedures related to collecting, using, and disclosing personal information.&#xD;
+&#xD;
+8. Openness: Organizations must be open about their policies and practices regarding the management of personal information and must make this information readily available to individuals.&#xD;
+This principle requires you to ensure that you inform users about how you gather, process, and store their data. You should provide information about your personal data policies and processes in your privacy policy.&#xD;
+&#xD;
+Additionally, you need to include the name and contact information of the individual you have appointed to facilitate compliance with PIPEDA.&#xD;
+&#xD;
+Furthermore, you are required to provide users with information on how they can access the data you have collected about them and how you share it.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Principle 9 – Individual Access" id="id-868d83799d184a8c88d0c02e21d219c9">
+      <documentation>Principle 9 – Individual Access&#xD;
+The principle of individual access is a key component of PIPEDA (Personal Information Protection and Electronic Documents Act) in Canada. This principle grants individuals the right to access their personal information held by organizations and allows them to challenge the accuracy and completeness of that information.&#xD;
+&#xD;
+9. Individual access: Upon request, individuals must be informed of the existence, use, and disclosure of their personal information and must be given access to that information. They must also be able to challenge the accuracy and completeness of the information and have it amended as appropriate.&#xD;
+If an individual submits a written request regarding their personal data, you must respond by providing information about whether you have collected data about them, the type of data collected, how it has been used, and the third parties who have had access to it.&#xD;
+&#xD;
+Furthermore, this PIPEDA principle requires you to allow individuals to determine whether the data you hold about them is inaccurate or incomplete. If they identify inaccuracies or incompleteness, you must allow them to correct or update the information.&#xD;
+&#xD;
+Essentially, you are required to provide a complete response within 30 days of receiving the initial request.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Main Principles of PIPEDA" id="id-c8c9e1699d164406858f21dc889962fc"/>
+    <element xsi:type="archimate:Principle" name="Principle 10 – Challenging Compliance" id="id-7c1cc6a6c0934a64a7e9d89e6183a58a">
+      <documentation>Principle 10 – Challenging Compliance&#xD;
+The PIPEDA principle of challenging compliance addresses the right of individuals to challenge an organization’s compliance with the principles of PIPEDA (Personal Information Protection and Electronic Documents Act) in Canada. This principle is sometimes called the “Challenging Compliance” or “Individual Recourse” principle.&#xD;
+&#xD;
+10. Challenging compliance: Individuals must be able to challenge an organization's compliance with the principles of PIPEDA, and the organization must have procedures in place to address such challenges.&#xD;
+The tenth principle of Canada's PIPEDA requires you to establish procedures for receiving, reviewing, and addressing complaints of non-compliance.&#xD;
+&#xD;
+Typically, you are expected to investigate the complaint and take necessary actions if you find the complaint to be valid. This may involve modifying your policies or processes.&#xD;
+&#xD;
+Next, you need to inform the complainant about the actions taken and provide information on the steps they can take if they are not satisfied with your response to the complaint.&#xD;
+&#xD;
+It is important to provide information to consumers on how they can challenge compliance with the privacy policy.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="What PIPEDA is in Canada? (Meaning)" id="id-d5a586d18a1c41588d000ff9f37a641b">
+      <documentation>What is the PIPEDA in Canada?&#xD;
+&#xD;
+PIPEDA is a Canadian law relating to data privacy. PIPEDA governs how private sector organizations collect, use, and disclose personal information during commercial business activities. It became effective in April 2000 and seeks to balance an individual’s right to privacy with the need of organizations to collect and use personal information for legitimate business purposes.&#xD;
+&#xD;
+PIPEDA stands for the Personal Information Protection and Electronic Documents Act. A federal privacy law in Canada governs the collection, use, and disclosure of personal information by private sector organizations. PIPEDA came into effect on January 1, 2004, and it applies to organizations that engage in commercial activities and operate across provincial or national borders.&#xD;
+&#xD;
+The key principles of PIPEDA include:&#xD;
+&#xD;
+Consent: Organizations must obtain the individual’s consent before collecting, using, or disclosing their personal information, except in certain specific circumstances.&#xD;
+&#xD;
+Accountability: Organizations are responsible for the personal information under their control and must designate individuals accountable for the organization’s compliance with the principles of PIPEDA.&#xD;
+&#xD;
+Purpose Limitation: Personal information must be collected for specified purposes and should not be used or disclosed for purposes other than those for which it was collected, except with the individual’s consent or as required by law.&#xD;
+&#xD;
+Accuracy: Organizations must make reasonable efforts to ensure that personal information is accurate, complete, and up-to-date.&#xD;
+&#xD;
+Safeguards: Organizations must implement security safeguards to protect personal information against loss, theft, unauthorized access, disclosure, copying, use, or modification.&#xD;
+&#xD;
+Openness: Organizations must be open about their privacy policies and practices, making information about these readily available to individuals.&#xD;
+&#xD;
+Individual Access: Individuals have the right to access their personal information held by an organization and to challenge its accuracy if necessary.&#xD;
+&#xD;
+Challenging Compliance: Individuals have the right to challenge an organization’s compliance with the principles of PIPEDA. Organizations must have procedures in place to respond to such challenges.&#xD;
+&#xD;
+PIPEDA applies to the private sector, but some provinces have enacted similar legislation that applies to the public sector within those provinces. Organizations need to understand and comply with PIPEDA to protect individuals’ privacy rights in collecting and using their personal information.&#xD;
+========================================================================&#xD;
+https://secureprivacy.ai/blog/what-is-pipeda&#xD;
+What is PIPEDA?&#xD;
+The Personal Information Protection and Electronic Documents Act (PIPEDA) is a federal privacy act that regulates how private-sector organizations handle personal information during commercial activities. The goal of PIPEDA is to balance the privacy rights of individuals with the legitimate needs of organizations to collect, use, and disclose personal information for reasonable purposes. PIPEDA applies to all private-sector organizations that collect, use, or disclose personal information during commercial activities, with the exception of those in Quebec, Alberta, and British Columbia, which have their own private sector privacy laws that are substantially similar to PIPEDA.&#xD;
+&#xD;
+The fair information principles of PIPEDA are the foundation for the law's approach to privacy protection. These principles are based on ten internationally recognized principles for the protection of personal data, including accountability, transparency, and consent. PIPEDA requires organizations to be accountable for the personal information they collect, use, and disclose and to take appropriate measures to safeguard this information. It also requires organizations to be transparent about their privacy policies and practices and to obtain the consent of individuals before collecting, using, or disclosing their personal information.&#xD;
+&#xD;
+Overall, PIPEDA provides a comprehensive framework for protecting personal information in the course of commercial activities. By following the fair information principles and guidelines for PIPEDA compliance, organizations can ensure that they are protecting the privacy rights of Canadians while still being able to carry out their legitimate business activities.&#xD;
+&#xD;
+The Personal Information Protection and Electronic Documents Act (PIPEDA) is a federal law in Canada that governs the collection, use, and disclosure of personal information by organizations in the course of commercial activities. The law applies to organizations in all sectors, including private sector organizations, non-profit organizations, and federal government organizations that collect, use, or disclose personal information in the course of commercial activities.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="1. PIPEDA Consent Requirements" id="id-ab8dcc22ccda4df7b75b3fc746b0f69b">
+      <documentation>Consent Requirements:&#xD;
+&#xD;
+PIPEDA, like many other data protection laws, requires organizations to obtain individuals’ consent to collect, use, and disclose their personal information. Consent under PIPEDA can be expressed or implied, depending on the circumstances.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="2. PIPEDA Extraterritorial Application" id="id-e04ce0914196407fad5bc801a0a24603">
+      <documentation>Extraterritorial Application:&#xD;
+&#xD;
+PIPEDA applies to organizations engaged in commercial activities across provincial or national borders in Canada. While it has some extraterritorial reach, it does not have the same global scope as GDPR.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="5. PIPEDA Penalties and Enforcement" id="id-586905a8f44f48908c12889fbf39974e">
+      <documentation>Penalties and Enforcement:&#xD;
+&#xD;
+PIPEDA does not have the same level of fines as GDPR. While the Privacy Commissioner of Canada has the authority to investigate and issue recommendations, it does not have the power to impose significant fines.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="PIPEDA vs GDPR Data Protection Laws" id="id-fb5122eb1d824a07bcd870462d0ce957">
+      <documentation>How Does PIPEDA Compare to Other Data Protection Laws Worldwide?&#xD;
+PIPEDA, the Personal Information Protection and Electronic Documents Act in Canada, is similar in many ways to data protection laws worldwide, especially those based on common principles like consent, accountability, and transparency.&#xD;
+&#xD;
+However, some key differences and nuances exist when comparing PIPEDA to other data protection laws worldwide, such as the European Union’s General Data Protection Regulation (GDPR) and the United States’ various state-specific privacy laws.&#xD;
+&#xD;
+Compared to the United States, where there is no comprehensive federal privacy law, individual states have started enacting their privacy legislation, such as the California Consumer Privacy Act (CCPA) and subsequent laws in other states.&#xD;
+&#xD;
+===================&#xD;
+https://secureprivacy.ai/blog/what-is-pipeda&#xD;
+How does PIPEDA compare to other data protection laws worldwide?&#xD;
+PIPEDA is a comprehensive law on the protection of personal information. When compared to other data privacy laws worldwide, it shares both similarities and differences with them.&#xD;
+&#xD;
+In the global landscape, there are two general trends in data protection: one set by the General Data Protection Regulation (GDPR) of the European Union and the other set by the few US state laws we have so far, most notably the California CCPA.&#xD;
+&#xD;
+In terms of individual consent requirements, PIPEDA leans more toward the GDPR. It doesn't mandate explicit consent in every single case, but the majority of online interactions with users would still require some form of consent.&#xD;
+&#xD;
+This sets it apart from the opt-out framework present in the CCPA, but they do share a similarity in terms of applicability. PIPEDA applies only to the collection, use, or disclosure of personal information in the course of commercial activities. This means that if the data has not been collected as part of a commercial activity, it does not fall under the scope of PIPEDA.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="1. GDPR Consent Requirements" id="id-eb56ca857b724ff8b5ee9ebf025c3a79">
+      <documentation>Consent Requirements:&#xD;
+&#xD;
+GDPR, however, places a higher emphasis on explicit and unambiguous consent. It also provides additional requirements, such as the right to withdraw consent easily.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="4. PIPEDA Data Breach Notification" id="id-c831585fe2a84896b4887c4bec5ea5bc">
+      <documentation>Data Breach Notification:&#xD;
+&#xD;
+PIPEDA includes mandatory data breach notification requirements, whereby organizations must report breaches to the Office of the Privacy Commissioner of Canada and notify affected individuals when a breach poses a risk of significant harm.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="5. GDPR Penalties and Enforcement" id="id-555d7759bc454e6f8e9e957b1d9dcef7">
+      <documentation>Penalties and Enforcement:&#xD;
+&#xD;
+GDPR imposes substantial fines for non-compliance, with penalties that can amount to a percentage of the organization’s global annual turnover.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="2. GDPR Extraterritorial Application" id="id-16ac23a9c3914c9e91668353721b9464">
+      <documentation>Extraterritorial Application:&#xD;
+&#xD;
+GDPR has extraterritorial applicability, meaning it applies to organizations outside the European Union (EU) that process the personal data of EU residents if they offer goods or services to, or monitor the behavior of, individuals in the EU.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="3. GDPR Data Subject Rights" id="id-bfa310e3e6794b78b33655064dde54f0">
+      <documentation>Data Subject Rights:&#xD;
+&#xD;
+GDPR grants additional rights such as the right to data portability, the right to be forgotten, and the right to object to certain types of processing.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="6. PIPEDA Sectoral vs. Comprehensive Approach" id="id-502d3b5707b04cc68f902f56b86e9cf3">
+      <documentation>Sectoral vs. Comprehensive Approach:&#xD;
+&#xD;
+PIPEDA is a sectoral law applying primarily to the private sector and certain federal works, undertakings, and businesses. Provinces in Canada may have their privacy legislation covering the public sector.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="3. PIPEDA Data Subject Rights" id="id-2bb306017c1e4604b4fb1e8c82b06567">
+      <documentation>Data Subject Rights:&#xD;
+&#xD;
+Both PIPEDA and GDPR provide individuals with certain rights regarding their personal information. These include the right to access, correct, and delete their data.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="4. GDPR Data Breach Notification" id="id-7960af27c1f442b39638609b5f43cf66">
+      <documentation>Data Breach Notification:&#xD;
+&#xD;
+GDPR mandates data breach notifications to the relevant supervisory authority within 72 hours of becoming aware of a breach, and in certain cases, individuals must be informed without undue delay.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="6. GDPR Sectoral vs. Comprehensive Approach" id="id-80a084e4cf2c4a3b8cc97c49748d84ea">
+      <documentation>Sectoral vs. Comprehensive Approach:&#xD;
+&#xD;
+GDPR is a comprehensive law covering all sectors and uniformly across the EU member states.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Who does PIPEDA apply to? (Meaning)" id="id-cecf49f2226841f88454f27c90caf29b">
+      <documentation>Who does PIPEDA apply to?&#xD;
+PIPEDA applies to the following:&#xD;
+&#xD;
+All private-sector organizations that collect, use, or disclose personal information during commercial activities, including businesses, non-profit organizations, and charities, with the exception of those in Quebec, Alberta, and British Columbia.&#xD;
+Federally regulated organizations, such as banks, airlines, and telecommunications companies, regardless of where they are located in Canada.&#xD;
+Inter-provincial providers of goods and services, such as online retailers, and transportation companies that operate in more than one province.&#xD;
+Government organizations, such as federal government agencies, but only with respect to their commercial activities.&#xD;
+It is worth noting that PIPEDA does not apply to government organizations when they are carrying out their public functions, such as law enforcement or national security. In summary, PIPEDA applies to a wide range of organizations that collect, use, or disclose personal information during commercial activities, with the exception of those in Quebec, Alberta, and British Columbia that have their own private sector privacy laws. By following the guidelines for PIPEDA compliance, organizations can ensure that they are protecting the privacy rights of Canadians while still being able to carry out their business activities.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Do I need to comply with the PIPEDA principles? (Meaning)" id="id-bd37f55e1a594601b7b8c4b08030f1a6">
+      <documentation>Do I need to comply with the PIPEDA principles?&#xD;
+Determining whether your business needs to comply with the PIPEDA principles depends on several factors, and it's crucial to seek legal advice for a definitive answer, especially considering the potential updates anticipated in 2024. However, here's a general overview based on current regulations:&#xD;
+&#xD;
+You likely need to comply with PIPEDA if:&#xD;
+&#xD;
+You operate a private-sector organization within Canada.&#xD;
+Your business collects, uses, or discloses personal information (names, addresses, phone numbers, etc.) in the course of commercial activities.&#xD;
+You likely don't need to comply with PIPEDA if:&#xD;
+&#xD;
+Your organization is non-profit or primarily engages in non-commercial activities.&#xD;
+Your business is based outside of Canada.&#xD;
+You don't collect, use, or disclose personal information.&#xD;
+However, even if PIPEDA doesn't directly apply to your business, it's recommended to follow its principles as best practices to demonstrate responsible data handling and build trust with customers.&#xD;
+&#xD;
+Nevertheless, based on general case law, it can be inferred that Canada's data protection law extends to foreign organizations that possess a genuine and significant connection to the country.&#xD;
+&#xD;
+According to Section 4 of PIPEDA, it applies to personal information that:&#xD;
+&#xD;
+Any organization collects, uses, or discloses for commercial purposes, or&#xD;
+Identifies an employee or job applicant.&#xD;
+It explicitly does not apply to:&#xD;
+&#xD;
+Government institutions&#xD;
+Personal information collected, used, or disclosed for personal or domestic purposes, and&#xD;
+Personal information collected, used, or disclosed for journalistic, artistic, or literary purposes.&#xD;
+The Office of the Privacy Commissioner of Canada (OPC) has determined that PIPEDA applies to foreign businesses when they handle the personal information of Canadians.&#xD;
+&#xD;
+For example, in the 411Numbers case, the OPC concluded that PIPEDA is applicable to a business that has a genuine and significant connection to Canada. This connection could be based on factors such as whether the business processes the personal data of Canadians, whether its privacy practices could affect Canadians, whether they promote its products and services in Canada, and similar considerations.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Scope of PIPEDA (Meaning)" id="id-31e700a8d0c245279c861e35e949068e">
+      <documentation>Scope of PIPEDA&#xD;
+Under PIPEDA, all organizations that collect, use, or disclose personal information in the course of commercial activities are required to comply with the law. This includes private sector organizations, non-profit organizations, and federal government organizations that engage in commercial activities.&#xD;
+&#xD;
+PIPEDA applies to personal information, which is broadly defined as any information about an identifiable individual. This includes information such as name, address, email address, phone number, date of birth, social insurance number, financial information, and medical information.&#xD;
+&#xD;
+However, PIPEDA does not apply to all personal information or all organizations. There are several exemptions to PIPEDA, including for organizations that operate solely within a province or territory with its own substantially similar privacy legislation, organizations that collect, use, or disclose personal information for journalistic, artistic, or literary purposes, and employee personal information used for employment purposes.&#xD;
+&#xD;
+It is important for organizations to determine whether they are subject to PIPEDA and, if so, to ensure they comply with the requirements of the law. Failure to comply with PIPEDA can result in penalties, damage to an organization's reputation, and loss of consumer trust.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="What is personal information under PIPEDA? (Meaning)" id="id-be0133f8e2984051b7250b5448ef3e2f">
+      <documentation>What is personal information under PIPEDA?&#xD;
+Personal information is defined broadly under PIPEDA as any information about an identifiable individual, such as their name, address, email, phone number, date of birth, social insurance number, driver's license, or blood type. PIPEDA also includes sensitive data, such as an individual's ethnic origin, social status, and personal health information.&#xD;
+&#xD;
+Under PIPEDA, organizations are required to obtain an individual's consent before collecting, using, or disclosing their personal information, except in certain circumstances, such as when the information is required by law or in an emergency. Organizations must also limit the collection, use, and disclosure of personal information to what is necessary for their stated purposes and must ensure that the information is accurate, complete, and up-to-date.&#xD;
+&#xD;
+Additionally, PIPEDA requires organizations to have appropriate safeguards in place to protect personal information against unauthorized access, disclosure, or retention. This includes physical, organizational, and technological security measures, such as secure storage facilities, access controls, and encryption.&#xD;
+&#xD;
+Finally, individuals have the right to access their personal information held by an organization and to request that any inaccuracies be corrected. They also have the right to file a complaint with the Office of the Privacy Commissioner of Canada (OPC) if they believe that their privacy rights have been violated. In cases of a data breach, organizations are required to notify affected individuals and the OPC, and may face disciplinary actions if they are found to be non-compliant with PIPEDA.&#xD;
+&#xD;
+In comparison to the European Union's General Data Protection Regulation (GDPR), PIPEDA provides similar protections for personal information, but is generally considered to be less strict in its requirements. However, as data privacy continues to be a significant privacy issue for Canadians, the OPC continues to monitor PIPEDA compliance and make recommendations for improvements to privacy legislation.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Provincial laws and compliance with PIPEDA (Meaning)" id="id-ae677c8eb24a48a6ac18cd9d26df4741">
+      <documentation>Provincial laws and compliance with PIPEDA&#xD;
+While PIPEDA is a federal privacy act that applies across Canada, some provinces have their own privacy laws that govern the collection, use, and disclosure of personal information by organizations within their jurisdiction. These laws may be similar to PIPEDA or may have different requirements.&#xD;
+&#xD;
+Quebec, British Columbia, and Alberta are examples of provinces that have their own private-sector privacy laws. Organizations that operate solely within these provinces may be subject to the provincial laws instead of PIPEDA. However, if an organization operates in multiple provinces or territories, it may still need to comply with PIPEDA.&#xD;
+&#xD;
+In Ontario, while PIPEDA applies to most private-sector organizations, the province also has its own privacy legislation, the Personal Health Information Protection Act, which applies to personal health information collected, used, or disclosed by health information custodians in the province&#xD;
+&#xD;
+New Brunswick, Nova Scotia, Newfoundland and Labrador do not have private-sector privacy laws, but have adopted substantially similar legislation regarding the collection, use and disclosure of personal health information. Organizations in these provinces must still comply with PIPEDA.&#xD;
+&#xD;
+The Office of the Privacy Commissioner of Canada (OPC) is responsible for overseeing compliance with PIPEDA and ensuring that individuals' privacy rights are protected. The OPC investigates complaints about privacy issues and has the power to take enforcement action against organizations that violate PIPEDA.&#xD;
+&#xD;
+Under PIPEDA, individuals have the right to access their personal information held by an organization and to request that it be corrected if it is inaccurate. Organizations must also limit the collection, use, and disclosure of personal information to only what is necessary for the purposes identified, and must protect personal information with appropriate security measures. Organizations must obtain meaningful consent of the individual before collecting, using, or disclosing personal information, and must retain personal information only as long as necessary.&#xD;
+&#xD;
+Federally-regulated organizations, such as banks, telecommunications providers, and airlines, are subject to PIPEDA and may also be subject to additional regulations. The GDPR, or General Data Protection Regulation, is a privacy law that applies to organizations in the European Union, as well as to some organizations outside the EU that collect or process the personal data of individuals in the EU.&#xD;
+&#xD;
+To ensure an organization's compliance with PIPEDA, it may appoint a privacy officer to oversee the organization's privacy practices and ensure that they are in line with PIPEDA and other applicable privacy laws. Organizations should also regularly review their privacy policies and practices to ensure that they are up-to-date and in compliance with the law. By doing so, organizations can protect the privacy and personal data of individuals and avoid penalties for non-compliance.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Requirements Under PIPEDA" id="id-369e3009963a4cef841ba75ea50a1a1e">
+      <documentation>https://secureprivacy.ai/blog/what-is-pipeda&#xD;
+Requirements under PIPEDA&#xD;
+Under the Personal Information Protection and Electronic Documents Act, organizations must comply with various requirements when collecting, using, and disclosing personal information. These requirements include:&#xD;
+&#xD;
+Obtaining Consent: Before an organization collects, uses, or discloses an individual's personal information, they must obtain meaningful consent from the individual. The individual must also be informed of the purpose for which their information is being collected, used, or disclosed.&#xD;
+Limiting Use, Collection, and Disclosure: Organizations must limit the collection, use, and disclosure of personal information to only that which is necessary for the identified purposes. Any new purposes for which the information will be used must also require consent.&#xD;
+Ensuring Accuracy: Organizations must take reasonable steps to ensure that personal information is accurate, complete, and up-to-date.&#xD;
+Retention: Organizations must only retain personal information for as long as necessary to fulfill the identified purposes.&#xD;
+Safeguarding Personal Information: Organizations must implement appropriate security safeguards, such as physical, organizational, and technological measures, to protect personal information from unauthorized access.&#xD;
+Providing Access: Upon request, organizations must inform individuals about the existence, use, and disclosure of their personal information and provide them with access to that information.&#xD;
+Allowing Individuals to Challenge: Individuals have the right to challenge the accuracy and completeness of their personal information and request that it be amended if necessary.&#xD;
+Sensitivity of the Information: Organizations must recognize the sensitivity of certain types of information, such as personal health information, and provide additional protection as required.&#xD;
+Responding to Inquiries and Complaints: Organizations must respond to inquiries and complaints about their privacy practices in a timely and appropriate manner.&#xD;
+Failure to comply with these requirements can result in penalties, damage to an organization's reputation, and loss of consumer trust. In severe cases, individuals may take legal action against organizations, and federal courts can order remedies for significant harm caused by unauthorized access to personal information.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="6. Providing Access (Requirement)" id="id-f8833b3bfe33466ebf6fbfc5e40eba91">
+      <documentation>Providing Access: Upon request, organizations must inform individuals about the existence, use, and disclosure of their personal information and provide them with access to that information.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="3. Ensuring Accuracy (Requirement)" id="id-ad65c1101fd648c2a5352f527261837d">
+      <documentation>Ensuring Accuracy: Organizations must take reasonable steps to ensure that personal information is accurate, complete, and up-to-date.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="9. Responding to Inquiries and Complaints (Requirement)" id="id-d5a9566b12f544c4b74dbf68ef8ee7c2">
+      <documentation>Responding to Inquiries and Complaints: Organizations must respond to inquiries and complaints about their privacy practices in a timely and appropriate manner.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="1. Obtaining Consent (Requirement)" id="id-42f1b80249c140af80f59c3386872a59">
+      <documentation>Obtaining Consent: Before an organization collects, uses, or discloses an individual's personal information, they must obtain meaningful consent from the individual. The individual must also be informed of the purpose for which their information is being collected, used, or disclosed.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="4. Retention (Requirement)" id="id-bd1e6e27c2ee434d83a4a00c3aa7dcc6">
+      <documentation>Retention: Organizations must only retain personal information for as long as necessary to fulfill the identified purposes.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="2. Limiting Use, Collection, and Disclosure (Requirement)" id="id-6758875b24a442539ca00e49912c3c21">
+      <documentation>Limiting Use, Collection, and Disclosure: Organizations must limit the collection, use, and disclosure of personal information to only that which is necessary for the identified purposes. Any new purposes for which the information will be used must also require consent.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="7. Allowing Individuals to Challenge (Requirement)" id="id-fd249dac6823461ba718c9f7cbf82202">
+      <documentation>Allowing Individuals to Challenge: Individuals have the right to challenge the accuracy and completeness of their personal information and request that it be amended if necessary.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="8. Sensitivity of the Information (Requirement)" id="id-0a5ba850eee04d5aa23f431fd16f8e16">
+      <documentation>Sensitivity of the Information: Organizations must recognize the sensitivity of certain types of information, such as personal health information, and provide additional protection as required.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="5. Safeguarding Personal Information (Requirement)" id="id-cd0551cc92d54dfca7488c4a0cc08dfa">
+      <documentation>Safeguarding Personal Information: Organizations must implement appropriate security safeguards, such as physical, organizational, and technological measures, to protect personal information from unauthorized access.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Exceptions to PIPEDA Requirements" id="id-5ed50aaa526e44f781ca51980bc892f1">
+      <documentation>Exceptions to PIPEDA requirements&#xD;
+While PIPEDA outlines many requirements that organizations must follow to protect individuals' personal information, there are some exceptions to these requirements. In certain circumstances, personal information can be collected, used, or disclosed without the individual's consent.&#xD;
+&#xD;
+Personal information collected, used, or disclosed for journalistic, artistic, or literary purposes.&#xD;
+Personal information collected, used, or disclosed for purposes related to national security, defense, or public safety.&#xD;
+Personal information collected from an individual as part of their employment application or employment relationship.&#xD;
+Medical information and financial information may be subject to additional regulations or exemptions under other legislation.&#xD;
+It is important for organizations to note that these exceptions are not absolute, and they must still ensure that they are taking appropriate measures to safeguard the personal information and only collecting, using, or disclosing personal information to the extent necessary to achieve the specified purpose.&#xD;
+&#xD;
+Organizations should also be aware that certain types of personal information may be subject to special considerations and exemptions under PIPEDA. For example, the collection, use, or disclosure of sensitive personal information, such as medical or financial information, may be subject to additional requirements and restrictions.&#xD;
+&#xD;
+In addition, organizations must ensure that they are complying with any applicable provincial laws related to personal information protection. Provinces such as Quebec, British Columbia, and Alberta have their own private-sector privacy laws, which may have different requirements and exemptions than PIPEDA.</documentation>
+    </element>
+    <element xsi:type="archimate:Constraint" name="Enforcement and Penalties (Constraint)" id="id-36c4791b151c4f51bde2638b7a9f9247">
+      <documentation>Enforcement and penalties&#xD;
+The Privacy Commissioner of Canada (OPC) is responsible for enforcing PIPEDA and ensuring that organizations comply with its requirements. The Commissioner has the power to investigate complaints made by individuals or conduct investigations on its own initiative. In addition, the Commissioner can make recommendations to organizations and issue orders to ensure compliance with PIPEDA.&#xD;
+&#xD;
+Failure to comply with PIPEDA can result in significant penalties for organizations. For example, organizations that violate PIPEDA can be subject to fines of up to $100,000 CAD for each violation. In addition, individuals affected by a violation of PIPEDA may also be entitled to damages for any harm suffered as a result of the violation.&#xD;
+&#xD;
+There have been numerous examples of organizations penalized for non-compliance with PIPEDA. In one high-profile case, a major Canadian telecommunications company was fined $100,000 CAD after the Privacy Commissioner found that it had failed to adequately protect the personal information of its customers.&#xD;
+&#xD;
+It is important for organizations to take PIPEDA compliance seriously in order to avoid penalties and maintain the trust of their customers. Organizations should establish clear policies and procedures for protecting personal information, ensure that employees are trained on PIPEDA requirements, and regularly review and update their privacy practices to ensure compliance with any changes to the law.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Are there any other data privacy laws in Canada? (Meaning)" id="id-650c8b6f7c6449e79e6053aee89dd787">
+      <documentation>Are there any other data privacy laws in Canada?&#xD;
+Beyond PIPEDA, various data privacy laws and regulations shape the Canadian legal landscape. Here's a breakdown of the key ones:&#xD;
+&#xD;
+Provincial Data Privacy Laws:&#xD;
+&#xD;
+Alberta: Personal Information Protection Act (PIPA) (enacted in 2004)&#xD;
+British Columbia: Personal Information Protection Act (PIPA) (enacted in 2000)&#xD;
+Quebec: Privacy Legislation Modernization Act (Law 25) (enacted in 2022)&#xD;
+These provincial laws are largely similar to PIPEDA in their core principles but can have key differences in areas like consent requirements and enforcement mechanisms.&#xD;
+&#xD;
+These provincial laws are similar to PIPEDA but may have stricter requirements. For example, Quebec's law might require more specific and informed consent compared to PIPEDA. Each province also has its own enforcement mechanisms for its privacy law.&#xD;
+&#xD;
+Other Relevant Legislation:&#xD;
+&#xD;
+Freedom of Information and Protection of Privacy Act (FIPPA) (enacted in 1983): This federal law governs how public bodies handle personal information.&#xD;
+Provincial and territorial health information privacy legislation: Each province and territory has specific legislation protecting personal health information (PHI).&#xD;
+Sector-specific regulations: Some industries like telecommunications, financial services, and healthcare might have additional privacy regulations beyond these mentioned above.&#xD;
+Common law privacy principles: These principles, though not codified in legislation, can be applied by courts in certain situations.</documentation>
+    </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Plateau" name="3rd Annual 2022 Digital Transformation in Government Conference (Plateau)" id="id-50a58ac56ba54b23834dc68b028ca8a0">
@@ -12598,6 +13007,9 @@ The development of architecture principles is typically influenced by the follow
     <element xsi:type="archimate:ImplementationEvent" name="3. Development of Further New Principles to Address Gaps" id="id-5c0287574ab64692b0c54863cd5be1b7"/>
     <element xsi:type="archimate:ImplementationEvent" name="1. Review of Principles at BDM DFG &amp; gathering feedback" id="id-5935845eb0f64c2bb3284b3baf0470ad"/>
     <element xsi:type="archimate:ImplementationEvent" name="2. Review &amp; ReviseExisting Principlesto Match CurrentGoals &amp; Needs" id="id-cc5d0e568d9446b5aa67bc83ad2f0242"/>
+    <element xsi:type="archimate:ImplementationEvent" name="PIPEDA 2004-01-01 (Implementation Event)" id="id-002b47f878344e69ad78164b9a3db9d0">
+      <documentation>PIPEDA came into effect on January 1, 2004, and it applies to organizations that engage in commercial activities and operate across provincial or national borders.</documentation>
+    </element>
   </folder>
   <folder name="Other" id="id-3b6502d62be54bf79bb29134a011622f" type="other">
     <element xsi:type="archimate:Junction" name="Junction" id="id-483568e04e5345cc8bc005461b6854a2" type="or"/>
@@ -15586,6 +15998,43 @@ building a new solution.</documentation>
     <element xsi:type="archimate:RealizationRelationship" id="id-5f6352b1f74349c7a1d953574175d73a" source="id-beee0ee7282a4de1af4b4ca6e46bf0ba" target="id-3003a97cbc1c4be1ab65179f80223d6e"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-ba331bfb9c984344958dffa84a2a3ea7" source="id-b046b738a65b467585945d54794072bb" target="id-dd583f2c5566481781df2ece30306927"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-01c1c158911e41b9b53d26f899647e0d" source="id-42bfab9de3e04438b44fdc59fcadc394" target="id-4ff8f9c0f83340ef8de92d8ae018181b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c89329f065654b48b87d8050c794b1b4" source="id-c8c9e1699d164406858f21dc889962fc" target="id-09c228a5de164865aea5b3f13ab8da39"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-256fab027f744a848916c73e587ba464" source="id-c8c9e1699d164406858f21dc889962fc" target="id-e057c3ae38ba40deb7ba48bcc1df1217"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5fad8d3c17044b8cb421a3b619918d19" source="id-c8c9e1699d164406858f21dc889962fc" target="id-568d110d10e546cebc061e56e133edb7"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-02efa89fee434dcf9f02fc08a50f25fd" source="id-c8c9e1699d164406858f21dc889962fc" target="id-ae6c7681e1de416087390563db072cd7"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-953985e74d0a4ccdbfcd09f6e7450a1d" source="id-c8c9e1699d164406858f21dc889962fc" target="id-47e565269efc4acca0e68020f7f9d62a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-72573ddc5cf442718864a4f7ed81099f" source="id-c8c9e1699d164406858f21dc889962fc" target="id-4606b20de28047c591256e6f1e4a8f49"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-31dbec9d11264a089f093f6ff5d55354" source="id-c8c9e1699d164406858f21dc889962fc" target="id-7c1cc6a6c0934a64a7e9d89e6183a58a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-35ae120c589940a38775e93622a00186" source="id-c8c9e1699d164406858f21dc889962fc" target="id-2d71ef489b17400499005c40d0f0408f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-333d7fc4e39f4887b6e11607706db1fe" source="id-c8c9e1699d164406858f21dc889962fc" target="id-a40dfde3b1ba4256a9768e0bbd4c082d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-61fe4c22e401445dafe21c2c8f3799be" source="id-c8c9e1699d164406858f21dc889962fc" target="id-868d83799d184a8c88d0c02e21d219c9"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-2f06075d891d4ee9b737ba6e822f8a1e" source="id-ab8dcc22ccda4df7b75b3fc746b0f69b" target="id-eb56ca857b724ff8b5ee9ebf025c3a79"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-36042feb3eef427aa7b0b66ad269ab0e" source="id-e04ce0914196407fad5bc801a0a24603" target="id-16ac23a9c3914c9e91668353721b9464"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-b602e09b584e44ff84c2e610e7cce629" source="id-2bb306017c1e4604b4fb1e8c82b06567" target="id-bfa310e3e6794b78b33655064dde54f0"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-9dc6db6274ad49e6a1d29de2f80db5f9" source="id-c831585fe2a84896b4887c4bec5ea5bc" target="id-7960af27c1f442b39638609b5f43cf66"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-90c1fe01543e4740ad582c29604d426c" source="id-586905a8f44f48908c12889fbf39974e" target="id-555d7759bc454e6f8e9e957b1d9dcef7"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-804d1d9adde34f0992d045e91e79c9a5" source="id-502d3b5707b04cc68f902f56b86e9cf3" target="id-80a084e4cf2c4a3b8cc97c49748d84ea"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-cc1ae6cbc95a47d680a47153c1b0dc4c" source="id-fb5122eb1d824a07bcd870462d0ce957" target="id-7960af27c1f442b39638609b5f43cf66"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6c33f7a02c43465bad54140a8f5d60b2" source="id-fb5122eb1d824a07bcd870462d0ce957" target="id-2bb306017c1e4604b4fb1e8c82b06567"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e6ba2d5aaca9439e9f4fb8883f106ebb" source="id-fb5122eb1d824a07bcd870462d0ce957" target="id-555d7759bc454e6f8e9e957b1d9dcef7"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5c7d519fb3e249a2b557302fcaf7e740" source="id-fb5122eb1d824a07bcd870462d0ce957" target="id-502d3b5707b04cc68f902f56b86e9cf3"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-eff8177d389c411dac91b8df2c0371c7" source="id-fb5122eb1d824a07bcd870462d0ce957" target="id-c831585fe2a84896b4887c4bec5ea5bc"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c6a19107a14d4dad97db83ff3f583fc0" source="id-fb5122eb1d824a07bcd870462d0ce957" target="id-e04ce0914196407fad5bc801a0a24603"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ad2c3d8a408d4ada8ec3cbbd752dcc2e" source="id-fb5122eb1d824a07bcd870462d0ce957" target="id-bfa310e3e6794b78b33655064dde54f0"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-15bae5dff4344e769fce9410151131f5" source="id-fb5122eb1d824a07bcd870462d0ce957" target="id-16ac23a9c3914c9e91668353721b9464"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-545e2fb7c3944b1a9b69dcba6ed3f2d3" source="id-fb5122eb1d824a07bcd870462d0ce957" target="id-eb56ca857b724ff8b5ee9ebf025c3a79"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ff8b37e1f5e944f6bf7451656c87437e" source="id-fb5122eb1d824a07bcd870462d0ce957" target="id-80a084e4cf2c4a3b8cc97c49748d84ea"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ce1bdfa003c34cddb96fcd7a8881674c" source="id-fb5122eb1d824a07bcd870462d0ce957" target="id-ab8dcc22ccda4df7b75b3fc746b0f69b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-57b4e5f4c6794e6cac15a9f6e1d6bd35" source="id-fb5122eb1d824a07bcd870462d0ce957" target="id-586905a8f44f48908c12889fbf39974e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d3485819c42d4e10af2d937c863ac1a3" source="id-369e3009963a4cef841ba75ea50a1a1e" target="id-0a5ba850eee04d5aa23f431fd16f8e16"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-719dca40d5564588835c587daae64bd0" source="id-369e3009963a4cef841ba75ea50a1a1e" target="id-ad65c1101fd648c2a5352f527261837d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3f1e23be69ef4d5d9c0e9af7b1e2af07" source="id-369e3009963a4cef841ba75ea50a1a1e" target="id-cd0551cc92d54dfca7488c4a0cc08dfa"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5c7daf96a3ee43ed84b2702b96a0c5cd" source="id-369e3009963a4cef841ba75ea50a1a1e" target="id-bd1e6e27c2ee434d83a4a00c3aa7dcc6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-03982c280e374b939c2a4752f499eadb" source="id-369e3009963a4cef841ba75ea50a1a1e" target="id-d5a9566b12f544c4b74dbf68ef8ee7c2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-9c6034f21c004e4b842c941614623595" source="id-369e3009963a4cef841ba75ea50a1a1e" target="id-fd249dac6823461ba718c9f7cbf82202"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8ddd518240434f9abcb40dac96f1f20c" source="id-369e3009963a4cef841ba75ea50a1a1e" target="id-42f1b80249c140af80f59c3386872a59"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-cd9e627ca15f4759a3c4cb126d83c7dc" source="id-369e3009963a4cef841ba75ea50a1a1e" target="id-f8833b3bfe33466ebf6fbfc5e40eba91"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-62b17b7b8449420d98ebba963023425b" source="id-369e3009963a4cef841ba75ea50a1a1e" target="id-6758875b24a442539ca00e49912c3c21"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -27809,6 +28258,320 @@ v2 of PPTX</content>
             <sourceConnection xsi:type="archimate:Connection" id="id-c9760cb328994140ae0fce6a05896968" source="id-2576d48546084e99acfba132f09d576e" target="id-f87a250b57af47859afe98dc9841415d" archimateRelationship="id-ed9eb4b2d48643ee8e66ba7d83915316"/>
           </child>
         </child>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="PIPEDA Principles (About)" id="id-cd8356b542084166827dccd252effcd1">
+        <child xsi:type="archimate:Note" id="id-5a0b992392e84e14abd1260c6e8b3b9d" font="1|Segoe UI|16.2|1|WINDOWS|1|-27|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1">
+          <bounds x="7" y="2" width="456" height="67"/>
+          <content>10 PIPEDA Principles Explained: &#xD;
+A Quick Guide to Privacy Compliance</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-1f580505a84c4a3c98f61fb35aee3fa2" textPosition="1">
+          <bounds x="372" y="42" width="91" height="27"/>
+          <content>v0.1.20251021</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-ab4070f183f94f3e8a3b732373cea71c" archimateElement="id-1af25b4298f74d6cb9b4966c7f149890">
+          <bounds x="468" y="8" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-eee518b8b6af41b399a747f648208856" archimateElement="id-c8c9e1699d164406858f21dc889962fc">
+          <bounds x="12" y="84" width="745" height="193"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cfa800e7af544c3381fc16ba292720c1" source="id-eee518b8b6af41b399a747f648208856" target="id-0e66af1a71ef45f29352340a3ba82c8a" archimateRelationship="id-c89329f065654b48b87d8050c794b1b4"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3a13503a01e845059d9174410c70c6d6" source="id-eee518b8b6af41b399a747f648208856" target="id-32b05165b37840e79120c3e99c67801f" archimateRelationship="id-256fab027f744a848916c73e587ba464"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-83f76e1e70e64143a319a09975039dd3" source="id-eee518b8b6af41b399a747f648208856" target="id-5556970aa7804afab3b82ab1e387c31e" archimateRelationship="id-5fad8d3c17044b8cb421a3b619918d19"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a8554afcf4e54e5e8289518a5cf573bb" source="id-eee518b8b6af41b399a747f648208856" target="id-6d003c461f8b43ed8929a4ea414c0df4" archimateRelationship="id-02efa89fee434dcf9f02fc08a50f25fd"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ad3d4307ff2f4125ae36d85c93989a53" source="id-eee518b8b6af41b399a747f648208856" target="id-0d47cc84f89b4261b9bf7e27bdc9cc2f" archimateRelationship="id-953985e74d0a4ccdbfcd09f6e7450a1d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cda7e9786ecc4f6f994e1d97c891f8df" source="id-eee518b8b6af41b399a747f648208856" target="id-b4eee5ce6a7b4a7ca835c1e3fdf3ec0d" archimateRelationship="id-72573ddc5cf442718864a4f7ed81099f"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b290631a66e643abaccc4bc4ebea331d" source="id-eee518b8b6af41b399a747f648208856" target="id-41ea310745a9463ba01dab80957be533" archimateRelationship="id-31dbec9d11264a089f093f6ff5d55354"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e69dbc52a767432ab4beee8f6a6eabeb" source="id-eee518b8b6af41b399a747f648208856" target="id-33c9f86defdc4bf894196e59bc1c03c1" archimateRelationship="id-35ae120c589940a38775e93622a00186"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-584c6326a4e540f1a77228b2e70d8896" source="id-eee518b8b6af41b399a747f648208856" target="id-2106786ce52f4d229cca854d8a3e4366" archimateRelationship="id-333d7fc4e39f4887b6e11607706db1fe"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-98086de298a54d8cb558b1160cbf1cda" source="id-eee518b8b6af41b399a747f648208856" target="id-827ae2f49f9f4cdc916641f1565d6193" archimateRelationship="id-61fe4c22e401445dafe21c2c8f3799be"/>
+          <child xsi:type="archimate:DiagramObject" id="id-0e66af1a71ef45f29352340a3ba82c8a" targetConnections="id-cfa800e7af544c3381fc16ba292720c1" archimateElement="id-09c228a5de164865aea5b3f13ab8da39">
+            <bounds x="165" y="36" width="130" height="74"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-32b05165b37840e79120c3e99c67801f" targetConnections="id-3a13503a01e845059d9174410c70c6d6" archimateElement="id-e057c3ae38ba40deb7ba48bcc1df1217">
+            <bounds x="585" y="36" width="130" height="74"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5556970aa7804afab3b82ab1e387c31e" targetConnections="id-83f76e1e70e64143a319a09975039dd3" archimateElement="id-568d110d10e546cebc061e56e133edb7">
+            <bounds x="303" y="36" width="130" height="74"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-6d003c461f8b43ed8929a4ea414c0df4" targetConnections="id-a8554afcf4e54e5e8289518a5cf573bb" archimateElement="id-ae6c7681e1de416087390563db072cd7">
+            <bounds x="165" y="121" width="130" height="61"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0d47cc84f89b4261b9bf7e27bdc9cc2f" targetConnections="id-ad3d4307ff2f4125ae36d85c93989a53" archimateElement="id-47e565269efc4acca0e68020f7f9d62a">
+            <bounds x="442" y="36" width="130" height="74"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b4eee5ce6a7b4a7ca835c1e3fdf3ec0d" targetConnections="id-cda7e9786ecc4f6f994e1d97c891f8df" archimateElement="id-4606b20de28047c591256e6f1e4a8f49">
+            <bounds x="24" y="36" width="130" height="74"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-41ea310745a9463ba01dab80957be533" targetConnections="id-b290631a66e643abaccc4bc4ebea331d" archimateElement="id-7c1cc6a6c0934a64a7e9d89e6183a58a">
+            <bounds x="585" y="121" width="130" height="61"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-33c9f86defdc4bf894196e59bc1c03c1" targetConnections="id-e69dbc52a767432ab4beee8f6a6eabeb" archimateElement="id-2d71ef489b17400499005c40d0f0408f">
+            <bounds x="24" y="121" width="130" height="61"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-2106786ce52f4d229cca854d8a3e4366" targetConnections="id-584c6326a4e540f1a77228b2e70d8896" archimateElement="id-a40dfde3b1ba4256a9768e0bbd4c082d">
+            <bounds x="303" y="121" width="130" height="61"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-827ae2f49f9f4cdc916641f1565d6193" targetConnections="id-98086de298a54d8cb558b1160cbf1cda" archimateElement="id-868d83799d184a8c88d0c02e21d219c9">
+            <bounds x="442" y="121" width="130" height="61"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-f7fd70ccf44e4d1599d392aa020e6639" archimateElement="id-002b47f878344e69ad78164b9a3db9d0">
+          <bounds x="600" y="2" width="171" height="44"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a2a63bc15c92400ea13aee87c3e74772" archimateElement="id-d5a586d18a1c41588d000ff9f37a641b">
+          <bounds x="792" y="8" width="169" height="44"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-9a2661856cae4407ab62ecb607c4ab24" archimateElement="id-fb5122eb1d824a07bcd870462d0ce957">
+          <bounds x="12" y="293" width="949" height="205"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-26cac0aab7bb499ebbc58d3a7bf7f20d" source="id-9a2661856cae4407ab62ecb607c4ab24" target="id-2526e6d0e112480986e1673bfcd0af0a" archimateRelationship="id-cc1ae6cbc95a47d680a47153c1b0dc4c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cd79c30901af4d2cb4865a1ec02e3c5c" source="id-9a2661856cae4407ab62ecb607c4ab24" target="id-623d98e25d36402497b57f113cd06f9b" archimateRelationship="id-6c33f7a02c43465bad54140a8f5d60b2"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-82901720b7c140bf8305aeee03efcb08" source="id-9a2661856cae4407ab62ecb607c4ab24" target="id-c290e29ad064479ab9a701acf1ab2a78" archimateRelationship="id-e6ba2d5aaca9439e9f4fb8883f106ebb"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-0c5e4fb89fb24f4aad0d749bb4a3a32e" source="id-9a2661856cae4407ab62ecb607c4ab24" target="id-d787c2cce0a44530900fa25dafb8aa22" archimateRelationship="id-5c7d519fb3e249a2b557302fcaf7e740"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3255fb75f55d4f0185192b490710f02c" source="id-9a2661856cae4407ab62ecb607c4ab24" target="id-d9cac4685da449a1bd58591e42910a67" archimateRelationship="id-eff8177d389c411dac91b8df2c0371c7"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-23e7439a18a84cfd875537d831dac166" source="id-9a2661856cae4407ab62ecb607c4ab24" target="id-903df200001542bdb597f2e0f5d07b4f" archimateRelationship="id-c6a19107a14d4dad97db83ff3f583fc0"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-60bfc48183fd4a72945791e744bf4dd5" source="id-9a2661856cae4407ab62ecb607c4ab24" target="id-3de5a71500e64509be6567b8c961a282" archimateRelationship="id-ad2c3d8a408d4ada8ec3cbbd752dcc2e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-023a470cdca64181b453754482fa6268" source="id-9a2661856cae4407ab62ecb607c4ab24" target="id-882eb05201564b158b4373e3bb8e5cbe" archimateRelationship="id-15bae5dff4344e769fce9410151131f5"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6bb96e904f0c40a59fb16358b020c11e" source="id-9a2661856cae4407ab62ecb607c4ab24" target="id-d6e14797e5cc475ab0f954027202b634" archimateRelationship="id-545e2fb7c3944b1a9b69dcba6ed3f2d3"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-29105520c5a6468d825e8370a3796b3f" source="id-9a2661856cae4407ab62ecb607c4ab24" target="id-dab893e5def04e4b92ed5dce6c0d6025" archimateRelationship="id-ff8b37e1f5e944f6bf7451656c87437e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f23b424192754f9198695e786b84cc9c" source="id-9a2661856cae4407ab62ecb607c4ab24" target="id-c491d2ef135c42fcab658171bc91f7ec" archimateRelationship="id-ce1bdfa003c34cddb96fcd7a8881674c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-001aafcd9a614dac94c7032cc4da3d9b" source="id-9a2661856cae4407ab62ecb607c4ab24" target="id-b57ee782739747d98a83b7ebb82cfbfa" archimateRelationship="id-57b4e5f4c6794e6cac15a9f6e1d6bd35"/>
+          <child xsi:type="archimate:DiagramObject" id="id-2526e6d0e112480986e1673bfcd0af0a" targetConnections="id-97e0588783ff455a99bdaa7c38f151dd id-26cac0aab7bb499ebbc58d3a7bf7f20d" archimateElement="id-7960af27c1f442b39638609b5f43cf66">
+            <bounds x="480" y="125" width="142" height="57"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-623d98e25d36402497b57f113cd06f9b" targetConnections="id-cd79c30901af4d2cb4865a1ec02e3c5c" archimateElement="id-2bb306017c1e4604b4fb1e8c82b06567">
+            <bounds x="323" y="24" width="142" height="57"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-c42009a4e989434f8ab766df10f3b4dc" source="id-623d98e25d36402497b57f113cd06f9b" target="id-3de5a71500e64509be6567b8c961a282" archimateRelationship="id-b602e09b584e44ff84c2e610e7cce629"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-c290e29ad064479ab9a701acf1ab2a78" targetConnections="id-ef34c7b5b26e426683b7f218e853bfdb id-82901720b7c140bf8305aeee03efcb08" archimateElement="id-555d7759bc454e6f8e9e957b1d9dcef7">
+            <bounds x="636" y="125" width="142" height="57"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d787c2cce0a44530900fa25dafb8aa22" targetConnections="id-0c5e4fb89fb24f4aad0d749bb4a3a32e" archimateElement="id-502d3b5707b04cc68f902f56b86e9cf3">
+            <bounds x="792" y="24" width="142" height="75"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-4f11cabddadb42aba5b680dea60335fa" source="id-d787c2cce0a44530900fa25dafb8aa22" target="id-dab893e5def04e4b92ed5dce6c0d6025" archimateRelationship="id-804d1d9adde34f0992d045e91e79c9a5"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d9cac4685da449a1bd58591e42910a67" targetConnections="id-3255fb75f55d4f0185192b490710f02c" archimateElement="id-c831585fe2a84896b4887c4bec5ea5bc">
+            <bounds x="480" y="24" width="142" height="57"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-97e0588783ff455a99bdaa7c38f151dd" source="id-d9cac4685da449a1bd58591e42910a67" target="id-2526e6d0e112480986e1673bfcd0af0a" archimateRelationship="id-9dc6db6274ad49e6a1d29de2f80db5f9"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-903df200001542bdb597f2e0f5d07b4f" targetConnections="id-23e7439a18a84cfd875537d831dac166" archimateElement="id-e04ce0914196407fad5bc801a0a24603">
+            <bounds x="168" y="24" width="142" height="57"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-4174f241c83e4ff19fa263b6af8d7777" source="id-903df200001542bdb597f2e0f5d07b4f" target="id-882eb05201564b158b4373e3bb8e5cbe" archimateRelationship="id-36042feb3eef427aa7b0b66ad269ab0e"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3de5a71500e64509be6567b8c961a282" targetConnections="id-c42009a4e989434f8ab766df10f3b4dc id-60bfc48183fd4a72945791e744bf4dd5" archimateElement="id-bfa310e3e6794b78b33655064dde54f0">
+            <bounds x="323" y="125" width="142" height="57"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-882eb05201564b158b4373e3bb8e5cbe" targetConnections="id-4174f241c83e4ff19fa263b6af8d7777 id-023a470cdca64181b453754482fa6268" archimateElement="id-16ac23a9c3914c9e91668353721b9464">
+            <bounds x="168" y="125" width="142" height="57"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d6e14797e5cc475ab0f954027202b634" targetConnections="id-6144f5c207e44bf0a08f90491671b924 id-6bb96e904f0c40a59fb16358b020c11e" archimateElement="id-eb56ca857b724ff8b5ee9ebf025c3a79">
+            <bounds x="12" y="125" width="142" height="57"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-dab893e5def04e4b92ed5dce6c0d6025" targetConnections="id-4f11cabddadb42aba5b680dea60335fa id-29105520c5a6468d825e8370a3796b3f" archimateElement="id-80a084e4cf2c4a3b8cc97c49748d84ea">
+            <bounds x="792" y="125" width="142" height="75"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-c491d2ef135c42fcab658171bc91f7ec" targetConnections="id-f23b424192754f9198695e786b84cc9c" archimateElement="id-ab8dcc22ccda4df7b75b3fc746b0f69b">
+            <bounds x="12" y="24" width="142" height="57"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-6144f5c207e44bf0a08f90491671b924" source="id-c491d2ef135c42fcab658171bc91f7ec" target="id-d6e14797e5cc475ab0f954027202b634" archimateRelationship="id-2f06075d891d4ee9b737ba6e822f8a1e"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b57ee782739747d98a83b7ebb82cfbfa" targetConnections="id-001aafcd9a614dac94c7032cc4da3d9b" archimateElement="id-586905a8f44f48908c12889fbf39974e">
+            <bounds x="636" y="24" width="142" height="57"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-ef34c7b5b26e426683b7f218e853bfdb" source="id-b57ee782739747d98a83b7ebb82cfbfa" target="id-c290e29ad064479ab9a701acf1ab2a78" archimateRelationship="id-90c1fe01543e4740ad582c29604d426c"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1ba75344a5644108a6bd0bd4ee036b23" archimateElement="id-8dbb74429cf94522990e00809a059f8d">
+          <bounds x="792" y="180" width="169" height="97"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-036bf612f61f432d880befd924c4e2b1" archimateElement="id-cecf49f2226841f88454f27c90caf29b">
+          <bounds x="792" y="61" width="169" height="39"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-71c5935ee71c4783a84cf0cb326716d4" archimateElement="id-bd37f55e1a594601b7b8c4b08030f1a6">
+          <bounds x="792" y="109" width="169" height="56"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-2fb80c9e6efa4f2399ec05e93810a970" archimateElement="id-31e700a8d0c245279c861e35e949068e">
+          <bounds x="1152" y="11" width="169" height="48"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a6da930f06df40bfb0645bf26d54fe9d" archimateElement="id-be0133f8e2984051b7250b5448ef3e2f">
+          <bounds x="972" y="69" width="169" height="56"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b113f1ae792c4eff8c22b22a59609692" archimateElement="id-ae677c8eb24a48a6ac18cd9d26df4741">
+          <bounds x="972" y="8" width="169" height="56"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-e9f3ca5b7e334ea5b065e9db52e075c2" archimateElement="id-369e3009963a4cef841ba75ea50a1a1e">
+          <bounds x="972" y="186" width="372" height="312"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-41a5eb059707471ba2dbe767c406f2db" source="id-e9f3ca5b7e334ea5b065e9db52e075c2" target="id-1786255725494ec1a31533174c425580" archimateRelationship="id-d3485819c42d4e10af2d937c863ac1a3"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3fd74f285d6c4bc3a6668086cc3fcdbe" source="id-e9f3ca5b7e334ea5b065e9db52e075c2" target="id-96b36b8e90254308a237efda1b8655da" archimateRelationship="id-719dca40d5564588835c587daae64bd0"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d4bc8b5f32ea47efb7053a84887cbdd7" source="id-e9f3ca5b7e334ea5b065e9db52e075c2" target="id-050da9527fcf4c7484c3da901a53da68" archimateRelationship="id-3f1e23be69ef4d5d9c0e9af7b1e2af07"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-923a99e19d4840bbbb33a7a3ef7fc4fa" source="id-e9f3ca5b7e334ea5b065e9db52e075c2" target="id-878d5179e9e24cedbddf80c791f655b6" archimateRelationship="id-5c7daf96a3ee43ed84b2702b96a0c5cd"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-45901825cb1f400fab9ddb7a96d19b42" source="id-e9f3ca5b7e334ea5b065e9db52e075c2" target="id-53abbaed40fd4022b2433b7adbcf962e" archimateRelationship="id-03982c280e374b939c2a4752f499eadb"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-213ca1d97bfc46cfb2aebe24d95a7153" source="id-e9f3ca5b7e334ea5b065e9db52e075c2" target="id-8f316f72d2a54ce98da28f0692fad972" archimateRelationship="id-9c6034f21c004e4b842c941614623595"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2e8e851885f34284ad75a42b2deabf3f" source="id-e9f3ca5b7e334ea5b065e9db52e075c2" target="id-c3bd79deaf0d40f9919c1b6f3f8b746f" archimateRelationship="id-8ddd518240434f9abcb40dac96f1f20c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e365bad8f1a643d8b7b617efac3dd00b" source="id-e9f3ca5b7e334ea5b065e9db52e075c2" target="id-490f097d48e543a0ae3b271f7c2eed63" archimateRelationship="id-cd9e627ca15f4759a3c4cb126d83c7dc"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a8150f39703c4053bc1871f5622afa19" source="id-e9f3ca5b7e334ea5b065e9db52e075c2" target="id-6bd857c2e1754afe9b6ca920b873fb42" archimateRelationship="id-62b17b7b8449420d98ebba963023425b"/>
+          <child xsi:type="archimate:DiagramObject" id="id-1786255725494ec1a31533174c425580" targetConnections="id-41a5eb059707471ba2dbe767c406f2db" archimateElement="id-0a5ba850eee04d5aa23f431fd16f8e16">
+            <bounds x="192" y="144" width="169" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-96b36b8e90254308a237efda1b8655da" targetConnections="id-3fd74f285d6c4bc3a6668086cc3fcdbe" archimateElement="id-ad65c1101fd648c2a5352f527261837d">
+            <bounds x="12" y="138" width="169" height="43"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-050da9527fcf4c7484c3da901a53da68" targetConnections="id-d4bc8b5f32ea47efb7053a84887cbdd7" archimateElement="id-cd0551cc92d54dfca7488c4a0cc08dfa">
+            <bounds x="12" y="252" width="169" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-878d5179e9e24cedbddf80c791f655b6" targetConnections="id-923a99e19d4840bbbb33a7a3ef7fc4fa" archimateElement="id-bd1e6e27c2ee434d83a4a00c3aa7dcc6">
+            <bounds x="12" y="192" width="169" height="48"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-53abbaed40fd4022b2433b7adbcf962e" targetConnections="id-45901825cb1f400fab9ddb7a96d19b42" archimateElement="id-d5a9566b12f544c4b74dbf68ef8ee7c2">
+            <bounds x="192" y="204" width="169" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-8f316f72d2a54ce98da28f0692fad972" targetConnections="id-213ca1d97bfc46cfb2aebe24d95a7153" archimateElement="id-fd249dac6823461ba718c9f7cbf82202">
+            <bounds x="192" y="78" width="169" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-c3bd79deaf0d40f9919c1b6f3f8b746f" targetConnections="id-2e8e851885f34284ad75a42b2deabf3f" archimateElement="id-42f1b80249c140af80f59c3386872a59">
+            <bounds x="12" y="24" width="169" height="48"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-490f097d48e543a0ae3b271f7c2eed63" targetConnections="id-e365bad8f1a643d8b7b617efac3dd00b" archimateElement="id-f8833b3bfe33466ebf6fbfc5e40eba91">
+            <bounds x="192" y="24" width="169" height="48"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-6bd857c2e1754afe9b6ca920b873fb42" targetConnections="id-a8150f39703c4053bc1871f5622afa19" archimateElement="id-6758875b24a442539ca00e49912c3c21">
+            <bounds x="12" y="78" width="169" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-deff30af84e34d00ad2db422335eb76d" archimateElement="id-5ed50aaa526e44f781ca51980bc892f1">
+          <bounds x="1152" y="63" width="169" height="48"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3f82574fce8146a683904a768efbf35b" archimateElement="id-36c4791b151c4f51bde2638b7a9f9247">
+          <bounds x="1152" y="113" width="169" height="48"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-c948bd45657d4f15853834edca5e3539" archimateElement="id-650c8b6f7c6449e79e6053aee89dd787">
+          <bounds x="972" y="128" width="169" height="56"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-00da9e3644164d0e895a4b1843784e53" archimateElement="id-b72ebb95026a4a83883f8a20370bcac4">
+          <bounds x="612" y="45" width="144" height="41"/>
+        </child>
+        <documentation>https://getoppos.com/pipeda-principles/&#xD;
+https://secureprivacy.ai/blog/what-is-pipeda&#xD;
+&#xD;
+10 PIPEDA Principles Explained: A Quick Guide to Privacy Compliance&#xD;
+Understanding the principles of PIPEDA is crucial for organizations to meet customer expectations and legal standards.&#xD;
+&#xD;
+PIPEDA is a Canadian law relating to data privacy. PIPEDA governs how private sector organizations collect, use, and disclose personal information during commercial business activities. It became effective in April 2000 and seeks to balance an individual’s right to privacy with the need of organizations to collect and use personal information for legitimate business purposes.&#xD;
+&#xD;
+Our guide explains the 10 PIPEDA principles, which are crucial for data privacy compliance. We aim to simplify the complex data protection concepts and give you a concise and easy-to-understand overview. Our goal is to empower you to stay up-to-date with the evolving data protection landscape without feeling overwhelmed.&#xD;
+&#xD;
+pipeda principles&#xD;
+What is the PIPEDA in Canada?&#xD;
+PIPEDA stands for the Personal Information Protection and Electronic Documents Act. A federal privacy law in Canada governs the collection, use, and disclosure of personal information by private sector organizations. PIPEDA came into effect on January 1, 2004, and it applies to organizations that engage in commercial activities and operate across provincial or national borders.&#xD;
+&#xD;
+The key principles of PIPEDA include:&#xD;
+&#xD;
+Consent: Organizations must obtain the individual’s consent before collecting, using, or disclosing their personal information, except in certain specific circumstances.&#xD;
+&#xD;
+Accountability: Organizations are responsible for the personal information under their control and must designate individuals accountable for the organization’s compliance with the principles of PIPEDA.&#xD;
+&#xD;
+Purpose Limitation: Personal information must be collected for specified purposes and should not be used or disclosed for purposes other than those for which it was collected, except with the individual’s consent or as required by law.&#xD;
+&#xD;
+Accuracy: Organizations must make reasonable efforts to ensure that personal information is accurate, complete, and up-to-date.&#xD;
+&#xD;
+Safeguards: Organizations must implement security safeguards to protect personal information against loss, theft, unauthorized access, disclosure, copying, use, or modification.&#xD;
+&#xD;
+Openness: Organizations must be open about their privacy policies and practices, making information about these readily available to individuals.&#xD;
+&#xD;
+Individual Access: Individuals have the right to access their personal information held by an organization and to challenge its accuracy if necessary.&#xD;
+&#xD;
+Challenging Compliance: Individuals have the right to challenge an organization’s compliance with the principles of PIPEDA. Organizations must have procedures in place to respond to such challenges.&#xD;
+&#xD;
+PIPEDA applies to the private sector, but some provinces have enacted similar legislation that applies to the public sector within those provinces. Organizations need to understand and comply with PIPEDA to protect individuals’ privacy rights in collecting and using their personal information.&#xD;
+&#xD;
+How Does PIPEDA Compare to Other Data Protection Laws Worldwide?&#xD;
+PIPEDA, the Personal Information Protection and Electronic Documents Act in Canada, is similar in many ways to data protection laws worldwide, especially those based on common principles like consent, accountability, and transparency.&#xD;
+&#xD;
+However, some key differences and nuances exist when comparing PIPEDA to other data protection laws worldwide, such as the European Union’s General Data Protection Regulation (GDPR) and the United States’ various state-specific privacy laws.&#xD;
+&#xD;
+Consent Requirements:&#xD;
+&#xD;
+PIPEDA, like many other data protection laws, requires organizations to obtain individuals’ consent to collect, use, and disclose their personal information. Consent under PIPEDA can be expressed or implied, depending on the circumstances.&#xD;
+&#xD;
+GDPR, however, places a higher emphasis on explicit and unambiguous consent. It also provides additional requirements, such as the right to withdraw consent easily.&#xD;
+&#xD;
+Extraterritorial Application:&#xD;
+&#xD;
+GDPR has extraterritorial applicability, meaning it applies to organizations outside the European Union (EU) that process the personal data of EU residents if they offer goods or services to, or monitor the behavior of, individuals in the EU.&#xD;
+&#xD;
+PIPEDA applies to organizations engaged in commercial activities across provincial or national borders in Canada. While it has some extraterritorial reach, it does not have the same global scope as GDPR.&#xD;
+&#xD;
+Data Subject Rights:&#xD;
+&#xD;
+Both PIPEDA and GDPR provide individuals with certain rights regarding their personal information. These include the right to access, correct, and delete their data.&#xD;
+&#xD;
+GDPR grants additional rights such as the right to data portability, the right to be forgotten, and the right to object to certain types of processing.&#xD;
+&#xD;
+Data Breach Notification:&#xD;
+&#xD;
+PIPEDA includes mandatory data breach notification requirements, whereby organizations must report breaches to the Office of the Privacy Commissioner of Canada and notify affected individuals when a breach poses a risk of significant harm.&#xD;
+&#xD;
+GDPR mandates data breach notifications to the relevant supervisory authority within 72 hours of becoming aware of a breach, and in certain cases, individuals must be informed without undue delay.&#xD;
+&#xD;
+Penalties and Enforcement:&#xD;
+&#xD;
+PIPEDA does not have the same level of fines as GDPR. While the Privacy Commissioner of Canada has the authority to investigate and issue recommendations, it does not have the power to impose significant fines.&#xD;
+&#xD;
+GDPR imposes substantial fines for non-compliance, with penalties that can amount to a percentage of the organization’s global annual turnover.&#xD;
+&#xD;
+Sectoral vs. Comprehensive Approach:&#xD;
+&#xD;
+PIPEDA is a sectoral law applying primarily to the private sector and certain federal works, undertakings, and businesses. Provinces in Canada may have their privacy legislation covering the public sector.&#xD;
+&#xD;
+GDPR is a comprehensive law covering all sectors and uniformly across the EU member states.&#xD;
+&#xD;
+Compared to the United States, where there is no comprehensive federal privacy law, individual states have started enacting their privacy legislation, such as the California Consumer Privacy Act (CCPA) and subsequent laws in other states.&#xD;
+&#xD;
+What are the main principles of PIPEDA?&#xD;
+Principle 1 – Accountability&#xD;
+The principle of accountability in PIPEDA (Personal Information Protection and Electronic Documents Act) outlines organizations’ responsibility in protecting the personal information they collect, use, and disclose. The accountability principle is the first of the ten principles set forth in PIPEDA and establishes the foundation for the other principles.&#xD;
+&#xD;
+Principle 2 – Identifying Purposes&#xD;
+The principle of identifying purposes is a key component of PIPEDA (Personal Information Protection and Electronic Documents Act) in Canada. This principle emphasizes the importance of organizations being transparent and upfront about the reasons for collecting personal information. The goal is to ensure that individuals know and understand why their information is being collected, used, or disclosed.&#xD;
+&#xD;
+Principle 3 – Consent&#xD;
+The principle of consent is a fundamental aspect of Canada’s PIPEDA (Personal Information Protection and Electronic Documents Act). This principle governs organizations’ collection, use, and disclosure of personal information, emphasizing the importance of obtaining the individual’s consent as a key element of respecting privacy rights.&#xD;
+&#xD;
+Principle 4 – Limiting Collection&#xD;
+The principle of limiting collection is a fundamental aspect of PIPEDA (Personal Information Protection and Electronic Documents Act) in Canada. This principle outlines the requirement for organizations to limit the collection of personal information to what is necessary for the purposes identified. The goal is to ensure that organizations do not indiscriminately gather more personal information than is needed for their stated objectives.&#xD;
+&#xD;
+Principle 5 – Limiting Use, Disclosure, and Retention&#xD;
+The PIPEDA principle of limiting use, disclosure, and retention is part of the broader framework that governs the protection of personal information under the Personal Information Protection and Electronic Documents Act in Canada. This principle establishes guidelines for organizations regarding the appropriate use, disclosure, and retention of personal information.&#xD;
+&#xD;
+Principle 6 – Accuracy&#xD;
+The principle of accuracy is one of the fundamental principles outlined in PIPEDA (Personal Information Protection and Electronic Documents Act) in Canada. This principle emphasizes the importance of ensuring that personal information collected by organizations is accurate, complete, and up-to-date.&#xD;
+&#xD;
+Principle 7 – Safeguards&#xD;
+The principle of safeguards is a key component of PIPEDA (Personal Information Protection and Electronic Documents Act) in Canada. This principle emphasizes the responsibility of organizations to implement measures to protect personal information from unauthorized access, disclosure, use, and alteration. The goal is to ensure the security and confidentiality of individuals’ personal information.&#xD;
+&#xD;
+Principle 8 – Openness&#xD;
+The principle of openness, also known as the principle of transparency, is a fundamental component of Canada’s PIPEDA (Personal Information Protection and Electronic Documents Act). This principle emphasizes the importance of organizations being open and transparent about their privacy policies, practices, and procedures related to collecting, using, and disclosing personal information.&#xD;
+&#xD;
+Principle 9 – Individual Access&#xD;
+The principle of individual access is a key component of PIPEDA (Personal Information Protection and Electronic Documents Act) in Canada. This principle grants individuals the right to access their personal information held by organizations and allows them to challenge the accuracy and completeness of that information.&#xD;
+&#xD;
+Principle 10 – Challenging Compliance&#xD;
+The PIPEDA principle of challenging compliance addresses the right of individuals to challenge an organization’s compliance with the principles of PIPEDA (Personal Information Protection and Electronic Documents Act) in Canada. This principle is sometimes called the “Challenging Compliance” or “Individual Recourse” principle.&#xD;
+&#xD;
+Do I Need to Comply with the PIPEDA Principles?&#xD;
+As of the update in January 2022, PIPEDA (Personal Information Protection and Electronic Documents Act) is a Canadian federal privacy law that governs the collection, use, and disclosure of personal information by private sector organizations during commercial activities. However, please note that my information might be outdated, and it’s important to check for any changes or updates to the law.&#xD;
+&#xD;
+As a general guideline, PIPEDA applies to private sector organizations that collect, use, or disclose personal information during commercial activities, unless a province has enacted its own substantially similar privacy legislation. Some provinces, such as British Columbia, Alberta, and Quebec, have enacted their own privacy laws; in those cases, PIPEDA may not apply directly.&#xD;
+&#xD;
+To determine whether you need to comply with PIPEDA, consider the following factors:&#xD;
+&#xD;
+Type of Organization: PIPEDA typically applies to private sector organizations engaged in commercial activities.&#xD;
+Jurisdiction: PIPEDA is a federal law, but if your business operates in a province with substantially similar privacy legislation (e.g., Alberta, British Columbia), you may need to comply with the provincial law instead.&#xD;
+Interprovincial or International Activities: If your business operates across multiple provinces or engages in international activities, PIPEDA may be applicable.&#xD;
+Nature of Information: PIPEDA covers collecting, using, and disclosing personal information. If your organization deals with personal information, PIPEDA compliance is likely necessary.&#xD;
+Please check the most recent legal resources or consult with legal professionals to ensure accurate and up-to-date information regarding your specific situation and jurisdiction.&#xD;
+&#xD;
+Conclusion&#xD;
+Adhering to PIPEDA is crucial for building a reputable and trustworthy entity that values and protects customer data. Oppos can help you navigate the complexities of PIPEDA and ensure full compliance through our Privacy Assessments. Our assessments provide clear and actionable insights tailored to your needs to enhance your data-handling processes, build customer confidence, and distinguish your organization from the competition.&#xD;
+&#xD;
+Contact Oppos today for a Privacy Assessment and take the first step towards comprehensive data protection and privacy excellence.</documentation>
       </element>
     </folder>
     <folder name="Open Standards" id="id-9a5f5b0aab5846b68706de66461d4024">
