@@ -2802,6 +2802,99 @@ No, PIPEDA is only for companies with Canada.</documentation>
 SCHEDULE 1 (Section 5)&#xD;
 Principles Set Out in the National Standard of Canada Entitled Model Code for the Protection of Personal Information, CAN/CSA-Q830-96</documentation>
     </element>
+    <element xsi:type="archimate:CourseOfAction" name="Document Business &amp; Data Requirements" id="id-b796e19871774c48a3a91827e816ef79">
+      <documentation>Document business and data requirements:&#xD;
+Clearly define the purpose and objectives. Identify key questions or problems your visualization products aims to address or represent. Determine the expected outcomes and how the visualization will support decision-making.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Identify Audience" id="id-09116be70b1c484485e90d147d2d1c87">
+      <documentation>Identify audience:&#xD;
+Understand the needs, expertise, and expectations of your target audience (e.g., senior executives, analysts, public). Consider the level of technical knowledge and familiarity with data interpretation. Tailor visualization product complexity, interactivity, and details accordingly.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Consider Privacy" id="id-9f5860cc988e4fc88d8e589f0874fb5b">
+      <documentation>Consider privacy:&#xD;
+As outlined in Section 8, privacy must be considered from the outset of any data visualization project.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Identify Data Stewards" id="id-583f1d2f418448558acc972967cc48d1">
+      <documentation>Identify data stewards:&#xD;
+Identify data stewards who have the data, and decision-makers responsible for validations and approvals. Establish accountability for maintaining and updating the visualization products if needed.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Obtain Data Access" id="id-898b857888af41ab8cb95a069e17de11">
+      <documentation>Obtain access to data:&#xD;
+Identify data sources and secure necessary permissions to access data. Assess key stakeholder requirements to validate data quality, completeness, and reliability with data steward before proceeding to next step.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Develop Prototype" id="id-137123cf5a9a485da5680a85a078dbbf">
+      <documentation>Develop prototype:&#xD;
+Create an initial draft of the visualization using sample or preliminary data. Choose appropriate visualization types (e.g., charts, graphs, maps, dashboards) based on data characteristics and audience needs. Ensure the design aligns with accessibility requirements.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Engage Clients &amp; Stakeholders" id="id-ad014a48ee204ebf90970fa86fa93323">
+      <documentation>Engage clients and stakeholders:&#xD;
+Share the prototype with stakeholders for feedback. Validate that the visualization products meet their needs and expectations. Iterate based on feedback, refining design, interactivity, and overall effectiveness.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Develop Dashboard" id="id-62609444371a4cc682f83e80c099378d">
+      <documentation>Develop dashboard:&#xD;
+Define key metrics and visualizations to support decision-making. Choose appropriate tools for creating clear and accessible charts. Design an intuitive user interface for accessibility and ease of use. Implement user authentication and permissions. Ensure real-time or scheduled data updates.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Apply Business &amp; Data Requirements" id="id-1f29492ef9f549dc8e6fd50068e91f2f">
+      <documentation>Apply business and data requirements:&#xD;
+Gather business objectives from stakeholders. Align data structures and dashboard features with goals.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Ensure Data Quality" id="id-dd57e68257c144d7bf392723df8f0c6c">
+      <documentation>Ensure data quality:&#xD;
+Perform data validation checks for accuracy, completeness, and consistency. Implement automated data cleansing tools where possible. Develop mechanisms for continuous data monitoring and anomaly detection.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Integrate Data" id="id-ca3515f308f443768873ad97516795ec">
+      <documentation>Integrate data:&#xD;
+Identify data sources. Implement data validation and cleaning processes. Define data structures and relationships for consistency.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Apply Methodology" id="id-44797426df494a6ab72ca9122a63d65f">
+      <documentation>Apply methodology:&#xD;
+Choose appropriate data processing methods (e.g., statistical models, AI/ML algorithms). Standardize data processing across different datasets. Document methodology to ensure transparency and reproducibility. Implement automation where possible to streamline updates.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Obtain Data Access For Developers" id="id-bd93fcda9f7e49adb2043c7985175e6f">
+      <documentation>Obtain data access for developers:&#xD;
+Identify required access levels based on roles. Work with IITB/Security teams to establish credentials and permissions. Set up secure data environments (e.g., sandboxes, staging environments, etc.). Ensure compliance with departmental security policies.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Maintain Tools &amp; Resources" id="id-3e6fd3dcce3340a99ceb107d90e890ce">
+      <documentation>Maintain tools and resources:&#xD;
+Regularly update and optimize visualization tools and platforms. Provide user support, training, and resources to maximize adoption and usability. Evaluate and integrate new technologies or enhancements to improve performance and insights.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Engage Data Stewards" id="id-2287f685ed86443ea678b1fef6c1d6e1">
+      <documentation>Engage data stewards:&#xD;
+Work with data stewards to present and validate the results or make any changes based on reviews.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Adhere to Data Privacy Guidelines" id="id-42a82d7db28d471e915f55b2d053511c">
+      <documentation>Adhere to data privacy guidelines:&#xD;
+Verify compliance with Privacy Acts and any other related policies and guidelines. In addition, Privacy Management Division (PDM) can be consulted when in doubt. Implement data anonymization where necessary.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Adhere to Accessibility &amp; Official Languages Requirements" id="id-b0f11e83a4b24b83ab099ea6c5660a27">
+      <documentation>Adhere to accessibility and official languages requirements:&#xD;
+Ensure compliance with accessibility standards and official languages as per Section 8 of this document.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Maintain Data Quality" id="id-c07fbb1446f443328bee45c6503860db">
+      <documentation>Maintain data quality:&#xD;
+Continuously monitor and update datasets to ensure accuracy, consistency, and relevance. Implement quality control checks to detect and correct errors or inconsistencies. Continuously verify the reliability of data sources and ensure they remain up to date. Additionally, make the dates of the most recent and upcoming updates clearly visible to clients to enhance transparency and trust.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Ensure Data Management" id="id-544b5dbf78b8489ba8ae0949bf7629d6">
+      <documentation>Ensure data management:&#xD;
+Adhere to data governance policies, including privacy, security, and compliance requirements. Maintain proper documentation of data sources, transformations, and methodologies. Ensure version control and auditability of datasets is used.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Confirm Approvals To Launch" id="id-373f8ac4fec94452910f169ab8357b6e">
+      <documentation>Confirm approvals to launch:&#xD;
+Obtain sign-off from key stakeholders (executives, PMD, Legal Unit if required). Document final privacy, legal and quality assurance approvals. Ensure operational readiness for ongoing support and maintenance.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Develop Communication Tools" id="id-3787531afa624ac4913cab2dd819949c">
+      <documentation>Develop communication tools:&#xD;
+Create user guides, FAQs, and training materials. Design an internal/external communication plan (emails, presentations, webinars). Prepare response plans for user feedback and troubleshooting.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Share Data Governance Tools &amp; Resources" id="id-5395d88c718d4df28f3ea5e0bef722db">
+      <documentation>Share data governance tools and resources:&#xD;
+Distribute documentation on data usage. Establish support channels for ongoing data management inquiries.</documentation>
+    </element>
+    <element xsi:type="archimate:Resource" name="Enquiries" id="id-6e0248c24e504f37bf2663ff7b589d63">
+      <documentation>12. Enquiries&#xD;
+Please direct enquiries about these mandatory procedures to:&#xD;
+edsc.data_governance-gouvernance_des_donnes.esdc@hrsdc-rhdcc.gc.ca</documentation>
+    </element>
   </folder>
   <folder name="Business" id="id-fb9c94c240434273aa6d6f5df1a73407" type="business">
     <element xsi:type="archimate:BusinessEvent" name="EA Requests SAS Feedback" id="id-a7ebf3b84a7545f6a5b2e8eaca445cb6"/>
@@ -5525,6 +5618,144 @@ Increased data quality, consistency and trust&#xD;
 Data management expedites policy modelling and speed of implementation&#xD;
 Capabilities in place to support proper data management practices, operations and governance (aligned with office of the CDO)</documentation>
     </element>
+    <element xsi:type="archimate:BusinessFunction" name="Manage EDA Online ADO Project (Business Function)" id="id-65b979753fbb43af8b214273b79d017e">
+      <documentation>USE CASE&#xD;
+I am not a developer requiring ADO tools, per se. I am in charge of configuring / maintaining our (online) ADO Project, which is where we track our team's work. I need to be able to create new ADO item types, and custom reports based on the information captured.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessFunction" name="Manage EDA Team SPO Libraries (Business Function)" id="id-7f240b1901aa45bb84e8f1e1127ac72b"/>
+    <element xsi:type="archimate:BusinessProcess" name="1. PLAN (Business Process)" id="id-76bd4b8fa5c6433bb350cfe13db1fb9e">
+      <documentation>Data visualization process - Text version&#xD;
+1 – Plan&#xD;
+Document business and data requirements&#xD;
+Identify audience&#xD;
+Consider privacy&#xD;
+Identify data stewards&#xD;
+Obtain access to the data&#xD;
+&#xD;
+Document business and data requirements:&#xD;
+Clearly define the purpose and objectives. Identify key questions or problems your visualization products aims to address or represent. Determine the expected outcomes and how the visualization will support decision-making.&#xD;
+Identify audience:&#xD;
+Understand the needs, expertise, and expectations of your target audience (e.g., senior executives, analysts, public). Consider the level of technical knowledge and familiarity with data interpretation. Tailor visualization product complexity, interactivity, and details accordingly.&#xD;
+Consider privacy:&#xD;
+As outlined in Section 8, privacy must be considered from the outset of any data visualization project.&#xD;
+Identify data stewards:&#xD;
+Identify data stewards who have the data, and decision-makers responsible for validations and approvals. Establish accountability for maintaining and updating the visualization products if needed.&#xD;
+Obtain access to data:&#xD;
+Identify data sources and secure necessary permissions to access data. Assess key stakeholder requirements to validate data quality, completeness, and reliability with data steward before proceeding to next step.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="2. DESIGN (Business Process)" id="id-51ef25ad72ab49e091eefbf4493923af">
+      <documentation>Data visualization process - Text version&#xD;
+2 – Design&#xD;
+Develop prototype&#xD;
+Engage clients and stakeholders&#xD;
+&#xD;
+Develop prototype:&#xD;
+Create an initial draft of the visualization using sample or preliminary data. Choose appropriate visualization types (e.g., charts, graphs, maps, dashboards) based on data characteristics and audience needs. Ensure the design aligns with accessibility requirements.&#xD;
+Engage clients and stakeholders:&#xD;
+Share the prototype with stakeholders for feedback. Validate that the visualization products meet their needs and expectations. Iterate based on feedback, refining design, interactivity, and overall effectiveness.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="3. BUILD (Business Process)" id="id-6942641e8da449ccb351660f2a36f91a">
+      <documentation>Data visualization process - Text version&#xD;
+3 – Build&#xD;
+Develop dashboard&#xD;
+Integrate data&#xD;
+Apply methodology&#xD;
+Obtain data access for developers&#xD;
+Apply business and data requirements&#xD;
+&#xD;
+Develop dashboard:&#xD;
+Define key metrics and visualizations to support decision-making. Choose appropriate tools for creating clear and accessible charts. Design an intuitive user interface for accessibility and ease of use. Implement user authentication and permissions. Ensure real-time or scheduled data updates.&#xD;
+Integrate data:&#xD;
+Identify data sources. Implement data validation and cleaning processes. Define data structures and relationships for consistency.&#xD;
+Apply methodology:&#xD;
+Choose appropriate data processing methods (e.g., statistical models, AI/ML algorithms). Standardize data processing across different datasets. Document methodology to ensure transparency and reproducibility. Implement automation where possible to streamline updates.&#xD;
+Obtain data access for developers:&#xD;
+Identify required access levels based on roles. Work with IITB/Security teams to establish credentials and permissions. Set up secure data environments (e.g., sandboxes, staging environments, etc.). Ensure compliance with departmental security policies.&#xD;
+Apply business and data requirements:&#xD;
+Gather business objectives from stakeholders. Align data structures and dashboard features with goals.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="4. TEST (Business Process)" id="id-9c2f6a300b65400a8ccb6b9b2908315d">
+      <documentation>Data visualization process - Text version&#xD;
+4 – Test&#xD;
+Engage data stewards&#xD;
+Ensure data quality&#xD;
+Adhere to data privacy guidelines&#xD;
+Adhere to accessibility and official languages requirements&#xD;
+&#xD;
+Engage data stewards:&#xD;
+Work with data stewards to present and validate the results or make any changes based on reviews.&#xD;
+Ensure data quality:&#xD;
+Perform data validation checks for accuracy, completeness, and consistency. Implement automated data cleansing tools where possible. Develop mechanisms for continuous data monitoring and anomaly detection.&#xD;
+Adhere to data privacy guidelines:&#xD;
+Verify compliance with Privacy Acts and any other related policies and guidelines. In addition, Privacy Management Division (PDM) can be consulted when in doubt. Implement data anonymization where necessary.&#xD;
+Adhere to accessibility and official languages requirements:&#xD;
+Ensure compliance with accessibility standards and official languages as per Section 8 of this document.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="5. LAUNCH (Business Process)" id="id-a129079ef7494e3bb3987006938d9ac4">
+      <documentation>Data visualization process - Text version&#xD;
+5 – Launch&#xD;
+Confirm approvals to Launch&#xD;
+Develop communication tools&#xD;
+Share data governance tools and resources&#xD;
+&#xD;
+Confirm approvals to launch:&#xD;
+Obtain sign-off from key stakeholders (executives, PMD, Legal Unit if required). Document final privacy, legal and quality assurance approvals. Ensure operational readiness for ongoing support and maintenance.&#xD;
+Develop communication tools:&#xD;
+Create user guides, FAQs, and training materials. Design an internal/external communication plan (emails, presentations, webinars). Prepare response plans for user feedback and troubleshooting.&#xD;
+Share data governance tools and resources:&#xD;
+Distribute documentation on data usage. Establish support channels for ongoing data management inquiries.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="6. MAINTAIN (Business Process)" id="id-340cc1a731e847748a9cd3d3e4f32492">
+      <documentation>Data visualization process - Text version&#xD;
+6 – Maintain&#xD;
+Main data quality&#xD;
+Ensure data management&#xD;
+Maintain tools and resources&#xD;
+&#xD;
+Maintain data quality:&#xD;
+Continuously monitor and update datasets to ensure accuracy, consistency, and relevance. Implement quality control checks to detect and correct errors or inconsistencies. Continuously verify the reliability of data sources and ensure they remain up to date. Additionally, make the dates of the most recent and upcoming updates clearly visible to clients to enhance transparency and trust.&#xD;
+Ensure data management:&#xD;
+Adhere to data governance policies, including privacy, security, and compliance requirements. Maintain proper documentation of data sources, transformations, and methodologies. Ensure version control and auditability of datasets is used.&#xD;
+Maintain tools and resources:&#xD;
+Regularly update and optimize visualization tools and platforms. Provide user support, training, and resources to maximize adoption and usability. Evaluate and integrate new technologies or enhancements to improve performance and insights.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Data Visualization Process (Business Process)" id="id-88e945e41bf545ab957ada6b445f73b1">
+      <documentation>Data visualization process - Text version&#xD;
+1 – Plan&#xD;
+Document business and data requirements&#xD;
+Identify audience&#xD;
+Consider privacy&#xD;
+Identify data stewards&#xD;
+Obtain access to the data&#xD;
+2 – Design&#xD;
+Develop prototype&#xD;
+Engage clients and stakeholders&#xD;
+3 – Build&#xD;
+Develop dashboard&#xD;
+Integrate data&#xD;
+Apply methodology&#xD;
+Obtain data access for developers&#xD;
+Apply business and data requirements&#xD;
+4 – Test&#xD;
+Engage data stewards&#xD;
+Ensure data quality&#xD;
+Adhere to data privacy guidelines&#xD;
+Adhere to accessibility and official languages requirements&#xD;
+5 – Launch&#xD;
+Confirm approvals to Launch&#xD;
+Develop communication tools&#xD;
+Share data governance tools and resources&#xD;
+6 – Maintain&#xD;
+Main data quality&#xD;
+Ensure data management&#xD;
+Maintain tools and resources</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="Flat Visuals (Product)" id="id-60cfbf2aedc946678b048a605b23ba75">
+      <documentation>Flat visuals: Static, non-interactive images, charts, or designs that remain unchanged regardless of user input. Common examples include infographics, printed posters, and basic user interface mock-ups. These visuals are effective for quickly conveying fixed information but lack interactivity and adaptability.</documentation>
+    </element>
+    <element xsi:type="archimate:Product" name="Dynamic Tools (Product)" id="id-99afbe34c7a8495f876de72ace6fdd7e">
+      <documentation>Dynamic tools: Interactive and adaptable tools, often software-based, and respond to user input or real-time data updates. Examples include interactive dashboards, animation-based user interface elements, and AI-powered design tools. These tools allow users to explore and manipulate content, enabling a more personalized and data-driven experience.</documentation>
+    </element>
   </folder>
   <folder name="Application" id="id-4c073bc2342b490eae44200c8635c571" type="application">
     <element xsi:type="archimate:ApplicationService" name="GCcollab File Sharing (Application Service)" id="id-04a7463bf90b4892a9691959fc467461">
@@ -5973,6 +6204,18 @@ Source/URL: For more information, refer to: https://en.wikipedia.org/wiki/Blockc
     <element xsi:type="archimate:SystemSoftware" name="SAP-PSCD System (System Software)" id="id-7454a44fb00b4f398700a6e82e25c711"/>
     <element xsi:type="archimate:SystemSoftware" name="Receiver General Buy Button (RGBB) (System Software)" id="id-c1dbf91fef0544bfaca1147504dee9f1"/>
     <element xsi:type="archimate:TechnologyFunction" name="Pre-Authorized Debit (PAD) (Technology Function)" id="id-0b2d5f24cacf4c56a4610bd0d2be9232"/>
+    <element xsi:type="archimate:TechnologyFunction" name="Interactivity (Technology Function)" id="id-dcd6c32852d14ace9e80786a3efff0e1">
+      <documentation>Interactivity: Enables users to explore data dynamically through features like filtering, zooming, and drill-down capabilities. Advanced tools may also offer hover-over insights, clickable elements, and interactive dashboards for deeper data exploration.</documentation>
+    </element>
+    <element xsi:type="archimate:TechnologyFunction" name="Customization &amp; Personalization (Technology Function)" id="id-efad5f7db7ca4ef88ec6da06b11b9478">
+      <documentation>Customization and personalization - Allow users to design and share tailored reports, dashboards, and visualizations to meet specific departmental needs. Custom themes, user-defined metrics, and configurable widgets improve adaptability.</documentation>
+    </element>
+    <element xsi:type="archimate:TechnologyFunction" name="Real-Time Processing (Technology Function)" id="id-3c2066477fc6457eae90d200c75bda15">
+      <documentation>Real-time processing: Support live data updates, ensuring that users can make informed decisions based on the most current information.</documentation>
+    </element>
+    <element xsi:type="archimate:TechnologyFunction" name="Seamless Integration (Technology Function)" id="id-160ac416ad3f4e788790565bf0a3d967">
+      <documentation>Seamless integration: Some tools connect effortlessly with databases, cloud storage, spreadsheets for streamlined data retrieval and visualization.</documentation>
+    </element>
   </folder>
   <folder name="Motivation" id="id-f0d4d184e3724f9581f16c817692f2b0" type="motivation">
     <element xsi:type="archimate:Principle" name="GC EA Principles" id="id-9f1bfe4676814b5b9e0db7e61200311f"/>
@@ -12549,6 +12792,193 @@ Provincial and territorial health information privacy legislation: Each province
 Sector-specific regulations: Some industries like telecommunications, financial services, and healthcare might have additional privacy regulations beyond these mentioned above.&#xD;
 Common law privacy principles: These principles, though not codified in legislation, can be applied by courts in certain situations.</documentation>
     </element>
+    <element xsi:type="archimate:Requirement" name="Visual Studio License (Requirement)" id="id-f05eacb6021b4e56b9046d2f2589d88a">
+      <documentation>USE CASE:&#xD;
+I am not a developer requiring ADO tools, per se. I am in charge of configuring / maintaining our (online) ADO Project, which is where we track our team's work. I need to be able to create new ADO item types, and custom reports based on the information captured.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Document Context (Meaning)" id="id-2c728e7e1951488faea9c9893fcac35a">
+      <documentation>This document provides the requirements and best practices for creating clear, insightful, and effective data visualization products for internal and external audiences. It ensures alignment with Employment and Social Development Canada (ESDC) objectives and compliance with relevant acts, policies, and directives.</documentation>
+    </element>
+    <element xsi:type="archimate:Constraint" name="Application: All ESDC Workers, All Visualization Products (Scope)" id="id-d59df4bd009c4c6ca4f3173af59bf2c4"/>
+    <element xsi:type="archimate:Goal" name="1. Guidance for Data Visualizations Development (Goal)" id="id-cd1485275f1147e6a9fb58c2fbabb80f">
+      <documentation>The objectives of these guidelines are to:&#xD;
+1. provide departmental guidance for the development of data visualizations,</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="2. Consistency and Quality of Visualization Products (Goal)" id="id-8789971207d64ca394451316d32a54bd">
+      <documentation>The objectives of these guidelines are to:&#xD;
+2. promote consistency and quality across visualization products;</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="3. GC Policies-, Standards- and Directives-Compliant (Goal)" id="id-66780a5e9c984971960954f61ec4f875">
+      <documentation>The objectives of these guidelines are to:&#xD;
+3. ensure compliance with Government of Canada (GoC) policies, standards, and directives (refer to Appendix A).</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="ESDC Data Visualization Objectives (Goal)" id="id-26a49e8c021241c981e1842c09af202d"/>
+    <element xsi:type="archimate:Outcome" name="Responsible Innovative Approach to Data Visualizations (Outcome)" id="id-049f661c8900476cacff55d312c15ee4">
+      <documentation>These guidelines enable:&#xD;
+Responsible innovative approaches to data visualizations, while ensuring that products facilitate data informed insights, compliance with GoC requirements, and a common approach to the application of risk mitigation practices across the department.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="1. Enhanced Decision-Making (Value)" id="id-11b683bce24e4186ac1b28efbec018c6">
+      <documentation>Benefits of using data visualization products&#xD;
+Enhanced decision-making:&#xD;
+By presenting data in an easy-to-understand format, visualization products help management make informed decisions.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="2. Identified Trends and Patterns (Value)" id="id-759e79c4ad384d769fb70c4d42292576">
+      <documentation>Benefits of using data visualization products&#xD;
+Trends and patterns identified:&#xD;
+Visual representations allow users to quickly recognize trends, anomalies, and correlations.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="3. Improved Communication (Value)" id="id-a137a50ae352430dbca5e92059a2bb7d">
+      <documentation>Benefits of using data visualization products&#xD;
+Improved communication:&#xD;
+Charts and graphs make complex data more accessible to non-technical stakeholders.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="4. Increased Efficiency (Value)" id="id-8c2400ae643a4068a688b5556cac043b">
+      <documentation>Benefits of using data visualization products&#xD;
+Increased efficiency:&#xD;
+Automated data analysis reduces the time spent manually processing large datasets.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Benefits of Using Data Visualization Products (Value)" id="id-15bce36dae664e0fae4c1416fc551fdf">
+      <documentation>Benefits of using data visualization products&#xD;
+Enhanced decision-making:&#xD;
+By presenting data in an easy-to-understand format, visualization products help management make informed decisions.&#xD;
+Trends and patterns identified:&#xD;
+Visual representations allow users to quickly recognize trends, anomalies, and correlations.&#xD;
+Improved communication:&#xD;
+Charts and graphs make complex data more accessible to non-technical stakeholders.&#xD;
+Increased efficiency:&#xD;
+Automated data analysis reduces the time spent manually processing large datasets.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="What Is A Data Visualization Product? (Meaning)" id="id-e54eea00c7d64856b11671fce5dbd4e4">
+      <documentation>7. What is a data visualization product&#xD;
+Data visualization products are tools, platforms, or software solutions that help users transform raw data into graphical or visual representations. These products enable users to quickly interpret complex datasets and uncover insights that might be difficult to identify in raw numerical formats.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Accessibility (Requirement)" id="id-b14e1110368f4846bc204f74d14eafb9">
+      <documentation>Accessibility:&#xD;
+Design data visualizations with accessibility in mind. In some cases, visualization tools do not fully meet Web Content Accessibility Guidelines (WCAG) therefore consider these limitations when creating solutions by weighting benefits and costs. Aim for clarity, inclusivity, and alternative formats whenever possible. For more information consult:&#xD;
+&#xD;
+Guidelines on Making Communications Products and Activities Diverse and Inclusive https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32785&#xD;
+Guidelines on Making Communications Products and Activities Accessible https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32728&#xD;
+Standard on Web Accessibility https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=23601</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Clarity (Requirement)" id="id-950b29f47e8d443cbb098b92879e7140">
+      <documentation>Clarity:&#xD;
+Prioritize clear and effective communication by removing unnecessary elements, simplifying complex data, and designing layouts that highlight key insights.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Copyright Compliance (Requirement)" id="id-07f0b4ecf6584bb0b4bd0be856e6286f">
+      <documentation>Copyright compliance:&#xD;
+Verify that all data sources, visual elements, and design assets comply with copyright and licensing requirements. Provide proper attribution and review third-party resources to maintain legal and ethical integrity.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Maintainability &amp; Scalability (Requirement)" id="id-c03d6de885a6463ca16d764c49de4c44">
+      <documentation>Maintainability and scalability:&#xD;
+Design visualizations to adapt as data and needs evolve. Document the design process, data sources, and workflow to support updates, collaboration, and long-term usability. Where possible, automate data updates to ensure accuracy and freshness.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Privacy (Requirement)" id="id-df0d0deae4554ced9ddcb0fb00ab3edf">
+      <documentation>Privacy:&#xD;
+Data privacy should be a key consideration when designing data visualization products to ensure that privacy is respected. It is essential to determine whether these products involve personal information. Ensure compliance with the Privacy Act (https://laws-lois.justice.gc.ca/eng/acts/p-21/section-3.html), relevant policies, and frameworks to protect individuals' privacy.&#xD;
+&#xD;
+Personal information refers to any recorded information about an identifiable individual, as defined in Section 3 of the Privacy Act. https://laws-lois.justice.gc.ca/eng/acts/p-21/section-3.html&#xD;
+To safeguard privacy, personal information should be de-identified through data anonymization - a process that removes identifiable details, so individuals remain anonymous.&#xD;
+Masking can be applied by removing direct identifiers from microdata and replacing them with a unique key. This unique key allows for data analysis while preventing the identification of individuals.&#xD;
+Consider residual disclosure and ensure that proper suppression for small values is thoroughly evaluated and implemented if necessary. This will help maintain data integrity, confidentiality and privacy.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Accuracy (Requirement)" id="id-4437f94ef28f4d2aa194d88b8617de29">
+      <documentation>Accuracy:&#xD;
+Use robust data collection methods, verify data sources, and employ rigorous data cleaning techniques to eliminate errors and inconsistencies. Additionally, regular audits and updates should be conducted to maintain the integrity of the data over time.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Consistency (Requirement)" id="id-473e2a98e48e44bbaca4098e64df7c8c">
+      <documentation>Consistency:&#xD;
+Maintain a uniform style and format across all visualizations to ensure a cohesive and professional appearance aligned with ESDC branding.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Ethical Data Representation (Requirement)" id="id-7c776b262e8046e48b73a624355bbcea">
+      <documentation>Ethical data representation:&#xD;
+Ensure fairness and objectivity in data visualization. Avoid misleading visual techniques that could create bias and consider ethical implications of how data is presented and interpreted. Engage relevant stakeholders - such as GBA+ groups for LGBTQ+ data, Indigenous communities for Indigenous data, and subject matter experts for program-specific data to promote inclusivity and responsible, ethical and accurate data representation.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Official Languages (Requirement)" id="id-192fbb79e1d34b86abc8b3e4394f984a">
+      <documentation>Official languages:&#xD;
+Data visualization products must comply with official language requirements to ensure accessibility, inclusivity, and compliance. This means that visualization products must be available in both official languages as much as possible, ensuring equitable access to information for all users and compliance with official languages requirements. For more information consult:&#xD;
+&#xD;
+Policy on Official Languages https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=26160&#xD;
+Directive on Official Languages for Communications and Services https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=26164</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="User Acceptance Testing (Requirement)" id="id-c516c9c49cb5462f8df75dbc4ac7629b">
+      <documentation>User acceptance testing:&#xD;
+Conduct user acceptance testing to ensure that your visualization product is easily digestible and comprehensible for the end user. This process will help identify any areas for improvement and ensure the product meets user expectations.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Requirements For Effective Data Visualization" id="id-b8c60378baed43f1a2d3fd11da3f31ad">
+      <documentation>9. Requirements for effective data visualization&#xD;
+&#xD;
+When developing data visualization products, keep in mind the following principles:&#xD;
+&#xD;
+Accessibility:&#xD;
+Design data visualizations with accessibility in mind. In some cases, visualization tools do not fully meet Web Content Accessibility Guidelines (WCAG) therefore consider these limitations when creating solutions by weighting benefits and costs. Aim for clarity, inclusivity, and alternative formats whenever possible. For more information consult:&#xD;
+&#xD;
+Guidelines on Making Communications Products and Activities Diverse and Inclusive&#xD;
+Guidelines on Making Communications Products and Activities Accessible&#xD;
+Standard on Web Accessibility&#xD;
+Accuracy:&#xD;
+Use robust data collection methods, verify data sources, and employ rigorous data cleaning techniques to eliminate errors and inconsistencies. Additionally, regular audits and updates should be conducted to maintain the integrity of the data over time.&#xD;
+Clarity:&#xD;
+Prioritize clear and effective communication by removing unnecessary elements, simplifying complex data, and designing layouts that highlight key insights.&#xD;
+Consistency:&#xD;
+Maintain a uniform style and format across all visualizations to ensure a cohesive and professional appearance aligned with ESDC branding.&#xD;
+Copyright compliance:&#xD;
+Verify that all data sources, visual elements, and design assets comply with copyright and licensing requirements. Provide proper attribution and review third-party resources to maintain legal and ethical integrity.&#xD;
+Ethical data representation:&#xD;
+Ensure fairness and objectivity in data visualization. Avoid misleading visual techniques that could create bias and consider ethical implications of how data is presented and interpreted. Engage relevant stakeholders - such as GBA+ groups for LGBTQ+ data, Indigenous communities for Indigenous data, and subject matter experts for program-specific data to promote inclusivity and responsible, ethical and accurate data representation.&#xD;
+Maintainability and scalability:&#xD;
+Design visualizations to adapt as data and needs evolve. Document the design process, data sources, and workflow to support updates, collaboration, and long-term usability. Where possible, automate data updates to ensure accuracy and freshness.&#xD;
+Official languages:&#xD;
+Data visualization products must comply with official language requirements to ensure accessibility, inclusivity, and compliance. This means that visualization products must be available in both official languages as much as possible, ensuring equitable access to information for all users and compliance with official languages requirements. For more information consult:&#xD;
+&#xD;
+Policy on Official Languages&#xD;
+Directive on Official Languages for Communications and Services&#xD;
+Privacy:&#xD;
+Data privacy should be a key consideration when designing data visualization products to ensure that privacy is respected. It is essential to determine whether these products involve personal information. Ensure compliance with the Privacy Act, relevant policies, and frameworks to protect individuals' privacy.&#xD;
+&#xD;
+Personal information refers to any recorded information about an identifiable individual, as defined in Section 3 of the Privacy Act.&#xD;
+To safeguard privacy, personal information should be de-identified through data anonymization - a process that removes identifiable details, so individuals remain anonymous.&#xD;
+Masking can be applied by removing direct identifiers from microdata and replacing them with a unique key. This unique key allows for data analysis while preventing the identification of individuals.&#xD;
+Consider residual disclosure and ensure that proper suppression for small values is thoroughly evaluated and implemented if necessary. This will help maintain data integrity, confidentiality and privacy.&#xD;
+User acceptance testing:&#xD;
+Conduct user acceptance testing to ensure that your visualization product is easily digestible and comprehensible for the end user. This process will help identify any areas for improvement and ensure the product meets user expectations.</documentation>
+    </element>
+    <element xsi:type="archimate:Constraint" name="Constraint" id="id-93ede44828454a50a255e5fa201629f9"/>
+    <element xsi:type="archimate:Constraint" name="Constraint" id="id-fb65654f3c0846a0a9f3e2e546733fd9"/>
+    <element xsi:type="archimate:Constraint" name="Constraint" id="id-6c14a7cd880245e7a0ad8c6bbea55308"/>
+    <element xsi:type="archimate:Constraint" name="Constraint" id="id-1e63ba2235b642acb0ced5a7ea2df15f"/>
+    <element xsi:type="archimate:Constraint" name="Constraint" id="id-b1e126071fa947e482507cf674b8c9c4"/>
+    <element xsi:type="archimate:Constraint" name="Ethical Considerations For Artificial Intelligence (AI) in Data Visualization" id="id-8e6c6e48e41d42db93f8a3b70cca807d">
+      <documentation>10. Ethical considerations of utilizing Artificial Intelligence (AI) in data visualization&#xD;
+While the integration of AI to enhance data visualizations can provide quicker insights, it is important to ensure that risks are appropriately considered and mitigated. This section provides key considerations to enable the responsible use of AI in data visualizations.&#xD;
+&#xD;
+Note that AI can be embedded within data visualizations. From automated insights to natural language querying, AI capabilities span a broad spectrum and are increasingly integrated into tools like Power BI. When using AI in data visualization, several key ethical aspects must be considered and implemented where possible and necessary, these include:&#xD;
+&#xD;
+Accountability:&#xD;
+Establish clear accountability for the decisions made by AI. This includes having human oversight, providing training on the usage of AI data visualization tools and enabling intervention when AI makes incorrect or unethical representations. Furthermore, assign explicit responsibilities for each stage of AI visualization development, require formal signoffs and keep detailed logs to trace decisions and facilitate governance.&#xD;
+Accuracy:&#xD;
+Ensure that the AI models used are accurate and reliable. This involves regular validation and testing of the models to ensure they produce correct and meaningful visualizations. Furthermore, establish validation protocols to verify AI-generated patterns and avoid false positives. Include clear notes on data limitations and statistical confidence in visual outputs.&#xD;
+Bias and fairness:&#xD;
+Ensure that AI algorithms used do not introduce or perpetuate biases. This involves careful selection of training data and regular auditing of AI models to detect and mitigate any biases.&#xD;
+Contextual integrity:&#xD;
+Present data within its appropriate context to prevent misinterpretation. Limit AI systems from making autonomous predictions to reduce bias and enhance transparency. Clearly communicate the limitations, assumptions, and scope of data and models, and avoid repurposing personal data in ways that distorts meaning or erodes trust. Engage subject-matter experts and, where possible, validate interpretations, and use clear labels and framing to maintain context across audiences.&#xD;
+Explainability:&#xD;
+Ensure that AI-driven results are transparent and interpretable. This helps build trust, supports informed decision-making, and allows users to validate the logic behind the system’s outputs.&#xD;
+Privacy:&#xD;
+Protect the privacy of individuals whose data is being visualized. This includes anonymizing data and ensuring that sensitive information is not inadvertently disclosed, especially when working with small population groups or identifiable data. Control access to detailed visual data and ensure compliance with privacy regulations.&#xD;
+Transparency:&#xD;
+Clearly explain how AI is used in the data visualization process, including the algorithms and data sources involved. Users should understand AI’s role, its limitations, and how insights are generated. Regular internal and external audits can help ensure transparency, and consultation with PMD may be beneficial in certain cases.&#xD;
+Technical robustness and safety:&#xD;
+A key requirements for trustworthy AI is ensuring that systems and software are secure, reliable, and resilient. AI algorithms must be designed to handle errors and inconsistencies across all phases of the system’s lifecycle. This includes implementing safeguards to maintain performance, prevent failures, and ensure the system behaves as intended under a variety of conditions. Furthermore, maintain strict version control and monitoring protocols to prevent unintended consequences or data leaks.&#xD;
+Human-in-the-loop:&#xD;
+Integrate a mandatory review checkpoint where humans evaluate AI-enabled visuals for ethical and technical soundness. If necessary, form cross-functional teams with expertise in data science, ethics, and communications. Provide training on ethical AI use.&#xD;
+Responsible communication:&#xD;
+Set clear policies that forbid AI-generated visuals designed to mislead or emotionally manipulate viewers. Monitor analytics to identify and address unintended persuasive effects. Disclose the objectives and design decisions behind visualizations.</documentation>
+    </element>
+    <element xsi:type="archimate:Constraint" name="Constraint" id="id-e833b1d248684dbda19298760d701d25"/>
+    <element xsi:type="archimate:Constraint" name="Constraint" id="id-9d75519a37da40b0a421af7650313e77"/>
+    <element xsi:type="archimate:Constraint" name="Constraint" id="id-00285512ec32409d83e25d855493740b"/>
+    <element xsi:type="archimate:Constraint" name="Constraint" id="id-7cc7e9de34454444abfae95f94300dec"/>
+    <element xsi:type="archimate:Constraint" name="Constraint" id="id-9f8e4e133bac4bf0a80b120bccf3b522"/>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Plateau" name="3rd Annual 2022 Digital Transformation in Government Conference (Plateau)" id="id-50a58ac56ba54b23834dc68b028ca8a0">
@@ -13901,6 +14331,22 @@ The first step in any business is “know thy customer”.  For ESDC, this entai
 •	Data Policy  Support the strategy with overarching policy that provides guidance to ensure that organization acts in a manner that is consistent with successful implementation of the strategy.&#xD;
 •	Data Governance  Define the roles and procedures that assure the effective management of data, i.e. to ensure that as a critical resource, data is available as needed to support the business and safeguarded to ensure its availability, confidentiality and integrity.  &#xD;
 </documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="Data Visualization Products" id="id-0b89ca1d391b4404989c13384ef1f848">
+      <documentation>Incorporating dynamic tools can enhance engagement and decision-making. Below are key features that define effective data visualization tools:&#xD;
+&#xD;
+Interactivity: Enables users to explore data dynamically through features like filtering, zooming, and drill-down capabilities. Advanced tools may also offer hover-over insights, clickable elements, and interactive dashboards for deeper data exploration.&#xD;
+Real-time processing: Support live data updates, ensuring that users can make informed decisions based on the most current information.&#xD;
+Customization and personalization - Allow users to design and share tailored reports, dashboards, and visualizations to meet specific departmental needs. Custom themes, user-defined metrics, and configurable widgets improve adaptability.&#xD;
+Seamless integration: Some tools connect effortlessly with databases, cloud storage, spreadsheets for streamlined data retrieval and visualization.</documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="Key Features Of Effective Data Visualization Tools" id="id-36fe2da911144c06bc69a503cfd35339">
+      <documentation>Incorporating dynamic tools can enhance engagement and decision-making. Below are key features that define effective data visualization tools:&#xD;
+&#xD;
+Interactivity: Enables users to explore data dynamically through features like filtering, zooming, and drill-down capabilities. Advanced tools may also offer hover-over insights, clickable elements, and interactive dashboards for deeper data exploration.&#xD;
+Real-time processing: Support live data updates, ensuring that users can make informed decisions based on the most current information.&#xD;
+Customization and personalization - Allow users to design and share tailored reports, dashboards, and visualizations to meet specific departmental needs. Custom themes, user-defined metrics, and configurable widgets improve adaptability.&#xD;
+Seamless integration: Some tools connect effortlessly with databases, cloud storage, spreadsheets for streamlined data retrieval and visualization.</documentation>
     </element>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
@@ -16035,6 +16481,63 @@ building a new solution.</documentation>
     <element xsi:type="archimate:CompositionRelationship" id="id-8ddd518240434f9abcb40dac96f1f20c" source="id-369e3009963a4cef841ba75ea50a1a1e" target="id-42f1b80249c140af80f59c3386872a59"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-cd9e627ca15f4759a3c4cb126d83c7dc" source="id-369e3009963a4cef841ba75ea50a1a1e" target="id-f8833b3bfe33466ebf6fbfc5e40eba91"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-62b17b7b8449420d98ebba963023425b" source="id-369e3009963a4cef841ba75ea50a1a1e" target="id-6758875b24a442539ca00e49912c3c21"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-789041813e2c46e1879d4c02fb5dd228" source="id-f05eacb6021b4e56b9046d2f2589d88a" target="id-65b979753fbb43af8b214273b79d017e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-362fb2881dcd4cc1834ed4f6da3f6ea7" source="id-26a49e8c021241c981e1842c09af202d" target="id-8789971207d64ca394451316d32a54bd"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e86e9572f6b443eeb956cd1e28d788af" source="id-26a49e8c021241c981e1842c09af202d" target="id-cd1485275f1147e6a9fb58c2fbabb80f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7f249ffff9cf4cf5ae1608a7a7eb393a" source="id-26a49e8c021241c981e1842c09af202d" target="id-66780a5e9c984971960954f61ec4f875"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b12c32c4260740a6bb7adcac82b116d5" source="id-15bce36dae664e0fae4c1416fc551fdf" target="id-759e79c4ad384d769fb70c4d42292576"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3ab0be64f47a4d5cad051fdf3f3500f7" source="id-15bce36dae664e0fae4c1416fc551fdf" target="id-a137a50ae352430dbca5e92059a2bb7d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2555513fb11844f48f7b17008dcd1e84" source="id-15bce36dae664e0fae4c1416fc551fdf" target="id-11b683bce24e4186ac1b28efbec018c6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-0667313a8fd744bca7d2fb56d15bac4c" source="id-15bce36dae664e0fae4c1416fc551fdf" target="id-8c2400ae643a4068a688b5556cac043b"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-06fe08341ee3452496d521ca10fdeccf" source="id-76bd4b8fa5c6433bb350cfe13db1fb9e" target="id-51ef25ad72ab49e091eefbf4493923af"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-5515e75b04544240bcb0007d78b7f9c3" source="id-51ef25ad72ab49e091eefbf4493923af" target="id-6942641e8da449ccb351660f2a36f91a"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-0e77964a4dcb429f8595f694be283eaa" source="id-6942641e8da449ccb351660f2a36f91a" target="id-9c2f6a300b65400a8ccb6b9b2908315d"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-ee61b46f51484655858d40c74d67d404" source="id-9c2f6a300b65400a8ccb6b9b2908315d" target="id-a129079ef7494e3bb3987006938d9ac4"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-074edf6fd9834b6e9faa52095249188b" source="id-a129079ef7494e3bb3987006938d9ac4" target="id-340cc1a731e847748a9cd3d3e4f32492"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6446b60ab8254db7a8c380de3bd641db" source="id-88e945e41bf545ab957ada6b445f73b1" target="id-51ef25ad72ab49e091eefbf4493923af"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6b4b81ba65a74a28adc1378812efb3d0" source="id-88e945e41bf545ab957ada6b445f73b1" target="id-6942641e8da449ccb351660f2a36f91a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-dc1035eb93b04509bf63ad2460c05397" source="id-88e945e41bf545ab957ada6b445f73b1" target="id-9c2f6a300b65400a8ccb6b9b2908315d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-1eb3991c5bbd4fb19a2096ced81b30eb" source="id-88e945e41bf545ab957ada6b445f73b1" target="id-340cc1a731e847748a9cd3d3e4f32492"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-f349bc903999465682a6f1d449984ed9" source="id-88e945e41bf545ab957ada6b445f73b1" target="id-76bd4b8fa5c6433bb350cfe13db1fb9e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-98c91cb743b34e0c93e56bfa05616590" source="id-88e945e41bf545ab957ada6b445f73b1" target="id-a129079ef7494e3bb3987006938d9ac4"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-6bd43112040044d8b877c717b2458c86" source="id-76bd4b8fa5c6433bb350cfe13db1fb9e" target="id-b796e19871774c48a3a91827e816ef79"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-e123eca5d0bd4d75881a7550ac885bba" source="id-76bd4b8fa5c6433bb350cfe13db1fb9e" target="id-09116be70b1c484485e90d147d2d1c87"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-3e00305ce2674be59e4244a07aa7b6bd" source="id-76bd4b8fa5c6433bb350cfe13db1fb9e" target="id-9f5860cc988e4fc88d8e589f0874fb5b"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-f521f4784cf34dfabd52d3078838a07b" source="id-76bd4b8fa5c6433bb350cfe13db1fb9e" target="id-583f1d2f418448558acc972967cc48d1"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-2304a18f2f6f4219b514e2e85760c4cb" source="id-76bd4b8fa5c6433bb350cfe13db1fb9e" target="id-898b857888af41ab8cb95a069e17de11"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-655822ad05c2498f9aacae97a8b3ab1f" source="id-51ef25ad72ab49e091eefbf4493923af" target="id-137123cf5a9a485da5680a85a078dbbf"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-e7bbcb115af24d7d8813a844e444c400" source="id-51ef25ad72ab49e091eefbf4493923af" target="id-ad014a48ee204ebf90970fa86fa93323"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-4c5ef5f3faa74a66b292fa2b66142d44" source="id-6942641e8da449ccb351660f2a36f91a" target="id-ca3515f308f443768873ad97516795ec"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-15a5fdf3ca5c4163b6238f67b49ce05a" source="id-6942641e8da449ccb351660f2a36f91a" target="id-bd93fcda9f7e49adb2043c7985175e6f"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-32accbdac4224ce68924e7c4b3134536" source="id-6942641e8da449ccb351660f2a36f91a" target="id-1f29492ef9f549dc8e6fd50068e91f2f"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-431c8c4874f74c5cbc522bfe441be1b4" source="id-6942641e8da449ccb351660f2a36f91a" target="id-62609444371a4cc682f83e80c099378d"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-7732b708deb44a56a47b5526fdfcc82f" source="id-6942641e8da449ccb351660f2a36f91a" target="id-44797426df494a6ab72ca9122a63d65f"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-3c341a907693491aa3024458227f3ab5" source="id-9c2f6a300b65400a8ccb6b9b2908315d" target="id-b0f11e83a4b24b83ab099ea6c5660a27"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-78f9d2c9368743d781174c79ad60c9fb" source="id-9c2f6a300b65400a8ccb6b9b2908315d" target="id-dd57e68257c144d7bf392723df8f0c6c"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-6b0b373c53434a0a915f7b878a9823a2" source="id-9c2f6a300b65400a8ccb6b9b2908315d" target="id-2287f685ed86443ea678b1fef6c1d6e1"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-aea239f907af4f3c84be6fd6840bedc1" source="id-9c2f6a300b65400a8ccb6b9b2908315d" target="id-42a82d7db28d471e915f55b2d053511c"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-5733d10a9e9440e2bbaaf7bba700ab11" source="id-a129079ef7494e3bb3987006938d9ac4" target="id-5395d88c718d4df28f3ea5e0bef722db"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-e3da5e6467494a9890f8ebde171628a9" source="id-a129079ef7494e3bb3987006938d9ac4" target="id-3787531afa624ac4913cab2dd819949c"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-a85b3f06f0ff471ca3fb4025a164263c" source="id-a129079ef7494e3bb3987006938d9ac4" target="id-373f8ac4fec94452910f169ab8357b6e"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-c49938f1bc7d4362ad6bd4e1a86225c3" source="id-340cc1a731e847748a9cd3d3e4f32492" target="id-544b5dbf78b8489ba8ae0949bf7629d6"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-1ccc7c776d864845a292bfe0a009900b" source="id-340cc1a731e847748a9cd3d3e4f32492" target="id-3e6fd3dcce3340a99ceb107d90e890ce"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-217b869b1caf452187547649e2aa621f" source="id-340cc1a731e847748a9cd3d3e4f32492" target="id-c07fbb1446f443328bee45c6503860db"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-abdb85e1f22b40819be2d40ca276f13c" source="id-0b89ca1d391b4404989c13384ef1f848" target="id-60cfbf2aedc946678b048a605b23ba75"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8a40efdb699f4fae9936bb960e277849" source="id-0b89ca1d391b4404989c13384ef1f848" target="id-99afbe34c7a8495f876de72ace6fdd7e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-0d26b389e4db483c8293c1f532e227be" source="id-36fe2da911144c06bc69a503cfd35339" target="id-160ac416ad3f4e788790565bf0a3d967"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4fa01bd0ab2545b29fc21e73acebad1a" source="id-36fe2da911144c06bc69a503cfd35339" target="id-dcd6c32852d14ace9e80786a3efff0e1"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-42188621c3864b97a3e5adb0de1765af" source="id-36fe2da911144c06bc69a503cfd35339" target="id-3c2066477fc6457eae90d200c75bda15"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8be6416da2074957a3911b47c6204603" source="id-36fe2da911144c06bc69a503cfd35339" target="id-efad5f7db7ca4ef88ec6da06b11b9478"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-fcf783ba44854669b02cd47a915bf634" source="id-b8c60378baed43f1a2d3fd11da3f31ad" target="id-4437f94ef28f4d2aa194d88b8617de29"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-373b504ce84a4b8ba00c79557859e450" source="id-b8c60378baed43f1a2d3fd11da3f31ad" target="id-c516c9c49cb5462f8df75dbc4ac7629b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5bcae28afaef4f73b7a5699c37bfcde0" source="id-b8c60378baed43f1a2d3fd11da3f31ad" target="id-b14e1110368f4846bc204f74d14eafb9"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-938ba00ca3534dd29b0cacdfe7123c03" source="id-b8c60378baed43f1a2d3fd11da3f31ad" target="id-950b29f47e8d443cbb098b92879e7140"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e2f5915911694963a3ec2d2ed60a9941" source="id-b8c60378baed43f1a2d3fd11da3f31ad" target="id-473e2a98e48e44bbaca4098e64df7c8c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-464c2b720a594017947e4b284bf1ec63" source="id-b8c60378baed43f1a2d3fd11da3f31ad" target="id-07f0b4ecf6584bb0b4bd0be856e6286f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3e2231bfd9754a918874f7c3b22e501a" source="id-b8c60378baed43f1a2d3fd11da3f31ad" target="id-7c776b262e8046e48b73a624355bbcea"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-0cab1f0fceec4aa8b81ed4b9414bbb3e" source="id-b8c60378baed43f1a2d3fd11da3f31ad" target="id-df0d0deae4554ced9ddcb0fb00ab3edf"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5478eabd1e9040a1b0b49b9f3d947a67" source="id-b8c60378baed43f1a2d3fd11da3f31ad" target="id-c03d6de885a6463ca16d764c49de4c44"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6c216b1bb64f415cbcfd440a308944a3" source="id-b8c60378baed43f1a2d3fd11da3f31ad" target="id-192fbb79e1d34b86abc8b3e4394f984a"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -21486,6 +21989,299 @@ High Level Enterprise Business Overview</content>
         </child>
         <documentation>Information sourced from &quot;ESDC Chief Data Office (CDO) Data Foundations Business Case&quot; [v0.4 - DRAFT]</documentation>
       </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="ESDC Data Visualization Guidelines" id="id-3883775036db437eb6a9b4f8b7489333">
+        <child xsi:type="archimate:Note" id="id-98253c3ed75546e19558cedcc43b0ca5" font="1|Segoe UI|16.2|1|WINDOWS|1|-27|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1">
+          <bounds x="5" y="3" width="602" height="96"/>
+          <content>Guidelines on Data Visualization for ESDC&#xD;
+Employment and Social Development Canada (ESDC)&#xD;
+Data Governance&#xD;
+</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-d8c558f62b7b4a4baf8480fe54590567" textPosition="1">
+          <bounds x="516" y="72" width="91" height="27"/>
+          <content>v0.1.20251022</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-64de84a69eda4031b85867b9f67887b5" textPosition="1">
+          <bounds x="516" y="46" width="91" height="27"/>
+          <content>Rel.2025-06-30</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3ec18fe5eb05436cbc105a5007de9dae" archimateElement="id-2c728e7e1951488faea9c9893fcac35a">
+          <bounds x="612" y="3" width="145" height="44"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-fcec755d089c4a68aa880a10a8effed8" archimateElement="id-d59df4bd009c4c6ca4f3173af59bf2c4">
+          <bounds x="612" y="46" width="145" height="68"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-e03949e704c74ce09d399a6a619b71b1" archimateElement="id-26a49e8c021241c981e1842c09af202d">
+          <bounds x="768" y="5" width="462" height="109"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-43fef4952c3a459fa358484925f65b6c" source="id-e03949e704c74ce09d399a6a619b71b1" target="id-b2837008b9c4477bafe5abfac73b62a3" archimateRelationship="id-362fb2881dcd4cc1834ed4f6da3f6ea7"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1b3a78583b1840dca6bab0ccda7368ce" source="id-e03949e704c74ce09d399a6a619b71b1" target="id-4a3866c254954b79927b76ed29c3b319" archimateRelationship="id-e86e9572f6b443eeb956cd1e28d788af"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a4e68ba35807446993d1d723b80678ae" source="id-e03949e704c74ce09d399a6a619b71b1" target="id-1220a232b33f47f584ac2f2a61bd58e1" archimateRelationship="id-7f249ffff9cf4cf5ae1608a7a7eb393a"/>
+          <child xsi:type="archimate:DiagramObject" id="id-b2837008b9c4477bafe5abfac73b62a3" targetConnections="id-43fef4952c3a459fa358484925f65b6c" archimateElement="id-8789971207d64ca394451316d32a54bd">
+            <bounds x="160" y="24" width="145" height="74"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-4a3866c254954b79927b76ed29c3b319" targetConnections="id-1b3a78583b1840dca6bab0ccda7368ce" archimateElement="id-cd1485275f1147e6a9fb58c2fbabb80f">
+            <bounds x="12" y="24" width="145" height="74"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1220a232b33f47f584ac2f2a61bd58e1" targetConnections="id-a4e68ba35807446993d1d723b80678ae" archimateElement="id-66780a5e9c984971960954f61ec4f875">
+            <bounds x="309" y="24" width="145" height="74"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-cdcf810ae8e943eea1a4d0cc1d1b322f" archimateElement="id-049f661c8900476cacff55d312c15ee4">
+          <bounds x="1248" y="19" width="156" height="81"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-82499af083354c2e830fb6bb5260b3ca" archimateElement="id-15bce36dae664e0fae4c1416fc551fdf">
+          <bounds x="768" y="120" width="493" height="109"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2cf05d3118134cb6a66f7e78d7c3af1f" source="id-82499af083354c2e830fb6bb5260b3ca" target="id-d2091255b41a4a9fad6b2ef8c48e5e8c" archimateRelationship="id-b12c32c4260740a6bb7adcac82b116d5"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a4a1e597f17d4ffd9178abe3595bb023" source="id-82499af083354c2e830fb6bb5260b3ca" target="id-f801f7d8750944ee903f451864dbeaf9" archimateRelationship="id-3ab0be64f47a4d5cad051fdf3f3500f7"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b73836eee2b14cdbb6b3b095717ecc1d" source="id-82499af083354c2e830fb6bb5260b3ca" target="id-87735a274173447e97e2201909a5d262" archimateRelationship="id-2555513fb11844f48f7b17008dcd1e84"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7e8eb44f7102461a85b2e95c8f1a3fb4" source="id-82499af083354c2e830fb6bb5260b3ca" target="id-d261440c6103433cb1a73cd41f2a11f0" archimateRelationship="id-0667313a8fd744bca7d2fb56d15bac4c"/>
+          <child xsi:type="archimate:DiagramObject" id="id-d2091255b41a4a9fad6b2ef8c48e5e8c" targetConnections="id-2cf05d3118134cb6a66f7e78d7c3af1f" archimateElement="id-759e79c4ad384d769fb70c4d42292576">
+            <bounds x="120" y="24" width="109" height="74"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f801f7d8750944ee903f451864dbeaf9" targetConnections="id-a4a1e597f17d4ffd9178abe3595bb023" archimateElement="id-a137a50ae352430dbca5e92059a2bb7d">
+            <bounds x="228" y="24" width="139" height="74"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-87735a274173447e97e2201909a5d262" targetConnections="id-b73836eee2b14cdbb6b3b095717ecc1d" archimateElement="id-11b683bce24e4186ac1b28efbec018c6">
+            <bounds x="12" y="24" width="109" height="74"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d261440c6103433cb1a73cd41f2a11f0" targetConnections="id-7e8eb44f7102461a85b2e95c8f1a3fb4" archimateElement="id-8c2400ae643a4068a688b5556cac043b">
+            <bounds x="366" y="24" width="115" height="74"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-81adf8c1bacf41219695267e14f4b62e" archimateElement="id-e54eea00c7d64856b11671fce5dbd4e4">
+          <bounds x="612" y="113" width="145" height="53"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-fb990580e6f047faa93f422901b3e6b2" archimateElement="id-88e945e41bf545ab957ada6b445f73b1">
+          <bounds x="5" y="696" width="1249" height="301"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2fd7fd267b86463e9c0d0b2aef7a4e98" source="id-fb990580e6f047faa93f422901b3e6b2" target="id-42d135b833184f81854a31b1365686c2" archimateRelationship="id-6446b60ab8254db7a8c380de3bd641db"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-0cbed76579f54c78a798f4bc63109a8a" source="id-fb990580e6f047faa93f422901b3e6b2" target="id-4c2a4b92d6b24fff8494b212267e999b" archimateRelationship="id-6b4b81ba65a74a28adc1378812efb3d0"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-143c6f61faa74d26b349effa7aaaba79" source="id-fb990580e6f047faa93f422901b3e6b2" target="id-7aeb99f8186540609e9835936b270621" archimateRelationship="id-dc1035eb93b04509bf63ad2460c05397"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-919d175fe3934dc9a476b24143295bb1" source="id-fb990580e6f047faa93f422901b3e6b2" target="id-4d6f53eabf464fceb96eebdbb9959446" archimateRelationship="id-1eb3991c5bbd4fb19a2096ced81b30eb"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2426858733a846549ed8510d7d45ab29" source="id-fb990580e6f047faa93f422901b3e6b2" target="id-065583604fcc4f169c15d1eed904325b" archimateRelationship="id-f349bc903999465682a6f1d449984ed9"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-77891aff74f247339250a7a41ce23338" source="id-fb990580e6f047faa93f422901b3e6b2" target="id-73d128b1779b45a5a6b450765f75b49c" archimateRelationship="id-98c91cb743b34e0c93e56bfa05616590"/>
+          <child xsi:type="archimate:DiagramObject" id="id-42d135b833184f81854a31b1365686c2" targetConnections="id-cc3e20872dbc4beaaf02e3aff17fe755 id-2fd7fd267b86463e9c0d0b2aef7a4e98" archimateElement="id-51ef25ad72ab49e091eefbf4493923af">
+            <bounds x="228" y="24" width="181" height="133"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-5467623082e0462797a30befb3b0a0bd" source="id-42d135b833184f81854a31b1365686c2" target="id-4c2a4b92d6b24fff8494b212267e999b" archimateRelationship="id-5515e75b04544240bcb0007d78b7f9c3"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-82bacc8587ac4a0490d39b4401ebb344" source="id-42d135b833184f81854a31b1365686c2" target="id-05a4a68d381c4c9cbe0962c171592940" archimateRelationship="id-655822ad05c2498f9aacae97a8b3ab1f"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-eb769ad3866246a2adcdea42b6ec4a9c" source="id-42d135b833184f81854a31b1365686c2" target="id-ea3cbc712e8b4e5989d9b30fd4681de6" archimateRelationship="id-e7bbcb115af24d7d8813a844e444c400"/>
+            <child xsi:type="archimate:DiagramObject" id="id-05a4a68d381c4c9cbe0962c171592940" targetConnections="id-82bacc8587ac4a0490d39b4401ebb344" archimateElement="id-137123cf5a9a485da5680a85a078dbbf">
+              <bounds x="12" y="36" width="156" height="36"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-ea3cbc712e8b4e5989d9b30fd4681de6" targetConnections="id-eb769ad3866246a2adcdea42b6ec4a9c" archimateElement="id-ad014a48ee204ebf90970fa86fa93323">
+              <bounds x="12" y="84" width="156" height="42"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-4c2a4b92d6b24fff8494b212267e999b" targetConnections="id-5467623082e0462797a30befb3b0a0bd id-0cbed76579f54c78a798f4bc63109a8a" archimateElement="id-6942641e8da449ccb351660f2a36f91a">
+            <bounds x="432" y="24" width="181" height="265"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-5acdc383799b4671a09efa48ca19096d" source="id-4c2a4b92d6b24fff8494b212267e999b" target="id-7aeb99f8186540609e9835936b270621" archimateRelationship="id-0e77964a4dcb429f8595f694be283eaa"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-cf7c46786c9c4379b26c988010ce2e46" source="id-4c2a4b92d6b24fff8494b212267e999b" target="id-89b43ee2f54a415eb70c367a0ff22204" archimateRelationship="id-4c5ef5f3faa74a66b292fa2b66142d44"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-2410c5e7769b4704a3e7f149760bf835" source="id-4c2a4b92d6b24fff8494b212267e999b" target="id-13b2810a0da346d48af7156ad7e93db8" archimateRelationship="id-15a5fdf3ca5c4163b6238f67b49ce05a"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-dcb37de18b8f4530905f66778bc3e07b" source="id-4c2a4b92d6b24fff8494b212267e999b" target="id-1b566f3e6e4f45429602a5f916fd986e" archimateRelationship="id-32accbdac4224ce68924e7c4b3134536"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-32b73e08d3544efba43aeac38f348ed2" source="id-4c2a4b92d6b24fff8494b212267e999b" target="id-a7c5ec55de714cc08eef95ad9c776afa" archimateRelationship="id-431c8c4874f74c5cbc522bfe441be1b4"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-3461f648ccbf41248c2ab57520f32165" source="id-4c2a4b92d6b24fff8494b212267e999b" target="id-594f0238269c43b980ca0b2908cf010d" archimateRelationship="id-7732b708deb44a56a47b5526fdfcc82f"/>
+            <child xsi:type="archimate:DiagramObject" id="id-89b43ee2f54a415eb70c367a0ff22204" targetConnections="id-cf7c46786c9c4379b26c988010ce2e46" archimateElement="id-ca3515f308f443768873ad97516795ec">
+              <bounds x="13" y="77" width="156" height="32"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-13b2810a0da346d48af7156ad7e93db8" targetConnections="id-2410c5e7769b4704a3e7f149760bf835" archimateElement="id-bd93fcda9f7e49adb2043c7985175e6f">
+              <bounds x="12" y="152" width="156" height="48"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-1b566f3e6e4f45429602a5f916fd986e" targetConnections="id-dcb37de18b8f4530905f66778bc3e07b" archimateElement="id-1f29492ef9f549dc8e6fd50068e91f2f">
+              <bounds x="12" y="204" width="156" height="49"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-a7c5ec55de714cc08eef95ad9c776afa" targetConnections="id-32b73e08d3544efba43aeac38f348ed2" archimateElement="id-62609444371a4cc682f83e80c099378d">
+              <bounds x="12" y="36" width="156" height="37"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-594f0238269c43b980ca0b2908cf010d" targetConnections="id-3461f648ccbf41248c2ab57520f32165" archimateElement="id-44797426df494a6ab72ca9122a63d65f">
+              <bounds x="12" y="112" width="156" height="34"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7aeb99f8186540609e9835936b270621" targetConnections="id-5acdc383799b4671a09efa48ca19096d id-143c6f61faa74d26b349effa7aaaba79" archimateElement="id-9c2f6a300b65400a8ccb6b9b2908315d">
+            <bounds x="636" y="24" width="181" height="265"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-c3999e7e680e418b86d7ebfabc54be01" source="id-7aeb99f8186540609e9835936b270621" target="id-73d128b1779b45a5a6b450765f75b49c" archimateRelationship="id-ee61b46f51484655858d40c74d67d404"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-3775db469e9d498b94041fe2f905ffd0" source="id-7aeb99f8186540609e9835936b270621" target="id-df2a60a79c444ff6bfad451655221ae2" archimateRelationship="id-3c341a907693491aa3024458227f3ab5"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-f7cd8170d4ec4167807b62002e4d0375" source="id-7aeb99f8186540609e9835936b270621" target="id-fa2f80883cad42a99e90759f3dafb88f" archimateRelationship="id-78f9d2c9368743d781174c79ad60c9fb"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-ecf2c33689384535a93058c23b705d8e" source="id-7aeb99f8186540609e9835936b270621" target="id-75f45faabed344c5afba0c41843713e4" archimateRelationship="id-6b0b373c53434a0a915f7b878a9823a2"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-cb4f61165f9c4044834aff6e6ac18038" source="id-7aeb99f8186540609e9835936b270621" target="id-3ab3a6407c0e41bdafd7c14be688d385" archimateRelationship="id-aea239f907af4f3c84be6fd6840bedc1"/>
+            <child xsi:type="archimate:DiagramObject" id="id-df2a60a79c444ff6bfad451655221ae2" targetConnections="id-3775db469e9d498b94041fe2f905ffd0" archimateElement="id-b0f11e83a4b24b83ab099ea6c5660a27">
+              <bounds x="12" y="186" width="156" height="73"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-fa2f80883cad42a99e90759f3dafb88f" targetConnections="id-f7cd8170d4ec4167807b62002e4d0375" archimateElement="id-dd57e68257c144d7bf392723df8f0c6c">
+              <bounds x="12" y="78" width="156" height="37"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-75f45faabed344c5afba0c41843713e4" targetConnections="id-ecf2c33689384535a93058c23b705d8e" archimateElement="id-2287f685ed86443ea678b1fef6c1d6e1">
+              <bounds x="12" y="24" width="156" height="43"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-3ab3a6407c0e41bdafd7c14be688d385" targetConnections="id-cb4f61165f9c4044834aff6e6ac18038" archimateElement="id-42a82d7db28d471e915f55b2d053511c">
+              <bounds x="12" y="126" width="156" height="49"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-4d6f53eabf464fceb96eebdbb9959446" targetConnections="id-52cbb5850cd041c5a72545f5b206b1c7 id-919d175fe3934dc9a476b24143295bb1" archimateElement="id-340cc1a731e847748a9cd3d3e4f32492">
+            <bounds x="1044" y="24" width="181" height="205"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-72008ca72f914351bc265c92a3e1aabc" source="id-4d6f53eabf464fceb96eebdbb9959446" target="id-2c5445cce0284c8a806b2ef0bd151282" archimateRelationship="id-c49938f1bc7d4362ad6bd4e1a86225c3"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-5663d97e736b4ee39f2944b4c96cca54" source="id-4d6f53eabf464fceb96eebdbb9959446" target="id-c0092efd175b4fb1a4b7cb4f69c22d68" archimateRelationship="id-1ccc7c776d864845a292bfe0a009900b"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-7f8e018081f444368d26c13a66f6116d" source="id-4d6f53eabf464fceb96eebdbb9959446" target="id-290245da72d347b9aba8b371b4b4513f" archimateRelationship="id-217b869b1caf452187547649e2aa621f"/>
+            <child xsi:type="archimate:DiagramObject" id="id-2c5445cce0284c8a806b2ef0bd151282" targetConnections="id-72008ca72f914351bc265c92a3e1aabc" archimateElement="id-544b5dbf78b8489ba8ae0949bf7629d6">
+              <bounds x="12" y="96" width="156" height="41"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-c0092efd175b4fb1a4b7cb4f69c22d68" targetConnections="id-5663d97e736b4ee39f2944b4c96cca54" archimateElement="id-3e6fd3dcce3340a99ceb107d90e890ce">
+              <bounds x="12" y="144" width="156" height="49"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-290245da72d347b9aba8b371b4b4513f" targetConnections="id-7f8e018081f444368d26c13a66f6116d" archimateElement="id-c07fbb1446f443328bee45c6503860db">
+              <bounds x="12" y="48" width="156" height="43"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-065583604fcc4f169c15d1eed904325b" targetConnections="id-2426858733a846549ed8510d7d45ab29" archimateElement="id-76bd4b8fa5c6433bb350cfe13db1fb9e">
+            <bounds x="24" y="24" width="181" height="265"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-cc3e20872dbc4beaaf02e3aff17fe755" source="id-065583604fcc4f169c15d1eed904325b" target="id-42d135b833184f81854a31b1365686c2" archimateRelationship="id-06fe08341ee3452496d521ca10fdeccf"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-fa8fa37af2714bb98e2f93af32be1b5f" source="id-065583604fcc4f169c15d1eed904325b" target="id-da2b0cec64f74441ae94619133c1c2db" archimateRelationship="id-6bd43112040044d8b877c717b2458c86"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-441abd0128cb47e7ba558d9d871a88b1" source="id-065583604fcc4f169c15d1eed904325b" target="id-b2aa6b7cf87b49b39fcc46dc2654f316" archimateRelationship="id-e123eca5d0bd4d75881a7550ac885bba"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-9c42223d7f2d4bf58dc5a3738ec6c225" source="id-065583604fcc4f169c15d1eed904325b" target="id-41a3b18475534e62a844dda89eae8dae" archimateRelationship="id-3e00305ce2674be59e4244a07aa7b6bd"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-3cefd4f660ac42fd93e3a966d2008eb6" source="id-065583604fcc4f169c15d1eed904325b" target="id-8a24e2dc129f47c1b3c925e48d48b391" archimateRelationship="id-f521f4784cf34dfabd52d3078838a07b"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-49f3d48d511d43c6b4d57d4d8905fab9" source="id-065583604fcc4f169c15d1eed904325b" target="id-de3d2b998a0b4790be680ac514f92db0" archimateRelationship="id-2304a18f2f6f4219b514e2e85760c4cb"/>
+            <child xsi:type="archimate:DiagramObject" id="id-da2b0cec64f74441ae94619133c1c2db" targetConnections="id-fa8fa37af2714bb98e2f93af32be1b5f" archimateElement="id-b796e19871774c48a3a91827e816ef79">
+              <bounds x="12" y="24" width="156" height="55"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-b2aa6b7cf87b49b39fcc46dc2654f316" targetConnections="id-441abd0128cb47e7ba558d9d871a88b1" archimateElement="id-09116be70b1c484485e90d147d2d1c87">
+              <bounds x="12" y="84" width="156" height="35"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-41a3b18475534e62a844dda89eae8dae" targetConnections="id-9c42223d7f2d4bf58dc5a3738ec6c225" archimateElement="id-9f5860cc988e4fc88d8e589f0874fb5b">
+              <bounds x="12" y="124" width="156" height="38"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-8a24e2dc129f47c1b3c925e48d48b391" targetConnections="id-3cefd4f660ac42fd93e3a966d2008eb6" archimateElement="id-583f1d2f418448558acc972967cc48d1">
+              <bounds x="12" y="168" width="156" height="44"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-de3d2b998a0b4790be680ac514f92db0" targetConnections="id-49f3d48d511d43c6b4d57d4d8905fab9" archimateElement="id-898b857888af41ab8cb95a069e17de11">
+              <bounds x="12" y="216" width="156" height="37"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-73d128b1779b45a5a6b450765f75b49c" targetConnections="id-c3999e7e680e418b86d7ebfabc54be01 id-77891aff74f247339250a7a41ce23338" archimateElement="id-a129079ef7494e3bb3987006938d9ac4">
+            <bounds x="840" y="24" width="181" height="229"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-52cbb5850cd041c5a72545f5b206b1c7" source="id-73d128b1779b45a5a6b450765f75b49c" target="id-4d6f53eabf464fceb96eebdbb9959446" archimateRelationship="id-074edf6fd9834b6e9faa52095249188b"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-402e82266761479290bb824a8df1de9e" source="id-73d128b1779b45a5a6b450765f75b49c" target="id-38546a31123d42e0b23c27ef9bcc014c" archimateRelationship="id-5733d10a9e9440e2bbaaf7bba700ab11"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-130e3fe22f924820b35d3547af0f9a8f" source="id-73d128b1779b45a5a6b450765f75b49c" target="id-0c584ccf622847b0952beac97bdffc13" archimateRelationship="id-e3da5e6467494a9890f8ebde171628a9"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-0f4c2ef6a1454ba69348902acdd0bdc6" source="id-73d128b1779b45a5a6b450765f75b49c" target="id-d5176b86fc4a473999e420ab52f1db4d" archimateRelationship="id-a85b3f06f0ff471ca3fb4025a164263c"/>
+            <child xsi:type="archimate:DiagramObject" id="id-38546a31123d42e0b23c27ef9bcc014c" targetConnections="id-402e82266761479290bb824a8df1de9e" archimateElement="id-5395d88c718d4df28f3ea5e0bef722db">
+              <bounds x="12" y="163" width="156" height="55"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-0c584ccf622847b0952beac97bdffc13" targetConnections="id-130e3fe22f924820b35d3547af0f9a8f" archimateElement="id-3787531afa624ac4913cab2dd819949c">
+              <bounds x="12" y="103" width="156" height="55"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-d5176b86fc4a473999e420ab52f1db4d" targetConnections="id-0f4c2ef6a1454ba69348902acdd0bdc6" archimateElement="id-373f8ac4fec94452910f169ab8357b6e">
+              <bounds x="12" y="48" width="156" height="44"/>
+            </child>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1ab719fb8060453e9e06a732ec6bac93" archimateElement="id-6e0248c24e504f37bf2663ff7b589d63">
+          <bounds x="625" y="180" width="120" height="30"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-57f7d214f6d84b459d51f29a115b56b6" textAlignment="1" archimateElement="id-0b89ca1d391b4404989c13384ef1f848">
+          <bounds x="5" y="113" width="145" height="145"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f0bb1d6806bf4bf99c9bd3a8556a0019" source="id-57f7d214f6d84b459d51f29a115b56b6" target="id-286d9ed650c3472b8dc591af8dec699b" archimateRelationship="id-abdb85e1f22b40819be2d40ca276f13c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8bbc868f243a4e63bcc2da322f455ac7" source="id-57f7d214f6d84b459d51f29a115b56b6" target="id-11c0231370b14534af68a11676b2bff9" archimateRelationship="id-8a40efdb699f4fae9936bb960e277849"/>
+          <child xsi:type="archimate:DiagramObject" id="id-286d9ed650c3472b8dc591af8dec699b" targetConnections="id-f0bb1d6806bf4bf99c9bd3a8556a0019" archimateElement="id-60cfbf2aedc946678b048a605b23ba75">
+            <bounds x="12" y="48" width="120" height="37"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-11c0231370b14534af68a11676b2bff9" targetConnections="id-8bbc868f243a4e63bcc2da322f455ac7" archimateElement="id-99afbe34c7a8495f876de72ace6fdd7e">
+            <bounds x="12" y="96" width="120" height="37"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-4b60a00cc0ff473fb7a0a80b91c71522" textAlignment="1" archimateElement="id-36fe2da911144c06bc69a503cfd35339">
+          <bounds x="168" y="113" width="303" height="178"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1d1f8d4704b64601b94925f663addc52" source="id-4b60a00cc0ff473fb7a0a80b91c71522" target="id-19a957225174410ab79812709cb50072" archimateRelationship="id-0d26b389e4db483c8293c1f532e227be"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-576ae0871bb945c58bbf12f1b43d2ce4" source="id-4b60a00cc0ff473fb7a0a80b91c71522" target="id-98137534c65640bebe47c4ddef4d59b0" archimateRelationship="id-4fa01bd0ab2545b29fc21e73acebad1a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-37bfac8ff3e74f8c9085a41be701554b" source="id-4b60a00cc0ff473fb7a0a80b91c71522" target="id-47befa3d839b455ab57e16bbfb8b1e99" archimateRelationship="id-42188621c3864b97a3e5adb0de1765af"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-159f2368818642f18256fda364d2732a" source="id-4b60a00cc0ff473fb7a0a80b91c71522" target="id-f9f82c528a634dc19d88fa1a111815f4" archimateRelationship="id-8be6416da2074957a3911b47c6204603"/>
+          <child xsi:type="archimate:DiagramObject" id="id-19a957225174410ab79812709cb50072" targetConnections="id-1d1f8d4704b64601b94925f663addc52" archimateElement="id-160ac416ad3f4e788790565bf0a3d967">
+            <bounds x="159" y="93" width="133" height="73"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-98137534c65640bebe47c4ddef4d59b0" targetConnections="id-576ae0871bb945c58bbf12f1b43d2ce4" archimateElement="id-dcd6c32852d14ace9e80786a3efff0e1">
+            <bounds x="12" y="24" width="133" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-47befa3d839b455ab57e16bbfb8b1e99" targetConnections="id-37bfac8ff3e74f8c9085a41be701554b" archimateElement="id-3c2066477fc6457eae90d200c75bda15">
+            <bounds x="12" y="93" width="133" height="73"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f9f82c528a634dc19d88fa1a111815f4" targetConnections="id-159f2368818642f18256fda364d2732a" archimateElement="id-efad5f7db7ca4ef88ec6da06b11b9478">
+            <bounds x="159" y="24" width="133" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-8c859ee920eb4dfa9ee37522259c84df" archimateElement="id-b8c60378baed43f1a2d3fd11da3f31ad">
+          <bounds x="492" y="240" width="792" height="168"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-be41c90ce7d7494a942510eabaa9446a" source="id-8c859ee920eb4dfa9ee37522259c84df" target="id-b9bf7ff369cd422fbccf695f452c1b44" archimateRelationship="id-fcf783ba44854669b02cd47a915bf634"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c8de6a818aa84c038cbc5c862d3c8cb1" source="id-8c859ee920eb4dfa9ee37522259c84df" target="id-23421f62005c4d09ba06fde983fbe7f9" archimateRelationship="id-373b504ce84a4b8ba00c79557859e450"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1366551be0364155a8dd17696ef64675" source="id-8c859ee920eb4dfa9ee37522259c84df" target="id-14e2b1be6bf84036beeba4f1d0c253b2" archimateRelationship="id-5bcae28afaef4f73b7a5699c37bfcde0"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-813778f40d6a46389a9c45be479cfbcf" source="id-8c859ee920eb4dfa9ee37522259c84df" target="id-1605312c033149d28e0b9afb9c90664c" archimateRelationship="id-938ba00ca3534dd29b0cacdfe7123c03"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7f565af367454a318278885ad07a7d36" source="id-8c859ee920eb4dfa9ee37522259c84df" target="id-69293d32933a41088d33b04e1d348d9a" archimateRelationship="id-e2f5915911694963a3ec2d2ed60a9941"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-539a4dbfa41d4b3da9de5a45437c85b8" source="id-8c859ee920eb4dfa9ee37522259c84df" target="id-9adf444febb34338883fadf384797d55" archimateRelationship="id-464c2b720a594017947e4b284bf1ec63"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b917a6bdac8f4c6b9c0fcce4309e27f7" source="id-8c859ee920eb4dfa9ee37522259c84df" target="id-8daf105eee5544ce82c663390d82d9e5" archimateRelationship="id-3e2231bfd9754a918874f7c3b22e501a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-dc66f3794ae64f7285f3f44808234e66" source="id-8c859ee920eb4dfa9ee37522259c84df" target="id-0e2a62af251d419790d689adfcb54266" archimateRelationship="id-0cab1f0fceec4aa8b81ed4b9414bbb3e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a66379fa980c4d18ac6c77b1404b577f" source="id-8c859ee920eb4dfa9ee37522259c84df" target="id-7fb9896a4ba14f5abe5f6d83a81ccdf3" archimateRelationship="id-5478eabd1e9040a1b0b49b9f3d947a67"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2e8f2fc2338544bd804f6186c0bb6660" source="id-8c859ee920eb4dfa9ee37522259c84df" target="id-35705fca781941e895eee6d92a0620f0" archimateRelationship="id-6c216b1bb64f415cbcfd440a308944a3"/>
+          <child xsi:type="archimate:DiagramObject" id="id-b9bf7ff369cd422fbccf695f452c1b44" targetConnections="id-be41c90ce7d7494a942510eabaa9446a" archimateElement="id-4437f94ef28f4d2aa194d88b8617de29">
+            <bounds x="12" y="96" width="145" height="60"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-23421f62005c4d09ba06fde983fbe7f9" targetConnections="id-c8de6a818aa84c038cbc5c862d3c8cb1" archimateElement="id-c516c9c49cb5462f8df75dbc4ac7629b">
+            <bounds x="636" y="95" width="145" height="60"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-14e2b1be6bf84036beeba4f1d0c253b2" targetConnections="id-1366551be0364155a8dd17696ef64675" archimateElement="id-b14e1110368f4846bc204f74d14eafb9">
+            <bounds x="12" y="24" width="145" height="60"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1605312c033149d28e0b9afb9c90664c" targetConnections="id-813778f40d6a46389a9c45be479cfbcf" archimateElement="id-950b29f47e8d443cbb098b92879e7140">
+            <bounds x="168" y="24" width="145" height="60"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-69293d32933a41088d33b04e1d348d9a" targetConnections="id-7f565af367454a318278885ad07a7d36" archimateElement="id-473e2a98e48e44bbaca4098e64df7c8c">
+            <bounds x="168" y="95" width="145" height="60"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9adf444febb34338883fadf384797d55" targetConnections="id-539a4dbfa41d4b3da9de5a45437c85b8" archimateElement="id-07f0b4ecf6584bb0b4bd0be856e6286f">
+            <bounds x="326" y="24" width="145" height="60"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-8daf105eee5544ce82c663390d82d9e5" targetConnections="id-b917a6bdac8f4c6b9c0fcce4309e27f7" archimateElement="id-7c776b262e8046e48b73a624355bbcea">
+            <bounds x="326" y="95" width="145" height="60"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0e2a62af251d419790d689adfcb54266" targetConnections="id-dc66f3794ae64f7285f3f44808234e66" archimateElement="id-df0d0deae4554ced9ddcb0fb00ab3edf">
+            <bounds x="636" y="24" width="145" height="60"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7fb9896a4ba14f5abe5f6d83a81ccdf3" targetConnections="id-a66379fa980c4d18ac6c77b1404b577f" archimateElement="id-c03d6de885a6463ca16d764c49de4c44">
+            <bounds x="481" y="24" width="145" height="60"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-35705fca781941e895eee6d92a0620f0" targetConnections="id-2e8f2fc2338544bd804f6186c0bb6660" archimateElement="id-192fbb79e1d34b86abc8b3e4394f984a">
+            <bounds x="481" y="95" width="145" height="60"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-932342e7ed3449dcbcb9154b1e8df644" archimateElement="id-93ede44828454a50a255e5fa201629f9">
+          <bounds x="142" y="450" width="145" height="60"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-96b28bacede540b98608b9456346763f" archimateElement="id-fb65654f3c0846a0a9f3e2e546733fd9">
+          <bounds x="348" y="453" width="145" height="60"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-39db6d04ec574bd683d3179781298dbe" archimateElement="id-6c14a7cd880245e7a0ad8c6bbea55308">
+          <bounds x="644" y="441" width="145" height="60"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1aff1559fcf94a23a48ddb9b66ba5cf2" archimateElement="id-1e63ba2235b642acb0ced5a7ea2df15f">
+          <bounds x="885" y="453" width="145" height="60"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-6956c2a089f6467bbe7ca921138263fd" archimateElement="id-b1e126071fa947e482507cf674b8c9c4">
+          <bounds x="1061" y="456" width="145" height="60"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-ed9026817ba94ea3aab84be857112b42" archimateElement="id-8e6c6e48e41d42db93f8a3b70cca807d">
+          <bounds x="1452" y="372" width="792" height="168"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-f1372e0cf2f844aab94ec6a495621b5c" archimateElement="id-e833b1d248684dbda19298760d701d25">
+          <bounds x="140" y="572" width="145" height="60"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1f48dfbd8a5a4dbfa72eacc289bef29a" archimateElement="id-9d75519a37da40b0a421af7650313e77">
+          <bounds x="398" y="554" width="145" height="60"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-7e1e2f14a42c47d4a68cce5d669a17cf" archimateElement="id-00285512ec32409d83e25d855493740b">
+          <bounds x="645" y="560" width="145" height="60"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a45eddb4d476418a95b120a026be9006" archimateElement="id-7cc7e9de34454444abfae95f94300dec">
+          <bounds x="853" y="569" width="145" height="60"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-bc9f9c048c8047c2a068ed7663b6da92" archimateElement="id-9f8e4e133bac4bf0a80b120bccf3b522">
+          <bounds x="1096" y="569" width="145" height="60"/>
+        </child>
+        <documentation>https://iservice.prv/eng/imit/ims/clients/tools_and_resources/data-visualization-guide.shtml</documentation>
+      </element>
     </folder>
     <folder name="GC Language" id="id-43ad03cf472643fb9d735306dc35af0a">
       <element xsi:type="archimate:ArchimateDiagramModel" name="GC Plain Language Note-Taking" id="id-f70e388c803f4b2f9a2d92c5a1c23fab">
@@ -23104,6 +23900,29 @@ v0.1.20250805</content>
         <child xsi:type="archimate:DiagramObject" id="id-8d60708911b04edea6e5a3ef409bc3cc" archimateElement="id-bb3ddfd5c638495598b51db0537616d3">
           <bounds x="120" y="580" width="168" height="81"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-30b8a5d3651f4759874dcbc81585d3ae" source="id-8d60708911b04edea6e5a3ef409bc3cc" target="id-4939801ca20942019b1b5725d5052a32" archimateRelationship="id-4d66307ef2b041c29cdcb4558916047f"/>
+        </child>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="EDA Role" id="id-882c34fa3b8143a3a7f342163e113837">
+        <child xsi:type="archimate:Note" id="id-1770454b795a44f4a6167042cc80e97e" font="1|Segoe UI|16.2|1|WINDOWS|1|-27|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1">
+          <bounds x="9" y="10" width="456" height="67"/>
+          <content>Chief Data Officer Branch&#xD;
+Enterprise Data Architecture&#xD;
+Enterprise Data Architect Role&#xD;
+- Fun</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-cb76ff3b2d3c41629e2ff6531da66539" textPosition="1">
+          <bounds x="374" y="50" width="91" height="27"/>
+          <content>v0.1.20251021</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-6a379df3a111443aad0cf70980282284" archimateElement="id-f05eacb6021b4e56b9046d2f2589d88a">
+          <bounds x="277" y="264" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5568bb4300c24127bdb6226dd364c72f" source="id-6a379df3a111443aad0cf70980282284" target="id-1e67b975355844ef976f4c773462aa77" archimateRelationship="id-789041813e2c46e1879d4c02fb5dd228"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1e67b975355844ef976f4c773462aa77" targetConnections="id-5568bb4300c24127bdb6226dd364c72f" archimateElement="id-65b979753fbb43af8b214273b79d017e">
+          <bounds x="240" y="144" width="193" height="49"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-f975eedbbc7b465f91f8880fe23bb68e" archimateElement="id-7f240b1901aa45bb84e8f1e1127ac72b">
+          <bounds x="472" y="146" width="193" height="49"/>
         </child>
       </element>
     </folder>
@@ -28259,7 +29078,7 @@ v2 of PPTX</content>
           </child>
         </child>
       </element>
-      <element xsi:type="archimate:ArchimateDiagramModel" name="PIPEDA Principles" id="id-cd8356b542084166827dccd252effcd1">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="PIPEDA Principles (About)" id="id-cd8356b542084166827dccd252effcd1">
         <child xsi:type="archimate:Note" id="id-5a0b992392e84e14abd1260c6e8b3b9d" font="1|Segoe UI|16.2|1|WINDOWS|1|-27|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1">
           <bounds x="7" y="2" width="456" height="67"/>
           <content>10 PIPEDA Principles Explained: &#xD;
