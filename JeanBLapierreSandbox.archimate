@@ -16578,6 +16578,7 @@ building a new solution.</documentation>
     <element xsi:type="archimate:CompositionRelationship" id="id-195af9ff92174471b24038652514630e" source="id-8e6c6e48e41d42db93f8a3b70cca807d" target="id-7cc7e9de34454444abfae95f94300dec"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-1179533570784a899abdfc4c1ab5a60a" source="id-8e6c6e48e41d42db93f8a3b70cca807d" target="id-b1e126071fa947e482507cf674b8c9c4"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-c9a073278cb5442283ffbff3a2f6b90d" source="id-8e6c6e48e41d42db93f8a3b70cca807d" target="id-9f8e4e133bac4bf0a80b120bccf3b522"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-c11b1168e71341e29dbdf16c659031cd" source="id-049f661c8900476cacff55d312c15ee4" target="id-26a49e8c021241c981e1842c09af202d"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -22051,7 +22052,7 @@ Data Governance&#xD;
         <child xsi:type="archimate:DiagramObject" id="id-fcec755d089c4a68aa880a10a8effed8" archimateElement="id-d59df4bd009c4c6ca4f3173af59bf2c4">
           <bounds x="612" y="125" width="145" height="68"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-e03949e704c74ce09d399a6a619b71b1" archimateElement="id-26a49e8c021241c981e1842c09af202d">
+        <child xsi:type="archimate:DiagramObject" id="id-e03949e704c74ce09d399a6a619b71b1" targetConnections="id-af2f9432574c4928aeeb6e42d4e60bed" archimateElement="id-26a49e8c021241c981e1842c09af202d">
           <bounds x="792" y="25" width="462" height="109"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-43fef4952c3a459fa358484925f65b6c" source="id-e03949e704c74ce09d399a6a619b71b1" target="id-b2837008b9c4477bafe5abfac73b62a3" archimateRelationship="id-362fb2881dcd4cc1834ed4f6da3f6ea7"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-1b3a78583b1840dca6bab0ccda7368ce" source="id-e03949e704c74ce09d399a6a619b71b1" target="id-4a3866c254954b79927b76ed29c3b319" archimateRelationship="id-e86e9572f6b443eeb956cd1e28d788af"/>
@@ -22068,6 +22069,7 @@ Data Governance&#xD;
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-cdcf810ae8e943eea1a4d0cc1d1b322f" archimateElement="id-049f661c8900476cacff55d312c15ee4">
           <bounds x="1273" y="45" width="156" height="81"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-af2f9432574c4928aeeb6e42d4e60bed" source="id-cdcf810ae8e943eea1a4d0cc1d1b322f" target="id-e03949e704c74ce09d399a6a619b71b1" archimateRelationship="id-c11b1168e71341e29dbdf16c659031cd"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-82499af083354c2e830fb6bb5260b3ca" archimateElement="id-15bce36dae664e0fae4c1416fc551fdf">
           <bounds x="792" y="156" width="493" height="109"/>
