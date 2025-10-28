@@ -2895,6 +2895,54 @@ Distribute documentation on data usage. Establish support channels for ongoing d
 Please direct enquiries about these mandatory procedures to:&#xD;
 edsc.data_governance-gouvernance_des_donnes.esdc@hrsdc-rhdcc.gc.ca</documentation>
     </element>
+    <element xsi:type="archimate:Resource" name="American Bar Association (ABA) SaaS Agreements: Key Contractual Provisions (Resource)" id="id-4a35abcb70094168ab141afcecad08c5">
+      <documentation>https://www.americanbar.org/groups/business_law/resources/business-law-today/2021-november/saas-agreements-key-contractual-provisions/&#xD;
+SaaS Agreements: Key Contractual Provisions&#xD;
+&#xD;
+Henry Ward Classen | Nov 15, 2021 34 min read&#xD;
+Cybersecurity Data Privacy Internet Law &amp; Cybersecurity&#xD;
+&#xD;
+Summary&#xD;
+Under the SaaS (“Software as a Service”) model, a cloud provider hosts or provides access to a software application, allowing customers to access it as a service on an as-needed basis instead of licensing a copy of software.&#xD;
+The SaaS model allows cloud providers to reduce costs and improve service and allows customers to reduce costs, save time, and receive up-to-date improvements. However, customers relinquish control over their IT to a third party and must agree to the cloud providers’ conditions.&#xD;
+Contractual provisions should specify information about services, pricing and payment, service level agreements, disaster recovery, indemnification, limitation of liability, term of the agreement, suspension and termination, transition rights, compliance obligations, acceptable use policies, and data issues.&#xD;
+Data issues that should be covered in the contract include ownership of data; cloud provider access to and use of customer data; data retention; and data security, which encompasses security standards, location of data, physical security, technical security, administrative security, and security breaches and incidents.</documentation>
+    </element>
+    <element xsi:type="archimate:Resource" name="[CCCS] Recommended cyber security contract clauses for cloud services (ITSM.50.104) (Resource)" id="id-0aef08673d004e7b8d79a0f5d4bc9949">
+      <documentation>https://www.cyber.gc.ca/en/guidance/recommended-cyber-security-contract-clauses-cloud-services-itsm50104&#xD;
+Recommended cyber security contract clauses for cloud services (ITSM.50.104)&#xD;
+October 2024 | Management series | ITSM.50.104&#xD;
+&#xD;
+Overview&#xD;
+As more organizations move to cloud-based services and technologies, there is a growing need to identify supporting contract clauses and principles to ensure cyber security expectations are clearly understood and documented. Cyber security clauses and principles are important service components. They should be combined with foundational contract elements, such as service level agreements (SLAs), task orders, and governing standards.&#xD;
+&#xD;
+When combined, these contract elements and clauses provide a service framework to ensure your organization receives the services and solutions you expect and provide proper assurance that their data and identities are secure.&#xD;
+&#xD;
+This publication outlines common areas for cloud service contracts and procurement from a cyber security perspective for both government and non-government organizations The recommendations provided should be considered along with the main functional and legal aspects of service contracting when working with any cloud service provider (CSP).</documentation>
+    </element>
+    <element xsi:type="archimate:Resource" name="[UN] Notes on the Main Issues of Cloud Computing Contracts (Resource)" id="id-9c05fbc8204e40ca943a6e08e761aca3">
+      <documentation>Notes on the Main Issues of Cloud Computing Contracts&#xD;
+(prepared by the secretariat of the United Nations Commission on International Trade Law, 2019)&#xD;
+https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/19-09103_eng.pdf</documentation>
+    </element>
+    <element xsi:type="archimate:Resource" name="[Zeet] What To Consider When Choosing A Cloud Provider (19 Tested Tips) (Resource)" id="id-882ade99b66447f3b6d8ff4908e8c33a">
+      <documentation>https://zeet.co/blog/what-to-consider-when-choosing-a-cloud-provider#:~:text=One%20of%20the%20primary%20considerations,access%20controls%2C%20and%20compliance%20certifications.&#xD;
+2024-02-20&#xD;
+What To Consider When Choosing A Cloud Provider (19 Tested Tips)&#xD;
+Embark on a digital journey wisely! Explore what to consider when choosing a cloud provider. Security, scalability, and reliability await you.</documentation>
+    </element>
+    <element xsi:type="archimate:Resource" name="[Linford &amp; Co] Fundamental Components of a Cloud Service Agreement (Resource)" id="id-33e4fbe7569641709fc6592b239e2d79">
+      <documentation>Cloud Services Agreements – Protecting Your Hosted Environment&#xD;
+By Jaclyn Finney (Partner | CISA) Published on February 28, 2018&#xD;
+https://linfordco.com/blog/cloud-service-agreement/#:~:text=to%20the%20cloud.-,Fundamental%20Components%20of%20a%20Cloud%20Service%20Agreement,Monitoring%20and%20Audit%20Clauses&#xD;
+&#xD;
+Fundamental Components of a Cloud Service Agreement&#xD;
+When crafting a Cloud Service Agreement, it is imperative to add elements that protect the company and set expectations of what is expected from both a service and security point of view. These fundamental elements include the following:&#xD;
+1. Required Services&#xD;
+2. Confidentiality Agreement&#xD;
+3. Violation and Compliance Guarantees / Notifications&#xD;
+4. Monitoring and Audit Clauses</documentation>
+    </element>
   </folder>
   <folder name="Business" id="id-fb9c94c240434273aa6d6f5df1a73407" type="business">
     <element xsi:type="archimate:BusinessEvent" name="EA Requests SAS Feedback" id="id-a7ebf3b84a7545f6a5b2e8eaca445cb6"/>
@@ -13009,6 +13057,164 @@ A key requirements for trustworthy AI is ensuring that systems and software are 
       <documentation>Responsible communication:&#xD;
 Set clear policies that forbid AI-generated visuals designed to mislead or emotionally manipulate viewers. Monitor analytics to identify and address unintended persuasive effects. Disclose the objectives and design decisions behind visualizations.</documentation>
     </element>
+    <element xsi:type="archimate:Requirement" name="Ownership (Requirement)" id="id-37fc62d59d084a1a8423bd668d627598">
+      <documentation>Ownership: The contract must clearly state that you own the data and have immediate access to it.&#xD;
+&#xD;
+https://www.americanbar.org/groups/business_law/resources/business-law-today/2021-november/saas-agreements-key-contractual-provisions/&#xD;
+(ii) Ownership of Data&#xD;
+From the customer’s perspective, the agreement should clearly state:&#xD;
+the customer owns its data (and all intellectual property rights related thereto);&#xD;
+the customer will have immediate access to its data without charge upon demand;&#xD;
+upon termination of the agreement the customer may take its data to a new cloud provider; and&#xD;
+the format in which the data will be returned to the customer.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Security Measures (Requirement)" id="id-ed4bc30316bf4f48bb15eae85292f134">
+      <documentation>Security measures: The agreement should specify security protocols, including encryption, access controls, and compliance with relevant regulations.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Provider Access (Requirement)" id="id-40f25888719c443293a88aceff24b7b5">
+      <documentation>Provider access: Specify that the provider can only access or use your data as necessary to provide the service. Prohibit the provider from using your data for their own purposes without explicit permission.&#xD;
+&#xD;
+https://www.americanbar.org/groups/business_law/resources/business-law-today/2021-november/saas-agreements-key-contractual-provisions/&#xD;
+(iii) Cloud Provider Access and Use of Customer Data&#xD;
+Cloud providers often seek access to the customer’s data for many reasons including the cloud provider’s desire to aggregate and resell the customer’s data to third parties. Under no circumstances should the cloud provider be able to sell the customer’s data to a third party even if it has been “cleansed” of any identifying information. The cloud provider should be contractually prohibited from accessing or disclosing the customer and customer data. While prudent customers should seek to limit the cloud provider’s use of their data, the cloud provider should have the ability to collect and analyze usage data to improve the quality of the cloud provider’s services including as input for its product/services “roadmap.” The agreement should clearly state that all customer data, including customer data, is confidential regardless of whether it is displayed or accessible by the cloud provider. Allowing the cloud provider to access customer data may raise antitrust issues as well as limit the customer’s ability to claim trade secret protection for such data. For a discussion of trade secrets in the cloud see Sandeen, Lost in the Cloud: Information Flows and the Implications of Cloud Computing for Trade Secret Protection, 19 Va. J.L. &amp; Tech. 1 (2014).&#xD;
+&#xD;
+The customer should not agree to amorphous language such as the cloud provider will “comply with industry standards” or the cloud provider will “use commercially reasonable efforts to protect the customer’s confidential information.” A prudent customer will also seek to prohibit the storage of users’ credentials and passwords by the cloud provider.&#xD;
+&#xD;
+Model language favoring the cloud provider:&#xD;
+&#xD;
+We routinely collect and analyze metadata regarding your usage of the Cloud Services, excluding any personal data. We may use this information to gauge Cloud Services usage levels and application performance, as well as to create anonymized statistics for our own marketing purposes.&#xD;
+The following language provides the cloud provider even greater leeway to utilize the customer’s data.&#xD;
+&#xD;
+Vendor may use and reproduce Company Data at the direction of Company (such direction taking the form of the terms of this Agreement and the relevant Schedules) for the limited purposes of providing, operating, and maintaining the Services provided to Company. Company will secure for Vendor the right to use and reproduce Company Data, including any Personal Information therein, solely to the extent necessary to provide the Services to Company, without creating any obligations for Vendor beyond those set forth in this Agreement. Vendor may use usage patterns, trends, and other statistical data derived from use of the Services (but not Company Data itself) for the purposes of providing, operating, maintaining, or improving the Services and any Vendor products and services used to deliver the Services.&#xD;
+Compare the preceding language to the following language which favors the customer:&#xD;
+&#xD;
+Customer grants Vendor a limited, royalty-free, non-exclusive, non-transferable and non-sublicensable license to process the Customer Data only in the United States as instructed by Customer and only to provide the services for Customer’s benefit so long as Customer uploads or stores Customer Data in the System, subject to all terms and conditions of this Agreement.&#xD;
+(iv) Data Retention&#xD;
+Given significant numbers of customers, relatively short contract lengths, and the commoditized nature of cloud computing, many cloud providers retain customer data for very short periods of time. To the extent the customer has specific concerns, it should ensure the underlying agreement allocates not only responsibility for data retention and backup but also the time period in which data will be retained. The period of retention will depend on RTO/RPO’s, requirement for the retention of metadata and the cost of doing so. RTO and RPO are common terms used to measure “Recovery Time Objectives” or how long it will take to recover data and resume using an application that has gone down. “Recovery Point Objectives” speaks to data freshness at the time of recovery. Sometimes, companies can recover data that is a week old meaning all the data from the current week would be lost. For mission critical applications, RPOs of less than one hour are standard.&#xD;
+&#xD;
+Another issue for consideration is litigation holds for litigation, including the ability of the cloud provider to retain metadata. A prudent customer will contractually provide how it will notify the cloud provider of any litigation hold and how the cloud provider will preserve the relevant data. The failure to do so may lead to discovery sanctions on the customer in the event of any litigation.&#xD;
+&#xD;
+Further, to the extent a cloud provider is required to destroy or retain the customer’s data, the parties should realize that it is virtually impossible to destroy all data as customers’ data will be inevitably retained in backup tapes and the memory of the servers. As a result, some negotiated transactions include provisions for ongoing but secure storage by the former cloud provider of former customer data for specified, tax, quality control, or other purposes.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Third-Party Subcontractors (Requirement)" id="id-e8118e04dabd4e55a730bb0fca3d438e">
+      <documentation>Third-party subcontractors: Include clauses that address how the provider handles subcontractors and whether your data will be transferred or accessed by them.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Aggregate / De-Identified Data (Requirement)" id="id-b93c911b9f4b48c3a96dcd50b730d9b9">
+      <documentation>Aggregate/de-identified data: Understand the terms around the provider using de-identified or aggregated data. While this can be valuable, ensure true anonymization and no mechanism to re-identify your data. </documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Security Breaches (Requirement)" id="id-43c4141eeffe498eb06698f18cdbe734">
+      <documentation>Security breaches: Define notification obligations in the event of a breach and the provider's responsibilities.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Service Level Agreement (SLA) (Requirement)" id="id-77b934e67d224798afb50224eb2608c8">
+      <documentation>Service Level Agreement (SLA): Clearly define performance metrics like uptime, performance, and support response times, including penalties for failure to meet these standards.&#xD;
+&#xD;
+https://www.americanbar.org/groups/business_law/resources/business-law-today/2021-november/saas-agreements-key-contractual-provisions/&#xD;
+(vi) Performance Standard/Service Level Agreements (SLAs)&#xD;
+Service levels are very important as they establish the cloud provider’s minimum performance obligations and the degree of access that the customer will have to the application or services, including the customer’s own data. Many cloud providers, however, do not offer meaningful SLAs, arguing the application must meet the demands of multiple customers. Most cloud providers will at least offer availability service levels, and some may be willing to provide additional remedies beyond service credits for an additional fee. If appropriate, customers should seek to negotiate additional SLAs including response times, bandwidth and security breaches, although most cloud providers will only agree to meet minimum legal requirements. SLAs almost never cover failover guarantees or contingencies that address issues beyond the cloud provider’s control, such as the sudden cessation of the cloud provider’s business or an event of force majeure. Cloud providers should avoid being measured on any customer-dependent elements such as location processing capability.&#xD;
+&#xD;
+Service levels should reflect the usage of the application. For example:&#xD;
+&#xD;
+How is the application being used?&#xD;
+Where are the employees using the application located?&#xD;
+What time of day will the employees be accessing and using the application?&#xD;
+A successful service level should be objective, critical to the successful performance of the services, tailored to the services, and achievable by the measured party. Common service levels include:&#xD;
+&#xD;
+Availability (both network and application)&#xD;
+Remedies (including financial penalties/credits)&#xD;
+Problem response time&#xD;
+Issue resolution/Escalation Procedures, including status reporting&#xD;
+User support&#xD;
+Data return (Recovery Time/Recovery Point Objectives)&#xD;
+Simultaneous visitors/users&#xD;
+Page response times</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Data Portability (Requirement)" id="id-fabff19c433240b8a290b78d736bc599">
+      <documentation>Data portability: Ensure the contract allows you to take your data to a new provider upon termination without charge.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Dedicated / Partitioned Environment (Requirement)" id="id-32fb2fb7e13b4ae9af3201b7d66a3b55">
+      <documentation>Dedicated/Partitioned Environment. Any time Services are performed at the Customer Facilities, Vendor shall provide the Services using hardware, software and related resources dedicated solely to supporting Customer. Unless otherwise expressly provided in this Agreement, all Services provided from the Vendor’s Facilities shall be provided using partitioned or dedicated Equipment. Vendor shall not provide any Services from a shared processing environment unless specifically approved in writing by Customer.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Auditing (Requirement)" id="id-7ba47f42408f4e2a956f75281f18ab02">
+      <documentation>Auditing: Clauses should allow for your organization to audit the provider's processes and security measures.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Data Security (Requirement)" id="id-20b72df935ec40dabe3d8042af8d1a67">
+      <documentation>https://www.americanbar.org/groups/business_law/resources/business-law-today/2021-november/saas-agreements-key-contractual-provisions/&#xD;
+(vii) Data Security&#xD;
+Security is important when utilizing a SaaS model, but it is especially important for those customers utilizing a public cloud. By centralizing a party’s data in a secure data center, a party may actually increase its security (e.g., via the greater skills, resources, oversight, and testing that may be enabled by greater scale, i.e., a cloud provider testing and optimizing cybersecurity on behalf of multiple customers and its overall business model, versus a single entity attempting to achieve cybersecurity excellence only on its own behalf and outside its core focus or competencies). On the other hand, the customer has ceded control over its data and now is dependent on the cloud provider for protection.&#xD;
+&#xD;
+There are three aspects of security: physical security, technical security and administrative security. Prudent customers should undertake a comprehensive risk assessment that evaluates the scope of the purchased services and seek to identity any threats and vulnerabilities to receiving those services. It should assess the cloud provider’s security policies and ascertain the potential risk of a threat triggering a vulnerability as well as the potential impact if such a threat occurs. Customers will typically address their concerns with the cloud provider and incorporate its security requirements in the underlying agreement—often as a detailed, separate exhibit to the contract. Depending on the value of the contract and the importance of the application, the customer should visit the facility from which the cloud services are provided, if applicable and allowed, and request a written copy of the cloud provider’s security protocol for the building’s physical security and the security of the network from intrusion, and viruses, as well as annual updates. The customer should closely examine and vet the cloud provider’s policies as well as ascertain the specific type of infrastructure used by the cloud provider to provide the hosting services.&#xD;
+&#xD;
+The cloud provider should undertake an external and internal security analysis several times a year. The results of these efforts should be provided to the customer without the customer having to request it.&#xD;
+&#xD;
+Most important, however, is the definition of “data,” as the definition will establish the cloud provider’s security, confidentiality, and privacy obligations. Is “data” limited to information stored by the cloud provider, or does it include data created and collected by the cloud provider in the course of delivering services to the cloud provider? Customers should seek to draft the definition of “data” as broadly as possible to ensure that its data is completely secured.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Disaster Recovery (Requirement)" id="id-9b10d7902f644732bf6c050c22b71efc">
+      <documentation>Disaster recovery: Include details about the provider's disaster recovery and business continuity plans. &#xD;
+&#xD;
+https://www.americanbar.org/groups/business_law/resources/business-law-today/2021-november/saas-agreements-key-contractual-provisions/&#xD;
+(viii) Disaster Recovery&#xD;
+Disaster recovery differs from business continuity in that business continuity addresses issues that may arise in the ordinary course of business such as bugs, hacking, general down time and other service interruptions. Disaster recovery addresses incidents more akin to an event of force majeure such as a natural disaster. The cloud provider’s disaster recovery plans should be carefully reviewed by the customer and include the level of redundancy for the application, i.e., the availability of the application in the event of a failure of the primary server or application (such as a geographically distant “hot” site), the cloud provider’s protocol for backing up data (e.g., what frequency, testing, passwords, chain of custody, etc.), the storage of such data offsite, as well as the duration for which it will retain the backups. See Chapter 7.F of The Practical Guide to Software Licensing and Cloud Computing, 7th Edition, for a more detailed discussion of disaster recovery issues. The cloud provider should be able to provide a detailed plan addressing a power outage, natural disaster, equipment failure, the sudden cessation of its business (bankruptcy notwithstanding) and so on, as well as service level agreements for uptime and the ability to log onto the application independently of the cloud provider (for more information, see Chapter 9, Section A.5 of The Practical Guide to Software Licensing and Cloud Computing, 7th Edition, discussing SaaS Escrow). Finally, the cloud provider should disclose any audit protocols it has adapted to ensure its existing protocols and methodologies are followed. The customer should also ask the cloud provider about any previous security problems or service interruptions.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Termination (Requirement)" id="id-a16a0d9d91cd495d9c12dcd9398d0ba8">
+      <documentation>Termination: The contract should include a clear process for terminating the agreement and specify that the provider must securely delete your data within a reasonable and specified timeframe.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Security Standards (Requirement)" id="id-88ba1875c1b14e49b748364d8bdcb9ec">
+      <documentation>Security Standards&#xD;
+Multi-tenancy creates significant risks that other customers may be able to access or extract a customer’s data, increasing the risk of viruses and malware entering the customer’s environment as well as other security lapses. As such, customers should carefully negotiate the agreement’s security standards after identifying potential risks and potential approaches to mitigate the identified risks. Such risks, both internal and external, as well as the agreed upon risk mitigation controls, must be continually monitored during the term of agreement.&#xD;
+&#xD;
+To avoid ambiguity, the parties should specify the specific security standard the cloud provider must adhere to. The customer should ensure that the data center is ISO compliant as well as SSAE 18/ ISAE 3402 compliant. SSAE 18 SOC 2 and SOC 3 set forth significantly more stringent audit standards and are specifically focused on data centers. ISAE 3402 is the international equivalent of SSAE 18 and should apply and be reported against whenever data is kept in a global environment. See Chapter 7.E of The Practical Guide to Software Licensing and Cloud Computing, 7th Edition, for a more detailed discussion of SSAE 18 and its requirements.&#xD;
+&#xD;
+The cloud provider should maintain a written comprehensive information security program that includes reasonable security procedures and practices to ensure the security, confidentiality, privacy, availability and integrity of user content and other information if transmitted through or stored in connection with the services. Sophisticated customers seek to negotiate these cybersecurity specifications, attaching the agreed upon standards as a detailed exhibit to the agreement.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Physical Security (Requirement)" id="id-677baa31843e4095accc256acaf2d925">
+      <documentation>Physical Security&#xD;
+Physical security should not be overlooked. The cloud provider should be able to provide the customer with a written security plan setting forth the protections implemented at its data centers including:&#xD;
+&#xD;
+limiting and segmenting physical access,&#xD;
+restricting physical access to required personnel,&#xD;
+personnel background checks,&#xD;
+badging, and&#xD;
+training.&#xD;
+The customer should carefully evaluate the cloud provider’s security protections. The customer should understand who has access to its confidential information and data and under what circumstances.&#xD;
+&#xD;
+Who has the ability to modify such data?&#xD;
+What controls are in place to protect the customer from an unauthorized individual accessing and modifying the customer’s data?&#xD;
+Where is the cloud provider’s data center located?&#xD;
+Does the data center have adequate physical and virtual security?&#xD;
+Does the cloud provider have appropriate virus protection software and appropriate security measures to protect the customer’s data and internal systems?&#xD;
+What particular testing and validation processes and third-party certifications, if any, will be required?&#xD;
+May the customer initiate periodic “penetration testing” and if so under what parameters?&#xD;
+What if any cybersecurity-specific insurance coverage(s) must the cloud provider procure and maintain on the customer’s behalf, at what levels and for what duration? The customer should ensure the required protections are maintained 24x7x365 days a year.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Technical Security (Requirement)" id="id-b26f1c2c24ea4660a517f77c8b3ef42c">
+      <documentation>Technical Security&#xD;
+The cloud provider should utilize advanced software to detect any attempted and any actual intrusions to its network, as well as eliminate viruses and similar problems. A customer should require that its data be encrypted not only at rest (storage) but also during transmission (i.e., both “at rest” and “in transit”). Not all cloud provider applications are encrypted, making data stored on such applications vulnerable to misappropriation or theft. A customer should insist that the cloud provider comply with specific encryption standards for the encryption of the customer’s data. The language below illustrates this point:&#xD;
+&#xD;
+Customer will encrypt the Data using the AES-256 standard and store on Vendor Simple Storage Service (S3) devices within the Vendor east coast and west coast data centers. When needed, the encrypted Data will be replicated to Elastic Band Storage (EBS) devices and made available during the boot process to server instances and associated server user accounts with proper credentials. The credentials will be stored and maintained within the Customer-managed data center and presented to the Vendor server instances only during the boot process. No credentials will be stored in the Vendor cloud environment.&#xD;
+The cloud provider should be required to utilize sophisticated intrusion protection and detection software as well as peripheral equipment and be required update it on a continuous basis to ensure it remains current with the latest technology. The cloud provider should be contractually obligated to provide detailed reports for any attempted intrusions of material significance as well as any resulting data breaches. The agreement should establish a change-of-custody log and tightly control and restrict access to any data as well as provide an audit procedure for auditing network and user transactions. In cases where the nature of the customer’s data warrants it, the parties should also consider the use of a virtual private network (VPN) to further reduce security risks.&#xD;
+&#xD;
+The parties should establish stringent requirements for the storage of customer credentials and passwords outside of the cloud, including strong access controls. In addition, the agreement should address other common-sense security controls, such as staff screening, firewall standards, access logs and the ability of third-party contractors to access the system. Priority should also be given to preservation of security controls as part of any disaster recovery plans.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Security Breaches and Incidents (Requirement)" id="id-61229e6f8bac47068ba0bc99af723f04">
+      <documentation>Security Breaches and Incidents&#xD;
+The cloud provider should be obligated to notify the customer immediately in the event of a data breach or suspected breach and provide a detailed written explanation of the nature of such breach/suspected breach and the actions it has taken to remedy such breach. The agreement should address the parties’ respective responsibilities for complying with all federal, state, and local data breach notification laws, including which party has responsibility for drafting a notice to any affected parties, sending the notice, paying for all costs associated with doing so, and identifying costs the responsible party must assume. In addition, the agreement should address which party must pay for any costs associated with complying with new laws enacted after the execution of the agreement.&#xD;
+&#xD;
+The most important aspect in framing the parties’ obligations is the definition of “data breach,” as the definition will establish the scope of each party’s obligations. Both parties should ensure they understand the ramifications of the definition and how it will impact their obligations and potential liability.&#xD;
+&#xD;
+The agreement also should set out in detail the necessary response on the part of the cloud provider to a data breach, including how quickly the cloud provider must contact the customer to disclose the existence of an intrusion or breach, via what means, how much information the cloud provider must provide the customer, what steps the cloud provider must take to investigate, if the cloud provider will interface with law enforcement and how, how often the cloud provider will update the customer on actions taken to mitigate the effects of any breach, and what remedies the cloud provider will offer, if any. From the customer’s perspective, the customer does not want the affected individuals or entities or its board of directors and executives to first learn that there has been a security breach involving its data from the media or a third party.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Administrative Security (Requirement)" id="id-c2c791d4520b4f1e83db37da24478cf2">
+      <documentation>Administrative Security&#xD;
+Administrative security refers to the management operational controls and procedures implemented to protect the system’s security, including:&#xD;
+&#xD;
+Authentication of HTTP clients&#xD;
+Administrative console security&#xD;
+Naming security&#xD;
+Use of SSL transports&#xD;
+The common user registry&#xD;
+The authentication mechanism&#xD;
+The authentication protocol</documentation>
+    </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Plateau" name="3rd Annual 2022 Digital Transformation in Government Conference (Plateau)" id="id-50a58ac56ba54b23834dc68b028ca8a0">
@@ -14377,6 +14583,46 @@ Interactivity: Enables users to explore data dynamically through features like f
 Real-time processing: Support live data updates, ensuring that users can make informed decisions based on the most current information.&#xD;
 Customization and personalization - Allow users to design and share tailored reports, dashboards, and visualizations to meet specific departmental needs. Custom themes, user-defined metrics, and configurable widgets improve adaptability.&#xD;
 Seamless integration: Some tools connect effortlessly with databases, cloud storage, spreadsheets for streamlined data retrieval and visualization.</documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="AI Overview: Data-Related Clauses For Contracts" id="id-b2f49342702c42bea4d8e6b854d0d381">
+      <documentation>When contracting with a cloud service provider, you should consider clauses related to data ownership, ensuring you retain full rights to your data, and data security, which should detail the provider's security measures like encryption and access controls. Other critical clauses include data access and usage (clarifying the provider's use of your data), data portability (ability to move data upon termination), disaster recovery, service level agreements (SLA) and performance metrics, and termination procedures that ensure secure data deletion. &#xD;
+Data ownership and access&#xD;
+Ownership: The contract must clearly state that you own the data and have immediate access to it.&#xD;
+Provider access: Specify that the provider can only access or use your data as necessary to provide the service. Prohibit the provider from using your data for their own purposes without explicit permission.&#xD;
+Aggregate/de-identified data: Understand the terms around the provider using de-identified or aggregated data. While this can be valuable, ensure true anonymization and no mechanism to re-identify your data. &#xD;
+Security and compliance&#xD;
+Security measures: The agreement should specify security protocols, including encryption, access controls, and compliance with relevant regulations.&#xD;
+Third-party subcontractors: Include clauses that address how the provider handles subcontractors and whether your data will be transferred or accessed by them.&#xD;
+Security breaches: Define notification obligations in the event of a breach and the provider's responsibilities.&#xD;
+Auditing: Clauses should allow for your organization to audit the provider's processes and security measures. &#xD;
+Service and termination&#xD;
+Service Level Agreement (SLA): Clearly define performance metrics like uptime, performance, and support response times, including penalties for failure to meet these standards.&#xD;
+Data portability: Ensure the contract allows you to take your data to a new provider upon termination without charge.&#xD;
+Termination: The contract should include a clear process for terminating the agreement and specify that the provider must securely delete your data within a reasonable and specified timeframe.&#xD;
+Disaster recovery: Include details about the provider's disaster recovery and business continuity plans. &#xD;
+&#xD;
+Recommended cyber security contract clauses for cloud services (ITSM.50.104)&#xD;
+October 2024 | Management series | ITSM.50.104&#xD;
+https://www.cyber.gc.ca/en/guidance/recommended-cyber-security-contract-clauses-cloud-services-itsm50104&#xD;
+&#xD;
+SaaS Agreements: Key Contractual Provisions&#xD;
+Henry Ward Classen | Nov 15, 2021 34 min read&#xD;
+https://www.americanbar.org/groups/business_law/resources/business-law-today/2021-november/saas-agreements-key-contractual-provisions/</documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="Data Ownership and Access" id="id-5e1ba820ef504236a0236ab740bac212"/>
+    <element xsi:type="archimate:Grouping" name="Security and Compliance" id="id-fb4516ab60ca45359021efde3a554463">
+      <documentation>Security and compliance&#xD;
+Security measures: The agreement should specify security protocols, including encryption, access controls, and compliance with relevant regulations.&#xD;
+Third-party subcontractors: Include clauses that address how the provider handles subcontractors and whether your data will be transferred or accessed by them.&#xD;
+Security breaches: Define notification obligations in the event of a breach and the provider's responsibilities.&#xD;
+Auditing: Clauses should allow for your organization to audit the provider's processes and security measures. </documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="Service and Termination" id="id-ccedc475c3484920995fac15cdd7a310">
+      <documentation>Service and termination&#xD;
+Service Level Agreement (SLA): Clearly define performance metrics like uptime, performance, and support response times, including penalties for failure to meet these standards.&#xD;
+Data portability: Ensure the contract allows you to take your data to a new provider upon termination without charge.&#xD;
+Termination: The contract should include a clear process for terminating the agreement and specify that the provider must securely delete your data within a reasonable and specified timeframe.&#xD;
+Disaster recovery: Include details about the provider's disaster recovery and business continuity plans. </documentation>
     </element>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
@@ -16578,6 +16824,26 @@ building a new solution.</documentation>
     <element xsi:type="archimate:CompositionRelationship" id="id-195af9ff92174471b24038652514630e" source="id-8e6c6e48e41d42db93f8a3b70cca807d" target="id-7cc7e9de34454444abfae95f94300dec"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-1179533570784a899abdfc4c1ab5a60a" source="id-8e6c6e48e41d42db93f8a3b70cca807d" target="id-b1e126071fa947e482507cf674b8c9c4"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-c9a073278cb5442283ffbff3a2f6b90d" source="id-8e6c6e48e41d42db93f8a3b70cca807d" target="id-9f8e4e133bac4bf0a80b120bccf3b522"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-c11b1168e71341e29dbdf16c659031cd" source="id-049f661c8900476cacff55d312c15ee4" target="id-26a49e8c021241c981e1842c09af202d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-42c74547007b43f59ab6c0b36d704b7f" source="id-5e1ba820ef504236a0236ab740bac212" target="id-37fc62d59d084a1a8423bd668d627598"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d7a6ed4906014019ac8134fd3ff5bf2e" source="id-5e1ba820ef504236a0236ab740bac212" target="id-40f25888719c443293a88aceff24b7b5"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2e7ee92e14a04f518e5294587556959e" source="id-5e1ba820ef504236a0236ab740bac212" target="id-b93c911b9f4b48c3a96dcd50b730d9b9"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7fc8ad61edaa4a3a81f8f3627f84b262" source="id-fb4516ab60ca45359021efde3a554463" target="id-ed4bc30316bf4f48bb15eae85292f134"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-0202f88c1425409a947170e42d2bcebd" source="id-fb4516ab60ca45359021efde3a554463" target="id-43c4141eeffe498eb06698f18cdbe734"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-72ff71440d9941d38302686472321ecd" source="id-fb4516ab60ca45359021efde3a554463" target="id-7ba47f42408f4e2a956f75281f18ab02"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d6aedfa1e74d488593135fbea5e9956e" source="id-fb4516ab60ca45359021efde3a554463" target="id-e8118e04dabd4e55a730bb0fca3d438e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-80e7adbdcd5d46f7b156431c42cb0608" source="id-ccedc475c3484920995fac15cdd7a310" target="id-9b10d7902f644732bf6c050c22b71efc"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b1c2139260cc4707b7c056023587ba0a" source="id-ccedc475c3484920995fac15cdd7a310" target="id-77b934e67d224798afb50224eb2608c8"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-183d0bf2af044c4982e9e3bd449a4d04" source="id-ccedc475c3484920995fac15cdd7a310" target="id-a16a0d9d91cd495d9c12dcd9398d0ba8"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8a8344edd25e45e48a78e95fb82f24a8" source="id-ccedc475c3484920995fac15cdd7a310" target="id-fabff19c433240b8a290b78d736bc599"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-26ffb83e1cf54c70849db11c30f80089" source="id-b2f49342702c42bea4d8e6b854d0d381" target="id-5e1ba820ef504236a0236ab740bac212"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d444fb42acd84f55b2c32bb2e94e96b9" source="id-b2f49342702c42bea4d8e6b854d0d381" target="id-fb4516ab60ca45359021efde3a554463"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-271bd1a051de4ce9ae008df32862446a" source="id-b2f49342702c42bea4d8e6b854d0d381" target="id-ccedc475c3484920995fac15cdd7a310"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b42d3f5e0d42418cab34088a6b959e99" source="id-20b72df935ec40dabe3d8042af8d1a67" target="id-88ba1875c1b14e49b748364d8bdcb9ec"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b0aec2ef1aca405f82f9b99d6a63427c" source="id-20b72df935ec40dabe3d8042af8d1a67" target="id-677baa31843e4095accc256acaf2d925"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6bd2e26e6ab74b74b03586d368e160a4" source="id-20b72df935ec40dabe3d8042af8d1a67" target="id-61229e6f8bac47068ba0bc99af723f04"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-acbe665e2ac14b26aed60baf912e6edd" source="id-20b72df935ec40dabe3d8042af8d1a67" target="id-c2c791d4520b4f1e83db37da24478cf2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5958d974ea384e17819f3e70b3a0113a" source="id-20b72df935ec40dabe3d8042af8d1a67" target="id-b26f1c2c24ea4660a517f77c8b3ef42c"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -22051,7 +22317,7 @@ Data Governance&#xD;
         <child xsi:type="archimate:DiagramObject" id="id-fcec755d089c4a68aa880a10a8effed8" archimateElement="id-d59df4bd009c4c6ca4f3173af59bf2c4">
           <bounds x="612" y="125" width="145" height="68"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-e03949e704c74ce09d399a6a619b71b1" archimateElement="id-26a49e8c021241c981e1842c09af202d">
+        <child xsi:type="archimate:DiagramObject" id="id-e03949e704c74ce09d399a6a619b71b1" targetConnections="id-af2f9432574c4928aeeb6e42d4e60bed" archimateElement="id-26a49e8c021241c981e1842c09af202d">
           <bounds x="792" y="25" width="462" height="109"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-43fef4952c3a459fa358484925f65b6c" source="id-e03949e704c74ce09d399a6a619b71b1" target="id-b2837008b9c4477bafe5abfac73b62a3" archimateRelationship="id-362fb2881dcd4cc1834ed4f6da3f6ea7"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-1b3a78583b1840dca6bab0ccda7368ce" source="id-e03949e704c74ce09d399a6a619b71b1" target="id-4a3866c254954b79927b76ed29c3b319" archimateRelationship="id-e86e9572f6b443eeb956cd1e28d788af"/>
@@ -22068,6 +22334,7 @@ Data Governance&#xD;
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-cdcf810ae8e943eea1a4d0cc1d1b322f" archimateElement="id-049f661c8900476cacff55d312c15ee4">
           <bounds x="1273" y="45" width="156" height="81"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-af2f9432574c4928aeeb6e42d4e60bed" source="id-cdcf810ae8e943eea1a4d0cc1d1b322f" target="id-e03949e704c74ce09d399a6a619b71b1" archimateRelationship="id-c11b1168e71341e29dbdf16c659031cd"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-82499af083354c2e830fb6bb5260b3ca" archimateElement="id-15bce36dae664e0fae4c1416fc551fdf">
           <bounds x="792" y="156" width="493" height="109"/>
@@ -22331,6 +22598,120 @@ Data Governance&#xD;
           </child>
         </child>
         <documentation>https://iservice.prv/eng/imit/ims/clients/tools_and_resources/data-visualization-guide.shtml</documentation>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="ESDC-CDOB Data Related Contract Clauses" id="id-b27e143232dd4d528d16d4aadb0c36b1">
+        <child xsi:type="archimate:Note" id="id-ae127412964f4f75b87cea099f84c185" font="1|Segoe UI|16.2|1|WINDOWS|1|-27|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1">
+          <bounds x="15" y="13" width="602" height="96"/>
+          <content>Data Requirements Clauses&#xD;
+For RFI / RFP / Contracts&#xD;
+</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-99422a71bab8499393e712eca5de71ea" textPosition="1">
+          <bounds x="526" y="82" width="91" height="27"/>
+          <content>v0.1.20251028</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-c730d723a2ec4f8bb2301c01c842c9c8" textAlignment="1" archimateElement="id-b2f49342702c42bea4d8e6b854d0d381">
+          <bounds x="24" y="132" width="589" height="325"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e7bf1cb5d95f48ff8f758116066f0cf0" source="id-c730d723a2ec4f8bb2301c01c842c9c8" target="id-0aa20e42b2994342a5bf9bde74e9968d" archimateRelationship="id-26ffb83e1cf54c70849db11c30f80089"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f5824b74c34a41e1ac41105494d65455" source="id-c730d723a2ec4f8bb2301c01c842c9c8" target="id-9247b98326bc41af883543fed242a69b" archimateRelationship="id-d444fb42acd84f55b2c32bb2e94e96b9"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-22b70cd661fa4a82a7bf917176ce5b9b" source="id-c730d723a2ec4f8bb2301c01c842c9c8" target="id-4bd6fb19adc047beb7045e39b57ed48d" archimateRelationship="id-271bd1a051de4ce9ae008df32862446a"/>
+          <child xsi:type="archimate:DiagramObject" id="id-0aa20e42b2994342a5bf9bde74e9968d" targetConnections="id-e7bf1cb5d95f48ff8f758116066f0cf0" textAlignment="1" archimateElement="id-5e1ba820ef504236a0236ab740bac212">
+            <bounds x="12" y="24" width="181" height="241"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-81412415d4e54caf92e4dc3997375ddc" source="id-0aa20e42b2994342a5bf9bde74e9968d" target="id-e6cceebeda1d4b5eb1397a8c652f2ff2" archimateRelationship="id-42c74547007b43f59ab6c0b36d704b7f"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-efb45e98619f428fb892956aa5605357" source="id-0aa20e42b2994342a5bf9bde74e9968d" target="id-d0e2c7d31e6f41f6aec397ab4ab24946" archimateRelationship="id-d7a6ed4906014019ac8134fd3ff5bf2e"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-9ea49f74cd6f4f6dab1b823c07b609e3" source="id-0aa20e42b2994342a5bf9bde74e9968d" target="id-4df22f3e96a243a2987145045fed033b" archimateRelationship="id-2e7ee92e14a04f518e5294587556959e"/>
+            <child xsi:type="archimate:DiagramObject" id="id-e6cceebeda1d4b5eb1397a8c652f2ff2" targetConnections="id-81412415d4e54caf92e4dc3997375ddc" fontColor="#ffffff" fillColor="#8000ff" archimateElement="id-37fc62d59d084a1a8423bd668d627598">
+              <bounds x="24" y="36" width="133" height="55"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-d0e2c7d31e6f41f6aec397ab4ab24946" targetConnections="id-efb45e98619f428fb892956aa5605357" fontColor="#ffffff" fillColor="#8000ff" archimateElement="id-40f25888719c443293a88aceff24b7b5">
+              <bounds x="24" y="97" width="133" height="55"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-4df22f3e96a243a2987145045fed033b" targetConnections="id-9ea49f74cd6f4f6dab1b823c07b609e3" fontColor="#ffffff" fillColor="#8000ff" archimateElement="id-b93c911b9f4b48c3a96dcd50b730d9b9">
+              <bounds x="24" y="160" width="133" height="55"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9247b98326bc41af883543fed242a69b" targetConnections="id-f5824b74c34a41e1ac41105494d65455" textAlignment="1" archimateElement="id-fb4516ab60ca45359021efde3a554463">
+            <bounds x="204" y="24" width="181" height="289"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-7a0cb256109d44df828e1cf9953da66b" source="id-9247b98326bc41af883543fed242a69b" target="id-7cb01df37d7246de8c258ce69fb02bf5" archimateRelationship="id-7fc8ad61edaa4a3a81f8f3627f84b262"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-68f633e1680342cb95fd96c5dcd8f952" source="id-9247b98326bc41af883543fed242a69b" target="id-a3ec0668e823468e8290b45a95e5a907" archimateRelationship="id-0202f88c1425409a947170e42d2bcebd"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-eb0e60d1d43447268809ae476a94a97d" source="id-9247b98326bc41af883543fed242a69b" target="id-a16c5eba035f4e63a6cd5d79f843ff7c" archimateRelationship="id-72ff71440d9941d38302686472321ecd"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-66dcfa08a49843b2bf7c23bf2f598184" source="id-9247b98326bc41af883543fed242a69b" target="id-f452f36f7a1a4d5c8ba977eb2c90ddf8" archimateRelationship="id-d6aedfa1e74d488593135fbea5e9956e"/>
+            <child xsi:type="archimate:DiagramObject" id="id-7cb01df37d7246de8c258ce69fb02bf5" targetConnections="id-7a0cb256109d44df828e1cf9953da66b" archimateElement="id-ed4bc30316bf4f48bb15eae85292f134">
+              <bounds x="24" y="36" width="133" height="55"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-a3ec0668e823468e8290b45a95e5a907" targetConnections="id-68f633e1680342cb95fd96c5dcd8f952" archimateElement="id-43c4141eeffe498eb06698f18cdbe734">
+              <bounds x="24" y="156" width="133" height="55"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-a16c5eba035f4e63a6cd5d79f843ff7c" targetConnections="id-eb0e60d1d43447268809ae476a94a97d" archimateElement="id-7ba47f42408f4e2a956f75281f18ab02">
+              <bounds x="24" y="216" width="133" height="55"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-f452f36f7a1a4d5c8ba977eb2c90ddf8" targetConnections="id-66dcfa08a49843b2bf7c23bf2f598184" archimateElement="id-e8118e04dabd4e55a730bb0fca3d438e">
+              <bounds x="24" y="96" width="133" height="55"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-4bd6fb19adc047beb7045e39b57ed48d" targetConnections="id-22b70cd661fa4a82a7bf917176ce5b9b" textAlignment="1" archimateElement="id-ccedc475c3484920995fac15cdd7a310">
+            <bounds x="396" y="24" width="181" height="289"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-a8db3778ea514db1b527905a90f08729" source="id-4bd6fb19adc047beb7045e39b57ed48d" target="id-f95a16aeb0184ee1af99cbf7a56055fe" archimateRelationship="id-80e7adbdcd5d46f7b156431c42cb0608"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-08147ad2b51a4dd9af7621261b941d0a" source="id-4bd6fb19adc047beb7045e39b57ed48d" target="id-097029d5f79a4c7d878b6ace927d683f" archimateRelationship="id-b1c2139260cc4707b7c056023587ba0a"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-c444794921f244b08289d8f77bbd0793" source="id-4bd6fb19adc047beb7045e39b57ed48d" target="id-d546159ffd7b438c81512aa5430dcd91" archimateRelationship="id-183d0bf2af044c4982e9e3bd449a4d04"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-19ad04910bf3475386b5a43eb81d72de" source="id-4bd6fb19adc047beb7045e39b57ed48d" target="id-35db724c08c5444b80e3ed94bc942859" archimateRelationship="id-8a8344edd25e45e48a78e95fb82f24a8"/>
+            <child xsi:type="archimate:DiagramObject" id="id-f95a16aeb0184ee1af99cbf7a56055fe" targetConnections="id-a8db3778ea514db1b527905a90f08729" archimateElement="id-9b10d7902f644732bf6c050c22b71efc">
+              <bounds x="24" y="216" width="133" height="55"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-097029d5f79a4c7d878b6ace927d683f" targetConnections="id-08147ad2b51a4dd9af7621261b941d0a" archimateElement="id-77b934e67d224798afb50224eb2608c8">
+              <bounds x="24" y="36" width="133" height="55"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-d546159ffd7b438c81512aa5430dcd91" targetConnections="id-c444794921f244b08289d8f77bbd0793" archimateElement="id-a16a0d9d91cd495d9c12dcd9398d0ba8">
+              <bounds x="24" y="156" width="133" height="55"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-35db724c08c5444b80e3ed94bc942859" targetConnections="id-19ad04910bf3475386b5a43eb81d72de" fontColor="#ffffff" fillColor="#8000ff" archimateElement="id-fabff19c433240b8a290b78d736bc599">
+              <bounds x="24" y="96" width="133" height="55"/>
+              <feature name="lineAlpha" value="225"/>
+            </child>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1006eb6be29045de80a15c0f17b4ee2b" archimateElement="id-32fb2fb7e13b4ae9af3201b7d66a3b55">
+          <bounds x="252" y="468" width="133" height="71"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-2af857921d384f25ac8b90f4bdc7a1f5" fontColor="#ffffff" fillColor="#8000ff" archimateElement="id-20b72df935ec40dabe3d8042af8d1a67">
+          <bounds x="631" y="204" width="325" height="231"/>
+          <feature name="lineAlpha" value="235"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-856a50310ee243619dc888af3e5beade" source="id-2af857921d384f25ac8b90f4bdc7a1f5" target="id-370237c696904399b7be45470e996405" archimateRelationship="id-b42d3f5e0d42418cab34088a6b959e99"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8a8356438b6841f68657bc65278cc63f" source="id-2af857921d384f25ac8b90f4bdc7a1f5" target="id-b18943788c9b4e6f8afbe15c18cd6f97" archimateRelationship="id-b0aec2ef1aca405f82f9b99d6a63427c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-54bb7cd5344b4a38a39232ced7235e15" source="id-2af857921d384f25ac8b90f4bdc7a1f5" target="id-96755252d1464943a973da459a3c9886" archimateRelationship="id-6bd2e26e6ab74b74b03586d368e160a4"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-26d1912e29f741778615bca0aa1bf799" source="id-2af857921d384f25ac8b90f4bdc7a1f5" target="id-95161a2dc5f7421393bc4a173cf7292c" archimateRelationship="id-acbe665e2ac14b26aed60baf912e6edd"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d4cd00e606ed41488f1d99d63fc8a6c7" source="id-2af857921d384f25ac8b90f4bdc7a1f5" target="id-cd152d07cd6f481aae7b94ca8e33907d" archimateRelationship="id-5958d974ea384e17819f3e70b3a0113a"/>
+          <child xsi:type="archimate:DiagramObject" id="id-370237c696904399b7be45470e996405" targetConnections="id-856a50310ee243619dc888af3e5beade" archimateElement="id-88ba1875c1b14e49b748364d8bdcb9ec">
+            <bounds x="24" y="36" width="133" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b18943788c9b4e6f8afbe15c18cd6f97" targetConnections="id-8a8356438b6841f68657bc65278cc63f" archimateElement="id-677baa31843e4095accc256acaf2d925">
+            <bounds x="24" y="96" width="133" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-96755252d1464943a973da459a3c9886" targetConnections="id-54bb7cd5344b4a38a39232ced7235e15" archimateElement="id-61229e6f8bac47068ba0bc99af723f04">
+            <bounds x="168" y="96" width="133" height="73"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-95161a2dc5f7421393bc4a173cf7292c" targetConnections="id-26d1912e29f741778615bca0aa1bf799" archimateElement="id-c2c791d4520b4f1e83db37da24478cf2">
+            <bounds x="168" y="36" width="133" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-cd152d07cd6f481aae7b94ca8e33907d" targetConnections="id-d4cd00e606ed41488f1d99d63fc8a6c7" archimateElement="id-b26f1c2c24ea4660a517f77c8b3ef42c">
+            <bounds x="24" y="156" width="133" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-6a927f14ccb44f0db39eb24e4ed7555b" archimateElement="id-4a35abcb70094168ab141afcecad08c5">
+          <bounds x="631" y="12" width="174" height="85"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-65198070bd634fd7a3defc724346142b" archimateElement="id-0aef08673d004e7b8d79a0f5d4bc9949">
+          <bounds x="816" y="12" width="174" height="85"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-d87d3b3ae20b48df80aaa6be281941b4" archimateElement="id-9c05fbc8204e40ca943a6e08e761aca3">
+          <bounds x="631" y="108" width="174" height="73"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a36864b19c4c404f86f87c7fe209e5ce" archimateElement="id-882ade99b66447f3b6d8ff4908e8c33a">
+          <bounds x="816" y="108" width="174" height="73"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-0806d1b5105c4667be44217aed824f28" archimateElement="id-33e4fbe7569641709fc6592b239e2d79">
+          <bounds x="996" y="12" width="174" height="85"/>
+        </child>
       </element>
     </folder>
     <folder name="GC Language" id="id-43ad03cf472643fb9d735306dc35af0a">
