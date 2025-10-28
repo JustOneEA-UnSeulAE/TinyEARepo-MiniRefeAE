@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Provider Access (Requirement)</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Provider Access (Requirement)</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-Requirement"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-Requirement" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Provider access: Specify that the provider can only access or use your data as necessary to provide the service. Prohibit the provider from using your data for their own purposes without explicit permission.
+
+https://www.americanbar.org/groups/business_law/resources/business-law-today/2021-november/saas-agreements-key-contractual-provisions/
+(iii) Cloud Provider Access and Use of Customer Data
+Cloud providers often seek access to the customer&#8217;s data for many reasons including the cloud provider&#8217;s desire to aggregate and resell the customer&#8217;s data to third parties. Under no circumstances should the cloud provider be able to sell the customer&#8217;s data to a third party even if it has been &#8220;cleansed&#8221; of any identifying information. The cloud provider should be contractually prohibited from accessing or disclosing the customer and customer data. While prudent customers should seek to limit the cloud provider&#8217;s use of their data, the cloud provider should have the ability to collect and analyze usage data to improve the quality of the cloud provider&#8217;s services including as input for its product/services &#8220;roadmap.&#8221; The agreement should clearly state that all customer data, including customer data, is confidential regardless of whether it is displayed or accessible by the cloud provider. Allowing the cloud provider to access customer data may raise antitrust issues as well as limit the customer&#8217;s ability to claim trade secret protection for such data. For a discussion of trade secrets in the cloud see Sandeen, Lost in the Cloud: Information Flows and the Implications of Cloud Computing for Trade Secret Protection, 19 Va. J.L. &amp; Tech. 1 (2014).
+
+The customer should not agree to amorphous language such as the cloud provider will &#8220;comply with industry standards&#8221; or the cloud provider will &#8220;use commercially reasonable efforts to protect the customer&#8217;s confidential information.&#8221; A prudent customer will also seek to prohibit the storage of users&#8217; credentials and passwords by the cloud provider.
+
+Model language favoring the cloud provider:
+
+We routinely collect and analyze metadata regarding your usage of the Cloud Services, excluding any personal data. We may use this information to gauge Cloud Services usage levels and application performance, as well as to create anonymized statistics for our own marketing purposes.
+The following language provides the cloud provider even greater leeway to utilize the customer&#8217;s data.
+
+Vendor may use and reproduce Company Data at the direction of Company (such direction taking the form of the terms of this Agreement and the relevant Schedules) for the limited purposes of providing, operating, and maintaining the Services provided to Company. Company will secure for Vendor the right to use and reproduce Company Data, including any Personal Information therein, solely to the extent necessary to provide the Services to Company, without creating any obligations for Vendor beyond those set forth in this Agreement. Vendor may use usage patterns, trends, and other statistical data derived from use of the Services (but not Company Data itself) for the purposes of providing, operating, maintaining, or improving the Services and any Vendor products and services used to deliver the Services.
+Compare the preceding language to the following language which favors the customer:
+
+Customer grants Vendor a limited, royalty-free, non-exclusive, non-transferable and non-sublicensable license to process the Customer Data only in the United States as instructed by Customer and only to provide the services for Customer&#8217;s benefit so long as Customer uploads or stores Customer Data in the System, subject to all terms and conditions of this Agreement.
+(iv) Data Retention
+Given significant numbers of customers, relatively short contract lengths, and the commoditized nature of cloud computing, many cloud providers retain customer data for very short periods of time. To the extent the customer has specific concerns, it should ensure the underlying agreement allocates not only responsibility for data retention and backup but also the time period in which data will be retained. The period of retention will depend on RTO/RPO&#8217;s, requirement for the retention of metadata and the cost of doing so. RTO and RPO are common terms used to measure &#8220;Recovery Time Objectives&#8221; or how long it will take to recover data and resume using an application that has gone down. &#8220;Recovery Point Objectives&#8221; speaks to data freshness at the time of recovery. Sometimes, companies can recover data that is a week old meaning all the data from the current week would be lost. For mission critical applications, RPOs of less than one hour are standard.
+
+Another issue for consideration is litigation holds for litigation, including the ability of the cloud provider to retain metadata. A prudent customer will contractually provide how it will notify the cloud provider of any litigation hold and how the cloud provider will preserve the relevant data. The failure to do so may lead to discovery sanctions on the customer in the event of any litigation.
+
+Further, to the extent a cloud provider is required to destroy or retain the customer&#8217;s data, the parties should realize that it is virtually impossible to destroy all data as customers&#8217; data will be inevitably retained in backup tapes and the memory of the servers. As a result, some negotiated transactions include provisions for ongoing but secure storage by the former cloud provider of former customer data for specified, tax, quality control, or other purposes.</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr id="used-in-views-id-b27e143232dd4d528d16d4aadb0c36b1">
+																	<td><a href="../views/id-b27e143232dd4d528d16d4aadb0c36b1.html" target="view" title="ESDC-CDOB Data Related Contract Clauses"> ESDC-CDOB Data Related Contract Clauses </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+											<td><a href="../elements/id-d7a6ed4906014019ac8134fd3ff5bf2e.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-CompositionRelationship" /></td>
+											<td><a href="../elements/id-5e1ba820ef504236a0236ab740bac212.html" target="element"> Data Ownership and Access</a></td>
+											<td><a href="../elements/id-40f25888719c443293a88aceff24b7b5.html" target="element"> Provider Access (Requirement)</a></td>
+										</tr>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
