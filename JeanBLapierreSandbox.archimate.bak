@@ -5854,6 +5854,8 @@ Maintain tools and resources</documentation>
     <element xsi:type="archimate:BusinessRole" name="TBS [Steward]" id="id-f448fef7fcc8499f8d3c911479495180"/>
     <element xsi:type="archimate:BusinessRole" name=" [Steward]" id="id-ddf0f1f8c0ba4edd84895fe64b0978ae"/>
     <element xsi:type="archimate:BusinessRole" name=" [Steward]" id="id-d4678535d8a94446a10948ca31bb23ea"/>
+    <element xsi:type="archimate:BusinessFunction" name="Chair ESDC-CDOB Enterprise Data Architecture Community of Practice (Business Function)" id="id-fe4314e7dfc04b62bef098eeb5b2057d"/>
+    <element xsi:type="archimate:BusinessRole" name="Chair, ESDC-CDOB Enterprise Data Architecture CoP (Business Role)" id="id-16f5d57f169f4c049226846508b2d953"/>
   </folder>
   <folder name="Application" id="id-4c073bc2342b490eae44200c8635c571" type="application">
     <element xsi:type="archimate:ApplicationService" name="GCcollab File Sharing (Application Service)" id="id-04a7463bf90b4892a9691959fc467461">
@@ -17362,6 +17364,7 @@ building a new solution.</documentation>
     <element xsi:type="archimate:CompositionRelationship" id="id-26b75511456440c59e1b6b9d6f9f308f" source="id-e5bb2f36ba39455da79de6909094ece2" target="id-c9ff0258e2314eb78e684e0684d813f2"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-9fcdda45c01c4b36a31bc2b973f472c6" source="id-37e164fc39a1450087ef90e23266106d" target="id-0a759b4d0f1f44e8957b6f1a7b7c99cd"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-feb5a532995b4c0987e09598f76a1971" source="id-37e164fc39a1450087ef90e23266106d" target="id-47a0e62b09024b5db9fbf2454f002e46"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-162dadb7423e4726b06719b139f37e77" source="id-6c8a5b4086684e64bdca9398ab0e5b21" target="id-16f5d57f169f4c049226846508b2d953"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -25085,6 +25088,7 @@ Enterprise Data Architect Role&#xD;
           <bounds x="1126" y="395" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-d575d6d31bca499b88cb23a0b124fd05" source="id-651aa81f72574f24bfa71a3bc4585fd9" target="id-79cea3b8dd2d41ef9a3cfd979d3312e3" archimateRelationship="id-647dc5a8b2ab4017ab0254942dcdae76"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-71f22a0eff554e9d94f628b460fab01c" source="id-651aa81f72574f24bfa71a3bc4585fd9" target="id-3d7940cb4a66466b992ffa64cca112eb" archimateRelationship="id-7b7d11e3c85245d78ed6b2c186055334"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e3e17df1210843f9a2856459f71dfff7" source="id-651aa81f72574f24bfa71a3bc4585fd9" target="id-5452f3bdd0e44921b16c6c009b578c7a" archimateRelationship="id-162dadb7423e4726b06719b139f37e77"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-e6c6dcc21f2840c2a92a9c090890a984" archimateElement="id-0834804a218a458ea7dcf18f548855bc">
           <bounds x="700" y="396" width="193" height="53"/>
@@ -25108,6 +25112,12 @@ Enterprise Data Architect Role&#xD;
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-14c7ced6887a436fa4ffe815ee05c240" archimateElement="id-667daff7c70a435b9052f1f9db3f026a">
           <bounds x="72" y="319" width="133" height="90"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-2d620e729f364a048e2955a77c9e48c7" archimateElement="id-fe4314e7dfc04b62bef098eeb5b2057d">
+          <bounds x="1284" y="360" width="193" height="75"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-5452f3bdd0e44921b16c6c009b578c7a" targetConnections="id-e3e17df1210843f9a2856459f71dfff7" archimateElement="id-16f5d57f169f4c049226846508b2d953">
+          <bounds x="1258" y="276" width="156" height="55"/>
         </child>
         <documentation>&lt;CIO Standards for IT-04 Position in Large EA Team></documentation>
       </element>
@@ -31016,8 +31026,7 @@ Bill C-27: Digital Charter Implementation Act, 2022</content>
         </child>
         <documentation>https://ised-isde.canada.ca/site/innovation-better-canada/en/canadas-digital-charter-trust-digital-world&#xD;
 https://ised-isde.canada.ca/site/innover-meilleur-canada/fr/charte-canadienne-numerique-confiance-dans-monde-numerique&#xD;
-&#xD;
-</documentation>
+From: Innovation, Science and Economic Development Canada</documentation>
       </element>
     </folder>
     <folder name="Open Standards" id="id-9a5f5b0aab5846b68706de66461d4024">
