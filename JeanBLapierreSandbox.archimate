@@ -2962,6 +2962,7 @@ https://ised-isde.canada.ca/site/innovation-better-canada/en/canadas-digital-cha
       <documentation>Artificial Intelligence and Data Act&#xD;
 https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act</documentation>
     </element>
+    <element xsi:type="archimate:Resource" name="PowerPoint Deck - Operational Data Platform DAB [Resource]" id="id-a45826fdf9e648288a3ab0ddba72a9af"/>
   </folder>
   <folder name="Business" id="id-fb9c94c240434273aa6d6f5df1a73407" type="business">
     <element xsi:type="archimate:BusinessEvent" name="EA Requests SAS Feedback" id="id-a7ebf3b84a7545f6a5b2e8eaca445cb6"/>
@@ -5854,6 +5855,8 @@ Maintain tools and resources</documentation>
     <element xsi:type="archimate:BusinessRole" name="TBS [Steward]" id="id-f448fef7fcc8499f8d3c911479495180"/>
     <element xsi:type="archimate:BusinessRole" name=" [Steward]" id="id-ddf0f1f8c0ba4edd84895fe64b0978ae"/>
     <element xsi:type="archimate:BusinessRole" name=" [Steward]" id="id-d4678535d8a94446a10948ca31bb23ea"/>
+    <element xsi:type="archimate:BusinessFunction" name="Chair ESDC-CDOB Enterprise Data Architecture Community of Practice (Business Function)" id="id-fe4314e7dfc04b62bef098eeb5b2057d"/>
+    <element xsi:type="archimate:BusinessRole" name="Chair, ESDC-CDOB Enterprise Data Architecture CoP (Business Role)" id="id-16f5d57f169f4c049226846508b2d953"/>
   </folder>
   <folder name="Application" id="id-4c073bc2342b490eae44200c8635c571" type="application">
     <element xsi:type="archimate:ApplicationService" name="GCcollab File Sharing (Application Service)" id="id-04a7463bf90b4892a9691959fc467461">
@@ -13521,6 +13524,36 @@ Canada's Digital Charter (https://ised-isde.canada.ca/site/innovation-better-can
     <element xsi:type="archimate:Value" name="Trust in a digital world (Value)" id="id-bda97c9ae8574e748dcb728c01637e30">
       <documentation>In this digital world, Canadians must be able to trust that their privacy is protected, that their data will not be misused, and that companies operating in this space communicate in a simple and straightforward manner with their users. This trust is the foundation on which our digital and data-driven economy will be built. The 10 principles of the Charter will help guide the federal government's work to help address challenges and leverage Canada's unique talents and strengths in order to harness the power of digital and data transformation.</documentation>
     </element>
+    <element xsi:type="archimate:Driver" name="One Vision - Guided by ESDC and BDM data principles, enabling seamless benefits delivery by treating data as a shared, protected asset - driving responsive services, organizational agility, and a culture of stewardship and collaboration to improve outcomes for all Canadians [Driver]" id="id-826a54d573a14c09958e6b06523a9ef8">
+      <documentation>One Vision - Guided by ESDC and BDM data principles, enabling seamless benefits delivery by treating data as a shared, protected asset - driving responsive services, organizational agility, and a culture of stewardship and collaboration to improve outcomes for all Canadians</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="1. Enable and accelerate data-driven decision-making with real-time and historical analytics, to drive continuous service improvement across BDM programs [Goal]" id="id-bb9e9259e60740ca8d5f04e9914953bb">
+      <documentation>1. Enable and accelerate data-driven decision-making with real-time and historical analytics, to drive continuous service improvement across BDM programs</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="2. Safeguard and manage the data in a way that ensures that personal and corporate information remains secure and clients' rights to privacy are respected [Goal]" id="id-de9c46f398694794a0da45957535c3ac">
+      <documentation>2. Safeguard and manage the data in a way that ensures that personal and corporate information remains secure and clients' rights to privacy are respected</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="1.1 Integrate data across programs to be able to offer new or improved services such as “Tell Us Once” [Outcome]" id="id-2d45675c22554df49d4021f8d2d378c2">
+      <documentation>1.1  Integrate data across programs to be able to offer new or improved services such as “Tell Us Once”.</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="1.2 Apply Machine Learning to assess risk and predict errors and fraud [Outcome]" id="id-e25a3bf8cfaa48e48100411bb165e385">
+      <documentation>1.2  Apply Machine Learning to assess risk and predict errors and fraud.</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="1.3 Use Artificial Intelligence to help employees and clients find information and complete required tasks [Outcome]" id="id-9d9d15e60f594bb1a32cbb2de0ada8dc">
+      <documentation>1.3  Use Artificial Intelligence to help employees and clients find information and complete required tasks.</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="2.1 Protect personal data by keeping it in operational systems and platforms; de-personalize data before transferring it to analytics environments [Outcome]" id="id-06973d32b4c5407f808ed78c89b60346">
+      <documentation>2.1  Protect personal data by keeping it in operational systems and platforms; de-personalize data before transferring it to analytics environments.</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="2.3 Reduce the time required to access data, add new sources, build pipelines, and generate insights [Outcome]" id="id-6658991015df4ad0a553155b4766f1f5">
+      <documentation>2.3  Reduce the time required to access data, add new sources, build pipelines, and generate insights.</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="1.4 Generate reports and dashboards efficiently using accurate, high-quality, and reliable data [Outcome]" id="id-1d85493278834c1293cc73812eda6865">
+      <documentation>1.4  Generate reports and dashboards efficiently using accurate, high-quality, and reliable data.</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="2.2 Offer consent-based services that let clients choose between protecting individual privacy and having access to convenient or shared services [Outcome]" id="id-ee3ab5c0920c490e9e0d7f17ad0d64ae">
+      <documentation>2.2  Offer consent-based services that let clients choose between protecting individual privacy and having access to convenient or shared services.</documentation>
+    </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Plateau" name="3rd Annual 2022 Digital Transformation in Government Conference (Plateau)" id="id-50a58ac56ba54b23834dc68b028ca8a0">
@@ -17362,6 +17395,7 @@ building a new solution.</documentation>
     <element xsi:type="archimate:CompositionRelationship" id="id-26b75511456440c59e1b6b9d6f9f308f" source="id-e5bb2f36ba39455da79de6909094ece2" target="id-c9ff0258e2314eb78e684e0684d813f2"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-9fcdda45c01c4b36a31bc2b973f472c6" source="id-37e164fc39a1450087ef90e23266106d" target="id-0a759b4d0f1f44e8957b6f1a7b7c99cd"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-feb5a532995b4c0987e09598f76a1971" source="id-37e164fc39a1450087ef90e23266106d" target="id-47a0e62b09024b5db9fbf2454f002e46"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-162dadb7423e4726b06719b139f37e77" source="id-6c8a5b4086684e64bdca9398ab0e5b21" target="id-16f5d57f169f4c049226846508b2d953"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -25085,6 +25119,7 @@ Enterprise Data Architect Role&#xD;
           <bounds x="1126" y="395" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-d575d6d31bca499b88cb23a0b124fd05" source="id-651aa81f72574f24bfa71a3bc4585fd9" target="id-79cea3b8dd2d41ef9a3cfd979d3312e3" archimateRelationship="id-647dc5a8b2ab4017ab0254942dcdae76"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-71f22a0eff554e9d94f628b460fab01c" source="id-651aa81f72574f24bfa71a3bc4585fd9" target="id-3d7940cb4a66466b992ffa64cca112eb" archimateRelationship="id-7b7d11e3c85245d78ed6b2c186055334"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e3e17df1210843f9a2856459f71dfff7" source="id-651aa81f72574f24bfa71a3bc4585fd9" target="id-5452f3bdd0e44921b16c6c009b578c7a" archimateRelationship="id-162dadb7423e4726b06719b139f37e77"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-e6c6dcc21f2840c2a92a9c090890a984" archimateElement="id-0834804a218a458ea7dcf18f548855bc">
           <bounds x="700" y="396" width="193" height="53"/>
@@ -25108,6 +25143,12 @@ Enterprise Data Architect Role&#xD;
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-14c7ced6887a436fa4ffe815ee05c240" archimateElement="id-667daff7c70a435b9052f1f9db3f026a">
           <bounds x="72" y="319" width="133" height="90"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-2d620e729f364a048e2955a77c9e48c7" archimateElement="id-fe4314e7dfc04b62bef098eeb5b2057d">
+          <bounds x="1284" y="360" width="193" height="75"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-5452f3bdd0e44921b16c6c009b578c7a" targetConnections="id-e3e17df1210843f9a2856459f71dfff7" archimateElement="id-16f5d57f169f4c049226846508b2d953">
+          <bounds x="1258" y="276" width="156" height="55"/>
         </child>
         <documentation>&lt;CIO Standards for IT-04 Position in Large EA Team></documentation>
       </element>
@@ -31017,6 +31058,105 @@ Bill C-27: Digital Charter Implementation Act, 2022</content>
         <documentation>https://ised-isde.canada.ca/site/innovation-better-canada/en/canadas-digital-charter-trust-digital-world&#xD;
 https://ised-isde.canada.ca/site/innover-meilleur-canada/fr/charte-canadienne-numerique-confiance-dans-monde-numerique&#xD;
 From: Innovation, Science and Economic Development Canada</documentation>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="BDM Data Strategy" id="id-362ebbb711b541138c3b83dfe3459be7">
+        <child xsi:type="archimate:Note" id="id-969432306aff475ab4708e674abf531c" font="1|Segoe UI|16.2|1|WINDOWS|1|-27|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1">
+          <bounds x="6" y="9" width="456" height="67"/>
+          <content>BDM Data Strategy&#xD;
+Vision, Goals, Objectives, Principles</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-35d4a3c9b2d54daeb3fa50bf06d614f0" textPosition="1">
+          <bounds x="371" y="49" width="91" height="27"/>
+          <content>v0.1.20260127</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-e1ccb7a82e8e4725a30d670058a49947" archimateElement="id-a45826fdf9e648288a3ab0ddba72a9af">
+          <bounds x="503" y="15" width="158" height="70"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3cc1c2a98313468580c8bbb0536777f4" archimateElement="id-826a54d573a14c09958e6b06523a9ef8">
+          <bounds x="12" y="96" width="1004" height="49"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-afc887a231a742818bea5af9193f8deb" archimateElement="id-bb9e9259e60740ca8d5f04e9914953bb">
+          <bounds x="12" y="156" width="571" height="57"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b3ced311bb6f480ea701c4a73b95fa26" archimateElement="id-de9c46f398694794a0da45957535c3ac">
+          <bounds x="588" y="156" width="428" height="57"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-73eb5b0a41f8497b890dfd7e42433265" archimateElement="id-2d45675c22554df49d4021f8d2d378c2">
+          <bounds x="12" y="228" width="139" height="205"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-772a0df1408f45259d7ea601aac23323" archimateElement="id-e25a3bf8cfaa48e48100411bb165e385">
+          <bounds x="156" y="228" width="139" height="205"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-fc1c619dd2f94236aff90770b1f37a9a" archimateElement="id-9d9d15e60f594bb1a32cbb2de0ada8dc">
+          <bounds x="300" y="228" width="139" height="205"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-93a29ba548da4335956541e9107c4ce7" archimateElement="id-06973d32b4c5407f808ed78c89b60346">
+          <bounds x="588" y="228" width="139" height="205"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a1275baea9a648558f1ff4ab60f0139d" archimateElement="id-6658991015df4ad0a553155b4766f1f5">
+          <bounds x="876" y="228" width="139" height="205"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-22a16037166f41ddb2e886720b1ae894" archimateElement="id-1d85493278834c1293cc73812eda6865">
+          <bounds x="444" y="228" width="139" height="205"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-7f5c41c16dbf464592b37c97ab38a696" archimateElement="id-ee3ab5c0920c490e9e0d7f17ad0d64ae">
+          <bounds x="732" y="228" width="139" height="205"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-6d05165452aa411d85d5c9f4ed60a00b" archimateElement="id-631baa3fbf3a4db48024bebf5e637e98">
+          <bounds x="11" y="444" width="1005" height="189"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5bb7f45a1b844e9d9608849759a43522" source="id-6d05165452aa411d85d5c9f4ed60a00b" target="id-eab9412c132e4581be6697fc00f3e908" archimateRelationship="id-903d23c579374686b7781eeecc43c9be"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-76634b553ae04a3598b887e78075822d" source="id-6d05165452aa411d85d5c9f4ed60a00b" target="id-43fa9fb2f22f4f538e7fd1fa2f6b638c" archimateRelationship="id-ca11ba1ed0874d08a95711dbafce97b1"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-457f3270ddf6408188e103c57b8fdfec" source="id-6d05165452aa411d85d5c9f4ed60a00b" target="id-b247f6153c364257802b5cce16361e37" archimateRelationship="id-120bb3e21b6041678a703c1a494a0f74"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4eaecac4dadf46f3a59d9a790c739fc4" source="id-6d05165452aa411d85d5c9f4ed60a00b" target="id-979416987e5b42d1827971661981a528" archimateRelationship="id-dbf6b0f6374a4a29a1c152fc03dba05c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7a0ad9a0051143819fb887f368e338ed" source="id-6d05165452aa411d85d5c9f4ed60a00b" target="id-f4ab196a26ad4427b1e88e0f5e576de0" archimateRelationship="id-848be3b7fa1b4f7a82b2ad1022ef3d56"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9aa5fa0d4c8a420193f588717398c9c4" source="id-6d05165452aa411d85d5c9f4ed60a00b" target="id-323f1b1b2f8f4724955883f9d6898b70" archimateRelationship="id-5c13b61136f54abfb43af22322a76d00"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e77da69b2b1c49da850bd61618d4ca70" source="id-6d05165452aa411d85d5c9f4ed60a00b" target="id-a3f659e758c84570885dd79befd35e5f" archimateRelationship="id-4e333c7295454ec382c0ec4291009e02"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-befb3866f9c847b8b4b9ffd8d1471aee" source="id-6d05165452aa411d85d5c9f4ed60a00b" target="id-d1f8b86018944f92a7422f430aeb1cf5" archimateRelationship="id-95675a09c8c84b76bc0e902cecd2da23"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4ef29b58474a4b7490aa5198151b69d3" source="id-6d05165452aa411d85d5c9f4ed60a00b" target="id-e37cf727148f40d1a4059d94c3e6a839" archimateRelationship="id-439e9798bd844fceb5d48537fc159f76"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f3d298de56ff49e3955e2d9ae60429bb" source="id-6d05165452aa411d85d5c9f4ed60a00b" target="id-629fce92598b45698fba2540cacf9ca9" archimateRelationship="id-f3b1a960746f44e38954575bf57157b3"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-05f61b87de28489caea5684a6dab1fba" source="id-6d05165452aa411d85d5c9f4ed60a00b" target="id-30db9b6664be403b9bd2fc04e0853640" archimateRelationship="id-3f5962f7f3634f7db5437e8c321bd163"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-58c574236d814038909bbee041991b99" source="id-6d05165452aa411d85d5c9f4ed60a00b" target="id-628d81b1939f4d5796a154883e8e04d3" archimateRelationship="id-323d976d882b4a5b8fc2ce0841d457d1"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7e690b831cd140009bb9abfa270909c5" source="id-6d05165452aa411d85d5c9f4ed60a00b" target="id-8fe000ef990b4c2283e188e60a76c4bf" archimateRelationship="id-c89feca5b3b645f498c811b14954763e"/>
+          <child xsi:type="archimate:DiagramObject" id="id-30db9b6664be403b9bd2fc04e0853640" targetConnections="id-05f61b87de28489caea5684a6dab1fba" archimateElement="id-0fa0ee82e5d64af3abc664b8cb33cd29">
+            <bounds x="581" y="111" width="131" height="69"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-629fce92598b45698fba2540cacf9ca9" targetConnections="id-f3d298de56ff49e3955e2d9ae60429bb" archimateElement="id-3c17e200b54c4fafa5443d21fa7d9337">
+            <bounds x="725" y="111" width="131" height="69"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-eab9412c132e4581be6697fc00f3e908" targetConnections="id-5bb7f45a1b844e9d9608849759a43522" archimateElement="id-171f2eee31f5417c88798c5cafd4f4ee">
+            <bounds x="5" y="111" width="131" height="69"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f4ab196a26ad4427b1e88e0f5e576de0" targetConnections="id-7a0ad9a0051143819fb887f368e338ed" archimateElement="id-870ce17294304085b31fa261016a891c">
+            <bounds x="437" y="36" width="131" height="69"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a3f659e758c84570885dd79befd35e5f" targetConnections="id-e77da69b2b1c49da850bd61618d4ca70" archimateElement="id-47d925f719514f3b8d600d680f1cbf75">
+            <bounds x="581" y="36" width="131" height="69"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-323f1b1b2f8f4724955883f9d6898b70" targetConnections="id-9aa5fa0d4c8a420193f588717398c9c4" archimateElement="id-53104a290d9c4564b369e97712919b0a">
+            <bounds x="437" y="111" width="131" height="69"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e37cf727148f40d1a4059d94c3e6a839" targetConnections="id-4ef29b58474a4b7490aa5198151b69d3" archimateElement="id-47727d86fd284861984c3497c4ea1b28">
+            <bounds x="149" y="111" width="131" height="69"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b247f6153c364257802b5cce16361e37" targetConnections="id-457f3270ddf6408188e103c57b8fdfec" archimateElement="id-5500ee1078974acf8d7256f92f88f46a">
+            <bounds x="725" y="36" width="131" height="69"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-628d81b1939f4d5796a154883e8e04d3" targetConnections="id-58c574236d814038909bbee041991b99" archimateElement="id-edd0d42f778541da889461f969809f34">
+            <bounds x="293" y="111" width="131" height="69"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-8fe000ef990b4c2283e188e60a76c4bf" targetConnections="id-7e690b831cd140009bb9abfa270909c5" archimateElement="id-811424cbc9e84b20b4d19102f67504e9">
+            <bounds x="5" y="36" width="131" height="69"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-43fa9fb2f22f4f538e7fd1fa2f6b638c" targetConnections="id-76634b553ae04a3598b887e78075822d" archimateElement="id-dea990383c6841d596eb7c7e828b8519">
+            <bounds x="869" y="36" width="131" height="69"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-979416987e5b42d1827971661981a528" targetConnections="id-4eaecac4dadf46f3a59d9a790c739fc4" archimateElement="id-01d131eb9c324e29bc921918b31798bc">
+            <bounds x="293" y="36" width="131" height="69"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d1f8b86018944f92a7422f430aeb1cf5" targetConnections="id-befb3866f9c847b8b4b9ffd8d1471aee" archimateElement="id-d7a80fb7c2644b21966d089898373aa4">
+            <bounds x="149" y="36" width="131" height="69"/>
+          </child>
+        </child>
       </element>
     </folder>
     <folder name="Open Standards" id="id-9a5f5b0aab5846b68706de66461d4024">
