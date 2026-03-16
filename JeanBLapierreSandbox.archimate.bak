@@ -2973,6 +2973,74 @@ https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intellig
     <element xsi:type="archimate:CourseOfAction" name="Emphasize Ethical Use of Technology Like AI" id="id-b6825eaac298459da1696c1aa42a55f4"/>
     <element xsi:type="archimate:CourseOfAction" name="ESDC Improves on Delivery of Key Services and Benefits" id="id-21a3365729aa4d2fbbbca15ec0ebfdb8"/>
     <element xsi:type="archimate:Resource" name="GC EA Framework (Information) (Resource)" id="id-915ac6e75dea4985897e62f5c31a60c0"/>
+    <element xsi:type="archimate:Resource" name="Business Case Document (Resource)" id="id-095f1e6d1d2d4f19bc9fe44f4001edf2"/>
+    <element xsi:type="archimate:CourseOfAction" name="Core responsibility 1: Social Development" id="id-655ed2584eb84f76b77dac13aa4d5875">
+      <documentation>Core responsibility 1: Social Development&#xD;
+The Foundation for Black Communities (https://forblack.ca/about/) will keep managing the Black-led Philanthropic Endowment Fund (https://www.canada.ca/en/employment-social-development/news/2024/10/second-call-for-proposals-launched-under-the-black-led-philanthropic-endowment-fund.html) to support Black-led, Black-serving, and Black-focused organizations. Funding will be provided for initiatives that meet needs in Black communities, helping to improve job opportunities, food security, health services, and social integration for Black Canadians.&#xD;
+&#xD;
+Our Equitable Access to Reading Program (https://www.canada.ca/en/employment-social-development/programs/equitable-access-reading.html) will continue to fund groups to create print materials in alternate formats to help persons with disabilities. The aim is to produce at least 1,000 new alternate format reading materials per $1 million in funding, resulting in at least 18,000 new products for persons with print disabilities by March 31, 2027.&#xD;
+&#xD;
+We'll keep working with provincial, territorial and Indigenous partners to build and maintain a Canada-wide early learning and child care system. This will provide families in Canada with access to high-quality, affordable, flexible and inclusive Early Learning and Child Care System for their children, while making life more affordable and allowing parents greater opportunities to pursue work or education.&#xD;
+&#xD;
+Gross planned spending: $9,999,000,791&#xD;
+Net planned spending: $9,999,000,791&#xD;
+Planned human resources: 417&#xD;
+&#xD;
+More information about Social Development (https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2026-2027.html#h2.4-1) can be found in the full plan.&#xD;
+&#xD;
+DESCRIPTION&#xD;
+Increase inclusion and opportunities for Canadians to participate in their communities.&#xD;
+&#xD;
+QUALITY OF LIFE IMPACTS&#xD;
+Programs under this core responsibility contribute to the following Quality of Life Framework for Canada domains and indicators:&#xD;
+&#xD;
+Domain - Society (Indicators - Accessible environments, Indigenous languages, Shared Values, Sense of belonging to the local community, Volunteering) through activities that help remove barriers and provide racialized communities, people with disabilities, and other vulnerable groups, such as the elderly and families with children, opportunities to participate in their communities, and support local organizations in addressing the needs of these groups&#xD;
+&#xD;
+Domain - Prosperity (Indicators - Early learning and child care, Making ends meet, Financial well-being, Protection from income shocks) through activities that increase the availability of affordable child care and support Indigenous groups to provide child care, support food security, and reduce poverty&#xD;
+&#xD;
+Domain - Good Governance (Indicator - Confidence in institutions), through activities that focus on the Sustainable Development Goals, innovative projects and research that strengthen the programs of the department and the Government of Canada&#xD;
+&#xD;
+INDICATORS, RESULTS AND TARGETS&#xD;
+This section presents details on the department's indicators, the actual results from the three most recently reported fiscal years, the targets and target dates for Social Development. Details are presented by departmental result.&#xD;
+Table 1: Canadians and communities are empowered to address social issues</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Course of Action" id="id-63609f106eca440a8e15a53e054d24da"/>
+    <element xsi:type="archimate:CourseOfAction" name="1. Canadians and communities are empowered to address social issues [Plan]" id="id-f44a8befcf2c41599b40e351af433fd1">
+      <documentation>Canadians and communities are empowered to address social issues&#xD;
+In 2026-27, the Social Finance Fund (https://www.canada.ca/en/employment-social-development/programs/social-innovation-social-finance/social-finance-fund.html) (part of the Social Innovation and Social Finance Strategy (https://www.canada.ca/en/employment-social-development/programs/social-innovation-social-finance.html)) will continue to help Social Purpose Organizations (SPOs) by disbursing about $60 million to funding recipients to make social finance investments and undertake market-building activities. This funding supports SPOs to create positive social and environmental impacts for Canadians.&#xD;
+&#xD;
+Through the Supporting Black Canadian Communities Initiative (https://www.canada.ca/en/employment-social-development/programs/social-development-partnerships/supporting-black-communities/supporting-black-canadian-communities-initiative.html), funding will continue for Black-led and Black-serving organizations so they can support projects for their communities. This will help eliminate systemic barriers to ensure Black voices are included in decisions that affect their lives.&#xD;
+&#xD;
+This year, we will provide approximately $2 million to the Canadian Institute for People of Afrikan Ancestry, managed by Caribbean African Canadian Social Services. This will allow for community engagement and outreach, research, and policy recommendations. The Institute's main objectives are to combat systemic racism and improve the social and economic well-being of Black communities in Canada.&#xD;
+&#xD;
+The Foundation for Black Communities (https://forblack.ca/about/) will keep managing the Black-led Philanthropic Endowment Fund (https://www.canada.ca/en/employment-social-development/news/2024/10/second-call-for-proposals-launched-under-the-black-led-philanthropic-endowment-fund.html) to support Black-led, Black-serving, and Black-focused organizations. Flexible one-year funding will be provided for initiatives that meet pressing needs in Black communities. Over the next 8 years, this investment will improve job opportunities, food security, health services, and social integration for Black Canadians.&#xD;
+&#xD;
+Volunteer Canada is carrying out a $666,010, four-year project funded through the Social Development Partnerships Program - Children and Families (https://www.canada.ca/en/employment-social-development/programs/social-development-partnerships/children-families.html). The project will help not-for-profit organizations engage with Canadian donors and volunteers by raising awareness, understanding and access to data related to giving and volunteering.&#xD;
+&#xD;
+The New Horizons for Seniors Program (https://www.canada.ca/en/employment-social-development/programs/new-horizons-seniors.html) was highlighted in Budget 2025 as a program that empowers seniors in their communities. Through this program, we'll continue to provide $70 million annually to Community-Based and Pan-Canadian projects that engage seniors in their communities while reducing the detrimental effects of isolation on their well-being.&#xD;
+&#xD;
+We'll continue to lead Canada's implementation of the United Nations (UN) 2030 Agenda for Sustainable Development and the Sustainable Development Goals (SDGs) by publishing Canada's 2026 Annual Report on the 2030 Agenda and SDGs. Additionally, we'll support Canada's participation at the UN High-Level Political Forum on Sustainable Development in July 2026.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="2. Persons with disabilities experience increased community participation, accessibility and social inclusion [Plan]" id="id-27c66676d9ef4583825a0ebde4d6c667">
+      <documentation>Persons with disabilities experience increased community participation, accessibility and social inclusion&#xD;
+&#xD;
+We'll advance the development of digital accessibility regulations under the Accessible Canada Act (ACA) (https://laws-lois.justice.gc.ca/eng/acts/a-0.6/), with a focus on accessibility of digital technologies, including Artificial Intelligence. This will help persons with disabilities get fair access to jobs, programs and services. We will continue to evaluate existing and emerging standards for potential adoption into regulations to support systemic change in priority areas under the ACA. These actions will contribute to a barrier-free Canada, supporting the economic and social inclusion of persons with disabilities.&#xD;
+&#xD;
+Through the Accessible Canada Fund (https://www.canada.ca/en/employment-social-development/programs/accessible-canada.html), we'll support community-led projects that promote the social inclusion and engagement of persons with disabilities in communities and workplaces across Canada, and enable their participation in the implementation of the ACA. This includes funding 19 two-year projects through the National AccessAbility Week (https://www.canada.ca/en/employment-social-development/services/funding/accessible-grants-accessability-week.html) stream to raise awareness and promote accessibility and disability inclusion. We'll also continue to fund up to 6 projects under the Partnerships stream to build skills, capacity and create partnerships within the disability community and other sectors and help grow and sustain these projects beyond federal funding.&#xD;
+&#xD;
+We'll continue engaging Indigenous communities, including by supporting national Indigenous organizations as they engage their communities, to better understand accessibility needs and explore potential aspects of distinctions-based accessibility legislation. This aligns with the Government of Canada's commitment to enhance accessibility for Indigenous persons with disabilities and to further actions under the United Nations Declaration of the Rights of Indigenous Peoples Act Action Plan.&#xD;
+&#xD;
+We plan to release the next version of the Federal Data and Measurement Strategy for Accessibility (2027-2032). This strategy will outline key areas to track progress in removing barriers to accessibility over time.&#xD;
+&#xD;
+Projects funded through the Enhancing Access to Professional Sign Language interpretation initiative will continue until March 31, 2027. These projects will increase the number of individuals entering the interpretation field, boost graduation rates from sign language interpretation programs and enhance the skills of current interpreters.&#xD;
+&#xD;
+Through the Enabling Accessibility Fund (https://www.canada.ca/en/employment-social-development/programs/enabling-accessibility-fund.html), we will continue to fund organizations to increase accessibility for persons with disabilities in communities and workplaces. The aim is to fund 139 projects by the end of the year, supporting organizations to complete projects such as constructing ramps, installing automatic doors, and building accessible playgrounds.&#xD;
+&#xD;
+Through the Equitable Access to Reading Program (https://www.canada.ca/en/employment-social-development/programs/equitable-access-reading.html) we will continue to fund groups to create print materials in alternate formats to help persons with disabilities. The aim is to produce at least 1,000 new alternate format reading materials per $1 million in funding, resulting in at least 18,000 new products for persons with print disabilities by March 31, 2027.&#xD;
+&#xD;
+We'll keep working to reduce barriers to social inclusion through the Disability Benefits Navigation program (DBN) (https://www.canada.ca/en/employment-social-development/programs/social-development-partnerships/disabilities/organizations-benefits.html). We'll continue to fund community organizations to provide services that help people understand and access federal, provincial, and territorial programs for Canadians with disabilities, including the Canada Disability Benefit.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Course of Action" id="id-61e25d80a6924640b15f924592ba17e8"/>
   </folder>
   <folder name="Business" id="id-fb9c94c240434273aa6d6f5df1a73407" type="business">
     <element xsi:type="archimate:BusinessEvent" name="EA Requests SAS Feedback" id="id-a7ebf3b84a7545f6a5b2e8eaca445cb6"/>
@@ -13690,6 +13758,229 @@ Canada's Digital Charter (https://ised-isde.canada.ca/site/innovation-better-can
     <element xsi:type="archimate:Principle" name="Data Governance" id="id-d964485e9396403894cdc1eb51477fae">
       <documentation>Data Governance: Ensures data quality and compliance throughout the lifecycle.</documentation>
     </element>
+    <element xsi:type="archimate:Assessment" name="Percentage of people reported as employed following training or employment support interventions [DRI]" id="id-7048f3ffeacd446582542bc4d93a8291">
+      <documentation>DEPARTMENTAL RESULT INDICATOR&#xD;
+  Percentage of people reported as employed following training or employment support interventions&#xD;
+ACTUAL RESULTS&#xD;
+  2022-23: not applicable1&#xD;
+  2023-24: not applicable1&#xD;
+  2024-25: not applicable1&#xD;
+2026-27 TARGET&#xD;
+  No target2&#xD;
+DATE TO ACHIEVE TARGET&#xD;
+  Not applicable2</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Percentage of people reported as having returned to school following training or employment support interventions [DRI]" id="id-8f26963412b044a0a404140162cfc0c8">
+      <documentation>DEPARTMENTAL RESULT INDICATOR&#xD;
+  Percentage of people reported as having returned to school following training or employment support interventions&#xD;
+ACTUAL RESULTS&#xD;
+  2022-23: not applicable1&#xD;
+  2023-24: not applicable1&#xD;
+  2024-25: not applicable1&#xD;
+2026-27 TARGET&#xD;
+  No target2&#xD;
+DATE TO ACHIEVE TARGET&#xD;
+  Not applicable2</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Table 1: Canadians and communities are empowered to address social issues" id="id-0ec32b4c07484434aa2d00adefc1ce2e">
+      <documentation>INDICATORS, RESULTS AND TARGETS&#xD;
+This section presents details on the department's indicators, the actual results from the three most recently reported fiscal years, the targets and target dates for Social Development. Details are presented by departmental result.&#xD;
+&#xD;
+Table 1: Canadians and communities are empowered to address social issues&#xD;
+&#xD;
+Notes:&#xD;
+1. This data comes from the Canadian Social Survey which is done four times a year. Actual results are from the third quarter of each year.&#xD;
+2. Indicator is new this fiscal year. As such, there are no results for previous fiscal years.&#xD;
+3. This target includes the anticipated number of organizations funded or financed from the following programs: Social Development Partnerships Program (60), Social Innovation and Social Finance Strategy (70), New Horizons for Seniors Program (2,900), Supporting Black Canadian Communities Initiatives (900), and Black-led Philanthropic Endowment Fund (130).</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Table 2: Persons with disabilities experience increased community participation, accessibility and social inclusion" id="id-1a7b8819d9ea429baeea87fc4cdd8d36">
+      <documentation>Table 2: Persons with disabilities experience increased community participation, accessibility and social inclusion&#xD;
+&#xD;
+Notes:&#xD;
+1. This data comes from the Canadian Social Survey which is completed four times a year. Actual results are from the third quarter of each year. Results for this question are not available for the third quarter of 2023-24.&#xD;
+2. The Canadian Survey on Disability is conducted every five years. The next survey will be conducted in 2027.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Table 10: Working age Canadians access skills, training and supports to start working, return to work, return to school, or stay employed" id="id-42d97d992cb14b4a940813a09492bed8">
+      <documentation>Table 10: Working age Canadians access skills, training and supports to start working, return to work, return to school, or stay employed.&#xD;
+&#xD;
+Indicators, results and targets&#xD;
+This section presents details on the department's indicators, the actual results from the three most recently reported fiscal years, the targets and target dates for Learning, Skills Development and Employment. Details are presented by departmental result.&#xD;
+&#xD;
+Notes:&#xD;
+1. Indicator is new this fiscal year. As such, there are no results for previous fiscal years.&#xD;
+2. Data will be collected in 2026-27 to establish a baseline and develop a target for 2027-28.&#xD;
+3. The Census is used as the data source for this indicator (not the Labour Force Survey). This ensures better inclusion of the First Nations on reserve population. Results will be available in either 2026-27 or 2027-28, depending on when Statistics Canada releases the results of the next Census.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="1-Percentage of Canadians who feel a sense of belonging in their local community (Quality of Life) [DRI]" id="id-8e17d2bc5b8b4172b82b279d8b5740bc">
+      <documentation>DEPARTMENTAL RESULT INDICATOR&#xD;
+  Percentage of Canadians who feel a sense of belonging in their local community (Quality of Life)&#xD;
+ACTUAL RESULTS&#xD;
+  2022-23: 49.9%1&#xD;
+  2023-24: 46.1%1&#xD;
+  2024-25: 51.9%1&#xD;
+2026-27 TARGET&#xD;
+  Maintain or increase year over year&#xD;
+DATE TO ACHIEVE TARGET&#xD;
+  March 2027</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="2-Number of organizations funded or financed that support Canadians to address social issues [DRI]" id="id-f4ea3065b58040529341f4b6d39bd86d">
+      <documentation>DEPARTMENTAL RESULT INDICATOR&#xD;
+  Number of organizations funded or financed that support Canadians to address social issues&#xD;
+ACTUAL RESULTS&#xD;
+  2022-23: not applicable2&#xD;
+  2023-24: not applicable2&#xD;
+  2024-25: not applicable2&#xD;
+2026-27 TARGET&#xD;
+  At least 4,0603&#xD;
+DATE TO ACHIEVE TARGET&#xD;
+  March 2027</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="1-Percentage of Canadians with a disability who feel a sense of belonging in their local community (Quality of Life) [DRI]" id="id-d7a4128af3ec40b4a9a6f22cb149f6e9">
+      <documentation>DEPARTMENTAL RESULT INDICATOR&#xD;
+  Percentage of Canadians with a disability who feel a sense of belonging in their local community (Quality of Life)&#xD;
+ACTUAL RESULTS&#xD;
+  2022-23: 42.5%&#xD;
+  2023-24: not available1&#xD;
+  2024-25: 44.3%&#xD;
+2026-27 TARGET&#xD;
+  Maintain or increase year over year&#xD;
+DATE TO ACHIEVE TARGET&#xD;
+  March 2027</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="3-Number of community spaces and workplaces that are more accessible [DRI]" id="id-4a19db6ffbb644778717d2486659419b">
+      <documentation>DEPARTMENTAL RESULT INDICATOR&#xD;
+  Number of community spaces and workplaces that are more accessible&#xD;
+ACTUAL RESULTS&#xD;
+  2022-23: 1,048&#xD;
+  2023-24: 437&#xD;
+  2024-25: 423&#xD;
+2026-27 TARGET&#xD;
+  At least 139&#xD;
+DATE TO ACHIEVE TARGET&#xD;
+  March 2027</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="3-Women's Labour Force participation (core-aged women with children 0-5) [DGI]" id="id-00e31fd54e544c99b81b9f4077c56985">
+      <documentation>DEPARTMENTAL RESULT INDICATOR&#xD;
+  Women's Labour Force participation (core-aged women with children 0-5)&#xD;
+ACTUAL RESULTS&#xD;
+  2022-23: 78.89%&#xD;
+  2023-24: 79.63%&#xD;
+  2024-25: 79.14%&#xD;
+2026-27 TARGET&#xD;
+  Between 75%-80%&#xD;
+DATE TO ACHIEVE TARGET&#xD;
+  March 2027</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="1-Percentage of parents/guardians who did not access childcare because of affordability [DGI]" id="id-73e3f87e2a5f44d2b29b167116800355">
+      <documentation>DEPARTMENTAL RESULT INDICATOR&#xD;
+  Percentage of parents/guardians who did not access childcare because of affordability&#xD;
+ACTUAL RESULTS&#xD;
+  2022-23: 23.6%&#xD;
+  2023-24: 23.6%&#xD;
+  2024-25: not available1&#xD;
+2026-27 TARGET&#xD;
+  Decrease year over year&#xD;
+DATE TO ACHIEVE TARGET&#xD;
+  March 2027</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="5-Percentage of children and youth under 18 experiencing food insecurity (Quality of Life) [DGI]" id="id-fe1d343e8fd6420aad2f12593dce51ca">
+      <documentation>DEPARTMENTAL RESULT INDICATOR&#xD;
+  Percentage of children and youth under 18 experiencing food insecurity (Quality of Life)&#xD;
+ACTUAL RESULTS&#xD;
+  2022-23: 28.4%&#xD;
+  2023-24: 32.9%&#xD;
+  2024-25: not available2&#xD;
+2026-27 TARGET&#xD;
+  Decrease year over year&#xD;
+DATE TO ACHIEVE TARGET&#xD;
+  March 2027</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="2-Percentage of persons with a disability, over age 15, who have experienced at least one barrier [DRI]" id="id-aa142b6e52b44e62bd9db5befbc77182">
+      <documentation>DEPARTMENTAL RESULT INDICATOR&#xD;
+  Percentage of persons with a disability, over age 15, who have experienced at least one barrier&#xD;
+ACTUAL RESULTS&#xD;
+  2022-23: 71.9%&#xD;
+  2023-24: not available2&#xD;
+  2024-25: not available2&#xD;
+2026-27 TARGET&#xD;
+  Decrease over time&#xD;
+DATE TO ACHIEVE TARGET&#xD;
+  Next release of survey data (estimated 2027-2028)</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Table 3: Children and their families have the support and resources needed to promote well-being and economic participation" id="id-87526ac0805241b4b81904591a7692f9">
+      <documentation>Table 3: Children and their families have the support and resources needed to promote well-being and economic participation&#xD;
+&#xD;
+Notes:&#xD;
+1. The Survey on Early Learning and Child Care Arrangements was not conducted in 2024. As such, data is not available for 2024-25.&#xD;
+2. Results are expected to be available in November 2026.&#xD;
+3. Indicator is new this fiscal year. As such, there are no results for previous fiscal years.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="2-Consumer Price Index - Child Care Services [DRI]" id="id-f008ae92d47f422e919ab75590f6065e">
+      <documentation>DEPARTMENTAL RESULT INDICATOR&#xD;
+  Consumer Price Index - Child Care Services&#xD;
+ACTUAL RESULTS&#xD;
+  2022-23: 168&#xD;
+  2023-24: 130&#xD;
+  2024-25: 127.5&#xD;
+2026-27 TARGET&#xD;
+  Maintain or decrease year over year&#xD;
+DATE TO ACHIEVE TARGET&#xD;
+  March 2027</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="4-Percentage of children aged 0 to 5 years who use/participate in early learning and child care [DGI]" id="id-fa6b3e047b2d4eafb761ed9983d2041f">
+      <documentation>DEPARTMENTAL RESULT INDICATOR&#xD;
+  Percentage of children aged 0 to 5 years who use/participate in early learning and child care&#xD;
+ACTUAL RESULTS&#xD;
+  2022-23: 51.6%&#xD;
+  2023-24: 56.1%&#xD;
+  2024-25: not available1&#xD;
+2026-27 TARGET&#xD;
+  Between 55%-60%&#xD;
+DATE TO ACHIEVE TARGET&#xD;
+  March 2027</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="6-Percentage of schools, within each PT, offering one or more type(s) of school food programming [DGI]" id="id-445cb5d6b2774ad590220e4af692efe8">
+      <documentation>DEPARTMENTAL RESULT INDICATOR&#xD;
+  Percentage of schools, within each PT, offering one or more type(s) of school food programming&#xD;
+ACTUAL RESULTS&#xD;
+  2022-23: not applicable3&#xD;
+  2023-24: not applicable3&#xD;
+  2024-25: not applicable3&#xD;
+2026-27 TARGET&#xD;
+  At least 81%&#xD;
+DATE TO ACHIEVE TARGET&#xD;
+  March 2027</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="1-Percentage of targets met for the published service standards of Social Development programs [DGI]" id="id-6f6ee7a1672d4a3a8833ddd40ed16f3c">
+      <documentation>DEPARTMENTAL RESULT INDICATOR&#xD;
+  Percentage of targets met for the published service standards of Social Development programs1&#xD;
+ACTUAL RESULTS&#xD;
+  2022-23: 3 of 3&#xD;
+  2023-24: 2 of 3&#xD;
+  2024-25: 2 of 3&#xD;
+2026-27 TARGET&#xD;
+  100% (3 out of 3 targets met)&#xD;
+DATE TO ACHIEVE TARGET&#xD;
+  March 2027</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="2-Percentage of client organizations satisfied with their interactions with the programs [DGI]" id="id-600f42bf1b184e37863ec9a315ddbc4d">
+      <documentation>DEPARTMENTAL RESULT INDICATOR&#xD;
+  Percentage of client organizations satisfied with their interactions with the programs&#xD;
+ACTUAL RESULTS&#xD;
+  2022-23: 82.33%&#xD;
+  2023-24: 76.30%&#xD;
+  2024-25: 78.77%&#xD;
+2026-27 TARGET&#xD;
+  78%&#xD;
+DATE TO ACHIEVE TARGET&#xD;
+  March 2027</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Table 4: Clients receive high quality, timely and efficient services that meet their needs (Social development)" id="id-776dc8f7bcf34583a3f5b6084947d61b">
+      <documentation>Table 4: Clients receive high quality, timely and efficient services that meet their needs (Social development)&#xD;
+&#xD;
+Note:&#xD;
+1. Service standards are published on Transparency - Canada.ca.</documentation>
+    </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Plateau" name="3rd Annual 2022 Digital Transformation in Government Conference (Plateau)" id="id-50a58ac56ba54b23834dc68b028ca8a0">
@@ -14218,6 +14509,7 @@ In June 2022, the government proposed the Digital Charter Implementation Act, 20
     <element xsi:type="archimate:Deliverable" name="Future State Architecture Diagram (Deliverable)" id="id-415726cfd4f1469c8ceff1eb1c53d782"/>
     <element xsi:type="archimate:Deliverable" name="GC EA Framework Annex Slides (Deliverable)" id="id-278386e1b1fa40e9be26359f4e744fed"/>
     <element xsi:type="archimate:Deliverable" name="Complete EA Assessment Slide Content (Deliverable)" id="id-178ac2dc37b3434285e43a4c41542f15"/>
+    <element xsi:type="archimate:Deliverable" name="Current State Architecture Diagram (Deliverable)" id="id-2b03ac06fa244cd7a28c67129be2e53c"/>
   </folder>
   <folder name="Other" id="id-3b6502d62be54bf79bb29134a011622f" type="other">
     <element xsi:type="archimate:Junction" name="Junction" id="id-483568e04e5345cc8bc005461b6854a2" type="or"/>
@@ -17624,6 +17916,24 @@ building a new solution.</documentation>
     <element xsi:type="archimate:AssociationRelationship" id="id-1aeb1e6da3fd4f7495aeb6128b60998e" source="id-0f10bf0c636043c5a41e4724543380be" target="id-178ac2dc37b3434285e43a4c41542f15"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-44448c6d0d724d788e138dcf225e2aa9" source="id-5ff9f222e3df421db06bb32452d00632" target="id-30e41a0b23c249a599327660f1e373e1"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-ad6e7ef9d02049398aeb8a9cba2aa66c" source="id-ebb8c49abbb840a88a80b416d0d44397" target="id-1b1444b630bd436aa84b418eb9b2dda6"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-8a580800ae4a49e4a20a91f943e916b7" source="id-095f1e6d1d2d4f19bc9fe44f4001edf2" target="id-3d63ec6b60354dad810f707c620a5626"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-f72b608517a64959bc1fd320911e7946" source="id-2b03ac06fa244cd7a28c67129be2e53c" target="id-205be0e48ec64739846869b1d81e9618"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c744bf6ccd6843a585f584c34642c566" source="id-0ec32b4c07484434aa2d00adefc1ce2e" target="id-8e17d2bc5b8b4172b82b279d8b5740bc"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-0643fe6fd6e9445782168763846cae33" source="id-0ec32b4c07484434aa2d00adefc1ce2e" target="id-f4ea3065b58040529341f4b6d39bd86d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ae00b268e7ec49ecbb98d6e50b9fa23f" source="id-1a7b8819d9ea429baeea87fc4cdd8d36" target="id-d7a4128af3ec40b4a9a6f22cb149f6e9"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-24f366c8b7da406793a537c770376626" source="id-1a7b8819d9ea429baeea87fc4cdd8d36" target="id-aa142b6e52b44e62bd9db5befbc77182"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a99f750edd844277815a0fcbbd5b3564" source="id-1a7b8819d9ea429baeea87fc4cdd8d36" target="id-4a19db6ffbb644778717d2486659419b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-76673cb43fa743e194d381ab6951206d" source="id-87526ac0805241b4b81904591a7692f9" target="id-73e3f87e2a5f44d2b29b167116800355"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e79b1b91f8b7429b8cc7fd040625f59f" source="id-87526ac0805241b4b81904591a7692f9" target="id-f008ae92d47f422e919ab75590f6065e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-f16e1f0914e64e009553b537c5f255ce" source="id-87526ac0805241b4b81904591a7692f9" target="id-00e31fd54e544c99b81b9f4077c56985"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-11202c2860d04213b1e67cb864dc8ac8" source="id-87526ac0805241b4b81904591a7692f9" target="id-fa6b3e047b2d4eafb761ed9983d2041f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2f2fc394aabc4cddad5d50f86ee4a960" source="id-87526ac0805241b4b81904591a7692f9" target="id-445cb5d6b2774ad590220e4af692efe8"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-020c0b0e294c432b9000b3622b40f63c" source="id-42d97d992cb14b4a940813a09492bed8" target="id-7048f3ffeacd446582542bc4d93a8291"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7ff01a6c720046f5adb160ce498ef2db" source="id-42d97d992cb14b4a940813a09492bed8" target="id-8f26963412b044a0a404140162cfc0c8"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-75189899bb754b88872ca08d55b677fd" source="id-776dc8f7bcf34583a3f5b6084947d61b" target="id-600f42bf1b184e37863ec9a315ddbc4d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c368b426ae814967894502d0794665eb" source="id-776dc8f7bcf34583a3f5b6084947d61b" target="id-6f6ee7a1672d4a3a8833ddd40ed16f3c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-dedd3dec0e3d4fb4b7425120636539a3" source="id-655ed2584eb84f76b77dac13aa4d5875" target="id-f44a8befcf2c41599b40e351af433fd1"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-bee7eaa0d2484f4e9a0f97f888be2328" source="id-655ed2584eb84f76b77dac13aa4d5875" target="id-27c66676d9ef4583825a0ebde4d6c667"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -25458,7 +25768,7 @@ v0.1.20260302A</content>
           <sourceConnection xsi:type="archimate:Connection" id="id-1379a0e89ff3477bac6fea05a9823d08" source="id-88993865b8c44612a5e7892d40ce373a" target="id-309c42ad588e44d8af49db7873d20737" archimateRelationship="id-a7dddba5fa81436a9ed872ccd505f8ae"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-a93a2092d0834317b0c9870d40d7f21d" source="id-88993865b8c44612a5e7892d40ce373a" target="id-a843981476fd475c8c9a845a4a9bf02e" archimateRelationship="id-c51fd122bb8f419cba6865e400e6514d"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-02cdaaca170740ddb1e56c1c1dc719f6" source="id-88993865b8c44612a5e7892d40ce373a" target="id-cba2dccf3ee94ad9a9b784d3b76de231" archimateRelationship="id-baf572dcaaee437f96efe4600b22588b"/>
-          <child xsi:type="archimate:DiagramObject" id="id-d0ecc8fcafea4d38ac5dd018be9e3e6e" targetConnections="id-6ef913fd8d444fad9aa6d1d5d1c766b4" archimateElement="id-3d63ec6b60354dad810f707c620a5626">
+          <child xsi:type="archimate:DiagramObject" id="id-d0ecc8fcafea4d38ac5dd018be9e3e6e" targetConnections="id-6ef913fd8d444fad9aa6d1d5d1c766b4 id-3b4e857832944c168c82ecbc315a6aa8" archimateElement="id-3d63ec6b60354dad810f707c620a5626">
             <bounds x="24" y="36" width="145" height="61"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-a5ade2b0cb65413b87a76fbc305c2556" source="id-d0ecc8fcafea4d38ac5dd018be9e3e6e" target="id-2d8f38c6b27940b3a9d607fb1906f422" archimateRelationship="id-23bddd5c9e1a49afac923232a19c33d7"/>
           </child>
@@ -25470,7 +25780,7 @@ v0.1.20260302A</content>
             <bounds x="24" y="120" width="145" height="61"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-b15236b68072481c8d84f030fc282b54" source="id-309c42ad588e44d8af49db7873d20737" target="id-a843981476fd475c8c9a845a4a9bf02e" archimateRelationship="id-bc89b1b7402a49b09f5e7b2ef679addb"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="id-a843981476fd475c8c9a845a4a9bf02e" targetConnections="id-a93a2092d0834317b0c9870d40d7f21d id-b15236b68072481c8d84f030fc282b54" archimateElement="id-205be0e48ec64739846869b1d81e9618">
+          <child xsi:type="archimate:DiagramObject" id="id-a843981476fd475c8c9a845a4a9bf02e" targetConnections="id-a93a2092d0834317b0c9870d40d7f21d id-b15236b68072481c8d84f030fc282b54 id-b789e1de1f124e32b204382a31a03f73" archimateElement="id-205be0e48ec64739846869b1d81e9618">
             <bounds x="216" y="121" width="193" height="60"/>
           </child>
         </child>
@@ -25575,7 +25885,7 @@ v0.1.20260302A</content>
           <sourceConnection xsi:type="archimate:Connection" id="id-6d441b2e9b05412c95c949fde450e625" source="id-2c2b621146d447d7bff2870c487e9055" target="id-c8582b7784094093a77191c2ae0480dd" archimateRelationship="id-dcf8eade2fe949789bc8aad72974f146"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-a8557df1fef84c96b1c3abbc7f4af0d2" archimateElement="id-bcb3f69cfb6044fe955ee22650c78be6">
-          <bounds x="396" y="384" width="148" height="55"/>
+          <bounds x="456" y="392" width="148" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-eb043abf220246c5ab8bb62d60b8b5fc" source="id-a8557df1fef84c96b1c3abbc7f4af0d2" target="id-10d6c7578b4046ce871f7d43c6aa4226" archimateRelationship="id-1471eebbeebb45be9f97becf4e8b38ac"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-c6101b14d23a4b289bd9a190497a068c" archimateElement="id-7708c9f9d898474abd57c67105a60441">
@@ -25600,6 +25910,14 @@ v0.1.20260302A</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d926c8ed0bbb4a8d83ed57645c45a515" targetConnections="id-b01ecaf796884c7985431e4fcd11a9e7" archimateElement="id-178ac2dc37b3434285e43a4c41542f15">
           <bounds x="1089" y="636" width="148" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b4b6be46105c4c78bce30418bb126569" archimateElement="id-095f1e6d1d2d4f19bc9fe44f4001edf2">
+          <bounds x="11" y="168" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3b4e857832944c168c82ecbc315a6aa8" source="id-b4b6be46105c4c78bce30418bb126569" target="id-d0ecc8fcafea4d38ac5dd018be9e3e6e" archimateRelationship="id-8a580800ae4a49e4a20a91f943e916b7"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1675eade82ea4912946c958caf83a3c0" archimateElement="id-2b03ac06fa244cd7a28c67129be2e53c">
+          <bounds x="411" y="331" width="148" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b789e1de1f124e32b204382a31a03f73" source="id-1675eade82ea4912946c958caf83a3c0" target="id-a843981476fd475c8c9a845a4a9bf02e" archimateRelationship="id-f72b608517a64959bc1fd320911e7946"/>
         </child>
       </element>
     </folder>
@@ -29031,6 +29349,118 @@ v0.1.20251202A</content>
           <child xsi:type="archimate:DiagramObject" id="id-a761cfcc74b940efb3c132fe7d1b1974" targetConnections="id-bcb99b0c135049ce9ae77dece0fa9954" archimateElement="id-5272e3d538b346dfb00f2b943b7aa390">
             <bounds x="12" y="96" width="145" height="85"/>
           </child>
+        </child>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="ESDC Departmental Plan 2026-27" id="id-514d16af312445f1986cabf328887a4f">
+        <child xsi:type="archimate:Note" id="id-b9b6c1033a724adda95b5f8e0ffc0843" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="5" y="9" width="445" height="101"/>
+          <content>Archimate View: Employment and Social Development Canada’s (ESDC's) 2026 to 2027 Departmental Plan</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-ce253477b1204976a439e13b6f7d13e4" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
+          <bounds x="449" y="9" width="219" height="101"/>
+          <content>ESDC Dept Plan&#xD;
+2026-27</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-cc1ea14165944629b832e70e39ec6c6a" textAlignment="1">
+          <bounds x="548" y="49" width="120" height="61"/>
+          <content>(DRAFT)&#xD;
+2026-03-13&#xD;
+v0.1.20260316A</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-f6568fc535c84fa4a6f179efa4214204" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
+          <bounds x="680" y="6" width="149" height="108"/>
+          <content>DIAGRAM NOT ENDORSED</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1a9de38309434669912a26798c49bcfc" archimateElement="id-655ed2584eb84f76b77dac13aa4d5875">
+          <bounds x="12" y="192" width="865" height="517"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-82f65502c3674d69bf22e3a54052ed00" source="id-1a9de38309434669912a26798c49bcfc" target="id-95f4850621654e82b8e061dbecc97fd1" archimateRelationship="id-dedd3dec0e3d4fb4b7425120636539a3"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d8c1a6c93ad24f8f8d6ee600d66f8ecd" source="id-1a9de38309434669912a26798c49bcfc" target="id-16022510ba9a455bb05764f74bfaee16" archimateRelationship="id-bee7eaa0d2484f4e9a0f97f888be2328"/>
+          <child xsi:type="archimate:DiagramObject" id="id-6ed86756c5bb48c9b4e0bfd918d64af4" archimateElement="id-87526ac0805241b4b81904591a7692f9">
+            <bounds x="504" y="24" width="349" height="369"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-bc13b50145d64eac84c831dd76a6856d" source="id-6ed86756c5bb48c9b4e0bfd918d64af4" target="id-6d286692f12a41108b659ff819347c80" archimateRelationship="id-76673cb43fa743e194d381ab6951206d"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-dafa9a96808747dc9e442b70cd3cfc88" source="id-6ed86756c5bb48c9b4e0bfd918d64af4" target="id-169a82848383459e83de77ac53b7eb2e" archimateRelationship="id-e79b1b91f8b7429b8cc7fd040625f59f"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-d9026fdfeb5449b786be7ed62b82a07e" source="id-6ed86756c5bb48c9b4e0bfd918d64af4" target="id-ff36eeea66cf4f208eb8809006d0907b" archimateRelationship="id-f16e1f0914e64e009553b537c5f255ce"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-9754e2b07ac34d799407cf3c354b380d" source="id-6ed86756c5bb48c9b4e0bfd918d64af4" target="id-1872b4b9c20a48c690d542a0652d8b1c" archimateRelationship="id-11202c2860d04213b1e67cb864dc8ac8"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-172144a0e50a43378aa5459be8d65401" source="id-6ed86756c5bb48c9b4e0bfd918d64af4" target="id-bdcb1a13ddb849e4b7accf265073515c" archimateRelationship="id-2f2fc394aabc4cddad5d50f86ee4a960"/>
+            <child xsi:type="archimate:DiagramObject" id="id-6d286692f12a41108b659ff819347c80" targetConnections="id-bc13b50145d64eac84c831dd76a6856d" archimateElement="id-73e3f87e2a5f44d2b29b167116800355">
+              <bounds x="12" y="84" width="145" height="97"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-169a82848383459e83de77ac53b7eb2e" targetConnections="id-dafa9a96808747dc9e442b70cd3cfc88" archimateElement="id-f008ae92d47f422e919ab75590f6065e">
+              <bounds x="12" y="187" width="145" height="54"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-ff36eeea66cf4f208eb8809006d0907b" targetConnections="id-d9026fdfeb5449b786be7ed62b82a07e" archimateElement="id-00e31fd54e544c99b81b9f4077c56985">
+              <bounds x="12" y="246" width="145" height="85"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-1872b4b9c20a48c690d542a0652d8b1c" targetConnections="id-9754e2b07ac34d799407cf3c354b380d" archimateElement="id-fa6b3e047b2d4eafb761ed9983d2041f">
+              <bounds x="168" y="84" width="169" height="97"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-bdcb1a13ddb849e4b7accf265073515c" targetConnections="id-172144a0e50a43378aa5459be8d65401" archimateElement="id-445cb5d6b2774ad590220e4af692efe8">
+              <bounds x="168" y="276" width="169" height="85"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-31960612d9dd4004aa2cbe9db83401d3" archimateElement="id-fe1d343e8fd6420aad2f12593dce51ca">
+              <bounds x="168" y="187" width="169" height="83"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-418b9374a99c41f9acef1e10d52b0779" archimateElement="id-1a7b8819d9ea429baeea87fc4cdd8d36">
+            <bounds x="288" y="24" width="211" height="369"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-516705a4f8864ad983cf3eb0235e37c6" source="id-418b9374a99c41f9acef1e10d52b0779" target="id-04d76583c4164ed4b47af4ca4a26dd09" archimateRelationship="id-ae00b268e7ec49ecbb98d6e50b9fa23f"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-aa68e2a2217347829f68a8df34ba2ee4" source="id-418b9374a99c41f9acef1e10d52b0779" target="id-792357b81e9447febe421f1b5471aebf" archimateRelationship="id-24f366c8b7da406793a537c770376626"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-14d8981658be493fa2ae6d7612497dee" source="id-418b9374a99c41f9acef1e10d52b0779" target="id-aa0caa9fb7b74cad8fa0a99bb1f0065c" archimateRelationship="id-a99f750edd844277815a0fcbbd5b3564"/>
+            <child xsi:type="archimate:DiagramObject" id="id-04d76583c4164ed4b47af4ca4a26dd09" targetConnections="id-516705a4f8864ad983cf3eb0235e37c6" archimateElement="id-d7a4128af3ec40b4a9a6f22cb149f6e9">
+              <bounds x="12" y="84" width="180" height="101"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-792357b81e9447febe421f1b5471aebf" targetConnections="id-aa68e2a2217347829f68a8df34ba2ee4" archimateElement="id-aa142b6e52b44e62bd9db5befbc77182">
+              <bounds x="12" y="192" width="180" height="68"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-aa0caa9fb7b74cad8fa0a99bb1f0065c" targetConnections="id-14d8981658be493fa2ae6d7612497dee" archimateElement="id-4a19db6ffbb644778717d2486659419b">
+              <bounds x="12" y="264" width="180" height="72"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-14d3dab8763e406f8ad61aab095c5a93" archimateElement="id-776dc8f7bcf34583a3f5b6084947d61b">
+            <bounds x="12" y="204" width="266" height="188"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-5131eed08ec844ffa10b2be32d49039e" source="id-14d3dab8763e406f8ad61aab095c5a93" target="id-c998b9b9beb241bdbb1820108e84121d" archimateRelationship="id-75189899bb754b88872ca08d55b677fd"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-cbac5588d5384977a94975d1e300476c" source="id-14d3dab8763e406f8ad61aab095c5a93" target="id-a6e6f608da0940e7aa998b0064dd4115" archimateRelationship="id-c368b426ae814967894502d0794665eb"/>
+            <child xsi:type="archimate:DiagramObject" id="id-c998b9b9beb241bdbb1820108e84121d" targetConnections="id-5131eed08ec844ffa10b2be32d49039e" archimateElement="id-600f42bf1b184e37863ec9a315ddbc4d">
+              <bounds x="17" y="120" width="237" height="58"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-a6e6f608da0940e7aa998b0064dd4115" targetConnections="id-cbac5588d5384977a94975d1e300476c" archimateElement="id-6f6ee7a1672d4a3a8833ddd40ed16f3c">
+              <bounds x="17" y="60" width="237" height="55"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-bc1426be7224402ba84f4c888ef8ad0c" archimateElement="id-0ec32b4c07484434aa2d00adefc1ce2e">
+            <bounds x="12" y="24" width="266" height="176"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-261febd93f6347d29a7489975cb41ab9" source="id-bc1426be7224402ba84f4c888ef8ad0c" target="id-9d8b50ed537f404ebd4646d64744ce10" archimateRelationship="id-c744bf6ccd6843a585f584c34642c566"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-136a65b22eb144948ea0133095f88a54" source="id-bc1426be7224402ba84f4c888ef8ad0c" target="id-26bbcd9c7804438093270fda0fd708ea" archimateRelationship="id-0643fe6fd6e9445782168763846cae33"/>
+            <child xsi:type="archimate:DiagramObject" id="id-9d8b50ed537f404ebd4646d64744ce10" targetConnections="id-261febd93f6347d29a7489975cb41ab9" archimateElement="id-8e17d2bc5b8b4172b82b279d8b5740bc">
+              <bounds x="17" y="48" width="237" height="59"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-26bbcd9c7804438093270fda0fd708ea" targetConnections="id-136a65b22eb144948ea0133095f88a54" archimateElement="id-f4ea3065b58040529341f4b6d39bd86d">
+              <bounds x="17" y="112" width="237" height="55"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-95f4850621654e82b8e061dbecc97fd1" targetConnections="id-82f65502c3674d69bf22e3a54052ed00" archimateElement="id-f44a8befcf2c41599b40e351af433fd1">
+            <bounds x="37" y="420" width="216" height="60"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-16022510ba9a455bb05764f74bfaee16" targetConnections="id-d8c1a6c93ad24f8f8d6ee600d66f8ecd" archimateElement="id-27c66676d9ef4583825a0ebde4d6c667">
+            <bounds x="300" y="408" width="216" height="84"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-d4347ff64662431684341e9be6f0d3e8" archimateElement="id-42d97d992cb14b4a940813a09492bed8">
+          <bounds x="1332" y="264" width="409" height="337"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cdc32d8bd06b476eae785ed0ddfe6e8c" source="id-d4347ff64662431684341e9be6f0d3e8" target="id-4f4e0308c9cd423692fa4d2b30571077" archimateRelationship="id-020c0b0e294c432b9000b3622b40f63c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a93e0fe97f5d4bcd821ac5a927f2992d" source="id-d4347ff64662431684341e9be6f0d3e8" target="id-743e30a9439c48a3ab485afa54c67b38" archimateRelationship="id-7ff01a6c720046f5adb160ce498ef2db"/>
+          <child xsi:type="archimate:DiagramObject" id="id-4f4e0308c9cd423692fa4d2b30571077" targetConnections="id-cdc32d8bd06b476eae785ed0ddfe6e8c" archimateElement="id-7048f3ffeacd446582542bc4d93a8291">
+            <bounds x="12" y="48" width="157" height="85"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-743e30a9439c48a3ab485afa54c67b38" targetConnections="id-a93e0fe97f5d4bcd821ac5a927f2992d" archimateElement="id-8f26963412b044a0a404140162cfc0c8">
+            <bounds x="12" y="138" width="157" height="99"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-93217181d3a1489fb62164c3d6f35376" archimateElement="id-63609f106eca440a8e15a53e054d24da">
+          <bounds x="1932" y="221" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-685da37f14524115bb9e935bda97e3c9" archimateElement="id-61e25d80a6924640b15f924592ba17e8">
+          <bounds x="969" y="436" width="216" height="60"/>
         </child>
       </element>
     </folder>
