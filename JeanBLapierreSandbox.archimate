@@ -3737,8 +3737,23 @@ This also includes Administration scripting languages (e.g. Unix Shell Scripting
 A7.03.15 Langages de développement&#xD;
 Un langage de développement (programmation) est un langage artificiel utilisé pour rédiger des instructions qui peuvent être traduites en langage machine, puis exécutées par un ordinateur.    Cette norme comprend également les langages de script d’administration (p. ex., Unix Shell Scripting, Power Shell, etc.), ainsi que les langages de requête (PL/SQL, T-SQL).  Les langages de balisage (HTML, XML, etc.) sont abordés dans une norme différente.</documentation>
     </element>
-    <element xsi:type="archimate:Capability" name=" [DACM]" id="id-bedcc244c36341cfaa615fc52cb40b61"/>
-    <element xsi:type="archimate:Capability" name=" [DACM]" id="id-72fd11f75f42493b9ddb75aa23802c9f"/>
+    <element xsi:type="archimate:Capability" name="A7 IT Components, Services and Tools [DACM]" id="id-bedcc244c36341cfaa615fc52cb40b61">
+      <documentation>A7 IT Components, Services and Tools&#xD;
+Software and services for operational management and maintenance of applications, ICT components and services.&#xD;
+&#xD;
+A7 Composantes, services et outils de TI&#xD;
+Logiciel ou service permettant d’assurer la gestion opérationnelle et la maintenance des applications, des composants et des services de TI.</documentation>
+    </element>
+    <element xsi:type="archimate:Capability" name="A8 System Integration [DACM]" id="id-72fd11f75f42493b9ddb75aa23802c9f">
+      <documentation>A8 System Integration&#xD;
+System integration is defined in information technology as the process of linking together different computing systems and software applications physically or functionally, to act as a coordinated whole.  System integration involves integrating existing often disparate systems and is also about adding value to the system, capabilities that are possible because of interactions between subsystems. &#xD;
+Source: Wikipedia&#xD;
+Narrower Terms:  Enterprise Service Bus (ESB), Enterprise Application Integration (EAI), Middleware.&#xD;
+Was: Interfaces and Integration&#xD;
+&#xD;
+A8 Intégration des systèmes&#xD;
+Dans le domaine des technologies de l’information, l’intégration des systèmes est définie comme étant le processus de liaison physique ou fonctionnelle entre différents systèmes informatiques et applications logicielles, afin de former un ensemble coordonné.  L’intégration des systèmes consiste à intégrer des systèmes existants souvent disparates et à ajouter de la valeur au système, en y intégrant de nouvelles capacités grâce aux interactions entre les sous-systèmes.  Source : Wikipédia.    Termes spécifiques : bus de services d’entreprise (BSE), intégration d’applications d’entreprise (EAE), intergiciel.</documentation>
+    </element>
     <element xsi:type="archimate:Capability" name="A7.03.16 Source Code Management [DACM]" id="id-27b64cd557374aa8ad0b003123e8d7a8">
       <documentation>A7.03.16 Source Code Management&#xD;
 Source Code Management:&#xD;
@@ -3758,7 +3773,13 @@ Narrower Terms: Data Mapping&#xD;
 A8.02.03 Extraction, transformation et chargement (ETC)&#xD;
 Logiciel qui prend en charge l’extraction de données d’une source de données, la manipulation et le changement des données vers un format différent, et l’ajout des données transformées à l’emplacement de destination.    Terme spécifique : mise en correspondance des données.</documentation>
     </element>
-    <element xsi:type="archimate:Capability" name=" [DACM]" id="id-4aec95c3cf754a408cc7fb09ed0d8f52"/>
+    <element xsi:type="archimate:Capability" name="A8.03 Interface [DACM]" id="id-4aec95c3cf754a408cc7fb09ed0d8f52">
+      <documentation>A8.03 Interface&#xD;
+Software or services supporting the communicating, transporting and exchanging information through a common dialog or method. Delivery Channels provide the information to reach the intended destination, whereas Interfaces allow the interaction to occur based on a predetermined framework.&#xD;
+&#xD;
+A8.03 Interface&#xD;
+Logiciel ou service qui permet la communication, le transport et l’échange d’informations au moyen d’un mode ou d’une méthode de dialogue commun. Les modes de prestation fournissent l’information nécessaire pour atteindre la destination prévue, tandis que les interfaces permettent d’assurer une interaction selon un cadre prédéterminé.</documentation>
+    </element>
     <element xsi:type="archimate:Capability" name="A8.02 Data Interoperability [DACM]" id="id-879e153ee25c4567b8828c81bd5318c2">
       <documentation>A8.02 Data Interoperability&#xD;
 Data Interoperability defines the software and or services for sharing data and services across disparate systems and vendors.&#xD;
@@ -3767,8 +3788,22 @@ Related Terms: Enterprise Application Integration (EAI), Enterprise Service Bus 
 A8.02 Interopérabilité des données&#xD;
 L’interopérabilité des données définit les logiciels ou les services de partage de données, ainsi que les services entre différents systèmes et des fournisseurs disparates.    Termes connexes : intégration des applications d’entreprise (EAE), bus de services d’entreprise (BSE), intergiciel.</documentation>
     </element>
-    <element xsi:type="archimate:Capability" name=" [DACM]" id="id-cf5a74c801234ed1ba9444754c6ebe1d"/>
-    <element xsi:type="archimate:Capability" name=" [DACM]" id="id-85a8373a1a834c469f0b18a9858e9409"/>
+    <element xsi:type="archimate:Capability" name="A8.04 Gateways [DACM]" id="id-cf5a74c801234ed1ba9444754c6ebe1d">
+      <documentation>A8.04 Gateways&#xD;
+Software and or services used for information-layer gateways and automated electronic interfaces between networks or systems. Does not extend to boundary protection devices. Provides the various gateways that are used to provide automated electronic interfaces with external organisations or parties, and internally between communities of interest or network domains.&#xD;
+Narrower Terms: Business to Business Gateway (B2B), Business to Government Gateway (B2G), Citizen [or Customer] to Government Gateway (C2G) Government to Government Gateway (G2G),&#xD;
+&#xD;
+A8.04 Passerelles&#xD;
+Logiciel ou service utilisé pour les passerelles de couche d’information et les interfaces électroniques automatisées entre les réseaux ou les systèmes. Ne s’étend pas aux dispositifs de protection des frontières. Fournit les diverses passerelles qui sont utilisées pour fournir des interfaces électroniques automatisées à des organisations ou des parties externes, et à l’interne entre les communautés d’intérêts ou les domaines du réseau.    Termes spécifiques : passerelle d’entreprise à entreprise (B2B), passerelle d’entreprise à gouvernement (B2G), passerelle de citoyen [ou client] à gouvernement (C2G), passerelle de gouvernement à gouvernement (G2G).</documentation>
+    </element>
+    <element xsi:type="archimate:Capability" name="A8.03.05 RESTful APIs [DACM]" id="id-85a8373a1a834c469f0b18a9858e9409">
+      <documentation>A8.03.05 RESTful APIs&#xD;
+RESTful APIs do not require XML-based Web service protocols (SOAP and WSDL) to support their interfaces as they use HTTP. Representational State Transfer (REST) is a style of software architecture for distributed hypermedia systems such as the World Wide Web.&#xD;
+Unlike SOAP-based Web services, there is no official standard for RESTful Web APIs. This is because REST is an architectural style, while SOAP is a protocol. REST is not a standard in itself, but RESTful implementations make use of standards, such as HTTP, URI, JSON, and XML.&#xD;
+&#xD;
+A8.03.05 API actives (RESTful)&#xD;
+Les API actives (RESTful) n’ont pas besoin de protocoles de service Web fondés sur le langage XML (SOAP et WSDL) pour prendre en charge leurs interfaces lorsqu’elles utilisent le protocole HTTP. Le transfert d’état représentationnel (REST) est un style d’architecture logicielle propre aux systèmes d’hypermédias distribués tels que le World Wide Web.  Contrairement aux services Web fondés sur le SOAP, il n’existe pas de norme officielle sur les API Web actives. En effet, le REST est un style architectural, tandis que le SOAP est un protocole. Le REST n’est pas une norme en soi, mais les implémentations RESTful s’appuient sur des normes telles que HTTP, URI, JSON et XML.</documentation>
+    </element>
     <element xsi:type="archimate:Capability" name="A8.02.02 Data Transformation [DACM]" id="id-eb8d72ac557c4989a933fb5e7e8e5f81">
       <documentation>A8.02.02 Data Transformation&#xD;
 Data transformation is the process of converting data or information from one format to another, usually from the format of a source system into the required format of a new destination system. &#xD;
@@ -3779,8 +3814,201 @@ Narrower Terms: Data Mapping&#xD;
 A8.02.02 Transformation des données&#xD;
 La transformation des données consiste à convertir des données ou des renseignements d’un format à un autre, habituellement du format d’un système source au format requis d’un nouveau système de destination.  Termes connexes : dictionnaire de la structure des données, extraction, transformation et chargement (ETC), médiation des données, système de médiation.  Terme spécifique : mise en correspondance des données.</documentation>
     </element>
-    <element xsi:type="archimate:Capability" name=" [DACM]" id="id-f256092e1b4c405997affc110bf5f177"/>
-    <element xsi:type="archimate:Capability" name=" [DACM]" id="id-e3c6981851b54f56a1fc849be8f1cc59"/>
+    <element xsi:type="archimate:Capability" name="A8.02.04 Data Mapping [DACM]" id="id-f256092e1b4c405997affc110bf5f177">
+      <documentation>A8.02.04 Data Mapping&#xD;
+Software that supports the process of creating data element mappings between two distinct data models. Data mapping is used as a first step for a wide variety of data integration tasks.&#xD;
+&#xD;
+A8.02.04 Mise en correspondance des données&#xD;
+Logiciel qui prend en charge le processus de création de mises en correspondance d’éléments de données entre deux modèles de données distincts. La mise en correspondance des données représente la première étape dans le cadre d’un large éventail de tâches d’intégration des données.</documentation>
+    </element>
+    <element xsi:type="archimate:Capability" name="A8.03.03 API [DACM]" id="id-e3c6981851b54f56a1fc849be8f1cc59">
+      <documentation>A8.03.03 API&#xD;
+Software components that use an application programming interface (API) to communicate with each other.  May include specifications for routines, data structures, object classes, and variables.&#xD;
+&#xD;
+A8.03.03 API&#xD;
+Composants logiciels qui utilisent une interface de programmation d’applications (API) pour communiquer entre eux.  Les renseignements communiqués peuvent comprendre des spécifications relatives aux routines, des structures de données, des classes d’objets et des variables.</documentation>
+    </element>
+    <element xsi:type="archimate:Resource" name="CTV News: 7 takeaways for Canadians from PM Carney’s spring economic update (2026-04-28)" id="id-1ea87095199d4ce7853cc3ef42739dad">
+      <documentation>https://www.ctvnews.ca/politics/article/7-takeaways-for-canadians-from-pm-carneys-spring-economic-update/&#xD;
+&#xD;
+OTTAWA - While emphasizing the “resilience” of Canada’s economy, the federal government’s newly tabled spring economic update includes few new line items geared toward Canadians’ pocketbooks.&#xD;
+&#xD;
+“I think ordinary Canadians who are looking for pocketbook savings will be disappointed with this spring economic update,” said Fred O’Riordan, the national leader for tax policy at EY, in an interview with CTV News.&#xD;
+&#xD;
+Despite the inflation rate hovering around the Bank of Canada’s target two per cent figure for nearly two years, two key areas on the affordability front — fuel and groceries — are seeing major spikes.&#xD;
+&#xD;
+&#xD;
+Pointing to a “rapidly changing and increasingly fragmented world,” the spring economic update repeats the Liberals’ oft-touted intention to focus on what Canada “can control.”&#xD;
+&#xD;
+For example, it highlights new affordability measures the government has announced since the November budget, namely eliminating the fuel excise tax and extending the groceries and essentials benefit. And, it restates the pre-promised streamlining of access to the Canada Disability Benefit and the Canada Student Loan Forgiveness Program, but the overall package offers little new beyond that.&#xD;
+&#xD;
+Carney Liberals launching new skilled training strategy, deficit projected at $65.3B&#xD;
+Still, from skills training to sports funding, pension changes and employment insurance extensions for some, there are a few measures included in the document geared toward increasing affordability.&#xD;
+&#xD;
+&#xD;
+CTV News has reviewed the 167-page spring economic update. Here are some of the line items that could impact the average Canadian.&#xD;
+&#xD;
+&#xD;
+A copy of the spring economic update is pictured ahead of its tabling in Ottawa, on Tuesday, April 28, 2026. THE CANADIAN PRESS/Spencer Colby&#xD;
+Spending billions on skills training&#xD;
+The spring economic update lays out the government’s plan ­— dubbed Team Canada Strong — to spend $5.9 billion over five years to recruit, train and hire between 80,000 and 100,000 new Red Seal skilled trades workers by 2030-31.&#xD;
+&#xD;
+Despite an entrenched trade war with the U.S., overall unemployment in Canada is holding steady. But, there is a gap across generational lines, with youth unemployment more than double the national average.&#xD;
+&#xD;
+In the November budget, the Liberal government announced new funding for its summer jobs program, among other measures. Now, the spring economic update’s skills training measures are the largest line item when it comes to new spending.&#xD;
+&#xD;
+“Team Canada Strong will provide a simple and seamless way to learn about and enter into the trades and link up with employers,” the spring economic update states. “Young people will start with paid, job ready placements that lead directly into registered apprenticeships—earning income, gaining experience, and contributing immediately to major housing, infrastructure, and defence projects.”&#xD;
+&#xD;
+Part of the plan also includes funding for apprenticeships by way of wage subsidies for employers. It also includes income top-ups for apprentices and one-time bonuses for apprentices obtaining certification in a Red Seal trade.&#xD;
+&#xD;
+The spring economic update lists other affordability measures for tradespeople as well, including funding to help ease labour mobility costs. The document proposes, for example, to increase the limit on temporary relocation expenses that eligible tradespeople can deduct on their taxes.&#xD;
+&#xD;
+Significant sports funding&#xD;
+The spring economic update is proposing what it’s framing as “generational investment” in Canadian sports and athletes.&#xD;
+&#xD;
+Dubbing it “from playground to podium” funding, the federal government is earmarking $755 million over five years, starting in 2026-27, and $118 million ongoing, to Canadian Heritage to support Canada’s sport system to:&#xD;
+&#xD;
+“Bring more world-class sporting events to Canada;&#xD;
+Help our athletes train, compete, and perform, including support for better mental health;&#xD;
+And see new and existing community infrastructure … fully used and enjoyed by a new generation of athletes.”&#xD;
+&#xD;
+Finance and National Revenue Minister Francois-Philippe Champagne, left, is congratulated by Prime Minister Mark Carney after delivering the spring economic update in the House of Commons on Parliament Hill in Ottawa on Tuesday, April 28, 2026. THE CANADIAN PRESS/Sean Kilpatrick&#xD;
+Reducing CPP contribution rate&#xD;
+The spring economic statement also aims to keep more money in Canadians’ wallets by reducing the amount they have to contribute to the Canada Pension Plan.&#xD;
+&#xD;
+Starting in January, the CPP contribution rate will be reduced from 9.9 per cent to 9.5 per cent.&#xD;
+&#xD;
+According to O’Riordan, the change likely indicates the CPP fund is actuarily sound and performing well, allowing the federal government to pass along some of the surplus from it to Canadians.&#xD;
+&#xD;
+“This change would maintain a prudent financial buffer to protect the CPP against future economic and demographic risks, while providing meaningful contribution relief,” the spring economic update reads.&#xD;
+&#xD;
+“A 40-basis point reduction in the CPP contribution would translate into annual savings of about $133 for an employee earning $70,000 a year, with equivalent savings for their employer,” it also projects.&#xD;
+&#xD;
+Clearing air travel complaints backlog&#xD;
+The federal government wants to change the resolution process for air travel complaints in order to reduce the backlog.&#xD;
+&#xD;
+Firstly, it’s proposing to transfer responsibilities for those complaints from the Canadian Transportation Agency to the Minister of Transport, which it claims will “enhance transparency of the complaints process and enforcement of passenger rights regulations.”&#xD;
+&#xD;
+The spring economic update doesn’t put a number to the current backlog, but does categorize it as “significant.”&#xD;
+&#xD;
+It also states “the government’s intention to clear the backlog of air travel complaints by engaging a neutral, third-party dispute resolution organisation based on a proven model in the (United Kingdom) and the (European Union).”&#xD;
+&#xD;
+“Beyond the backlog, the government also intends to develop a simpler and more effective regulatory regime, so that rules are clearer and passengers are fairly and more quickly compensated when air travel does not go as planned,” the spring economic update states.&#xD;
+&#xD;
+Finance Minister Francois-Philippe Champagne discusses the spring economic update, saying, 'the Canadian economy is more resilient than many people expected.'&#xD;
+Extending EI for some seasonal workers&#xD;
+The federal government is proposing to extend the employment insurance benefits for seasonal workers in some key regions in Canada.&#xD;
+&#xD;
+The spending is a continuation of rules that were introduced in 2018, according to the spring economic statement, to provide up to five extra weeks of employment insurance for eligible workers in 13 specific regions.&#xD;
+&#xD;
+The measure was set to expire this October, but the federal government is opting to extend it through to 2028.&#xD;
+&#xD;
+Some measures for homebuyers&#xD;
+Another previously announced or existing measure the federal government is proposing to extend is the grace period during which homeowners are not required to start repaying their Home Buyers’ Plan withdrawals.&#xD;
+&#xD;
+According to the spring economic update, the measure already applies for those who made a withdrawal to their Home Buyers’ Plan between 2022 to 2025, but the grace people will now also extend to those making their first withdrawal up to the end of 2028.&#xD;
+&#xD;
+“This will provide cash flow relief of up to $4,000 (1/15 of $60,000) per individual per year for the three years over which they are not required to repay the amount into their RRSP,” the document estimates.&#xD;
+&#xD;
+Health benefits to Indigenous communities&#xD;
+The spring economic update also allocates some new funding to Indigenous health initiatives.&#xD;
+&#xD;
+Namely, it earmarks $794 million this year to support the Non-Insured Health Benefits Program, “which provides First Nations and Inuit with coverage for a range of health products and services such as medical travel, pharmaceuticals, and mental health counselling.”&#xD;
+&#xD;
+With files from CTV News’ Rachel Aiello and Brennan MacDonald</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Spending billions on skills training" id="id-29aed334851a489094d6d8b154f2d04b">
+      <documentation>Spending billions on skills training&#xD;
+The spring economic update lays out the government’s plan ­— dubbed Team Canada Strong — to spend $5.9 billion over five years to recruit, train and hire between 80,000 and 100,000 new Red Seal skilled trades workers by 2030-31.&#xD;
+&#xD;
+Despite an entrenched trade war with the U.S., overall unemployment in Canada is holding steady. But, there is a gap across generational lines, with youth unemployment more than double the national average.&#xD;
+&#xD;
+In the November budget, the Liberal government announced new funding for its summer jobs program, among other measures. Now, the spring economic update’s skills training measures are the largest line item when it comes to new spending.&#xD;
+&#xD;
+“Team Canada Strong will provide a simple and seamless way to learn about and enter into the trades and link up with employers,” the spring economic update states. “Young people will start with paid, job ready placements that lead directly into registered apprenticeships—earning income, gaining experience, and contributing immediately to major housing, infrastructure, and defence projects.”&#xD;
+&#xD;
+Part of the plan also includes funding for apprenticeships by way of wage subsidies for employers. It also includes income top-ups for apprentices and one-time bonuses for apprentices obtaining certification in a Red Seal trade.&#xD;
+&#xD;
+The spring economic update lists other affordability measures for tradespeople as well, including funding to help ease labour mobility costs. The document proposes, for example, to increase the limit on temporary relocation expenses that eligible tradespeople can deduct on their taxes.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Reducing CPP contribution rate" id="id-2ca973ae0d21462ba604359f1958f2e5">
+      <documentation>Reducing CPP contribution rate&#xD;
+The spring economic statement also aims to keep more money in Canadians’ wallets by reducing the amount they have to contribute to the Canada Pension Plan.&#xD;
+&#xD;
+Starting in January, the CPP contribution rate will be reduced from 9.9 per cent to 9.5 per cent.&#xD;
+&#xD;
+According to O’Riordan, the change likely indicates the CPP fund is actuarily sound and performing well, allowing the federal government to pass along some of the surplus from it to Canadians.&#xD;
+&#xD;
+“This change would maintain a prudent financial buffer to protect the CPP against future economic and demographic risks, while providing meaningful contribution relief,” the spring economic update reads.&#xD;
+&#xD;
+“A 40-basis point reduction in the CPP contribution would translate into annual savings of about $133 for an employee earning $70,000 a year, with equivalent savings for their employer,” it also projects.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Extending EI for some seasonal workers" id="id-4a7435cf86f641079542c522a7344de8">
+      <documentation>Extending EI for some seasonal workers&#xD;
+The federal government is proposing to extend the employment insurance benefits for seasonal workers in some key regions in Canada.&#xD;
+&#xD;
+The spending is a continuation of rules that were introduced in 2018, according to the spring economic statement, to provide up to five extra weeks of employment insurance for eligible workers in 13 specific regions.&#xD;
+&#xD;
+The measure was set to expire this October, but the federal government is opting to extend it through to 2028.</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Health benefits to Indigenous communities" id="id-75ba97ea26074cbba4f2fe6b91b3a321">
+      <documentation>Health benefits to Indigenous communities&#xD;
+The spring economic update also allocates some new funding to Indigenous health initiatives.&#xD;
+&#xD;
+Namely, it earmarks $794 million this year to support the Non-Insured Health Benefits Program, “which provides First Nations and Inuit with coverage for a range of health products and services such as medical travel, pharmaceuticals, and mental health counselling.”</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Significant sports funding" id="id-a9df38d784c84374a8847456141a93f9">
+      <documentation>Significant sports funding&#xD;
+The spring economic update is proposing what it’s framing as “generational investment” in Canadian sports and athletes.&#xD;
+&#xD;
+Dubbing it “from playground to podium” funding, the federal government is earmarking $755 million over five years, starting in 2026-27, and $118 million ongoing, to Canadian Heritage to support Canada’s sport system to:&#xD;
+&#xD;
+“Bring more world-class sporting events to Canada;&#xD;
+Help our athletes train, compete, and perform, including support for better mental health;&#xD;
+And see new and existing community infrastructure … fully used and enjoyed by a new generation of athletes.”</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Clearing air travel complaints backlog" id="id-cba56aa00c1d4aa2a66b16bf6fa8c5a7">
+      <documentation>Clearing air travel complaints backlog&#xD;
+The federal government wants to change the resolution process for air travel complaints in order to reduce the backlog.&#xD;
+&#xD;
+Firstly, it’s proposing to transfer responsibilities for those complaints from the Canadian Transportation Agency to the Minister of Transport, which it claims will “enhance transparency of the complaints process and enforcement of passenger rights regulations.”&#xD;
+&#xD;
+The spring economic update doesn’t put a number to the current backlog, but does categorize it as “significant.”&#xD;
+&#xD;
+It also states “the government’s intention to clear the backlog of air travel complaints by engaging a neutral, third-party dispute resolution organisation based on a proven model in the (United Kingdom) and the (European Union).”&#xD;
+&#xD;
+“Beyond the backlog, the government also intends to develop a simpler and more effective regulatory regime, so that rules are clearer and passengers are fairly and more quickly compensated when air travel does not go as planned,” the spring economic update states.&#xD;
+&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Some measures for homebuyers" id="id-d151911f89f149efb051e89828ecbb27">
+      <documentation>Some measures for homebuyers&#xD;
+Another previously announced or existing measure the federal government is proposing to extend is the grace period during which homeowners are not required to start repaying their Home Buyers’ Plan withdrawals.&#xD;
+&#xD;
+According to the spring economic update, the measure already applies for those who made a withdrawal to their Home Buyers’ Plan between 2022 to 2025, but the grace people will now also extend to those making their first withdrawal up to the end of 2028.&#xD;
+&#xD;
+“This will provide cash flow relief of up to $4,000 (1/15 of $60,000) per individual per year for the three years over which they are not required to repay the amount into their RRSP,” the document estimates</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="Building one strong economy, built Canadian, for Canadians" id="id-0670f7e606bf41e0aa6604db923860bf"/>
+    <element xsi:type="archimate:CourseOfAction" name="Diversifying Canada's trade with the world" id="id-a7ebefba7b6a4621815d981e4c2d1fec"/>
+    <element xsi:type="archimate:CourseOfAction" name="Maintaining fiscal sustainability while investing where it counts" id="id-201937c4efb64e9e99f5f0c26927a5ce"/>
+    <element xsi:type="archimate:CourseOfAction" name="Improving affordability and keeping our communities safe" id="id-ca4c427daa014ac6a7968a84dca14aa5"/>
+    <element xsi:type="archimate:Resource" name="Canada Strong For All" id="id-50677b7ab5dc4fe699ce989d58166cfb">
+      <documentation>https://budget.canada.ca/update-miseajour/2026/home-accueil-en.html &#xD;
+https://budget.canada.ca/update-miseajour/2026/home-accueil-fr.html &#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:Capability" name="A8.04.08 Managed File Transfer (MFT) [DACM]" id="id-fed880ca42be488c87312614abe55aa2">
+      <documentation>A8.04.08 Managed File Transfer (MFT)&#xD;
+Managed file transfer (MFT) refers to a software or a service that manages the secure transfer of data from one computer to another through a network (e.g., the Internet). MFT software is marketed to corporate enterprises as an alternative to using ad-hoc file transfer solutions, such as FTP, HTTP and others.&#xD;
+Typically, MFT offers a higher level of security and control than FTP. Features include reporting (e.g., notification of successful file transfers), non-repudiation, auditability, global visibility, automation of file transfer-related activities and processes, end-to-end security, and performance metrics/monitoring.&#xD;
+MFT applications are available as both on-premises licensed software packages and software-as-a-service (SaaS). Some are specially designed for enterprise use while others are for sale to individual consumers. A few enterprise-focused SaaS MFT providers also manage the additions of new trading partners, which can free up a lot of IT (Information Technology) resources.&#xD;
+Source: Wikipedia&#xD;
+Related term: File Transfer Gateway, File Transfer Protocol (FTP) Gateway, FTP Server, File Exchange Gateway, Secure File Transfer Gateway.&#xD;
+&#xD;
+A8.04.08 Transfert de fichiers gérés (MTF)&#xD;
+Le transfert de fichiers gérés (MTF) désigne un logiciel ou un service qui gère le transfert sécurisé des données d’un ordinateur à un autre par l’entremise d’un réseau (p. ex., Internet). Le logiciel de MFT est présenté aux entreprises comme étant une alternative à l’utilisation de solutions de transfert de fichiers ponctuelles, comme FTP, HTTP et autres.  En général, le MFT offre un niveau de sécurité et de contrôle plus élevé que le protocole FTP. Les caractéristiques du MFT comprennent la production de rapports (p. ex., notification de transferts de fichiers réussis), la non-répudiation, la vérifiabilité, la visibilité mondiale, l’automatisation des activités et des processus liés au transfert de fichiers, la sécurité de bout en bout et la mesure et la surveillance du rendement.  Les applications de MFT sont disponibles à la fois sous forme de progiciels sous licence sur les lieux et de logiciel en tant que service (SaaS). Certaines applications sont spécialement conçues pour être utilisées en entreprise, tandis que d’autres sont destinées à la vente à des consommateurs individuels. Quelques-uns des fournisseurs de SaaS de MFT qui concentrent leurs activités sur le secteur des entreprises proposent également un service de gestion et d’ajout de nouveaux partenaires commerciaux, ce qui permet de dégager une quantité importante de ressources de TI (technologies de l’information).  Source : Wikipédia.    Termes connexes : passerelle de transfert de fichiers, passerelle FTP, serveur FTP, passerelle d’échange de fichiers, passerelle de transfert de fichiers sécurisée.</documentation>
+    </element>
   </folder>
   <folder name="Business" id="id-fb9c94c240434273aa6d6f5df1a73407" type="business">
     <element xsi:type="archimate:BusinessEvent" name="EA Requests SAS Feedback" id="id-a7ebf3b84a7545f6a5b2e8eaca445cb6"/>
@@ -6832,6 +7060,213 @@ Ima added that we need to provide Canadians with clear information about what da
     <element xsi:type="archimate:BusinessRole" name="Business Role" id="id-d567efec0af7474f819023abb3e69a84"/>
     <element xsi:type="archimate:BusinessRole" name="Everyone except external users" id="id-7a9c9e43919045a983e548159eef4d5c"/>
     <element xsi:type="archimate:BusinessRole" name="EDA Team ADE Visitors" id="id-4cf4b0959dfd440b8f4644570d01f3cc"/>
+    <element xsi:type="archimate:BusinessRole" name="Business Subject Matter Expert (BSME)" id="id-b9c6a5f1910d4b97907cc5986d01ed66">
+      <documentation>Business Subject Matter Expert (BSME)&#xD;
+o	Accountable for certification outcome: The Business Subject Matter Expert leads the certification process for the specific product and is ultimately responsible for the insights and interpretations the report provides. This role entails a thorough understanding of the data's intended use within the business, granularity, depth, and the criteria for fitness-for-use.&#xD;
+o	Accepts residual risk: The Business Subject Matter Expert acknowledges and accepts any residual risks associated with the data assets they oversee(identified and documented during the process implementation). This involves understanding the limitations of the data and the implications of potential inaccuracies or misuses in decision-making.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Lead Data Stewards" id="id-5f492b0aabb343988052c5c269ef2049">
+      <documentation>Lead Data Stewards&#xD;
+o	Ensures enforcement, manages operations, provides direction and guidance: Lead Data Stewards oversee the implementation of data certification standards and practices within their domain. They manage daily operations related to data stewardship, ensuring that all certification-related activities are compliant with defined policies and procedures. Additionally, they provide support and guidance to Data Stewards, helping to harmonize practices across teams.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Data Steward" id="id-68716b92ff9244fcbeaf10665d002d89">
+      <documentation>Data Steward&#xD;
+o	Ensures metadata, lineage, and quality completeness: Data Stewards are responsible for maintaining comprehensive metadata and ensuring the accuracy of data lineage. They play a vital role in documenting the origin and movement of data throughout their lifecycle, which is essential for transparency and accountability in the certification process.&#xD;
+o	Coordinates certification activities: Data Stewards facilitates and coordinate the various activities involved in the certification process. This includes organizing assessments, gathering necessary documentation, and collaborating with relevant stakeholders to ensure a smooth certification workflow.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Data Custodian" id="id-3882896bde774acaab59ed60076890d3">
+      <documentation>Data Custodian:&#xD;
+o	Implement pipelines and transformations: Data Custodians are tasked with the technical aspects of data management, including the implementation of data pipelines and transformations. They ensure that data is processed and stored according to established standards, maintaining the integrity and accessibility of data assets for certification purposes. &#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Data Trustee (Governance Committee)" id="id-4daffcda47324b4283b11469c8cb0549">
+      <documentation>Data Trustee (Governance Committee): &#xD;
+o	Final certification authority: The Governance Committee serves as the highest authority in the certification process, making final decisions regarding the certification of data assets. This committee evaluates certification applications, reviews evidence and findings, and ensures that all certifications align with organizational policies and regulatory requirements. Additionally, the committee is responsible for timely governance meetings and decision-making, as well as providing strategic oversight and direction for certification activities. &#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Privacy &amp; Security" id="id-d9b8359c71434ae896817b5cea3114ef">
+      <documentation>Privacy &amp; Security&#xD;
+o	Validate regulatory and control compliance (External to certification team): The Privacy &amp; Security team is responsible for ensuring that data assets meet all regulatory and compliance standards related to privacy and security. They conduct assessments to validate adherence to relevant laws and organizational controls, playing a critical role in safeguarding sensitive information and building trust in the certification process.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Step 1: Intake &amp; Product Definition" id="id-9d2a111102ff45c58057a51efc35125f">
+      <documentation>Step 1: Intake &amp; Product Definition&#xD;
+&#xD;
+The success of the data certification process begins with a thorough intake and asset definition. This foundational step ensures that all relevant aspects are considered before any certification activities commence. By clearly defining the parameters and requirements of the data asset, organizations can set the stage for successful outcomes and effective delivery.&#xD;
+Required Elements&#xD;
+Product Name, Description, and Domain: Provide a clear name for the data product, along with a concise description that summarizes its purpose and relevant domain. This helps ensure clarity and avoids ambiguity among users.&#xD;
+Insight: “Standardize naming conventions and descriptions across the organization to enhance understanding and consistency.”&#xD;
+Business Purpose and Supported Process: Clearly articulate the business purpose of the data asset and the specific processes it supports. This helps stakeholders understand how the asset contributes to business objectives and decision-making.&#xD;
+Insight: “Engage with key stakeholders to gather insights on the business needs and ensure the product aligns with strategic goals. This can be done through workshops or interviews to capture expectations.”&#xD;
+Intended Use Cases and Consumer Personas: Identify the intended use cases for the data asset and document the profiles of consumer personas who will utilize it. This information clarifies the context in which the data will be used and enhances understanding of user requirements.&#xD;
+Insight: “Conduct user research to identify various consumer personas and their needs for utilizing the data. User stories can also be helpful in communicating how different personas will interact with the data asset.”&#xD;
+Source Systems and Key Data Elements: Document the source systems from which the data product  derives its information and outline the key data elements involved. Understanding the origins of the data is crucial for assessing data quality and lineage.&#xD;
+Insight: “Create data flow diagrams to visually represent the source systems and data pathways. This can aid in understanding how data is transformed and integrated.”&#xD;
+Critical Data Elements (CDEs): Identify and define Critical Data Elements that are vital for the product's functionality and compliance. CDEs require higher levels of integrity and oversight, given their significance to business operations.&#xD;
+Insight: “Collaborate with business and data management teams to classify CDEs based on their impact on decision-making and regulatory obligations.”&#xD;
+Ownership and Stewardship: Establish clear ownership and stewardship roles for the data asset. Knowing who is responsible for managing and maintaining the asset is key to ensuring accountability.&#xD;
+Insight: “Designate a Business Data Steward and a Data Steward for each asset to provide continuous oversight and engagement in the certification process.”&#xD;
+Data Sensitivity and Criticality Tier: Evaluate the sensitivity of the product and assign a criticality tier that reflects the level of risk associated with its use. This allows organizations to implement the appropriate governance and security measures.&#xD;
+Insight: “Conduct a risk assessment to determine sensitivity and criticality levels, involving relevant stakeholders from compliance and security teams.”&#xD;
+Schedule and Reporting Timeline, Period: Define a clear schedule for the certification process, along with timelines for reporting on progress and outcomes. This helps manage expectations and ensures timely completion of the certification activities.&#xD;
+Insight: “Utilize project management tools to create a timeline that aligns with business priorities, integrating checkpoints for progress monitoring.”&#xD;
+&#xD;
+Data Steward may utilize the template provided in Appendix 1 as a foundational tool to structure your inputs, ensuring that all the critical elements are comprehensively addressed. By customizing and updating this template to reflect the specific needs of your data product, you can streamline the intake and asset definition process, making it more efficient and focused. This approach not only accelerates the certification process but also ensures that all necessary details are captured accurately, supporting a thorough understanding and alignment with business objectives.&#xD;
+By diligently addressing these required elements during the intake and asset definition, organizations establish a solid foundation for the certification process. This preparatory work enhances the likelihood of achieving successful outcomes, delivering reliable and high-quality data products that meet business needs and compliance requirements. Engaging with stakeholders, utilizing best practices, and employing effective tools will facilitate a well-thought-out approach to certification.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Step 2: Lineage Discovery &amp; Data Profiling" id="id-31d6cbef22bd4d669d302b431eebea33">
+      <documentation>Step 2: Lineage Discovery &amp; Data Profiling&#xD;
+&#xD;
+The Lineage Discovery and Data Profiling step is a crucial phase in the data certification process. It lays the groundwork for ensuring that data assets are accurately represented and that the quality of reports derived from these assets is reliable. Poorly executed lineage discovery and data profiling can lead to significant inaccuracies in reporting, potentially compromising organizational decision-making and accountability.&#xD;
+Lineage Discovery (Initial)&#xD;
+Identify Upstream Systems: Begin by identifying all upstream systems that contribute data to the final report/product. This includes columns, tables, databases, views, applications, and other sources that serve as the origin points for the data.&#xD;
+Identify Downstream Consumers: Next, determine who the downstream consumers of the data are, including teams, departments, or systems that utilize the data (gathered in step 1). Understanding these relationships helps clarify the impact of data quality on various reporting functionalities.&#xD;
+Capture Known Transformations (ETL, SQL, Power Bi, Excel, etc.): Document all known transformations applied to the data, including Extraction, Transformation, and Loading (ETL) processes, SQL queries, Excel manipulations, and any other processing undertaken.&#xD;
+Transformations are at the heart of this process and must be captured with meticulous attention to detail. Collaborating closely with the Business Data Steward is essential to ensure that transformations accurately reflect the intended purpose of the data. This collaboration is particularly crucial for high-risk transformations - such as pivots, deduplications, filterings, aggregations, calculations, and counts - where incorrect application can lead to erroneous conclusions and reports.&#xD;
+Data Profiling:&#xD;
+Product Level vs. Asset Level Profiling&#xD;
+This section explains what data profiling means in our operating model, how profiling is applied after report or product intake, and how product level profiling differs from traditional data asset profiling in both intent and execution.&#xD;
+In this playbook, data profiling is not treated as a single, universal activity. Instead, it is a context dependent discipline applied at different points in the data lifecycle, for different reasons.&#xD;
+Data profiling is the structured assessment of data behavior, quality, and risk relative to a defined scope and purpose.&#xD;
+The scope and purpose determine:&#xD;
+•	what is inspected&#xD;
+•	how deeply it is inspected&#xD;
+•	how results are interpreted&#xD;
+•	how findings are used downstream&#xD;
+Profiling in this model occurs after initial report or data product intake has been completed.&#xD;
+At this stage:&#xD;
+•	Business objectives are known&#xD;
+•	Key questions, KPIs, and dimensions are agreed&#xD;
+•	Refresh cadence and decision context are defined&#xD;
+As a result, profiling is not exploratory (“what data do we have?”) It is confirmatory and evaluative:&#xD;
+Can the available data safely and correctly support the agreed product or report requirements?&#xD;
+Profiling is therefore a risk reduction and readiness gate, not a discovery exercise.&#xD;
+Product Level (Report Level) Data Profiling&#xD;
+Product level data profiling evaluates data in the context of how it will be used by a specific report or data product.&#xD;
+It assesses:&#xD;
+•	Whether the data supports the agreed KPIs and dimensions&#xD;
+•	Whether aggregation, joins, and grain behave as expected&#xD;
+•	Whether data quality is sufficient for the intended decisions&#xD;
+•	Where assumptions, limitations, or risks must be communicated&#xD;
+The unit of analysis is the product behavior, not the dataset in isolation.&#xD;
+Product profiling answers questions such as:&#xD;
+•	Does the data behave correctly at the report’s grain?&#xD;
+•	Are metrics safe to aggregate in the intended views?&#xD;
+•	Do known data quality issues materially affect conclusions?&#xD;
+•	Are trends interpretable and stable for decision making?&#xD;
+•	What must users not infer from this product?&#xD;
+This makes product profiling decision centric, not data centric.&#xD;
+At the product level, data quality checks are selective and contextual. For example:&#xD;
+•	Completeness is assessed only for fields used by the product&#xD;
+•	Accuracy is evaluated in terms of outcome reliability, not field by field perfection&#xD;
+•	Duplicates are assessed based on KPI impact, not raw counts&#xD;
+•	Timeliness is judged against decision cadence, not system SLAs&#xD;
+The guiding question is always: Does this data issue change the meaning or reliability of the product’s outputs?&#xD;
+Key Differences in Practice&#xD;
+Purpose and Scope&#xD;
+The following table contrasts two essential dimensions of data profiling: Product Profiling and Asset Profiling. Product Profiling focuses on validating the fitness of specific data for a particular product, ensuring that only the data utilized in that product aligns with its objectives. This process is decision-centric and occurs after the intake phase and before the build process. In contrast, Asset Profiling assesses the intrinsic quality of the entire dataset, adopting a data-centric perspective. This comprehensive evaluation takes place during the data ingestion or onboarding process, allowing for a thorough understanding of the dataset's quality and reliability before it is utilized in any product.&#xD;
+Dimension	Product Profiling	Asset Profiling&#xD;
+Primary goal	Validate fitness for a specific product	Assess intrinsic dataset quality&#xD;
+Scope	Only data used by the product	Entire dataset&#xD;
+Perspective	Decision centric	Data centric&#xD;
+Timing	After intake, before build	During ingestion or onboarding&#xD;
+&#xD;
+Data Quality Checks (Critical Distinction)&#xD;
+Quality Dimension	Product Profiling	Asset Profiling&#xD;
+Completeness	Is missing data acceptable for this KPI?	What % of values are missing?&#xD;
+Accuracy	Are outcomes reliable for decisions?	Are field values correct?&#xD;
+Consistency	Do KPIs behave consistently across views?	Do fields align across datasets?&#xD;
+Timeliness	Is freshness acceptable for decision cycle?	Is data updated as designed?&#xD;
+Uniqueness	Do duplicates distort metrics?	Are rows duplicated?&#xD;
+Product profiling reframes quality from absolute correctness to decision impact.&#xD;
+&#xD;
+The Lineage Discovery and Data Profiling phase is vital for achieving high levels of accuracy and reliability in data reporting. By rigorously identifying upstream sources, documenting all transformations, and conducting comprehensive data profiling, organizations can ensure that their data assets meet quality standards and effectively support business needs. This thorough approach mitigates risks associated with data inaccuracies and enhances stakeholders' confidence in the reporting outcomes based on these data assets.&#xD;
+To facilitate the execution of this step, a checklist is available in Appendix 2 (Post Intake Data Profiling Checklist (Operational)). This template serves as a foundational tool to guide users in documenting data profiling activities. This template can be customized to fit the specific needs of each data product, enabling a more efficient approach while ensuring that all critical elements are addressed.&#xD;
+&#xD;
+&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Step 3: Data Quality &amp; Lineage Validation" id="id-a071363554a74f3bbfefd8f38ce8a3d1">
+      <documentation>Step 3: Data Quality &amp; Lineage Validation&#xD;
+Data Quality and Lineage Validation represent the second most critical component of the data certification process. This phase ensures that data assets meet established quality standards and that their lineage is thoroughly documented and verified. A comprehensive approach in this step is essential for creating a robust quality framework that supports further analysis, monitoring, and reporting.&#xD;
+Data Quality Validation&#xD;
+To assess the quality of data assets accurately, several dimensions of data quality must be evaluated:&#xD;
+Accuracy: Verify that the data correctly represents the intended values and is free from error. Accurate data is essential for reliable reporting and decision-making.&#xD;
+Completeness: Ensure that all required data elements are present and that no critical fields are missing. This dimension is vital for maintaining the integrity of the data.&#xD;
+Timeliness/Freshness: Assess whether the data is current and relevant to business needs. Timeliness ensures that decisions are based on the most up-to-date information, while freshness addresses the data’s relevance and usability over time.&#xD;
+Validity: Confirm that the data values conform to defined formats and business rules. Validity checks help in identifying erroneous or out-of-range values.&#xD;
+Consistency: Ensure that data remains consistent across different datasets and reports, promoting trustworthiness and reliability.&#xD;
+Uniqueness: Evaluate the data to ascertain that records are not duplicated unnecessarily, which can lead to skewed analysis and reporting.&#xD;
+Integrity: Assess the integrity of the data assets across sources, ensuring that it maintains its intended structure and relationships, and is free from manipulation or corruption. Integrity checks help verify that the data has not been altered inappropriately during processing or storage.&#xD;
+Lineage Validation&#xD;
+After validating the quality of the data, the next step is to confirm the lineage of the data assets. This involves:&#xD;
+End-to-End Lineage Confirmation: Validate that the entire data lineage - from the source through various transformations to the final output - has been accurately documented and verified. Understanding the data flow is critical for ensuring transparency and accountability.&#xD;
+Manual Steps Explicitly Documented: All manual processes involved in the data flow must be clearly documented (as risk). This documentation serves as an audit trail that enhances trust in the data transformations.&#xD;
+Steward Approval Required: Data Stewards play a vital role in this validation process. Their review and approval of the lineage documentation, transformations, and quality thresholds are essential for establishing an authoritative source of truth before proceeding to the next steps.&#xD;
+In summary, Data Quality &amp; Lineage Validation is integral to the data certification process. By conducting a thorough analysis of all reports, products, and underlying data assets, organizations can define relevant data quality dimensions and establish thresholds and pass/fail criteria for robust quality oversight. Validating lineage ensures that all aspects of data movement and transformation are accounted for and documented, providing valuable evidence for future reference, audits, and governance reviews. Ultimately, the authoritative approval from data stewards reinforces the integrity of the data assets and prepares them for effective utilization in decision-making processes.&#xD;
+To facilitate the execution of this step, a few templates are available, including Appendix 3 (Data Quality Checklist), which serves as a foundational tool to guide users in documenting data quality, and Appendix 4 (Lineage Verification and Data Asset Migration Report), which focuses on lineage verification and helps ensure that all necessary elements are addressed and organized.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Step 4: Governance, Compliance &amp; Change Readiness" id="id-c19deb0a637443a19a9216fa862c89a2">
+      <documentation>Step 4: Governance, Compliance &amp; Change Readiness&#xD;
+The Governance, Compliance, and Change Readiness step is a vital component of the data certification process. By establishing a robust governance framework and ensuring compliance with relevant regulations, organizations can mitigate risks associated with data management. Additionally, preparing for potential changes ensures that data assets remain relevant and valuable throughout their lifecycle.&#xD;
+&#xD;
+Governance&#xD;
+Alignment with standards and best practices (DAMA-DMBOK), and Internal Policies: Ensure that the governance practices adhere to industry standards, such as the DAMA-DMBOK framework, alongside any internal policies that dictate data management practices. This alignment guarantees that the organization follows established best practices in data stewardship and governance.&#xD;
+Ownership Documented in Data Catalog: Clear documentation of data ownership is essential for accountability and transparency. By maintaining an up-to-date data catalog that specifies each data asset's owner, organizations can ensure that responsibilities are clearly defined and that data stewards are actively engaged in managing their respective assets.&#xD;
+To ensure transparency regarding the responsibilities and steps involved in Data Certification work by various stakeholders, the RACI matrix provided in Appendix 6 (RACI Matrix) will serve as a guiding tool for streamlining accountabilities and establishing communication channels.&#xD;
+Compliance&#xD;
+Privacy Classification (PIPEDA/GDPR): Conduct a thorough evaluation of data assets to ensure compliance with relevant privacy regulations, such as PIPEDA (Personal Information Protection and Electronic Documents Act) or GDPR (General Data Protection Regulation). Proper classification of data assets helps address privacy concerns and protects sensitive information.&#xD;
+Access Controls Validated: Implement and validate access controls to safeguard data against unauthorized access. This involves checking that only authorized personnel can access sensitive data assets, ensuring that measures are in place to protect data integrity and confidentiality.&#xD;
+Retention and Disposal Rules Applied: Establish clear retention and disposal policies for data assets to comply with legal and regulatory requirements. Verify that these rules are consistently applied to prevent the unintended retention of unnecessary data, thereby reducing risk and storage costs.&#xD;
+Change Enablement&#xD;
+Change Process Model Defined: Develop a change management process model that outlines how changes to data assets will be handled. This model should include the steps for assessing, implementing, and documenting changes, ensuring that all updates follow a structured approach that minimizes disruptions.&#xD;
+Re-certification Triggers Agreed: Define triggers for re-certification that specify the circumstances under which data assets must undergo a new certification process. This could be due to significant changes in data sources, transformations, or regulatory requirements. By having agreed-upon triggers, organizations can maintain data asset integrity and compliance over time.&#xD;
+Governance, Compliance &amp; Change Readiness provides essential guidelines for ensuring that data assets are managed and governed effectively. By aligning with established frameworks, documenting ownership, and adhering to compliance regulations, organizations can mitigate risks related to data breaches and enhance the reliability of their data assets. Implementing change enablement practices prepares organizations for future adaptations, ensuring that data remains accurate, compliant, and valuable.&#xD;
+&#xD;
+To assist in executing this step, best practice guidelines and templates (Appendix 5 – Data Governance &amp; Compliance Checklist)can aid in the review process, ensuring that all necessary governance and compliance measures are comprehensively considered and addressed.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Step 5: Certification Decision &amp; Publication" id="id-a0291bd758aa4754b015646613741578">
+      <documentation>Step 5: Certification Decision &amp; Publication&#xD;
+The fifth step in the data certification process centers on the decision-making regarding the certification of data assets and the subsequent publication of those decisions. This step is crucial for establishing the status of data assets and ensuring that stakeholders are informed about the quality and usage conditions associated with them.&#xD;
+Decision Inputs&#xD;
+In making a certification decision, several key inputs must be considered. &#xD;
+Data Quality (DQ) Results and Residual Risks: The outcomes of previous data quality assessments are essential inputs for decision-making. This includes an evaluation of any residual risks associated with the product and underlying data assets, which must be understood to determine whether the product meets the certification criteria. A comprehensive analysis of data quality metrics will provide insights into the reliability and usability of the product.&#xD;
+Lineage Completeness: Verification of the completeness of data lineage is crucial for establishing trust in the data. Ensuring that the lineage is fully documented - covering the flow of data from source to end-use - is a significant factor in the certification process. Incomplete lineage verification or established lineage may raise concerns over data integrity and the accuracy of reporting.&#xD;
+Compliance Validation: An assessment of compliance with relevant regulations and internal policies must be included in the decision-making process. This validation ensures that the data asset adheres to legal requirements, data governance standards, and any applicable privacy laws. Compliance is non-negotiable to maintain the organization’s reputation and avoid legal ramifications.&#xD;
+Outcomes&#xD;
+Based on the evaluation of the above inputs, the certification decision will fall into one of the following categories:&#xD;
+Approved: The data asset has met all criteria for certification and is deemed fit for use. Users can rely on its integrity, quality, and compliance with applicable standards. &#xD;
+Conditionally Approved: The data asset meets some certification criteria but has certain conditions that must be addressed before it can be fully certified. These conditions should be documented, and a plan for resolving them should be established.&#xD;
+Rejected: The data asset does not meet the necessary certification standards and is not approved for use. This outcome necessitates a review of the asset to identify areas for improvement and potential pathways to re-certification.&#xD;
+Certification Publication&#xD;
+Once a decision has been made, the certification must be published to ensure that stakeholders are informed of the asset’s status. The publication process includes:&#xD;
+Data Catalog Badge: An official badge or mark indicating the certification status of the data asset is added to the data catalog. This visual representation helps users quickly identify certified assets.&#xD;
+Validity Period: The certification publication should include the duration for which the certification is valid. This informs users about the timeframe within which the certification is guaranteed, emphasizing the need for regular re-evaluation.&#xD;
+Known Limitations: Any limitations associated with the data asset should be clearly communicated in the publication. This includes notes on potential issues, constraints on usage, or specific conditions that users must consider. Transparency around limitations promotes informed decision-making among users.&#xD;
+Certification Decision &amp; Publication is a vital phase in the data certification lifecycle, ensuring that all decisions are based on comprehensive, objective assessments. By carefully evaluating inputs such as data quality results, lineage completeness, and compliance validation, organizations can make informed certification decisions that enhance data integrity and governance. The publication of certification statuses fosters trust and clarity among stakeholders, ultimately supporting effective data utilization across the organization.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Step 6: Ongoing Monitoring &amp; Re-Certification" id="id-dfb60d5576bc42619168d75b3242acfb">
+      <documentation>Step 6: Ongoing Monitoring &amp; Re-Certification&#xD;
+The Ongoing Monitoring and Re-Certification step is critical to maintaining the integrity, reliability, and compliance of data assets throughout their lifecycle. Continuous monitoring ensures that data remains fit for purpose, while a structured re-certification process guarantees that any changes or concerns are addressed promptly.&#xD;
+Monitoring&#xD;
+Effective monitoring involves several key activities designed to uphold the quality and usability of certified data assets:&#xD;
+Quality Trend Metrics: Regularly assessing quality trend metrics allows organizations to track the ongoing performance of data assets over time. This includes monitoring key indicators such as accuracy, completeness, and timeliness, enabling data stewards to identify potential issues before they impact business processes.&#xD;
+Lineage Change Detection: Monitoring for changes in data lineage is essential for ensuring that any modifications to the data flow are documented and understood. This includes detecting alterations in source systems, changes in data transformations, or updates to output reports. Effective lineage change detection helps maintain transparency and trust in the data.&#xD;
+SLA Monitoring: Service Level Agreement (SLA) monitoring ensures that data assets meet predefined performance and quality standards. Regular reviews of SLA adherence are crucial for monitoring data availability, accessibility, and quality, and for ensuring that the organization is meeting its data governance commitments.&#xD;
+Re-Certification&#xD;
+Re-certification is a proactive measure designed to ensure that data assets remain compliant and continue to meet quality standards. It is triggered under several circumstances:&#xD;
+Material Change: Any significant change to the data asset - such as modifications in the source system, changes in the transformation processes, or new regulatory requirements - will necessitate re-certification. Material changes can affect data quality and integrity, making it essential to re-evaluate the asset against certification criteria.&#xD;
+Quality Degradation: If monitoring activities indicate a decline in data quality - e.g., an increase in errors, missing records, or failure to meet established quality metrics - the asset should undergo re-certification. Addressing quality degradation promptly is crucial for maintaining trust in the data and ensuring that it continues to serve its intended purpose effectively.&#xD;
+Expiry: Certifications are not permanent; they have an established validity period. As the expiration date approaches, a scheduled re-certification process should be initiated to assess the data asset afresh. This ensures that all relevant changes and quality assessments are taken into account before extending the certification status.&#xD;
+Ongoing Monitoring &amp; Re-Certification is vital for sustaining the value and integrity of certified data assets over time. By implementing robust monitoring practices that track quality trends, lineage changes, and SLA compliance, organizations can proactively manage data quality and mitigate risks. Additionally, a structured re-certification process ensures that data assets continue to meet evolving business needs and compliance requirements, ultimately reinforcing trust in organizational data.&#xD;
+</documentation>
+    </element>
   </folder>
   <folder name="Application" id="id-4c073bc2342b490eae44200c8635c571" type="application">
     <element xsi:type="archimate:ApplicationService" name="GCcollab File Sharing (Application Service)" id="id-04a7463bf90b4892a9691959fc467461">
@@ -15943,6 +16378,85 @@ Architecture Implications&#xD;
 •	Treat the EDRM as an enterprise contract, not a reference only.</documentation>
     </element>
     <element xsi:type="archimate:Outcome" id="id-6b8788390a6342f0bb5ad9ea39e2db86"/>
+    <element xsi:type="archimate:Meaning" name="Purpose of This Document" id="id-59f6c4e2fcc24cc8bbb5df8ae46977ad">
+      <documentation>Purpose of This Document&#xD;
+This document serves as the authoritative reference (&quot;the bible&quot;) for enterprise data certification. It explains what data certification is, why it exists, how it is performed, and how stakeholders are expected to participate. It is designed to be both instructional and practical, enabling consistent execution across data products and domains.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Confidence for consumers" id="id-94b40e9e85874c8882477313a3d35176">
+      <documentation>•	Confidence for consumers: When data assets are certified, users can trust that the information they are working with is accurate, reliable, and relevant. This confidence fosters a culture of data-driven decision-making as stakeholders feel assured that they can base their analyses and strategies on solid evidence.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Accountability for owners" id="id-b02f7c599d4b48efaa10cfd98adbf70c">
+      <documentation>•	Accountability for owners: Certification establishes clear ownership and responsibility for data assets. When data owners are held accountable for maintaining the integrity and quality of the data, it encourages a proactive approach to data management. Clear lines of accountability also aid in managing disputes and ensuring that data stewardship is prioritized within the organization.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Defensible evidence for audit and regulators" id="id-76438915c0044778966582a9971a2961">
+      <documentation>•	Defensible evidence for audit and regulators: In an era of heightened compliance requirements, having certified data assets provides organizations with defensible evidence that they are adhering to regulatory obligations. This evidence is crucial during audits, as it demonstrates that the organization has taken appropriate steps to manage data effectively and ethically.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="A repeatable decision framework" id="id-3f01dc5f42594a28912854f659226c6c">
+      <documentation>•	A repeatable decision framework: Establishing a certification process creates a structured and repeatable framework for assessing data assets. This framework allows organizations to consistently evaluate the quality and governance of their data, making it easier to identify areas for improvement and ensure that data management practices evolve in line with organizational needs.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="Establish trust in enterprise data assets by certifying they are fit for purpose, governed, and safe to consume [Objective]" id="id-7c7cbe4a9be342a0b677408aae568f14">
+      <documentation>The Objective is establishing trust in enterprise data assets by certifying that they are fit for purpose, governed, and safe to consume.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Evidence-based and time-bound" id="id-da88bcae67284534bcf962b73be03ccd">
+      <documentation>•	Evidence-based and time-bound: Certification relies on concrete, verifiable evidence that demonstrates the quality and compliance of data assets. This means that assessments will be based on data quality metrics, documented processes, and validation results, ensuring that certification is grounded in factual information. Moreover, the certification process is time-bound, with periodic reviews and renewals to ensure that data remains relevant and in compliance with evolving standards and regulations.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Risk-aware and proportional" id="id-f5c12236e64e4924861ae195448c250c">
+      <documentation>•	Risk-aware and proportional: Effective certification takes into consideration the varying levels of risk associated with different data assets. By adopting a risk-aware approach, organizations can prioritize which data requires more stringent controls and governance measures. This proportionality ensures that resources are allocated effectively, allowing for a more focused and efficient certification process that aligns with the organization's risk appetite.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Business-backed decision" id="id-bdd67702ba1a4f08b122e9279918b9ee">
+      <documentation>•	Business-backed decision: Certification is not just a technical exercise; it requires the backing of business stakeholders who understand the strategic importance of data. Decisions regarding certification should be grounded in business objectives and the practical needs of users. This alignment ensures that the certification process is relevant and that the certified data can effectively support decision-making and drive business outcomes.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Repeatable and auditable" id="id-8951de1a49ab44a3a46a8bacd0815fbb">
+      <documentation>•	Repeatable and auditable: A foundational aspect of certification is that it must be repeatable and subject to audit. This means that the processes and criteria used for certification should be well-documented and standardized, allowing for consistent application across different data assets. An auditable certification process also facilitates transparency and accountability, making it easier for stakeholders to verify the integrity of the data and the certification process itself.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Not a guarantee of perfect data" id="id-403609081c894ecbaa6e08bb75b47701">
+      <documentation>•	A guarantee of perfect data: It’s important to recognize that certification does not equate to infallibility. While the certification process aims to ensure high data quality and compliance, it cannot guarantee that every data point is flawless or free of errors. Instead, certification offers a level of assurance that the data has been evaluated against established criteria and is fit for use in specific contexts.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Not a one-time activity" id="id-1d8d9c378b0d442fba6ac920563180f2">
+      <documentation>•	A one-time activity: Certification is an ongoing process, not a one-off event. Organizations must continuously evaluate and monitor their data assets to ensure they remain compliant with internal standards and external regulations. Regular reviews, updates, and recertification are essential to maintain the trustworthiness of data as business conditions and requirements evolve.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Not a replacement for business judgment" id="id-0261b3cdc8ad4775b23550caa330c8bc">
+      <documentation>•	A replacement for business judgment: Certification provides a framework for evaluating data quality, but it does not replace the need for human judgment. Business leaders must still exercise their expertise and experience when making decisions based on data. Certification is a supportive measure that enhances the reliability of information but does not eliminate the need for careful consideration of context and scenario.</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Not a waiver of operational responsibility" id="id-ac757489cdd7462b9f2bca7354f443b5">
+      <documentation>•	A waiver of operational responsibility: Certification does not absolve data owners or users of their operational responsibilities. While certification establishes a baseline of quality and governance, individuals and teams must remain engaged in the ongoing management of data. Operational accountability is key to ensuring that data is continuously maintained, updated, and used appropriately.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Business-led" id="id-aca97070cf6f412c9f09eabe52c095ab">
+      <documentation>•	Business-led: The certification process is driven by business owners who define what constitutes fitness-for-use for their specific data assets. Business stakeholders possess the contextual knowledge necessary to assess data quality and usability within the scope of their operations and objectives. By placing business leaders at the forefront of the certification process, organizations ensure that the criteria for certification align closely with actual business needs and priorities, fostering greater ownership and accountability.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Risk-based" id="id-baead0e0cc2340db9b051038bb8c7827">
+      <documentation>•	Risk-based: The certification effort is tailored to align with the impact and sensitivity of the data being assessed. Data assets that carry higher risks—such as those associated with regulatory compliance or critical business operations—will undergo more rigorous certification processes. This risk-based approach allows organizations to allocate resources effectively, ensuring that more attention is given to data that could significantly impact decision-making and operational integrity.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Evidence-driven" id="id-1b25c96abdd542b78ab87d8f338ace36">
+      <documentation>•	Evidence-driven: Decisions made throughout the certification process are based on concrete evidence and artifacts. This includes data quality metrics, audit trails, validation reports, and other documented proof of compliance with certification standards. By relying on objective, verifiable evidence, organizations can instill confidence in the certification outcomes and provide transparent rationale for decisions made, facilitating trust among stakeholders.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Lifecycle-oriented" id="id-f18f382642cf4c9abb3122cd3fd7d9b6">
+      <documentation>•	Lifecycle-oriented: The certification of data assets is not static; it is a dynamic process that recognizes that certification can expire and evolve over time. As data changes in nature or as organizational needs shift, certifications must be reviewed and updated to remain relevant. This lifecycle-oriented approach ensures that data remains fit for purpose and continues to meet established standards, adapting to any new developments in business strategy, technology, or compliance requirements.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="Automation-first" id="id-e4862ff4930947fe89db7965bd148fa5">
+      <documentation>•	Automation-first: To enhance efficiency and reduce human error, the certification process prioritizes automation wherever possible. By minimizing manual steps, organizations can streamline the certification workflow, allowing for quicker turnaround times and more consistent outcomes. Automation tools can facilitate data validation, reporting, and monitoring, leading to a more efficient certification process that frees up resources for strategic tasks.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Complete business and technical metadata" id="id-8e9926cc400241ed851354cae0adff2d">
+      <documentation>	Complete business and technical metadata: All necessary contextual and technical information is documented, ensuring clarity about the data's purpose, structure, and usage.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Data quality rules defined and monitored" id="id-ad7f864408f34df893215562f46ff99d">
+      <documentation>	Data quality rules defined and monitored: Clear rules for data quality are established, and mechanisms are put in place to continuously monitor compliance with these standards.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Lineage reviewed and documented" id="id-8f207543483f4199b5ee89fe10668ae3">
+      <documentation>	Lineage reviewed and documented: The complete lineage of the data is thoroughly reviewed and documented, providing transparency about where the data originated and how it has been transformed throughout its lifecycle.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Roles assigned" id="id-f47a6a0f157a45879480bb884adc50f5">
+      <documentation>	Roles assigned: Specific roles and responsibilities are assigned regarding data management, ensuring accountability and clear ownership of the data.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="No data quality issues remain unsolved above threshold" id="id-213e8465945d41a88b3bd8a4f1fc0099">
+      <documentation>	No data quality issues remain unsolved above threshold: All identified data quality issues are addressed, ensuring that any unresolved issues fall below acceptable thresholds and do not compromise the integrity of the data.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Obtained stewardship approvals" id="id-67a1449322304617ae24211df3286cb4">
+      <documentation>	Obtained stewardship approvals: Certification is backed by formal approvals from data stewards, confirming that the data meets established governance criteria and best practices.</documentation>
+    </element>
+    <element xsi:type="archimate:Requirement" name="Meet domain-specific standards" id="id-aa9c56c203d542f19be1c446c14406bf">
+      <documentation>	Meet domain-specific standards: Certified Data Assets must adhere to any relevant domain-specific standards and requirements, such as financial regulations for financial data, ensuring compliance with industry norms.</documentation>
+    </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Plateau" name="3rd Annual 2022 Digital Transformation in Government Conference (Plateau)" id="id-50a58ac56ba54b23834dc68b028ca8a0">
@@ -16472,6 +16986,40 @@ In June 2022, the government proposed the Digital Charter Implementation Act, 20
     <element xsi:type="archimate:Deliverable" name="GC EA Framework Annex Slides (Deliverable)" id="id-278386e1b1fa40e9be26359f4e744fed"/>
     <element xsi:type="archimate:Deliverable" name="Complete EA Assessment Slide Content (Deliverable)" id="id-178ac2dc37b3434285e43a4c41542f15"/>
     <element xsi:type="archimate:Deliverable" name="Current State Architecture Diagram (Deliverable)" id="id-2b03ac06fa244cd7a28c67129be2e53c"/>
+    <element xsi:type="archimate:Deliverable" name="Enterprise and domain-level data products [In Scope]" id="id-421cd21541d44d8ab38d27e663fb86e5">
+      <documentation>•	Enterprise and domain-level data products: Certification is applicable to data assets and data products that are utilized across the enterprise and specific domains within the organization. This includes datasets that inform strategic decision-making, operational processes, and cross-functional initiatives. By certifying these data products, organizations can ensure that the data aligns with business objectives and meets the requisite quality and governance standards necessary for reliable use.</documentation>
+    </element>
+    <element xsi:type="archimate:Deliverable" name="Certified analytical, reporting, and regulatory datasets [In Scope]" id="id-8a9a15f3604845cab5c1d3a37f7484dd">
+      <documentation>•	Certified analytical, reporting, and regulatory datasets: Any datasets specifically developed for analytical purposes, reporting, or compliance with regulatory requirements are included in the certification scope. These datasets must demonstrate accuracy, completeness, and timeliness, providing confidence for users who rely on them for informed decision-making, reporting obligations, and regulatory adherence. </documentation>
+    </element>
+    <element xsi:type="archimate:Deliverable" name="Exploratory, experimental or temporary datasets [Out of Scope]" id="id-7afb79ce60c54229b83d12f929f6eaeb">
+      <documentation>•	Exploratory, Experimental or temporary datasets: Data that is primarily for personal use or exploratory analysis does not fall within the certification process. Temporary datasets, which may be created for short-term projects or one-time analyses, are also excluded. These types of data typically do not require the same level of governance or oversight, as they may not be utilized beyond their immediate purpose. By excluding these datasets from certification, organizations can focus resources on the data that is critical to operations and key decision-making.</documentation>
+    </element>
+    <element xsi:type="archimate:Deliverable" name="Ad-hoc analysis not shared broadly [Out of Scope]" id="id-4e9111b8487e45b5b994a8de6a51b167">
+      <documentation>•	Ad-hoc analysis not shared broadly: Any analysis that is conducted on an ad-hoc basis and not intended for broader distribution or operational use are considered out of scope for certification. This includes analysis that does not form part of standardized reporting or approved processes. Such analyses may lack the consistency and rigor required for certification, thus falling outside established data governance frameworks.</documentation>
+    </element>
+    <element xsi:type="archimate:Plateau" name="Certified Product" id="id-d00a30e696e746758bda62be97afb574">
+      <documentation>Certified Product&#xD;
+A Certified Product represents the highest level of certification and encompasses data products that have undergone rigorous validation and assessment. These products are typically the result of integrating multiple data assets and complex transformations. As a comprehensive output, Certified Products require a tailored certification process that considers the specific methodologies used to create them. Extensive quality checks, thorough documentation, and compliance with business requirements are essential for achieving certification at this level. The certification of a product ensures that users can confidently rely on it for critical decision-making and reporting.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:Plateau" name="Certified Asset" id="id-bdce10a6342a4a12aa8c014e3378fcc7">
+      <documentation>Certified Asset&#xD;
+A Certified Asset denotes individual data assets that have been validated and certified for their quality and suitability. These data assets serve as the foundational building blocks for data products, meaning they are used in creating reports, analyses, and other outputs. Certified Assets undergo a standardized certification process that typically involves predefined extraction, transformation, and loading (ETL) procedures, along with essential quality checks. Unlike Certified Products, Certified Assets do not involve complex transformations or detailed analytical processes, allowing for a more straightforward certification pathway. This level of certification assures users of the asset's reliability and readiness for use in various applications.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:Plateau" name="Validated Data Asset" id="id-1bf718b954e547a8a1db4354bb916c33">
+      <documentation>Validated Data Asset&#xD;
+Validated Data Assets are those that have undergone the certification process but do not meet the criteria required for full certification. These assets may have been evaluated for quality, but certain aspects - such as completeness, accuracy, or compliance - may not align with certification standards. Additionally, Validated Data Assets may lack critical elements that could affect their usability and reliability:&#xD;
+•	Basic description: These assets may not have comprehensive descriptions outlining their purpose, scope, or content, which can lead to confusion about their intended use.&#xD;
+•	Owners assigned: Validated Data Assets may not have designated owners responsible for managing and maintaining the assets, leading to potential accountability gaps.&#xD;
+•	Sensitivity classification not identified and applied: Without appropriate sensitivity classifications, it becomes difficult to understand data protection requirements and compliance obligations, which may expose the organization to risks.&#xD;
+•	Glossary terms not defined and linked: Key terminologies associated with the data asset may not yet be defined or linked to a glossary, which can hinder effective communication and understanding among users.&#xD;
+While they are not classified as Certified Assets, Validated Data Assets have still gone through essential quality checks and processes, offering some degree of assurance to users. These assets may be useful for exploratory analyses or ad-hoc reporting, but should be approached with caution, as they may not be suitable for high-stakes decision-making without further validation.&#xD;
+The establishment of these certification levels and risk tiering allows organizations to articulate the varying degrees of quality, suitability, and risk associated with their data outputs. By clearly differentiating Certified Products, Certified Assets, and Validated Data Assets, organizations can effectively manage data governance and ensure that stakeholders understand the reliability and intended usage of each type of data asset.&#xD;
+For further context, this document primarily focuses on Product/Report Certification; however, Appendix 7- Asset Certification Checklist (Purview Aligned) provides a checklist outlining the steps required to execute Asset Certification, with an emphasis on using Microsoft Purview as a tool for end-to-end process delivery.&#xD;
+</documentation>
+    </element>
   </folder>
   <folder name="Other" id="id-3b6502d62be54bf79bb29134a011622f" type="other">
     <element xsi:type="archimate:Junction" name="Junction" id="id-483568e04e5345cc8bc005461b6854a2" type="or"/>
@@ -17486,6 +18034,87 @@ Additional information related to the program inventory for Social Development i
     <element xsi:type="archimate:Grouping" name="PRINCIPLE 6: DATA AS AN ASSET: IMPLICATIONs' PRACTICAL MEANINGs" id="id-75d469e584454a3abf1b9847f697b006"/>
     <element xsi:type="archimate:Grouping" name="CDOB ENTERPRISE DATA ARCHITECTURE PRINCIPLES: HOW THEY ARE TO BE USED" id="id-57f00d7e7da643bb84f3ff870c80de6b"/>
     <element xsi:type="archimate:Grouping" name="ESDC CDOB DATA PRINCIPLES (derived from the CDO Data Strategy)" id="id-ea335b40aa774d72acb7409e9c1699f7"/>
+    <element xsi:type="archimate:Grouping" name="KEY CERTIFICATION BENEFITS" id="id-5744fa9681fd4a47b9ba436a2e829d07">
+      <documentation>1. Introduction &amp; Objectives&#xD;
+In today’s data-driven landscape, the integrity and reliability of enterprise data assets are paramount. Organizations rely increasingly on data to drive decision-making, enhance operational efficiencies, and foster innovation. However, as the volume and complexity of data grow, so too do the challenges associated with its governance and management. This document outlines the necessity for establishing trust in enterprise data assets through a robust certification process.&#xD;
+The Objective is establishing trust in enterprise data assets by certifying that they are fit for purpose, governed, and safe to consume.&#xD;
+Certification serves as a vital mechanism for ensuring that data assets meet predetermined standards of quality and compliance. By defining clear criteria for what constitutes “fit for purpose”, organizations can systematically assess their data assets, ensuring they align with business needs and objectives. This process not only enhances the usability of data but also mitigates the risks associated with consuming flawed or improperly governed information.&#xD;
+Certification provides several key benefits:&#xD;
+•	Confidence for consumers: When data assets are certified, users can trust that the information they are working with is accurate, reliable, and relevant. This confidence fosters a culture of data-driven decision-making as stakeholders feel assured that they can base their analyses and strategies on solid evidence.&#xD;
+•	Accountability for owners: Certification establishes clear ownership and responsibility for data assets. When data owners are held accountable for maintaining the integrity and quality of the data, it encourages a proactive approach to data management. Clear lines of accountability also aid in managing disputes and ensuring that data stewardship is prioritized within the organization.&#xD;
+•	Defensible evidence for audit and regulators: In an era of heightened compliance requirements, having certified data assets provides organizations with defensible evidence that they are adhering to regulatory obligations. This evidence is crucial during audits, as it demonstrates that the organization has taken appropriate steps to manage data effectively and ethically.&#xD;
+•	A repeatable decision framework: Establishing a certification process creates a structured and repeatable framework for assessing data assets. This framework allows organizations to consistently evaluate the quality and governance of their data, making it easier to identify areas for improvement and ensure that data management practices evolve in line with organizational needs.&#xD;
+In conclusion, the certification of enterprise data assets not only underpins the organization’s commitment to data quality and governance but also cultivates trust among users, enables effective oversight, and supports compliance with regulatory mandates. This proactive approach to managing data assets is essential for navigating the complexities of the modern data landscape and driving sustainable organizational success.</documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="WHAT IS CERTIFICATION?" id="id-31c35c06619b4ae3a74c18c18d45cd3c">
+      <documentation>Data Certification&#xD;
+Certification of enterprise data assets is a rigorous process designed to enhance data quality and governance, ensuring that data is reliable and aligned with business needs. The following principles define what certification is:&#xD;
+&#xD;
+•	Evidence-based and time-bound: Certification relies on concrete, verifiable evidence that demonstrates the quality and compliance of data assets. This means that assessments will be based on data quality metrics, documented processes, and validation results, ensuring that certification is grounded in factual information. Moreover, the certification process is time-bound, with periodic reviews and renewals to ensure that data remains relevant and in compliance with evolving standards and regulations.&#xD;
+•	Risk-aware and proportional: Effective certification takes into consideration the varying levels of risk associated with different data assets. By adopting a risk-aware approach, organizations can prioritize which data requires more stringent controls and governance measures. This proportionality ensures that resources are allocated effectively, allowing for a more focused and efficient certification process that aligns with the organization's risk appetite.&#xD;
+•	Repeatable and auditable: A foundational aspect of certification is that it must be repeatable and subject to audit. This means that the processes and criteria used for certification should be well-documented and standardized, allowing for consistent application across different data assets. An auditable certification process also facilitates transparency and accountability, making it easier for stakeholders to verify the integrity of the data and the certification process itself.&#xD;
+•	Business-backed decision: Certification is not just a technical exercise; it requires the backing of business stakeholders who understand the strategic importance of data. Decisions regarding certification should be grounded in business objectives and the practical needs of users. This alignment ensures that the certification process is relevant and that the certified data can effectively support decision-making and drive business outcomes.</documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="DATA CERTIFICATION LIMITATIONS" id="id-73a576d7e57945e9a460b8241aaff8bd">
+      <documentation>Limitations of Data Certification&#xD;
+While certification is a critical component of effective data governance, it is essential to clarify what certification is not. Misconceptions about certification can lead to misunderstandings and mismanagement of data assets. The following points highlight what certification does not entail:&#xD;
+•	A guarantee of perfect data: It’s important to recognize that certification does not equate to infallibility. While the certification process aims to ensure high data quality and compliance, it cannot guarantee that every data point is flawless or free of errors. Instead, certification offers a level of assurance that the data has been evaluated against established criteria and is fit for use in specific contexts.&#xD;
+•	A one-time activity: Certification is an ongoing process, not a one-off event. Organizations must continuously evaluate and monitor their data assets to ensure they remain compliant with internal standards and external regulations. Regular reviews, updates, and recertification are essential to maintain the trustworthiness of data as business conditions and requirements evolve.&#xD;
+•	A replacement for business judgment: Certification provides a framework for evaluating data quality, but it does not replace the need for human judgment. Business leaders must still exercise their expertise and experience when making decisions based on data. Certification is a supportive measure that enhances the reliability of information but does not eliminate the need for careful consideration of context and scenario.&#xD;
+•	A waiver of operational responsibility: Certification does not absolve data owners or users of their operational responsibilities. While certification establishes a baseline of quality and governance, individuals and teams must remain engaged in the ongoing management of data. Operational accountability is key to ensuring that data is continuously maintained, updated, and used appropriately.</documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="SCOPE &amp; APPLICABILITY" id="id-cc425bad394840f890d56cdb9f1dd481">
+      <documentation>3. Scope &amp; Applicability&#xD;
+In Scope&#xD;
+•	Enterprise and domain-level data products: Certification is applicable to data assets and data products that are utilized across the enterprise and specific domains within the organization. This includes datasets that inform strategic decision-making, operational processes, and cross-functional initiatives. By certifying these data products, organizations can ensure that the data aligns with business objectives and meets the requisite quality and governance standards necessary for reliable use.&#xD;
+•	Certified analytical, reporting, and regulatory datasets: Any datasets specifically developed for analytical purposes, reporting, or compliance with regulatory requirements are included in the certification scope. These datasets must demonstrate accuracy, completeness, and timeliness, providing confidence for users who rely on them for informed decision-making, reporting obligations, and regulatory adherence. Certifying these datasets helps organizations mitigate risks associated with data-driven insights and ensures accountability in reporting practices.&#xD;
+Out of Scope&#xD;
+•	Exploratory, Experimental or temporary datasets: Data that is primarily for personal use or exploratory analysis does not fall within the certification process. Temporary datasets, which may be created for short-term projects or one-time analyses, are also excluded. These types of data typically do not require the same level of governance or oversight, as they may not be utilized beyond their immediate purpose. By excluding these datasets from certification, organizations can focus resources on the data that is critical to operations and key decision-making.&#xD;
+•	Ad-hoc analysis not shared broadly: Any analysis that is conducted on an ad-hoc basis and not intended for broader distribution or operational use are considered out of scope for certification. This includes analysis that does not form part of standardized reporting or approved processes. Such analyses may lack the consistency and rigor required for certification, thus falling outside established data governance frameworks.</documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="CERTIFICATION PRINCIPLES" id="id-24bc3b00dd4b408eb02466fb226433bd">
+      <documentation>4. Certification Principles&#xD;
+The certification process is grounded in several key principles that guide its implementation and ensure its effectiveness. These principles enable organizations to create a certification framework that is relevant, practical, and aligned with business objectives.&#xD;
+•	Business-led: The certification process is driven by business owners who define what constitutes fitness-for-use for their specific data assets. Business stakeholders possess the contextual knowledge necessary to assess data quality and usability within the scope of their operations and objectives. By placing business leaders at the forefront of the certification process, organizations ensure that the criteria for certification align closely with actual business needs and priorities, fostering greater ownership and accountability.&#xD;
+•	Risk-based: The certification effort is tailored to align with the impact and sensitivity of the data being assessed. Data assets that carry higher risks—such as those associated with regulatory compliance or critical business operations—will undergo more rigorous certification processes. This risk-based approach allows organizations to allocate resources effectively, ensuring that more attention is given to data that could significantly impact decision-making and operational integrity.&#xD;
+•	Evidence-driven: Decisions made throughout the certification process are based on concrete evidence and artifacts. This includes data quality metrics, audit trails, validation reports, and other documented proof of compliance with certification standards. By relying on objective, verifiable evidence, organizations can instill confidence in the certification outcomes and provide transparent rationale for decisions made, facilitating trust among stakeholders.&#xD;
+•	Lifecycle-oriented: The certification of data assets is not static; it is a dynamic process that recognizes that certification can expire and evolve over time. As data changes in nature or as organizational needs shift, certifications must be reviewed and updated to remain relevant. This lifecycle-oriented approach ensures that data remains fit for purpose and continues to meet established standards, adapting to any new developments in business strategy, technology, or compliance requirements.&#xD;
+•	Automation-first: To enhance efficiency and reduce human error, the certification process prioritizes automation wherever possible. By minimizing manual steps, organizations can streamline the certification workflow, allowing for quicker turnaround times and more consistent outcomes. Automation tools can facilitate data validation, reporting, and monitoring, leading to a more efficient certification process that frees up resources for strategic tasks.</documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="ROLES &amp; RESPONSIBILITIES" id="id-ae00744e3d0246409e772572cdba160f">
+      <documentation>5. Roles &amp; Responsibilities&#xD;
+The certification process involves various roles that each play a crucial part in ensuring the effectiveness and integrity of enterprise data. Clear delineation of responsibilities is essential for achieving successful certification outcomes and maintaining data governance.&#xD;
+Business Subject Matter Expert (BSME)&#xD;
+o	Accountable for certification outcome: The Business Subject Matter Expert leads the certification process for the specific product and is ultimately responsible for the insights and interpretations the report provides. This role entails a thorough understanding of the data's intended use within the business, granularity, depth, and the criteria for fitness-for-use.&#xD;
+o	Accepts residual risk: The Business Subject Matter Expert acknowledges and accepts any residual risks associated with the data assets they oversee(identified and documented during the process implementation). This involves understanding the limitations of the data and the implications of potential inaccuracies or misuses in decision-making.&#xD;
+Lead Data Stewards&#xD;
+o	Ensures enforcement, manages operations, provides direction and guidance: Lead Data Stewards oversee the implementation of data certification standards and practices within their domain. They manage daily operations related to data stewardship, ensuring that all certification-related activities are compliant with defined policies and procedures. Additionally, they provide support and guidance to Data Stewards, helping to harmonize practices across teams.&#xD;
+Data Steward&#xD;
+o	Ensures metadata, lineage, and quality completeness: Data Stewards are responsible for maintaining comprehensive metadata and ensuring the accuracy of data lineage. They play a vital role in documenting the origin and movement of data throughout their lifecycle, which is essential for transparency and accountability in the certification process.&#xD;
+o	Coordinates certification activities: Data Stewards facilitates and coordinate the various activities involved in the certification process. This includes organizing assessments, gathering necessary documentation, and collaborating with relevant stakeholders to ensure a smooth certification workflow.&#xD;
+Data Custodian:&#xD;
+o	Implement pipelines and transformations: Data Custodians are tasked with the technical aspects of data management, including the implementation of data pipelines and transformations. They ensure that data is processed and stored according to established standards, maintaining the integrity and accessibility of data assets for certification purposes. &#xD;
+Data Trustee (Governance Committee): &#xD;
+o	Final certification authority: The Governance Committee serves as the highest authority in the certification process, making final decisions regarding the certification of data assets. This committee evaluates certification applications, reviews evidence and findings, and ensures that all certifications align with organizational policies and regulatory requirements. Additionally, the committee is responsible for timely governance meetings and decision-making, as well as providing strategic oversight and direction for certification activities. &#xD;
+Privacy &amp; Security&#xD;
+o	Validate regulatory and control compliance (External to certification team): The Privacy &amp; Security team is responsible for ensuring that data assets meet all regulatory and compliance standards related to privacy and security. They conduct assessments to validate adherence to relevant laws and organizational controls, playing a critical role in safeguarding sensitive information and building trust in the certification process.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="CERTIFIED DATA ASSETS CRITERIA" id="id-15f59331adf14eb0b561a8e82c72b8ff"/>
+    <element xsi:type="archimate:Grouping" name="DATA CERTIFICATION LIFECYCLE" id="id-0fae75f561944b9baeba9988d9face2a">
+      <documentation>7. Data Certification Lifecycle Overview&#xD;
+The data certification lifecycle is a structured process designed to ensure that data assets meet quality, governance, and compliance standards. This lifecycle consists of several key steps, each critical to delivering certified data assets that align with business objectives and user needs.&#xD;
+Intake &amp; Scoping: This initial step involves receiving requests for certification from business units, Certification Workgroup (Data Trustee or Governance Committee), or other departments(Senior executives asking for reports). These requests may pertain to reports, data products, or specific data assets that require official certification. During this stage, the scope of the certification effort is defined, identifying the purpose and importance of the data being assessed.&#xD;
+Lineage Discovery &amp; Profiling: In this step, the designated Data Steward and Data Custodian conduct a thorough discovery of data lineage, documenting the flow of data from its source to its final destination. This involves analyzing the connections and transformations that data undergoes through various systems. A key question to address in this phase is whether the raw data needed for collection and analysis is accessible and available to contribute to the final product. Additionally, data profiling is performed to assess the characteristics of the data, ensuring its availability and identifying any potential quality issues.&#xD;
+Quality &amp; Lineage Validation: This step focuses on defining data quality metrics and validating the lineage established in the earlier stages. Data quality is assessed along multiple dimensions, including accuracy, completeness, timeliness, validity, consistency, and uniqueness. The lineage validation confirms that all transformations are documented and that there is a clear understanding of how data moves through systems.&#xD;
+Governance, Compliance &amp; Change Readiness: This step ensures that all data assets align with governance frameworks and comply with relevant regulations. Governance procedures involve documentation of ownership and alignment with standards such as DAMA-DMBOK. Compliance assessments address privacy considerations (e.g., PIPEDA/GDPR) and verify that appropriate access controls and retention policies are in place. Additionally, readiness for changes is evaluated, including defining a change process and agreeing upon conditions for re-certification.&#xD;
+Certification Decision &amp; Publication: Following validation and compliance checks, a certification decision is made based on inputs such as data quality results, residual risks, and lineage completeness. Possible outcomes include &quot;Approved,&quot; &quot;Conditionally Approved,&quot; or &quot;Rejected.&quot; When approved, the certification is published with details such as a catalog badge, validity period, and known limitations to inform users about the asset's status(Purview).&#xD;
+Ongoing Monitoring &amp; Re-Certification: The final step of the lifecycle involves ongoing monitoring of certified data assets to ensure they maintain quality and compliance over time. This includes tracking quality trend metrics, detecting changes in lineage, and monitoring adherence to service level agreements (SLAs). Re-certification may be triggered by significant changes, quality degradation, or the expiration of the initial certification period.&#xD;
+The Data Certification Lifecycle Overview provides a comprehensive framework for assessing and certifying data assets. Each step plays a crucial role in establishing trust in data quality and governance, ensuring that organizations can leverage their data assets effectively for decision-making and operational success.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="CTV News: 7 Takeaways" id="id-35aaa66700de4146a3677faa4e06e9bc"/>
+    <element xsi:type="archimate:Grouping" name="Build a stronger, more independent and resilient Canada for all" id="id-f2a17b362e864338a07eecd1baeb41ce"/>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
     <element xsi:type="archimate:SpecializationRelationship" id="id-1fc9998b537248f0ab8efd6853b77d65" source="id-bbea9bb53b0d449e8af710c22edf18bc" target="id-a7f8beac2a2c416c96b351c66b79510c"/>
@@ -20165,6 +20794,72 @@ building a new solution.</documentation>
     <element xsi:type="archimate:CompositionRelationship" id="id-be019214594d477f9dbb055f8d749533" source="id-a4c356ca72cf4bac8e532aefc28f0c91" target="id-11d8d23c90734187b11699cc57cb4fbd"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-8ea77690ff2b4cf19c2f62d5451ea12b" source="id-a4c356ca72cf4bac8e532aefc28f0c91" target="id-934d8682774448b18d86ed42bde36d4f"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-bc5e897ba477447c82e1f0eb7367a108" source="id-a4c356ca72cf4bac8e532aefc28f0c91" target="id-3fd74598f86142de81dd51554eae2971"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6133db4c900a4529821b849ba80e8280" source="id-5744fa9681fd4a47b9ba436a2e829d07" target="id-76438915c0044778966582a9971a2961"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a6a0be4841124fc797cfdf057f63ff8e" source="id-5744fa9681fd4a47b9ba436a2e829d07" target="id-b02f7c599d4b48efaa10cfd98adbf70c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-65c269545c764d549863ca432976e267" source="id-5744fa9681fd4a47b9ba436a2e829d07" target="id-3f01dc5f42594a28912854f659226c6c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7cf847d6985b4676a42f24ed0de00993" source="id-5744fa9681fd4a47b9ba436a2e829d07" target="id-94b40e9e85874c8882477313a3d35176"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3743770ae5624341a160aab19da7c4ea" source="id-31c35c06619b4ae3a74c18c18d45cd3c" target="id-bdd67702ba1a4f08b122e9279918b9ee"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-dbcd32f21c374c6e9fd212fe52827188" source="id-31c35c06619b4ae3a74c18c18d45cd3c" target="id-f5c12236e64e4924861ae195448c250c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-11136d35c2154724add55bf9ee81616a" source="id-31c35c06619b4ae3a74c18c18d45cd3c" target="id-da88bcae67284534bcf962b73be03ccd"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-882af0e642834417bc84aa08774c2eb8" source="id-31c35c06619b4ae3a74c18c18d45cd3c" target="id-8951de1a49ab44a3a46a8bacd0815fbb"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-be67516f796f47d38d9c763519593d34" source="id-73a576d7e57945e9a460b8241aaff8bd" target="id-1d8d9c378b0d442fba6ac920563180f2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4028e61f7eeb4233a8e4738ef22f1231" source="id-73a576d7e57945e9a460b8241aaff8bd" target="id-0261b3cdc8ad4775b23550caa330c8bc"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-52dbbbd828a8450fab9429d24abfc1eb" source="id-73a576d7e57945e9a460b8241aaff8bd" target="id-ac757489cdd7462b9f2bca7354f443b5"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3e75ce1da227441b8391a0aab8184955" source="id-73a576d7e57945e9a460b8241aaff8bd" target="id-403609081c894ecbaa6e08bb75b47701"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-69f73ff92bef4fbbbd38e4d7570cb0ab" source="id-cc425bad394840f890d56cdb9f1dd481" target="id-8a9a15f3604845cab5c1d3a37f7484dd"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6edbb3fc014a4f2e8fb86059250eb615" source="id-cc425bad394840f890d56cdb9f1dd481" target="id-7afb79ce60c54229b83d12f929f6eaeb"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-204ee67830284d3897173c4cb41fe907" source="id-cc425bad394840f890d56cdb9f1dd481" target="id-4e9111b8487e45b5b994a8de6a51b167"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-18d1c1b4d64f4f01a031a301db0f6386" source="id-cc425bad394840f890d56cdb9f1dd481" target="id-421cd21541d44d8ab38d27e663fb86e5"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-63318440e5dd4424bc461f76ba9193fb" source="id-24bc3b00dd4b408eb02466fb226433bd" target="id-f18f382642cf4c9abb3122cd3fd7d9b6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5b5ef84f426d46c4bbcbb0ca7f49b52a" source="id-24bc3b00dd4b408eb02466fb226433bd" target="id-aca97070cf6f412c9f09eabe52c095ab"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a1e8591a470a44fa905069d04d15f3e0" source="id-24bc3b00dd4b408eb02466fb226433bd" target="id-1b25c96abdd542b78ab87d8f338ace36"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ff2a6c2cc2cf4479b93abe30c61ec5f2" source="id-24bc3b00dd4b408eb02466fb226433bd" target="id-baead0e0cc2340db9b051038bb8c7827"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-af59bca23a2b48b18f09ec87fe4aca0b" source="id-24bc3b00dd4b408eb02466fb226433bd" target="id-e4862ff4930947fe89db7965bd148fa5"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ece271540d7d4c36957343c429a4efbc" source="id-ae00744e3d0246409e772572cdba160f" target="id-4daffcda47324b4283b11469c8cb0549"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-69ec65bcf8b34f91984c2a593326ac2e" source="id-ae00744e3d0246409e772572cdba160f" target="id-68716b92ff9244fcbeaf10665d002d89"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-382dfcc732244672bf5ae5a6d30bc067" source="id-ae00744e3d0246409e772572cdba160f" target="id-d9b8359c71434ae896817b5cea3114ef"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6df3271d31cf4872b38523ca9a3168c9" source="id-ae00744e3d0246409e772572cdba160f" target="id-3882896bde774acaab59ed60076890d3"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-58fcab2d76a64d9cba94c25555353628" source="id-ae00744e3d0246409e772572cdba160f" target="id-5f492b0aabb343988052c5c269ef2049"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-64b52c7908204eaaabbe1d3495e5ee82" source="id-ae00744e3d0246409e772572cdba160f" target="id-b9c6a5f1910d4b97907cc5986d01ed66"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ac92104d364943a4ba321f73d78b1da7" source="id-15f59331adf14eb0b561a8e82c72b8ff" target="id-67a1449322304617ae24211df3286cb4"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b86372f1b27a41a2b7fde2abea3d000f" source="id-15f59331adf14eb0b561a8e82c72b8ff" target="id-aa9c56c203d542f19be1c446c14406bf"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c99a62f9d32443d696f7e8e601c26f11" source="id-15f59331adf14eb0b561a8e82c72b8ff" target="id-213e8465945d41a88b3bd8a4f1fc0099"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6fb46985b4c04830b3c9271a9ecfc81b" source="id-15f59331adf14eb0b561a8e82c72b8ff" target="id-8f207543483f4199b5ee89fe10668ae3"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-9821ec41cb484df781e8ee6ae773917f" source="id-15f59331adf14eb0b561a8e82c72b8ff" target="id-8e9926cc400241ed851354cae0adff2d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-323354ee1b21464489002b6f4066f777" source="id-15f59331adf14eb0b561a8e82c72b8ff" target="id-ad7f864408f34df893215562f46ff99d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b90f690123d747cfbb9ea06f8da50039" source="id-15f59331adf14eb0b561a8e82c72b8ff" target="id-f47a6a0f157a45879480bb884adc50f5"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-52c33323dadf4683a06b01c92ab64f8b" source="id-bdce10a6342a4a12aa8c014e3378fcc7" target="id-15f59331adf14eb0b561a8e82c72b8ff"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-e82f8f8172a4483080ed4a0b8438ebd9" source="id-9d2a111102ff45c58057a51efc35125f" target="id-31d6cbef22bd4d669d302b431eebea33"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-b4312d8df9684699a349cd87d17f78ff" source="id-31d6cbef22bd4d669d302b431eebea33" target="id-a071363554a74f3bbfefd8f38ce8a3d1"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-c1463269e68b4f098d4a8ce0d49397c4" source="id-a071363554a74f3bbfefd8f38ce8a3d1" target="id-c19deb0a637443a19a9216fa862c89a2"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-7cf971b12bb74b1bab3252d84c07a4c5" source="id-c19deb0a637443a19a9216fa862c89a2" target="id-a0291bd758aa4754b015646613741578"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-632abe3e128945399662c68447a8b82c" source="id-a0291bd758aa4754b015646613741578" target="id-dfb60d5576bc42619168d75b3242acfb"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7be2546cbb3d43829c4918b86fbc9b53" source="id-0fae75f561944b9baeba9988d9face2a" target="id-a071363554a74f3bbfefd8f38ce8a3d1"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a66c7981b0754243ad15f877450f5d0c" source="id-0fae75f561944b9baeba9988d9face2a" target="id-9d2a111102ff45c58057a51efc35125f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c0c099f6ec28498fa22dd47afabdc63b" source="id-0fae75f561944b9baeba9988d9face2a" target="id-dfb60d5576bc42619168d75b3242acfb"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e15323a76de84b2584326b30cdb47ec9" source="id-0fae75f561944b9baeba9988d9face2a" target="id-a0291bd758aa4754b015646613741578"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5d9c1f1bde2c4efc98ed01c54eea7b3b" source="id-0fae75f561944b9baeba9988d9face2a" target="id-c19deb0a637443a19a9216fa862c89a2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-bf67fdb2ab8a4ee6b10e46a62b432e6c" source="id-0fae75f561944b9baeba9988d9face2a" target="id-31d6cbef22bd4d669d302b431eebea33"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-cc4c4ef753344d378b4eb30846af8808" source="id-35aaa66700de4146a3677faa4e06e9bc" target="id-2ca973ae0d21462ba604359f1958f2e5"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-78a2af87aaca4a24b94ee46795446586" source="id-35aaa66700de4146a3677faa4e06e9bc" target="id-75ba97ea26074cbba4f2fe6b91b3a321"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a9a6797746b04f95a2a3e113ea824830" source="id-35aaa66700de4146a3677faa4e06e9bc" target="id-a9df38d784c84374a8847456141a93f9"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-230d561a08964ed7a099582d91c9917f" source="id-35aaa66700de4146a3677faa4e06e9bc" target="id-29aed334851a489094d6d8b154f2d04b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-42a7ab43c21c4204aff388c2a36be1a3" source="id-35aaa66700de4146a3677faa4e06e9bc" target="id-4a7435cf86f641079542c522a7344de8"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2ce10c83f28b469c9b70351e0afe1a73" source="id-35aaa66700de4146a3677faa4e06e9bc" target="id-cba56aa00c1d4aa2a66b16bf6fa8c5a7"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-9096ff2e21da43f79d0fc0c32e0978dc" source="id-35aaa66700de4146a3677faa4e06e9bc" target="id-d151911f89f149efb051e89828ecbb27"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-7ce5b8762d8f4bbcbcd338b912141526" source="id-1ea87095199d4ce7853cc3ef42739dad" target="id-35aaa66700de4146a3677faa4e06e9bc"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b17f5b6ce5634bc6bbc68ad6c203694a" source="id-f2a17b362e864338a07eecd1baeb41ce" target="id-a7ebefba7b6a4621815d981e4c2d1fec"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-60a706951aba4e818f631928b3b05edf" source="id-f2a17b362e864338a07eecd1baeb41ce" target="id-201937c4efb64e9e99f5f0c26927a5ce"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3d081b678c4b4b999507fe0f771f1265" source="id-f2a17b362e864338a07eecd1baeb41ce" target="id-0670f7e606bf41e0aa6604db923860bf"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8b91c35b0acd49d4b9fe56291d90b06d" source="id-f2a17b362e864338a07eecd1baeb41ce" target="id-ca4c427daa014ac6a7968a84dca14aa5"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8e0b97d365364b05aaf0174238f19bfc" source="id-bedcc244c36341cfaa615fc52cb40b61" target="id-349e94dd7abb476193a48a544ab2a1bc"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4e3df65efb584481bbc56d6b79c9e985" source="id-72fd11f75f42493b9ddb75aa23802c9f" target="id-879e153ee25c4567b8828c81bd5318c2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-fb4e2b1dfcc54a04a53fc9d84312d71b" source="id-879e153ee25c4567b8828c81bd5318c2" target="id-f256092e1b4c405997affc110bf5f177"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c551ef600059442faceb7b5458670adb" source="id-4aec95c3cf754a408cc7fb09ed0d8f52" target="id-e3c6981851b54f56a1fc849be8f1cc59"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7aeaad89a2c74dccaa04938d344e5b09" source="id-4aec95c3cf754a408cc7fb09ed0d8f52" target="id-85a8373a1a834c469f0b18a9858e9409"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-13d6465408b04909b3f69006935be4c4" source="id-72fd11f75f42493b9ddb75aa23802c9f" target="id-4aec95c3cf754a408cc7fb09ed0d8f52"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ac6ee2d125364d9ebdd76a1cf4102774" source="id-cf5a74c801234ed1ba9444754c6ebe1d" target="id-fed880ca42be488c87312614abe55aa2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c3a859ddd4e248da8f491798976218c2" source="id-72fd11f75f42493b9ddb75aa23802c9f" target="id-cf5a74c801234ed1ba9444754c6ebe1d"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -26312,6 +27007,285 @@ v0.1.20260413</content>
         </child>
         <documentation>https://esdc.prv/en/news/adms-champions/2025/02/05-01.shtml</documentation>
       </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="ESDC-CDOB Data Certification" id="id-f40c7498c0e847df893d1442eae0bfa6">
+        <child xsi:type="archimate:Note" id="id-8622dc3380424c8192d87a4f00991077" font="1|Segoe UI|16.2|1|WINDOWS|1|-27|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1">
+          <bounds x="8" y="5" width="512" height="49"/>
+          <content>Enterprise Data Certification Playbook</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-dc1932c2c7af434bb2e129dfda1bc509" textPosition="1">
+          <bounds x="429" y="5" width="91" height="49"/>
+          <content>Spring 2026&#xD;
+v0.1.20260430</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-c14fbf4cf52642769a39cd2fc983e2a7" archimateElement="id-59f6c4e2fcc24cc8bbb5df8ae46977ad">
+          <bounds x="528" y="5" width="101" height="61"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-7524b551e72c4096bfb29942f93c2afa" textAlignment="1" archimateElement="id-5744fa9681fd4a47b9ba436a2e829d07">
+          <bounds x="8" y="84" width="277" height="169"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-134f53936b9547af9b8ef5f3ffb84ff5" source="id-7524b551e72c4096bfb29942f93c2afa" target="id-c3496590a28e422097e1c282bb4aeeda" archimateRelationship="id-6133db4c900a4529821b849ba80e8280"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7311d5d4d44b493a85d4a42664d52211" source="id-7524b551e72c4096bfb29942f93c2afa" target="id-4bb5578798084a09ba4109ca4ac1b1a0" archimateRelationship="id-a6a0be4841124fc797cfdf057f63ff8e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8eeae89595274ca393c9dcec566bc185" source="id-7524b551e72c4096bfb29942f93c2afa" target="id-d0459a62186f409a82ba678d2a66f4e1" archimateRelationship="id-65c269545c764d549863ca432976e267"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-628ef1ac9c0745a7b22954393e656cab" source="id-7524b551e72c4096bfb29942f93c2afa" target="id-3b2b71c865164f17a41f0973fa45f349" archimateRelationship="id-7cf847d6985b4676a42f24ed0de00993"/>
+          <child xsi:type="archimate:DiagramObject" id="id-c3496590a28e422097e1c282bb4aeeda" targetConnections="id-134f53936b9547af9b8ef5f3ffb84ff5" archimateElement="id-76438915c0044778966582a9971a2961">
+            <bounds x="11" y="95" width="127" height="66"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-4bb5578798084a09ba4109ca4ac1b1a0" targetConnections="id-7311d5d4d44b493a85d4a42664d52211" archimateElement="id-b02f7c599d4b48efaa10cfd98adbf70c">
+            <bounds x="143" y="24" width="127" height="66"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d0459a62186f409a82ba678d2a66f4e1" targetConnections="id-8eeae89595274ca393c9dcec566bc185" archimateElement="id-3f01dc5f42594a28912854f659226c6c">
+            <bounds x="143" y="95" width="127" height="66"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3b2b71c865164f17a41f0973fa45f349" targetConnections="id-628ef1ac9c0745a7b22954393e656cab" archimateElement="id-94b40e9e85874c8882477313a3d35176">
+            <bounds x="12" y="24" width="127" height="66"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-7ffd34cad47c480f9c0a6c7289a73ce0" archimateElement="id-7c7cbe4a9be342a0b677408aae568f14">
+          <bounds x="633" y="5" width="236" height="73"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-294cb376e1fc4cd0bd03f1ce986872de" textAlignment="1" archimateElement="id-31c35c06619b4ae3a74c18c18d45cd3c">
+          <bounds x="291" y="84" width="283" height="152"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2dbe038a63bf4e0a937a0a1e9b5a76f3" source="id-294cb376e1fc4cd0bd03f1ce986872de" target="id-f415e99f2e214121a9c74076e6280704" archimateRelationship="id-3743770ae5624341a160aab19da7c4ea"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cffa2936b7e746cc931e0be20d804ec9" source="id-294cb376e1fc4cd0bd03f1ce986872de" target="id-d3d866e2423f4ce8912d09992f8a6bf7" archimateRelationship="id-dbcd32f21c374c6e9fd212fe52827188"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-39610f56dff2483aaf80853ede9d156f" source="id-294cb376e1fc4cd0bd03f1ce986872de" target="id-0ed4028be41e44a98712d9ab967bbd86" archimateRelationship="id-11136d35c2154724add55bf9ee81616a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-00042b9446694f3ea85233a8fa02ef9d" source="id-294cb376e1fc4cd0bd03f1ce986872de" target="id-8b81debc614248268b2612b7f21e880a" archimateRelationship="id-882af0e642834417bc84aa08774c2eb8"/>
+          <child xsi:type="archimate:DiagramObject" id="id-f415e99f2e214121a9c74076e6280704" targetConnections="id-2dbe038a63bf4e0a937a0a1e9b5a76f3" archimateElement="id-bdd67702ba1a4f08b122e9279918b9ee">
+            <bounds x="140" y="82" width="127" height="59"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d3d866e2423f4ce8912d09992f8a6bf7" targetConnections="id-cffa2936b7e746cc931e0be20d804ec9" archimateElement="id-f5c12236e64e4924861ae195448c250c">
+            <bounds x="140" y="24" width="127" height="59"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0ed4028be41e44a98712d9ab967bbd86" targetConnections="id-39610f56dff2483aaf80853ede9d156f" archimateElement="id-da88bcae67284534bcf962b73be03ccd">
+            <bounds x="12" y="24" width="127" height="59"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-8b81debc614248268b2612b7f21e880a" targetConnections="id-00042b9446694f3ea85233a8fa02ef9d" archimateElement="id-8951de1a49ab44a3a46a8bacd0815fbb">
+            <bounds x="12" y="82" width="127" height="59"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b84ead0736d042a39fe44031756da6eb" textAlignment="1" archimateElement="id-73a576d7e57945e9a460b8241aaff8bd">
+          <bounds x="294" y="240" width="277" height="169"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-130f445537bf4b7991ec330a3adc35ce" source="id-b84ead0736d042a39fe44031756da6eb" target="id-6872f36b684e4f3d912410565f31d5ca" archimateRelationship="id-be67516f796f47d38d9c763519593d34"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-30985758756e4e7d9809aa5212feafc4" source="id-b84ead0736d042a39fe44031756da6eb" target="id-bd35a24fefc1498e8938eadc837b7bdf" archimateRelationship="id-4028e61f7eeb4233a8e4738ef22f1231"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-08ff3ec606804d10b1f318d54e859bfe" source="id-b84ead0736d042a39fe44031756da6eb" target="id-bed222cc272c432489d15be96e47db13" archimateRelationship="id-52dbbbd828a8450fab9429d24abfc1eb"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-857bb982ad804b2ca1c69f190f369b85" source="id-b84ead0736d042a39fe44031756da6eb" target="id-06f4d1fe9fbb444aa117b391b7c94a23" archimateRelationship="id-3e75ce1da227441b8391a0aab8184955"/>
+          <child xsi:type="archimate:DiagramObject" id="id-6872f36b684e4f3d912410565f31d5ca" targetConnections="id-130f445537bf4b7991ec330a3adc35ce" archimateElement="id-1d8d9c378b0d442fba6ac920563180f2">
+            <bounds x="142" y="24" width="127" height="57"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-bd35a24fefc1498e8938eadc837b7bdf" targetConnections="id-30985758756e4e7d9809aa5212feafc4" archimateElement="id-0261b3cdc8ad4775b23550caa330c8bc">
+            <bounds x="12" y="88" width="127" height="66"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-bed222cc272c432489d15be96e47db13" targetConnections="id-08ff3ec606804d10b1f318d54e859bfe" archimateElement="id-ac757489cdd7462b9f2bca7354f443b5">
+            <bounds x="142" y="88" width="127" height="66"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-06f4d1fe9fbb444aa117b391b7c94a23" targetConnections="id-857bb982ad804b2ca1c69f190f369b85" archimateElement="id-403609081c894ecbaa6e08bb75b47701">
+            <bounds x="12" y="24" width="127" height="57"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-6cd59a697073441da77a9297843a7fc1" textAlignment="1" archimateElement="id-cc425bad394840f890d56cdb9f1dd481">
+          <bounds x="588" y="84" width="325" height="181"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8c8c0766ab394292bbaee13df3e43df4" source="id-6cd59a697073441da77a9297843a7fc1" target="id-d12e665ffc8f4979b2604f86e2fafe05" archimateRelationship="id-69f73ff92bef4fbbbd38e4d7570cb0ab"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-07927bd2015043eba1b1cc4fda801416" source="id-6cd59a697073441da77a9297843a7fc1" target="id-cfdcec85d8474366a0bc056a578277e1" archimateRelationship="id-6edbb3fc014a4f2e8fb86059250eb615"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3bc391484d32420d9c3918865cde7975" source="id-6cd59a697073441da77a9297843a7fc1" target="id-0a7b3b4392894903869adbdc665b8739" archimateRelationship="id-204ee67830284d3897173c4cb41fe907"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-97e56a45958d4df7bf3d2305ac34ae64" source="id-6cd59a697073441da77a9297843a7fc1" target="id-30205dbfe78544d791803e810a59da68" archimateRelationship="id-18d1c1b4d64f4f01a031a301db0f6386"/>
+          <child xsi:type="archimate:DiagramObject" id="id-d12e665ffc8f4979b2604f86e2fafe05" targetConnections="id-8c8c0766ab394292bbaee13df3e43df4" archimateElement="id-8a9a15f3604845cab5c1d3a37f7484dd">
+            <bounds x="168" y="24" width="145" height="68"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-cfdcec85d8474366a0bc056a578277e1" targetConnections="id-07927bd2015043eba1b1cc4fda801416" archimateElement="id-7afb79ce60c54229b83d12f929f6eaeb">
+            <bounds x="14" y="97" width="145" height="68"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0a7b3b4392894903869adbdc665b8739" targetConnections="id-3bc391484d32420d9c3918865cde7975" archimateElement="id-4e9111b8487e45b5b994a8de6a51b167">
+            <bounds x="168" y="97" width="145" height="68"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-30205dbfe78544d791803e810a59da68" targetConnections="id-97e56a45958d4df7bf3d2305ac34ae64" archimateElement="id-421cd21541d44d8ab38d27e663fb86e5">
+            <bounds x="14" y="24" width="145" height="68"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-7029da3b9df34001ba32b782bbcfde73" textAlignment="1" archimateElement="id-24bc3b00dd4b408eb02466fb226433bd">
+          <bounds x="588" y="276" width="260" height="157"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-50d9731b2cb540e98d82b4ae5ed9e0a1" source="id-7029da3b9df34001ba32b782bbcfde73" target="id-e0088f92e0ca4328b809abba4eb6b3a6" archimateRelationship="id-63318440e5dd4424bc461f76ba9193fb"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5a46500410c8477eb55bf6c44e3c6f1e" source="id-7029da3b9df34001ba32b782bbcfde73" target="id-45bbcc0a44ab42eaab851b9992d7e235" archimateRelationship="id-5b5ef84f426d46c4bbcbb0ca7f49b52a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-bbd680fd3c024c7ca3702f6f6ae81b17" source="id-7029da3b9df34001ba32b782bbcfde73" target="id-d0a575ee349f47bdacc27e1c9ebd28f6" archimateRelationship="id-a1e8591a470a44fa905069d04d15f3e0"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1d4dfcecbc3c4144b68bfb825a95f5fa" source="id-7029da3b9df34001ba32b782bbcfde73" target="id-78882b33479a4a0381e22947a4e0c3a0" archimateRelationship="id-ff2a6c2cc2cf4479b93abe30c61ec5f2"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8fb8be0a929d44c58da34d040650116d" source="id-7029da3b9df34001ba32b782bbcfde73" target="id-ad8c4f14742a4c2aae458db4e0f05285" archimateRelationship="id-af59bca23a2b48b18f09ec87fe4aca0b"/>
+          <child xsi:type="archimate:DiagramObject" id="id-e0088f92e0ca4328b809abba4eb6b3a6" targetConnections="id-50d9731b2cb540e98d82b4ae5ed9e0a1" archimateElement="id-f18f382642cf4c9abb3122cd3fd7d9b6">
+            <bounds x="131" y="63" width="120" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-45bbcc0a44ab42eaab851b9992d7e235" targetConnections="id-5a46500410c8477eb55bf6c44e3c6f1e" archimateElement="id-aca97070cf6f412c9f09eabe52c095ab">
+            <bounds x="12" y="24" width="120" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d0a575ee349f47bdacc27e1c9ebd28f6" targetConnections="id-bbd680fd3c024c7ca3702f6f6ae81b17" archimateElement="id-1b25c96abdd542b78ab87d8f338ace36">
+            <bounds x="12" y="63" width="120" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-78882b33479a4a0381e22947a4e0c3a0" targetConnections="id-1d4dfcecbc3c4144b68bfb825a95f5fa" archimateElement="id-baead0e0cc2340db9b051038bb8c7827">
+            <bounds x="131" y="24" width="120" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ad8c4f14742a4c2aae458db4e0f05285" targetConnections="id-8fb8be0a929d44c58da34d040650116d" archimateElement="id-e4862ff4930947fe89db7965bd148fa5">
+            <bounds x="76" y="102" width="120" height="40"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-15bf58624d1c4715b69bb3f97e6bb0fc" textAlignment="1" archimateElement="id-ae00744e3d0246409e772572cdba160f">
+          <bounds x="924" y="84" width="385" height="145"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e5579a39a22c4564af795d50d3149c37" source="id-15bf58624d1c4715b69bb3f97e6bb0fc" target="id-9941c03561b0492a941eeeaa023ef856" archimateRelationship="id-ece271540d7d4c36957343c429a4efbc"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f13074177c374bc9adc2737ccd39deb0" source="id-15bf58624d1c4715b69bb3f97e6bb0fc" target="id-5a2c574f9ce04d4683cab62dc2d8a985" archimateRelationship="id-69ec65bcf8b34f91984c2a593326ac2e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b2147ce648e8485b8d82b686dc5eb674" source="id-15bf58624d1c4715b69bb3f97e6bb0fc" target="id-9c37cd20016c41f8952e68d4fc0ea2ae" archimateRelationship="id-382dfcc732244672bf5ae5a6d30bc067"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1ab028440ff04600aa9529927d6101da" source="id-15bf58624d1c4715b69bb3f97e6bb0fc" target="id-f087f0b025384681bf6a5ea5a297ea2d" archimateRelationship="id-6df3271d31cf4872b38523ca9a3168c9"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-98ea167489f04fbeb74d6946f4251ca0" source="id-15bf58624d1c4715b69bb3f97e6bb0fc" target="id-744eceb7e3094ca08bb3279d1fc18942" archimateRelationship="id-58fcab2d76a64d9cba94c25555353628"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-376ad0ccc9a84026917270c0781d3c9a" source="id-15bf58624d1c4715b69bb3f97e6bb0fc" target="id-897d3b01317b4f0785aec9b469904cd0" archimateRelationship="id-64b52c7908204eaaabbe1d3495e5ee82"/>
+          <child xsi:type="archimate:DiagramObject" id="id-9941c03561b0492a941eeeaa023ef856" targetConnections="id-e5579a39a22c4564af795d50d3149c37" archimateElement="id-4daffcda47324b4283b11469c8cb0549">
+            <bounds x="135" y="82" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5a2c574f9ce04d4683cab62dc2d8a985" targetConnections="id-f13074177c374bc9adc2737ccd39deb0" archimateElement="id-68716b92ff9244fcbeaf10665d002d89">
+            <bounds x="259" y="24" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9c37cd20016c41f8952e68d4fc0ea2ae" targetConnections="id-b2147ce648e8485b8d82b686dc5eb674" archimateElement="id-d9b8359c71434ae896817b5cea3114ef">
+            <bounds x="259" y="82" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f087f0b025384681bf6a5ea5a297ea2d" targetConnections="id-1ab028440ff04600aa9529927d6101da" archimateElement="id-3882896bde774acaab59ed60076890d3">
+            <bounds x="12" y="82" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-744eceb7e3094ca08bb3279d1fc18942" targetConnections="id-98ea167489f04fbeb74d6946f4251ca0" archimateElement="id-5f492b0aabb343988052c5c269ef2049">
+            <bounds x="135" y="24" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-897d3b01317b4f0785aec9b469904cd0" targetConnections="id-376ad0ccc9a84026917270c0781d3c9a" archimateElement="id-b9c6a5f1910d4b97907cc5986d01ed66">
+            <bounds x="12" y="24" width="120" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-9e52407d3481439f821114c9d59b7837" archimateElement="id-d00a30e696e746758bda62be97afb574">
+          <bounds x="876" y="297" width="99" height="40"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-e076e8ef92a049fe8e2ae31c9ded4480" archimateElement="id-bdce10a6342a4a12aa8c014e3378fcc7">
+          <bounds x="876" y="344" width="99" height="40"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1641c0f88aa040a5bef5cd415576de31" source="id-e076e8ef92a049fe8e2ae31c9ded4480" target="id-ea45882396284161bd57e6e57f0e02d3" archimateRelationship="id-52c33323dadf4683a06b01c92ab64f8b"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-df7715c9081f4ffba3819a3720d23841" archimateElement="id-1bf718b954e547a8a1db4354bb916c33">
+          <bounds x="876" y="393" width="99" height="40"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-ea45882396284161bd57e6e57f0e02d3" targetConnections="id-1641c0f88aa040a5bef5cd415576de31" textAlignment="1" archimateElement="id-15f59331adf14eb0b561a8e82c72b8ff">
+          <bounds x="1032" y="240" width="325" height="257"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-33320cfd0a6f452cb84878145920c7cb" source="id-ea45882396284161bd57e6e57f0e02d3" target="id-393fc4fca5ac4053b8f24e261633f793" archimateRelationship="id-ac92104d364943a4ba321f73d78b1da7"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b77073f1c3734cec9622404ae9643385" source="id-ea45882396284161bd57e6e57f0e02d3" target="id-86fa8c8b80784f44905f6183d01e846a" archimateRelationship="id-b86372f1b27a41a2b7fde2abea3d000f"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2ea23c38805a4b21a845fe08dda3c25d" source="id-ea45882396284161bd57e6e57f0e02d3" target="id-ce4b5ea55ab544209bdf6f904f56e80d" archimateRelationship="id-c99a62f9d32443d696f7e8e601c26f11"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1335a0e23fd84957817ea25fa53c1eba" source="id-ea45882396284161bd57e6e57f0e02d3" target="id-6d8f8502a17249829fd4cfd70da261fe" archimateRelationship="id-6fb46985b4c04830b3c9271a9ecfc81b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a12ca15d60784499a1daf60dd5d75870" source="id-ea45882396284161bd57e6e57f0e02d3" target="id-095f3edfe8ac47f997711e2f0a0909c8" archimateRelationship="id-9821ec41cb484df781e8ee6ae773917f"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-db23d9a1abc947299937d5c72e57f0e9" source="id-ea45882396284161bd57e6e57f0e02d3" target="id-ede2edf24a5240e8bc77d08f686a3d14" archimateRelationship="id-323354ee1b21464489002b6f4066f777"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-afbaa2f8b90c45bebee690c083d01d03" source="id-ea45882396284161bd57e6e57f0e02d3" target="id-11d41aacb5c347db8a1c91bb9d6dadc7" archimateRelationship="id-b90f690123d747cfbb9ea06f8da50039"/>
+          <child xsi:type="archimate:DiagramObject" id="id-393fc4fca5ac4053b8f24e261633f793" targetConnections="id-33320cfd0a6f452cb84878145920c7cb" archimateElement="id-67a1449322304617ae24211df3286cb4">
+            <bounds x="12" y="132" width="148" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-86fa8c8b80784f44905f6183d01e846a" targetConnections="id-b77073f1c3734cec9622404ae9643385" archimateElement="id-aa9c56c203d542f19be1c446c14406bf">
+            <bounds x="87" y="186" width="148" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ce4b5ea55ab544209bdf6f904f56e80d" targetConnections="id-2ea23c38805a4b21a845fe08dda3c25d" archimateElement="id-213e8465945d41a88b3bd8a4f1fc0099">
+            <bounds x="159" y="120" width="148" height="67"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-6d8f8502a17249829fd4cfd70da261fe" targetConnections="id-1335a0e23fd84957817ea25fa53c1eba" archimateElement="id-8f207543483f4199b5ee89fe10668ae3">
+            <bounds x="12" y="78" width="148" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-095f3edfe8ac47f997711e2f0a0909c8" targetConnections="id-a12ca15d60784499a1daf60dd5d75870" archimateElement="id-8e9926cc400241ed851354cae0adff2d">
+            <bounds x="12" y="24" width="148" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ede2edf24a5240e8bc77d08f686a3d14" targetConnections="id-db23d9a1abc947299937d5c72e57f0e9" archimateElement="id-ad7f864408f34df893215562f46ff99d">
+            <bounds x="159" y="24" width="148" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-11d41aacb5c347db8a1c91bb9d6dadc7" targetConnections="id-afbaa2f8b90c45bebee690c083d01d03" archimateElement="id-f47a6a0f157a45879480bb884adc50f5">
+            <bounds x="159" y="78" width="148" height="43"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-bbb7d04979ed4941a08dad43c26a1300" textAlignment="1" archimateElement="id-0fae75f561944b9baeba9988d9face2a">
+          <bounds x="8" y="420" width="481" height="229"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-91362ea2b1c34e30935f63875af2d0ad" source="id-bbb7d04979ed4941a08dad43c26a1300" target="id-755fe7cd94554ecd9c4b5da6036e37af" archimateRelationship="id-7be2546cbb3d43829c4918b86fbc9b53"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f0f3d1b2f4f04a79b1557bcfc4b58fd5" source="id-bbb7d04979ed4941a08dad43c26a1300" target="id-7b46efb340e7415d8043fedb1b1bfad9" archimateRelationship="id-a66c7981b0754243ad15f877450f5d0c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a2b55b8d81c94b2eb263520dd451f460" source="id-bbb7d04979ed4941a08dad43c26a1300" target="id-26782781472345699f3ae9e839ec1d0b" archimateRelationship="id-c0c099f6ec28498fa22dd47afabdc63b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-bf67bde8e88b4c48a4a09a5637e44902" source="id-bbb7d04979ed4941a08dad43c26a1300" target="id-5e7c956977fc439499f31db974b2202a" archimateRelationship="id-e15323a76de84b2584326b30cdb47ec9"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c8385f9c64a146c483cd26c73267930c" source="id-bbb7d04979ed4941a08dad43c26a1300" target="id-1ae83e5ecbd948a0b7287d2fdb2d615d" archimateRelationship="id-5d9c1f1bde2c4efc98ed01c54eea7b3b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f42f0ddab5da465c9adcd671682a4e83" source="id-bbb7d04979ed4941a08dad43c26a1300" target="id-71165947b90246c391bc88ff1f24957c" archimateRelationship="id-bf67fdb2ab8a4ee6b10e46a62b432e6c"/>
+          <child xsi:type="archimate:DiagramObject" id="id-755fe7cd94554ecd9c4b5da6036e37af" targetConnections="id-d3c4b80d2fa143b49ad7e409aa195d3d id-91362ea2b1c34e30935f63875af2d0ad" archimateElement="id-a071363554a74f3bbfefd8f38ce8a3d1">
+            <bounds x="348" y="24" width="120" height="73"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-c7e7acde636e4a1094a7a4887e212550" source="id-755fe7cd94554ecd9c4b5da6036e37af" target="id-1ae83e5ecbd948a0b7287d2fdb2d615d" archimateRelationship="id-c1463269e68b4f098d4a8ce0d49397c4"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7b46efb340e7415d8043fedb1b1bfad9" targetConnections="id-f0f3d1b2f4f04a79b1557bcfc4b58fd5" archimateElement="id-9d2a111102ff45c58057a51efc35125f">
+            <bounds x="13" y="24" width="120" height="73"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-65f335a5fdb04a719d075ecda9c0250a" source="id-7b46efb340e7415d8043fedb1b1bfad9" target="id-71165947b90246c391bc88ff1f24957c" archimateRelationship="id-e82f8f8172a4483080ed4a0b8438ebd9"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-26782781472345699f3ae9e839ec1d0b" targetConnections="id-30dce47a0d594cee9d1dd7096f29a6a2 id-a2b55b8d81c94b2eb263520dd451f460" archimateElement="id-dfb60d5576bc42619168d75b3242acfb">
+            <bounds x="348" y="132" width="120" height="85"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5e7c956977fc439499f31db974b2202a" targetConnections="id-c49332456ba5460b9aef99800e1b6aa5 id-bf67bde8e88b4c48a4a09a5637e44902" archimateElement="id-a0291bd758aa4754b015646613741578">
+            <bounds x="180" y="132" width="120" height="85"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-30dce47a0d594cee9d1dd7096f29a6a2" source="id-5e7c956977fc439499f31db974b2202a" target="id-26782781472345699f3ae9e839ec1d0b" archimateRelationship="id-632abe3e128945399662c68447a8b82c"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1ae83e5ecbd948a0b7287d2fdb2d615d" targetConnections="id-c7e7acde636e4a1094a7a4887e212550 id-c8385f9c64a146c483cd26c73267930c" archimateElement="id-c19deb0a637443a19a9216fa862c89a2">
+            <bounds x="13" y="132" width="120" height="85"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-c49332456ba5460b9aef99800e1b6aa5" source="id-1ae83e5ecbd948a0b7287d2fdb2d615d" target="id-5e7c956977fc439499f31db974b2202a" archimateRelationship="id-7cf971b12bb74b1bab3252d84c07a4c5"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-71165947b90246c391bc88ff1f24957c" targetConnections="id-65f335a5fdb04a719d075ecda9c0250a id-f42f0ddab5da465c9adcd671682a4e83" archimateElement="id-31d6cbef22bd4d669d302b431eebea33">
+            <bounds x="180" y="24" width="120" height="73"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-d3c4b80d2fa143b49ad7e409aa195d3d" source="id-71165947b90246c391bc88ff1f24957c" target="id-755fe7cd94554ecd9c4b5da6036e37af" archimateRelationship="id-b4312d8df9684699a349cd87d17f78ff"/>
+          </child>
+        </child>
+        <documentation>Enterprise Data Certification Playbook (Template &amp; Guidance)&#xD;
+Guiding principles, best practices and tools to develop and implement Data Certification plan and Certified Data Assets at ESDC&#xD;
+https://014gc.sharepoint.com/:w:/r/sites/EDATeamADE/EDA%20Organisation%20ADE/EDA-INITIATIVES-ADE/EDFP-Data%20Certification/Final%20documents/Enterprise%20Data%20Certification-Playbook.docx?d=wabca537ffb91425085996382cdd41a15&amp;csf=1&amp;web=1&amp;e=HvmokV&#xD;
+Prepared by: Hadi Heidary &#xD;
+Enterprise Data Management, Chief Data Officer / Employment and Social Development Canada&#xD;
+&#xD;
+Table Of Contents&#xD;
+1. Introduction &amp; Objectives	6&#xD;
+2. Data Certification Concept	7&#xD;
+Data Certification	7&#xD;
+Limitations of Data Certification	7&#xD;
+3. Scope &amp; Applicability	8&#xD;
+In Scope	8&#xD;
+Out of Scope	9&#xD;
+4. Certification Principles	9&#xD;
+5. Roles &amp; Responsibilities	10&#xD;
+Business Subject Matter Expert (BSME)	10&#xD;
+Lead Data Stewards	10&#xD;
+Data Steward	11&#xD;
+Data Custodian:	11&#xD;
+Data Trustee (Governance Committee):	11&#xD;
+Privacy &amp; Security	11&#xD;
+6. Certification Levels &amp; Risk Tiering	12&#xD;
+Certified Product	12&#xD;
+Certified Asset	12&#xD;
+Validated Data Asset	13&#xD;
+7. Data Certification Lifecycle Overview	13&#xD;
+Step 1: Intake &amp; Product Definition	15&#xD;
+Required Elements	15&#xD;
+Step 2: Lineage Discovery &amp; Data Profiling	16&#xD;
+Lineage Discovery (Initial)	16&#xD;
+Data Profiling:	17&#xD;
+Step 3: Data Quality &amp; Lineage Validation	20&#xD;
+Data Quality Validation	20&#xD;
+Lineage Validation	20&#xD;
+Step 4: Governance, Compliance &amp; Change Readiness	21&#xD;
+Governance	21&#xD;
+Compliance	21&#xD;
+Change Enablement	22&#xD;
+Step 5: Certification Decision &amp; Publication	22&#xD;
+Decision Inputs	22&#xD;
+Outcomes	23&#xD;
+Certification Publication	23&#xD;
+Step 6: Ongoing Monitoring &amp; Re-Certification	24&#xD;
+Monitoring	24&#xD;
+Re-Certification	24&#xD;
+8. Change Management &amp; Exceptions	25&#xD;
+Exceptions Management	25&#xD;
+Change Management – What Triggers Re-Certification	25&#xD;
+Recertification Process	26&#xD;
+9. Tooling &amp; Evidence Management	27&#xD;
+10. Audit &amp; Assurance Expectations	28&#xD;
+Full Traceability	28&#xD;
+Decisions Reproducible	28&#xD;
+Evidence Retained per Retention Policy	29&#xD;
+11. Appendices	29&#xD;
+Appendix 1 – Product/Report Intake &amp; Data Profiling Form	30&#xD;
+Appendix 2 –Post Intake Data Profiling Checklist (Operational)	34&#xD;
+Appendix 3 – Data Quality Checklist	36&#xD;
+Appendix 4 – Lineage Verification and Data Asset Migration Report	37&#xD;
+Appendix 5 – Data Governance &amp; Compliance Checklist	39&#xD;
+Appendix 6 – RACI Matrix	41&#xD;
+Appendix 7 - Asset Certification Checklist (Purview Aligned)	43</documentation>
+      </element>
     </folder>
     <folder name="GC Language" id="id-43ad03cf472643fb9d735306dc35af0a">
       <element xsi:type="archimate:ArchimateDiagramModel" name="GC Plain Language Note-Taking" id="id-f70e388c803f4b2f9a2d92c5a1c23fab">
@@ -27646,6 +28620,75 @@ Building Canada Strong</content>
         </child>
         <documentation>https://budget.canada.ca/2025/report-rapport/intro-en.html&#xD;
 https://budget.canada.ca/2025/report-rapport/intro-fr.html</documentation>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="GC 2026 Spring Economic Update" id="id-58cc673b7bd94bcdb5f401a097d12b95">
+        <child xsi:type="archimate:Note" id="id-af6147602f7247118f49844873b1a412" font="1|Segoe UI|16.2|1|WINDOWS|1|-27|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1">
+          <bounds x="5" y="6" width="512" height="49"/>
+          <content>Budget: 2026 Spring Economic Update</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-6fb96f96e0a24927867d978e4aa0ae37" textPosition="1">
+          <bounds x="426" y="6" width="91" height="49"/>
+          <content>2026-04-28&#xD;
+v0.1.20260504</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-8b0cb04185144c51b2bec82b6c1e0cfd" archimateElement="id-1ea87095199d4ce7853cc3ef42739dad">
+          <bounds x="5" y="60" width="205" height="73"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9239e583a88642f98964e4531f1d8782" source="id-8b0cb04185144c51b2bec82b6c1e0cfd" target="id-2278fe2290414cb3b4e7b4eaf4b97fd7" archimateRelationship="id-7ce5b8762d8f4bbcbcd338b912141526"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-2278fe2290414cb3b4e7b4eaf4b97fd7" targetConnections="id-9239e583a88642f98964e4531f1d8782" textAlignment="1" archimateElement="id-35aaa66700de4146a3677faa4e06e9bc">
+          <bounds x="5" y="156" width="356" height="241"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e79bc55b4f7e4a6f8ffa395104d63e6a" source="id-2278fe2290414cb3b4e7b4eaf4b97fd7" target="id-133cd871c00e4bada727b32a2b0783a5" archimateRelationship="id-cc4c4ef753344d378b4eb30846af8808"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-df3bd96099f144a6a40c8cea07e9173f" source="id-2278fe2290414cb3b4e7b4eaf4b97fd7" target="id-2f0fd6d56a0d41709853a9da2e855c2b" archimateRelationship="id-78a2af87aaca4a24b94ee46795446586"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b33343ad01db42ae8359e4bc9a8b5c27" source="id-2278fe2290414cb3b4e7b4eaf4b97fd7" target="id-38258fd11483405cad444e49f9929706" archimateRelationship="id-a9a6797746b04f95a2a3e113ea824830"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f57ab21f58144e6da13c53307d17dbfa" source="id-2278fe2290414cb3b4e7b4eaf4b97fd7" target="id-841c9296e57f43b0ba45cdaf4ee5f933" archimateRelationship="id-230d561a08964ed7a099582d91c9917f"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a5a86641244949e68c5c5b738067d4fb" source="id-2278fe2290414cb3b4e7b4eaf4b97fd7" target="id-d66504a71ba74180b81880323cc03a26" archimateRelationship="id-42a7ab43c21c4204aff388c2a36be1a3"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6c840e6c59b0444e95da47d94a16ba64" source="id-2278fe2290414cb3b4e7b4eaf4b97fd7" target="id-41ca91aa4be64017b8322c3c118a2b5d" archimateRelationship="id-2ce10c83f28b469c9b70351e0afe1a73"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b5c2de4d7c57435ca879a5f8e26b44c6" source="id-2278fe2290414cb3b4e7b4eaf4b97fd7" target="id-5c9273bd741a49238412d3e36ad64f94" archimateRelationship="id-9096ff2e21da43f79d0fc0c32e0978dc"/>
+          <child xsi:type="archimate:DiagramObject" id="id-133cd871c00e4bada727b32a2b0783a5" targetConnections="id-e79bc55b4f7e4a6f8ffa395104d63e6a" lineWidth="3" fillColor="#d29b1a" archimateElement="id-2ca973ae0d21462ba604359f1958f2e5">
+            <bounds x="12" y="72" width="165" height="43"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-2f0fd6d56a0d41709853a9da2e855c2b" targetConnections="id-df3bd96099f144a6a40c8cea07e9173f" archimateElement="id-75ba97ea26074cbba4f2fe6b91b3a321">
+            <bounds x="96" y="168" width="165" height="60"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-38258fd11483405cad444e49f9929706" targetConnections="id-b33343ad01db42ae8359e4bc9a8b5c27" archimateElement="id-a9df38d784c84374a8847456141a93f9">
+            <bounds x="187" y="24" width="165" height="43"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-841c9296e57f43b0ba45cdaf4ee5f933" targetConnections="id-f57ab21f58144e6da13c53307d17dbfa" lineWidth="3" fillColor="#d29b1a" archimateElement="id-29aed334851a489094d6d8b154f2d04b">
+            <bounds x="12" y="24" width="165" height="43"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d66504a71ba74180b81880323cc03a26" targetConnections="id-a5a86641244949e68c5c5b738067d4fb" lineWidth="3" fillColor="#d29b1a" archimateElement="id-4a7435cf86f641079542c522a7344de8">
+            <bounds x="12" y="120" width="165" height="43"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-41ca91aa4be64017b8322c3c118a2b5d" targetConnections="id-6c840e6c59b0444e95da47d94a16ba64" archimateElement="id-cba56aa00c1d4aa2a66b16bf6fa8c5a7">
+            <bounds x="187" y="72" width="165" height="43"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5c9273bd741a49238412d3e36ad64f94" targetConnections="id-b5c2de4d7c57435ca879a5f8e26b44c6" archimateElement="id-d151911f89f149efb051e89828ecbb27">
+            <bounds x="187" y="120" width="165" height="43"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-73c3e6e141db440c89422c050d7d2647" textAlignment="1" archimateElement="id-f2a17b362e864338a07eecd1baeb41ce">
+          <bounds x="426" y="120" width="361" height="205"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3649992e2ad0446aaa4ae72a883f1e49" source="id-73c3e6e141db440c89422c050d7d2647" target="id-2f912b7258024daa8d26db472eb26cff" archimateRelationship="id-b17f5b6ce5634bc6bbc68ad6c203694a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4684dd8c920f491da70733ea40b7b58b" source="id-73c3e6e141db440c89422c050d7d2647" target="id-8f2e316d474347dfafe45237672e6b8e" archimateRelationship="id-60a706951aba4e818f631928b3b05edf"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-0e18d5bb964b425c8bdfba64b68bfbab" source="id-73c3e6e141db440c89422c050d7d2647" target="id-050ff2e1d92c49e78700295e15b8ed41" archimateRelationship="id-3d081b678c4b4b999507fe0f771f1265"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-257cb98c216549c0a4fc5a6e7d575dfb" source="id-73c3e6e141db440c89422c050d7d2647" target="id-ceb03c8993334971a0380844071d8a25" archimateRelationship="id-8b91c35b0acd49d4b9fe56291d90b06d"/>
+          <child xsi:type="archimate:DiagramObject" id="id-2f912b7258024daa8d26db472eb26cff" targetConnections="id-3649992e2ad0446aaa4ae72a883f1e49" archimateElement="id-a7ebefba7b6a4621815d981e4c2d1fec">
+            <bounds x="189" y="24" width="159" height="78"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-8f2e316d474347dfafe45237672e6b8e" targetConnections="id-4684dd8c920f491da70733ea40b7b58b" archimateElement="id-201937c4efb64e9e99f5f0c26927a5ce">
+            <bounds x="12" y="114" width="159" height="78"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-050ff2e1d92c49e78700295e15b8ed41" targetConnections="id-0e18d5bb964b425c8bdfba64b68bfbab" archimateElement="id-0670f7e606bf41e0aa6604db923860bf">
+            <bounds x="12" y="24" width="159" height="78"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ceb03c8993334971a0380844071d8a25" targetConnections="id-257cb98c216549c0a4fc5a6e7d575dfb" archimateElement="id-ca4c427daa014ac6a7968a84dca14aa5">
+            <bounds x="189" y="114" width="159" height="78"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-aff2632420704e6e89ded07004166f4b" archimateElement="id-50677b7ab5dc4fe699ce989d58166cfb">
+          <bounds x="615" y="34" width="120" height="55"/>
+        </child>
+        <documentation>https://budget.canada.ca/update-miseajour/2026/report-rapport/intro-en.html</documentation>
       </element>
     </folder>
     <folder name="CDOB-EDA How We Work" id="id-6bc3d130505346c0ab5ebfe1ade10b0e">
@@ -29774,7 +30817,7 @@ Overview, Analysis</content>
           <bounds x="331" y="65" width="120" height="58"/>
           <content>(DRAFT)&#xD;
 2026-04-27&#xD;
-v0.1.20260427</content>
+v0.1.20260504</content>
         </child>
         <child xsi:type="archimate:Note" id="id-6eedd851e2004f6fb2396cf87b5657a6" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
           <bounds x="456" y="5" width="205" height="68"/>
@@ -29849,7 +30892,7 @@ v0.1.20260427</content>
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-a841996c712f4f1cb040914cd56f5c7f" archimateElement="id-7f2a0a15d4a94eb2a11a701a0bb4c832">
-          <bounds x="492" y="300" width="841" height="421"/>
+          <bounds x="528" y="298" width="841" height="421"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-5c6d2c5b81914cdfab70c2ea9ed1dc83" source="id-a841996c712f4f1cb040914cd56f5c7f" target="id-dd40ed4e5bd5456896e5719d7d162266" archimateRelationship="id-d09db223bc7146fe9c2c1afb58467ba0"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-13838c1e2ea441cbb520e7efc2de71d9" source="id-a841996c712f4f1cb040914cd56f5c7f" target="id-3133895525d24edc998f73940c03dfbf" archimateRelationship="id-989a4d31febe4045b587f3399bb41c48"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-1edc4a942b3f4408941776e6a97ec791" source="id-a841996c712f4f1cb040914cd56f5c7f" target="id-7fba5f59cb504cb880e83ba226a896e2" archimateRelationship="id-820a61033c5145c18242dec6ab697309"/>
@@ -29964,36 +31007,57 @@ v0.1.20260427</content>
           <content>FROM ESDC Departmental Application Capabilities Model (DACM) v3</content>
         </child>
         <child xsi:type="archimate:Note" id="id-6898c56caf354e2eade886db809b878b" textAlignment="1">
-          <bounds x="24" y="708" width="229" height="493"/>
-          <content>DACM Caps NOT on EDFP&#xD;
+          <bounds x="900" y="1200" width="277" height="793"/>
+          <content>A5.01.01 Policy / Rule / Requirements Development&#xD;
+A5.01.02 Identity Accreditation&#xD;
+A5.01.03 Identity Certification&#xD;
+A5.01.05 Role / Persona Engineering &amp; Modelling&#xD;
+A5.01.06 Separation of Duties (SoD) Compliance&#xD;
+A5.01.07 Identity Conformance&#xD;
 &#xD;
-- A4.05.02 Data Archiving&#xD;
-- A4.05.03 Data Erasure&#xD;
+A5.02.02 Identity Workflow Design and Implementation&#xD;
+A5.02.03 Identity Provisioning&#xD;
+A5.02.04 Identity Updates (Periodic &amp; Event Based)&#xD;
+A5.02.05 Identity Recovery&#xD;
+A5.02.06 Identity Redress&#xD;
+A5.02.07 Identity Assurance&#xD;
+A5.02.08 Identity Entitlement &amp; Access Audit&#xD;
 &#xD;
-- A4.07.04 Enterprise Search&#xD;
-- A4.07.10 Media Asset Management&#xD;
-- A4.07.99 Other Data and Information Services&#xD;
+A5.03 Authentication Service&#xD;
+A5.03.01 Adaptive Authentication&#xD;
+A5.03.02 Authentication Brokerage&#xD;
+A5.03.03 Multi-factor Authentication&#xD;
+A5.03.04 Out of Band Authentication&#xD;
+A5.03.05 Biometrics&#xD;
+A5.03.06 Session Management&#xD;
 &#xD;
-- A4.08.01 Cartography&#xD;
-- A4.08.02 Collection and Manipulation of Satellite and Aerial Photographs&#xD;
-- A4.08.03 Geometric Networks&#xD;
-- A4.08.04 Geocoding (Forward Geocoding)&#xD;
-- A4.08.07 Hydrological Modelling&#xD;
-- A4.08.08 Imagery&#xD;
-- A4.08.09 Reverse Geocoding&#xD;
-- A4.08.10 Spatial Data Infrastructure&#xD;
-- A4.08.11 Topological Modelling&#xD;
-- A4.08.12 Spatial Data Modelling&#xD;
+A5.04 Authorisation and Access  Service&#xD;
+A5.04.01 Enterprise SSO&#xD;
+A5.04.02 Federation Service&#xD;
+A5.04.03 Access Control&#xD;
+A5.04.04 Web Access Management&#xD;
+A5.04.05 Web SSO&#xD;
+A5.04.06 Delegation Service&#xD;
 &#xD;
-- A5.01.01 Policy / Rule / Requirements Development&#xD;
-- A5.01.02 Identity Accreditation&#xD;
-- A5.01.03 Identity Certification&#xD;
-- A5.01.05 Role / Persona Engineering &amp; Modelling&#xD;
-- A5.01.06 Separation of Duties (SoD) Compliance&#xD;
-- A5.01.07 Identity Conformance</content>
+A5.05 Directory Service&#xD;
+&#xD;
+A6.01 Encryption Services&#xD;
+A6.01.01 Crypto Key Management&#xD;
+A6.01.02 Drive Encryption ***&#xD;
+A6.01.04 Network Encryption&#xD;
+A6.01.05 Removable media encryption&#xD;
+&#xD;
+A6.02 Network Security Services&#xD;
+A6.02.01 Infrastructure Guard&#xD;
+A6.02.03 Network Access Control&#xD;
+&#xD;
+A6.03 Public Key Infrastructure (PKI) Services&#xD;
+A6.03.01 Digital Certificate Management&#xD;
+A6.03.02 Digital Signature Management&#xD;
+A6.03.05 Key Generation</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-2e783b17e4d44962a55b00c595e93208" archimateElement="id-f5d8dc2cfb87448d8a09d2418d633b83">
-          <bounds x="492" y="92" width="653" height="207"/>
+          <bounds x="622" y="92" width="653" height="207"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-c90ad78c85824bbb9970c3d9b3b0b938" source="id-2e783b17e4d44962a55b00c595e93208" target="id-728aad6b867341ad837c65f9441cd20e" archimateRelationship="id-74822476a3ed434cad15b8458a321ecc"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-c5743c3c986c4c57997479321aee0be1" source="id-2e783b17e4d44962a55b00c595e93208" target="id-64f2c4652c524b0b8ca75fdb5b190b69" archimateRelationship="id-73c3d6d8e0ee4729a1159f74d64c3c38"/>
           <child xsi:type="archimate:DiagramObject" id="id-728aad6b867341ad837c65f9441cd20e" targetConnections="id-c90ad78c85824bbb9970c3d9b3b0b938" archimateElement="id-847b5afaf70e48a5a83448ac3de077e6">
@@ -30061,25 +31125,6 @@ v0.1.20260427</content>
             </child>
           </child>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-6dd897a30abe4902b907a2329dbe94dc" archimateElement="id-349e94dd7abb476193a48a544ab2a1bc">
-          <bounds x="912" y="756" width="169" height="289"/>
-          <sourceConnection xsi:type="archimate:Connection" id="id-736fc65eaf814660972bd69c8d921ff7" source="id-6dd897a30abe4902b907a2329dbe94dc" target="id-0a40be010f7b4692a6a6b48c11e61417" archimateRelationship="id-e775d6a7f81c4396b51041885a79387a"/>
-          <sourceConnection xsi:type="archimate:Connection" id="id-deaef8bac9714e96b60ae166d083034e" source="id-6dd897a30abe4902b907a2329dbe94dc" target="id-5cb94ae5af6d4e71adcefcbdbc33cabb" archimateRelationship="id-14e7dd0901564bfaa524ee9e53856c6d"/>
-          <sourceConnection xsi:type="archimate:Connection" id="id-2fe41bc2e7f846319f3c7eb1b0e5b425" source="id-6dd897a30abe4902b907a2329dbe94dc" target="id-f0f6e81f5e6742fb8b4eef949cf693cc" archimateRelationship="id-8a22beca7946431fa1c5212d2939a460"/>
-          <sourceConnection xsi:type="archimate:Connection" id="id-32ef0194933a40308533cc10cbe9269c" source="id-6dd897a30abe4902b907a2329dbe94dc" target="id-56d0939e50ec49d59ded67eeeddd52a8" archimateRelationship="id-a5222dc7674148a49eaefa1b7ccb0e08"/>
-          <child xsi:type="archimate:DiagramObject" id="id-0a40be010f7b4692a6a6b48c11e61417" targetConnections="id-736fc65eaf814660972bd69c8d921ff7" archimateElement="id-a3ff305826b14e7d81ace731be8d3dfd">
-            <bounds x="12" y="51" width="145" height="73"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="id-5cb94ae5af6d4e71adcefcbdbc33cabb" targetConnections="id-deaef8bac9714e96b60ae166d083034e" archimateElement="id-626052557b7b4dfcb68ea222cfc00787">
-            <bounds x="12" y="123" width="145" height="54"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="id-f0f6e81f5e6742fb8b4eef949cf693cc" targetConnections="id-2fe41bc2e7f846319f3c7eb1b0e5b425" archimateElement="id-e9cb9451fc284c31a9a2a680569d161d">
-            <bounds x="12" y="176" width="145" height="56"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="id-56d0939e50ec49d59ded67eeeddd52a8" targetConnections="id-32ef0194933a40308533cc10cbe9269c" archimateElement="id-27b64cd557374aa8ad0b003123e8d7a8">
-            <bounds x="12" y="231" width="145" height="53"/>
-          </child>
-        </child>
         <child xsi:type="archimate:DiagramObject" id="id-0e549c7f71e4412fa9b3d7a98403970a" archimateElement="id-cde75b74ee0249fba3c11e50a26b64b3">
           <bounds x="684" y="720" width="193" height="298"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-e02dff4e66924f01a5003525c30500fb" source="id-0e549c7f71e4412fa9b3d7a98403970a" target="id-1099c01aeb2043ec9f11dc15446fd4d9" archimateRelationship="id-8f7a1b81993e437fb5efd48b29cc897b"/>
@@ -30108,48 +31153,374 @@ v0.1.20260427</content>
           </child>
         </child>
         <child xsi:type="archimate:Note" id="id-ea61afe8ee704cdf92b11b5d84a2480c" textAlignment="1">
-          <bounds x="252" y="708" width="229" height="493"/>
-          <content>- A5.02.02 Identity Workflow Design and Implementation&#xD;
-- A5.02.03 Identity Provisioning&#xD;
-- A5.02.04 Identity Updates (Periodic &amp; Event Based)&#xD;
-- A5.02.05 Identity Recovery&#xD;
-- A5.02.06 Identity Redress&#xD;
-- A5.02.07 Identity Assurance&#xD;
-- A5.02.08 Identity Entitlement &amp; Access Audit&#xD;
+          <bounds x="1176" y="1200" width="293" height="793"/>
+          <content>A6.04.01 Application Whitelisting&#xD;
+A6.04.02 Content Security Control&#xD;
+A6.04.03 Decommissioning and Disposal&#xD;
+A6.04.04 Device Port Manager&#xD;
+A6.04.05 Perimeter Protection&#xD;
+A6.04.06 Physical Access Security Services&#xD;
+A6.04.07 Radio Spectrum Security Controls&#xD;
+A6.04.99 Other Security Controls&#xD;
 &#xD;
-- </content>
+A6.05 Digital Forensics&#xD;
+A6.05.01 Computer Forensics&#xD;
+A6.05.02 Mobile Device Forensics&#xD;
+A6.05.03 Network Forensics&#xD;
+A6.05.04 Forensic Data Analysis&#xD;
+A6.05.05 Database Forensics&#xD;
+&#xD;
+A6.06.01 Intrusion Prevention&#xD;
+A6.06.02 Intrusion Detection&#xD;
+A6.06.04 Security Configuration Manager&#xD;
+A6.06.05 Security Incident Management&#xD;
+A6.06.06 Security Intelligence and Analysis&#xD;
+A6.06.07 Security Metrics&#xD;
+A6.06.08 Security Reporting&#xD;
+&#xD;
+A7.01 Business Process Management Tools&#xD;
+A7.01.01 Business Activity Monitoring (BAM)&#xD;
+A7.01.02 Business Process Modelling and Simulation&#xD;
+A7.01.03 Business Process Engine (BPE)&#xD;
+A7.01.04 Business Process Monitoring&#xD;
+A7.01.05 Workflow Engine&#xD;
+A7.01.06 Architecture&#xD;
+&#xD;
+A7.02 ICT Components&#xD;
+A7.02.01 Alerts&#xD;
+A7.02.02 Correspondence&#xD;
+A7.02.03 Notifications&#xD;
+A7.02.04 Outbound Correspondence Component&#xD;
+A7.02.05 Personalisation&#xD;
+A7.02.06 Rating Engine&#xD;
+A7.02.07 Storefront / Shopping Cart&#xD;
+A7.02.08 Subscriptions&#xD;
+A7.02.09 Job Scheduler&#xD;
+A7.02.99 Other IT Components&#xD;
+&#xD;
+A7.03.01 Development Frameworks&#xD;
+A7.03.02 Development Resource Libraries&#xD;
+A7.03.03 Forms Management&#xD;
+A7.03.05 Mash-up Editor&#xD;
+A7.03.06 Software Configuration Management&#xD;
+A7.03.07 Software Development Kit&#xD;
+A7.03.09 User Innovation Toolkit&#xD;
+A7.03.10 Validation Tools</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-f7a676868912482d867509506c25ea98" archimateElement="id-bedcc244c36341cfaa615fc52cb40b61">
-          <bounds x="1327" y="796" width="145" height="73"/>
+          <bounds x="876" y="720" width="193" height="329"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5e08c6f36feb483d9d32ddefbee65617" source="id-f7a676868912482d867509506c25ea98" target="id-6dd897a30abe4902b907a2329dbe94dc" archimateRelationship="id-8e0b97d365364b05aaf0174238f19bfc"/>
+          <child xsi:type="archimate:DiagramObject" id="id-6dd897a30abe4902b907a2329dbe94dc" targetConnections="id-5e08c6f36feb483d9d32ddefbee65617" archimateElement="id-349e94dd7abb476193a48a544ab2a1bc">
+            <bounds x="12" y="36" width="169" height="289"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-736fc65eaf814660972bd69c8d921ff7" source="id-6dd897a30abe4902b907a2329dbe94dc" target="id-0a40be010f7b4692a6a6b48c11e61417" archimateRelationship="id-e775d6a7f81c4396b51041885a79387a"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-deaef8bac9714e96b60ae166d083034e" source="id-6dd897a30abe4902b907a2329dbe94dc" target="id-5cb94ae5af6d4e71adcefcbdbc33cabb" archimateRelationship="id-14e7dd0901564bfaa524ee9e53856c6d"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-2fe41bc2e7f846319f3c7eb1b0e5b425" source="id-6dd897a30abe4902b907a2329dbe94dc" target="id-f0f6e81f5e6742fb8b4eef949cf693cc" archimateRelationship="id-8a22beca7946431fa1c5212d2939a460"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-32ef0194933a40308533cc10cbe9269c" source="id-6dd897a30abe4902b907a2329dbe94dc" target="id-56d0939e50ec49d59ded67eeeddd52a8" archimateRelationship="id-a5222dc7674148a49eaefa1b7ccb0e08"/>
+            <child xsi:type="archimate:DiagramObject" id="id-0a40be010f7b4692a6a6b48c11e61417" targetConnections="id-736fc65eaf814660972bd69c8d921ff7" archimateElement="id-a3ff305826b14e7d81ace731be8d3dfd">
+              <bounds x="12" y="51" width="145" height="73"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-5cb94ae5af6d4e71adcefcbdbc33cabb" targetConnections="id-deaef8bac9714e96b60ae166d083034e" archimateElement="id-626052557b7b4dfcb68ea222cfc00787">
+              <bounds x="12" y="123" width="145" height="54"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-f0f6e81f5e6742fb8b4eef949cf693cc" targetConnections="id-2fe41bc2e7f846319f3c7eb1b0e5b425" archimateElement="id-e9cb9451fc284c31a9a2a680569d161d">
+              <bounds x="12" y="176" width="145" height="56"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-56d0939e50ec49d59ded67eeeddd52a8" targetConnections="id-32ef0194933a40308533cc10cbe9269c" archimateElement="id-27b64cd557374aa8ad0b003123e8d7a8">
+              <bounds x="12" y="231" width="145" height="53"/>
+            </child>
+          </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-b720d812ee8243c9b99db5f3d04c003d" archimateElement="id-72fd11f75f42493b9ddb75aa23802c9f">
-          <bounds x="1490" y="803" width="145" height="73"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-6f02e786abb84e149c308cf42d3e9489" archimateElement="id-4aec95c3cf754a408cc7fb09ed0d8f52">
-          <bounds x="1532" y="915" width="145" height="73"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-b13489b55f354670b62982cae51660a8" archimateElement="id-879e153ee25c4567b8828c81bd5318c2">
-          <bounds x="1080" y="756" width="169" height="289"/>
-          <sourceConnection xsi:type="archimate:Connection" id="id-13f4be45204e432dbe17833d9c8bf2ab" source="id-b13489b55f354670b62982cae51660a8" target="id-c9c2a6778ab34496848573361b9f2989" archimateRelationship="id-1ede2fa23a424eae927ceb2160812898"/>
-          <sourceConnection xsi:type="archimate:Connection" id="id-12ffbd63eb124ada95fb16ad8ebe855b" source="id-b13489b55f354670b62982cae51660a8" target="id-58f469e6ca524aca9bc7a63ffb38b99e" archimateRelationship="id-b42986214e8c4c66b53478fe4c13081d"/>
-          <child xsi:type="archimate:DiagramObject" id="id-c9c2a6778ab34496848573361b9f2989" targetConnections="id-13f4be45204e432dbe17833d9c8bf2ab" archimateElement="id-eb8d72ac557c4989a933fb5e7e8e5f81">
-            <bounds x="12" y="36" width="145" height="55"/>
+          <bounds x="1068" y="720" width="349" height="235"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8c8179d33f764939b1bc2d43b34220b5" source="id-b720d812ee8243c9b99db5f3d04c003d" target="id-b13489b55f354670b62982cae51660a8" archimateRelationship="id-4e3df65efb584481bbc56d6b79c9e985"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-957e76e4fb8b447ab335364af1ecd6ae" source="id-b720d812ee8243c9b99db5f3d04c003d" target="id-6f02e786abb84e149c308cf42d3e9489" archimateRelationship="id-13d6465408b04909b3f69006935be4c4"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-502cfdfda1704c21ad5fbe8ae5013c83" source="id-b720d812ee8243c9b99db5f3d04c003d" target="id-9ed25a9ef20b4e9d8e6ad1cd489a083b" archimateRelationship="id-c3a859ddd4e248da8f491798976218c2"/>
+          <child xsi:type="archimate:DiagramObject" id="id-b13489b55f354670b62982cae51660a8" targetConnections="id-8c8179d33f764939b1bc2d43b34220b5" archimateElement="id-879e153ee25c4567b8828c81bd5318c2">
+            <bounds x="7" y="36" width="169" height="193"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-13f4be45204e432dbe17833d9c8bf2ab" source="id-b13489b55f354670b62982cae51660a8" target="id-c9c2a6778ab34496848573361b9f2989" archimateRelationship="id-1ede2fa23a424eae927ceb2160812898"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-12ffbd63eb124ada95fb16ad8ebe855b" source="id-b13489b55f354670b62982cae51660a8" target="id-58f469e6ca524aca9bc7a63ffb38b99e" archimateRelationship="id-b42986214e8c4c66b53478fe4c13081d"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-d9c0cdf72878471384a928670cca7cfb" source="id-b13489b55f354670b62982cae51660a8" target="id-756da27d04834448bbbc004a2a983d0f" archimateRelationship="id-fb4e2b1dfcc54a04a53fc9d84312d71b"/>
+            <child xsi:type="archimate:DiagramObject" id="id-c9c2a6778ab34496848573361b9f2989" targetConnections="id-13f4be45204e432dbe17833d9c8bf2ab" archimateElement="id-eb8d72ac557c4989a933fb5e7e8e5f81">
+              <bounds x="12" y="36" width="145" height="55"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-58f469e6ca524aca9bc7a63ffb38b99e" targetConnections="id-12ffbd63eb124ada95fb16ad8ebe855b" archimateElement="id-a185eb32f96841c2b12d8cc1839b87d6">
+              <bounds x="12" y="90" width="145" height="54"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-756da27d04834448bbbc004a2a983d0f" targetConnections="id-d9c0cdf72878471384a928670cca7cfb" archimateElement="id-f256092e1b4c405997affc110bf5f177">
+              <bounds x="12" y="143" width="145" height="41"/>
+            </child>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="id-58f469e6ca524aca9bc7a63ffb38b99e" targetConnections="id-12ffbd63eb124ada95fb16ad8ebe855b" archimateElement="id-a185eb32f96841c2b12d8cc1839b87d6">
-            <bounds x="12" y="90" width="145" height="54"/>
+          <child xsi:type="archimate:DiagramObject" id="id-6f02e786abb84e149c308cf42d3e9489" targetConnections="id-957e76e4fb8b447ab335364af1ecd6ae" archimateElement="id-4aec95c3cf754a408cc7fb09ed0d8f52">
+            <bounds x="175" y="36" width="169" height="114"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-aa294ac30a504dbe84f986dee1f8448f" source="id-6f02e786abb84e149c308cf42d3e9489" target="id-88911a2b6cb5431e8e397513f52887ee" archimateRelationship="id-c551ef600059442faceb7b5458670adb"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-578e5b90191943d7933000f9e6b5a809" source="id-6f02e786abb84e149c308cf42d3e9489" target="id-226cd6c100f14bab8ec7b2b44b641e16" archimateRelationship="id-7aeaad89a2c74dccaa04938d344e5b09"/>
+            <child xsi:type="archimate:DiagramObject" id="id-88911a2b6cb5431e8e397513f52887ee" targetConnections="id-aa294ac30a504dbe84f986dee1f8448f" archimateElement="id-e3c6981851b54f56a1fc849be8f1cc59">
+              <bounds x="12" y="24" width="145" height="45"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-226cd6c100f14bab8ec7b2b44b641e16" targetConnections="id-578e5b90191943d7933000f9e6b5a809" archimateElement="id-85a8373a1a834c469f0b18a9858e9409">
+              <bounds x="12" y="68" width="145" height="41"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9ed25a9ef20b4e9d8e6ad1cd489a083b" targetConnections="id-502cfdfda1704c21ad5fbe8ae5013c83" archimateElement="id-cf5a74c801234ed1ba9444754c6ebe1d">
+            <bounds x="175" y="149" width="169" height="80"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-7cf1d0fb66bb4d189a5d161824e508a5" source="id-9ed25a9ef20b4e9d8e6ad1cd489a083b" target="id-2e47cc795dba41a6bf1df00514ab9098" archimateRelationship="id-ac6ee2d125364d9ebdd76a1cf4102774"/>
+            <child xsi:type="archimate:DiagramObject" id="id-2e47cc795dba41a6bf1df00514ab9098" targetConnections="id-7cf1d0fb66bb4d189a5d161824e508a5" archimateElement="id-fed880ca42be488c87312614abe55aa2">
+              <bounds x="12" y="24" width="145" height="54"/>
+            </child>
           </child>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-9ed25a9ef20b4e9d8e6ad1cd489a083b" archimateElement="id-cf5a74c801234ed1ba9444754c6ebe1d">
-          <bounds x="1364" y="1017" width="145" height="73"/>
+        <child xsi:type="archimate:Note" id="id-78a825a37daf40eb8a87fcd9080819da" textAlignment="1">
+          <bounds x="6" y="1200" width="313" height="793"/>
+          <content>A1.01 Enterprise Resource Planning (ERP)&#xD;
+A1.02 Financial Management Information System [FMIS]&#xD;
+A1.02.01 Budget Planning and Execution&#xD;
+A1.02.02 General Ledger (GL)&#xD;
+A1.02.03 Accounts Payable&#xD;
+A1.02.04 Accounts Receivable&#xD;
+A1.02.05 Asset Management&#xD;
+A1.02.06 Expense Management&#xD;
+A1.02.07 Financial Audit&#xD;
+A1.02.08 Investment Portfolio Management&#xD;
+A1.02.09 Financial Reporting&#xD;
+A1.02.10 Financial Risk Management&#xD;
+&#xD;
+A1.03 Human Resource Management&#xD;
+A1.03.01 Recruitment&#xD;
+A1.03.02 Education / Training&#xD;
+A1.03.03 Personnel Administration&#xD;
+A1.03.04 Staff Directory&#xD;
+A1.03.06 Team and Organisation Management&#xD;
+A1.03.07 Skills Management&#xD;
+A1.03.08 Emergency Notification&#xD;
+&#xD;
+A1.04 Workforce Management&#xD;
+A1.04.01 Resource Planning and Allocation&#xD;
+A1.04.02 Field Service Management&#xD;
+A1.04.03 Contingent Workforce Management&#xD;
+&#xD;
+A1.05.01 Strategy and Planning&#xD;
+A1.05.02 Governance&#xD;
+A1.05.03 Compliance Management&#xD;
+A1.05.05 Corporate Policy&#xD;
+A1.05.06 Risk Management&#xD;
+A1.05.07 Corporate Performance Management&#xD;
+&#xD;
+A1.06 Corporate Administration&#xD;
+A1.06.01 Legal Advice&#xD;
+A1.06.02 Facilities Management&#xD;
+A1.06.03 Accommodation Management&#xD;
+A1.06.04 Asset Booking&#xD;
+A1.06.05 Travel&#xD;
+A1.06.06 Service Centre&#xD;
+&#xD;
+A1.07 Supply Chain Management&#xD;
+A1.07.01 Supplier Management&#xD;
+A1.07.02 Ordering / Purchasing&#xD;
+A1.07.03 Supplier Catalogue Management&#xD;
+A1.07.04 Invoice Tracking and Approval&#xD;
+A1.07.05 Logistics and Transportation&#xD;
+A1.07.06 Procurement&#xD;
+A1.07.07 Supply Chain Assurance</content>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-226cd6c100f14bab8ec7b2b44b641e16" archimateElement="id-85a8373a1a834c469f0b18a9858e9409">
-          <bounds x="1567" y="1016" width="145" height="73"/>
+        <child xsi:type="archimate:Note" id="id-9902ec88776f4c06ac8a20169482ea9b" textAlignment="1">
+          <bounds x="318" y="1200" width="313" height="793"/>
+          <content>A2.02 Marketing&#xD;
+A2.02.01 Sales and Marketing Management&#xD;
+A2.02.02 Brand Management&#xD;
+A2.02.03 Marketing Surveys&#xD;
+A2.02.04 Campaign Management&#xD;
+&#xD;
+A2.03 Customer Relationship Management&#xD;
+A2.03.01 Customer Contact and Profile Management&#xD;
+A2.03.02 Customer Order and Registration Management&#xD;
+A2.03.03 Customer Account Management&#xD;
+A2.03.04 Customer Self Management&#xD;
+A2.03.05 Customer Problem Management&#xD;
+A2.03.06 Customer Analytics&#xD;
+A2.03.07 Consent Management&#xD;
+&#xD;
+A2.04 Partner Relationship Management&#xD;
+A2.04.01 Partner Contract and SLA Management&#xD;
+A2.04.02 Partner Account Management&#xD;
+A2.04.03 Partner Contact and Profile Management&#xD;
+A2.04.04 Partner Problem Management&#xD;
+A2.04.05 Partner Analytics&#xD;
+&#xD;
+A2.05 Customer Accounting&#xD;
+A2.05.01 Customer Financial Account Management&#xD;
+A2.05.02 Customer Invoicing and Statement Management&#xD;
+A2.05.03 Customer Collections&#xD;
+A2.05.04 Customer Debts and Recovery&#xD;
+&#xD;
+A2.06 Customer Service&#xD;
+A2.06.01 Contact Centre / Help Desk&#xD;
+A2.06.02 Contact Centre Management&#xD;
+A2.06.03 Contact Centre Knowledge Base&#xD;
+A2.06.05 Online Interactive Assistance&#xD;
+A2.06.06 Online Guidelines&#xD;
+A2.06.07 Translation Software&#xD;
+A2.06.08 Payment Systems&#xD;
+&#xD;
+A2.08 Grants Management&#xD;
+A2.08.01 Grant Receipt of Proposals&#xD;
+A2.08.02 Grant Administration&#xD;
+A2.08.03 Grant Review&#xD;
+A2.08.04 Grant Announcement&#xD;
+&#xD;
+A2.09 Case Management&#xD;
+&#xD;
+A3 End User Computing&#xD;
+&#xD;
+A3.01 End User Configuration Management&#xD;
+A3.01.01 Driver Technologies&#xD;
+A3.01.02 Application Deployment&#xD;
+A3.01.03 Field Equipment Software</content>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-756da27d04834448bbbc004a2a983d0f" archimateElement="id-f256092e1b4c405997affc110bf5f177">
-          <bounds x="1353" y="1135" width="145" height="73"/>
+        <child xsi:type="archimate:Note" id="id-cccadbcf83a345b5a6bf47b847ff82ad" textAlignment="1">
+          <bounds x="630" y="1200" width="271" height="793"/>
+          <content>A3.02 End User Tools&#xD;
+A3.02.01 Adaptive Computing Technology&#xD;
+A3.02.03 File Compression&#xD;
+A3.02.11 Web Browser&#xD;
+&#xD;
+A3.03 Conceptualization&#xD;
+A3.03.01 Wireframing &amp; Prototyping Tools&#xD;
+A3.03.02 Computer Aided Design (CAD)&#xD;
+&#xD;
+A3.04 Productivity Suite&#xD;
+A3.04.01 Print Services&#xD;
+&#xD;
+A3.05 Graphics and Multimedia&#xD;
+&#xD;
+A4.01.02 Data Modelling&#xD;
+A4.01.03 Data Representation Languages&#xD;
+A4.01.07 Knowledge Management&#xD;
+&#xD;
+A4.05.02 Data Archiving&#xD;
+A4.05.03 Data Erasure&#xD;
+&#xD;
+A4.06 Database Management&#xD;
+A4.06.01 Database Management System (DBMS)&#xD;
+A4.06.02 Database Administration&#xD;
+A4.06.03 Database Backup and Recovery&#xD;
+A4.06.04 Database Tuning&#xD;
+&#xD;
+A4.07.02 Digital Rights Management&#xD;
+A4.07.04 Enterprise Search&#xD;
+A4.07.10 Media Asset Management&#xD;
+A4.07.99 Other Data and Information Services&#xD;
+&#xD;
+A4.08.01 Cartography&#xD;
+A4.08.02 Collection and Manipulation of Satellite and Aerial Photographs&#xD;
+A4.08.03 Geometric Networks&#xD;
+A4.08.04 Geocoding (Forward Geocoding)&#xD;
+A4.08.07 Hydrological Modelling&#xD;
+A4.08.08 Imagery&#xD;
+A4.08.09 Reverse Geocoding&#xD;
+A4.08.10 Spatial Data Infrastructure&#xD;
+A4.08.11 Topological Modelling&#xD;
+A4.08.12 Spatial Data Modelling&#xD;
+&#xD;
+A4.09.02 Content Control&#xD;
+A4.09.04 Content Publishing&#xD;
+A4.09.05 Content Workflow&#xD;
+A4.10 Web Content Management&#xD;
+A4.10.01 Web Design and Maintenance&#xD;
+A4.10.02 Website Presentation&#xD;
+A4.10.03 Front-End Development&#xD;
+A4.10.04 Portal</content>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-88911a2b6cb5431e8e397513f52887ee" archimateElement="id-e3c6981851b54f56a1fc849be8f1cc59">
-          <bounds x="1571" y="1142" width="145" height="73"/>
+        <child xsi:type="archimate:Note" id="id-23a8ec0773514d808573caf45e5e5024" font="1|Segoe UI|16.2|1|WINDOWS|1|-27|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fillColor="#c0c0c0" textPosition="1" borderType="2">
+          <bounds x="6" y="1142" width="2074" height="59"/>
+          <content>DEPARTMENTAL APPLICATION CAPABILITIES v3: ITEMS NOT DELIVERED BY ENTERPRISE DATA FOUNDATION PLATFORM (EDFP)</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-db2f84e6dc5b4fcd98efbfd54aa76e2f" textAlignment="1">
+          <bounds x="1468" y="1200" width="325" height="793"/>
+          <content>A7.03.11 CASE Tools&#xD;
+A7.03.12 Work Item Tracking&#xD;
+A7.03.14 IT Change Management&#xD;
+A7.03.99 Other Development Environment and Tools&#xD;
+&#xD;
+A7.04 IT Management Tools&#xD;
+A7.04.01 Fault Management&#xD;
+A7.04.02 IT Configuration Management Database (CMDB)&#xD;
+A7.04.03 IT Definitive Media Library (DML)&#xD;
+A7.04.04 Monitoring&#xD;
+A7.04.05 Software Asset Management&#xD;
+A7.04.06 Software Distribution&#xD;
+A7.04.07 Software License Manager&#xD;
+A7.04.08 IT Diagnostic Tools&#xD;
+A7.04.09 Network Management Tools&#xD;
+A7.04.10 IT Service Level Management&#xD;
+A7.04.11 IT Capacity Management&#xD;
+A7.04.12 Service Desk&#xD;
+A7.04.13 Server Management&#xD;
+A7.04.14 Application Portfolio Management&#xD;
+A7.04.15 Incident and Request Management&#xD;
+A7.04.99 Other IT Management Tools&#xD;
+&#xD;
+A7.05 Cloud Services&#xD;
+A7.05.04 Software as a Service (SaaS)&#xD;
+A7.05.05 Unified Communications as a Service (UCaaS)&#xD;
+&#xD;
+A7.06 Server Software&#xD;
+A7.06.01 Application Server&#xD;
+A7.06.02 Web Server&#xD;
+&#xD;
+A7.07 Business Rules Management Tools&#xD;
+A7.07.01 Business Rules Management System (BRMS)&#xD;
+A7.07.02 Business Rules Engine&#xD;
+&#xD;
+A7.08 Virtualization&#xD;
+A7.08.01 Containerization&#xD;
+A7.08.02 Hardware Virtualization&#xD;
+&#xD;
+A7.09 Testing Tools&#xD;
+A7.09.01 Accessibility Testing&#xD;
+A7.09.02 Performance Testing&#xD;
+A7.09.03 Security Testing&#xD;
+A7.09.04 System Testing&#xD;
+&#xD;
+A7.10 Operating Systems&#xD;
+A7.10.01 Desktop Operating System&#xD;
+A7.10.02 Server Operating System&#xD;
+A7.10.03 Mainframe Operating System&#xD;
+A7.10.04 Mobile Operating System&#xD;
+A8.02.01 Data Structure Dictionary ***&#xD;
+A8.02.05 Complex Event Processing ***&#xD;
+</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-50c6d9387a174eee97e2e757c738a0a2" textAlignment="1">
+          <bounds x="1792" y="1200" width="288" height="793"/>
+          <content>A8.03.01 Service Discovery&#xD;
+A8.03.02 Service Description / Interface&#xD;
+A8.03.06 Web API&#xD;
+A8.03.07 Web Services (WS-*)&#xD;
+A8.03.99 Other Application Interfaces&#xD;
+&#xD;
+A8.04.02 Command and Control&#xD;
+A8.04.03 Formal Messaging&#xD;
+A8.04.04 Informal Messaging&#xD;
+A8.04.05 Remote Access&#xD;
+A8.04.06 SMS/MMS&#xD;
+A8.04.07 Web Access&#xD;
+A8.04.99 Other Gateways&#xD;
+&#xD;
+A8.05 Service Oriented Architecture (SOA)&#xD;
+A8.06 Enterprise Service Bus (ESB)&#xD;
+&#xD;
+A8.07 Enterprise Application Integration (EAI)&#xD;
+A8.07.01 Broker&#xD;
+A8.07.02 Adapter&#xD;
+&#xD;
+A9 Specialist Line of Business Applications&#xD;
+A9.1 Social Program Management&#xD;
+A9.1.1 Identity Intelligence&#xD;
+A9.1.2 Income Support&#xD;
+A9.1.3 Client Welfare&#xD;
+A9.1.4 Intake&#xD;
+A9.1.5 Eligibility and Entitlement&#xD;
+A9.1.6 Evidence Gathering and Management</content>
         </child>
       </element>
     </folder>
