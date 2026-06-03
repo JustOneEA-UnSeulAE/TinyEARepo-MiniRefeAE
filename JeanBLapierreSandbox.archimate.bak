@@ -4009,6 +4009,17 @@ Related term: File Transfer Gateway, File Transfer Protocol (FTP) Gateway, FTP S
 A8.04.08 Transfert de fichiers gérés (MTF)&#xD;
 Le transfert de fichiers gérés (MTF) désigne un logiciel ou un service qui gère le transfert sécurisé des données d’un ordinateur à un autre par l’entremise d’un réseau (p. ex., Internet). Le logiciel de MFT est présenté aux entreprises comme étant une alternative à l’utilisation de solutions de transfert de fichiers ponctuelles, comme FTP, HTTP et autres.  En général, le MFT offre un niveau de sécurité et de contrôle plus élevé que le protocole FTP. Les caractéristiques du MFT comprennent la production de rapports (p. ex., notification de transferts de fichiers réussis), la non-répudiation, la vérifiabilité, la visibilité mondiale, l’automatisation des activités et des processus liés au transfert de fichiers, la sécurité de bout en bout et la mesure et la surveillance du rendement.  Les applications de MFT sont disponibles à la fois sous forme de progiciels sous licence sur les lieux et de logiciel en tant que service (SaaS). Certaines applications sont spécialement conçues pour être utilisées en entreprise, tandis que d’autres sont destinées à la vente à des consommateurs individuels. Quelques-uns des fournisseurs de SaaS de MFT qui concentrent leurs activités sur le secteur des entreprises proposent également un service de gestion et d’ajout de nouveaux partenaires commerciaux, ce qui permet de dégager une quantité importante de ressources de TI (technologies de l’information).  Source : Wikipédia.    Termes connexes : passerelle de transfert de fichiers, passerelle FTP, serveur FTP, passerelle d’échange de fichiers, passerelle de transfert de fichiers sécurisée.</documentation>
     </element>
+    <element xsi:type="archimate:CourseOfAction" name="Cover two-thirds of your eligible costs for Canadian, cloud-based compute services (2:1)" id="id-47540b5e887b4aaf924d5689279da128"/>
+    <element xsi:type="archimate:CourseOfAction" name="Cover half of your eligible costs for non-Canadian, cloud-based compute services (1:1)" id="id-17c0216af1054fc490d7328d02cd1c35">
+      <documentation>Cover half of your eligible costs for non-Canadian, cloud-based compute services (1:1) up until March 31, 2027 as per section 1.4.4</documentation>
+    </element>
+    <element xsi:type="archimate:Resource" name="Government of Canada Enterprise Architecture Framework" id="id-55d55497ca8c46b0a4963c50bebefbcf">
+      <documentation>https://www.canada.ca/en/government/system/digital-government/policies-standards/government-canada-enterprise-architecture-framework.html&#xD;
+&#xD;
+The enterprise architecture framework is the criteria used by the Government of Canada enterprise architecture review board and departmental architecture review boards when reviewing digital initiatives to ensure their alignment with enterprise architectures across business, information, application, technology and security domains to support strategic outcomes.&#xD;
+&#xD;
+Date modified: 2025-12-02</documentation>
+    </element>
   </folder>
   <folder name="Business" id="id-fb9c94c240434273aa6d6f5df1a73407" type="business">
     <element xsi:type="archimate:BusinessEvent" name="EA Requests SAS Feedback" id="id-a7ebf3b84a7545f6a5b2e8eaca445cb6"/>
@@ -7267,6 +7278,63 @@ Expiry: Certifications are not permanent; they have an established validity peri
 Ongoing Monitoring &amp; Re-Certification is vital for sustaining the value and integrity of certified data assets over time. By implementing robust monitoring practices that track quality trends, lineage changes, and SLA compliance, organizations can proactively manage data quality and mitigate risks. Additionally, a structured re-certification process ensures that data assets continue to meet evolving business needs and compliance requirements, ultimately reinforcing trust in organizational data.&#xD;
 </documentation>
     </element>
+    <element xsi:type="archimate:BusinessRole" name="Innovation, Science and Economic Development Canada (ISED) [GC Organization]" id="id-ee4fdd6b35664d72b1574b338ea59b4a"/>
+    <element xsi:type="archimate:BusinessProcess" name="Step 1: Sign up, create an account and verify your identify" id="id-a16c1fa73f70425e91bce1c8d4c275a8">
+      <documentation>Step 1: Sign up, create an account and verify your identify&#xD;
+2.2.1 Applicants will be required to create a 'my Canada Business Account' and verify their identity to access the AI Compute Access Fund online portal.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Step 3: Submit a full application" id="id-c2f4e3f13b5f4f8cba177ef321de57ce">
+      <documentation>2.4 Step 3: Submit a full application&#xD;
+2.4.1 Applications can only be submitted during a CFP period by companies that passed the SOI stage.&#xD;
+&#xD;
+2.4.2 As part of the full application, applicants must provide detailed information confirming their eligibility and outlining their project, including business background, project scope and budget, market potential, commercialization readiness, and projected benefits to Canada. This includes specifics such as compute service arrangements, team composition, funding sources, and anticipated innovation, economic, and public benefits. Detailed information about the full application and submitting a high-quality application can be found in the AI Compute Access Fund Application Guide.&#xD;
+&#xD;
+2.4.3 Supplementary documentation may be requested to demonstrate how the project(s) and applicant meet the objectives of the AI Compute Access Fund.&#xD;
+&#xD;
+2.4.4 Should the Program require additional information or documentation; applicants will be provided up to 5 business days to provide the information. If, after making reasonable efforts, ISED is unable to obtain the additional information they will review the application based on the available information. Responses or amendments received after this deadline may not be considered.&#xD;
+&#xD;
+2.4.5 By submitting their application, the applicants confirm the following:&#xD;
+&#xD;
+That any person, including any consultant or in-house lobbyist, who lobbies on its behalf, to obtain funding under the AI Compute Access Fund, and who is required to be registered pursuant to the Lobbying Act, is registered pursuant to the Act;&#xD;
+That the applicant has not, and neither has any person on its behalf, engaged or employed any person (Other than an employee) for the purposes of obtaining AI Compute Access Fund funding; and paid, or agreed to pay that person, a commission, contingency or success fee or any other consideration (whether monetary or otherwise) that is dependent upon the applicant receiving AI Compute Access Fund funding;&#xD;
+That any current or former public servant, who derives benefit from the contribution agreement, will be in compliance with the Values and Ethics Code for the Public Service, their respective departmental code on Values and Ethics as applicable and the Policy on conflict of interest and Post-Employment;&#xD;
+That no member of the House of Commons or Senate will benefit from the contribution agreement; and&#xD;
+The applicant consents to having their business subjected to a credit check as part of the program's due diligence process.&#xD;
+2.4.6 Applicants may only submit one application per business number.&#xD;
+&#xD;
+2.4.7 Applicants must submit their application through the AI Compute Access Fund online portal. Applications submitted in an alternate format will not be accepted.&#xD;
+&#xD;
+2.4.8 Although ISED may engage applicants directly on outstanding questions or issues, applicants are advised to submit a complete and thorough application. Not all applications undergoing an assessment will receive an offer of funding.&#xD;
+&#xD;
+2.4.9 Any amendments or requested changes to an application must be done in writing by contacting ISED through the online portal or the AI Compute Access Fund contact form. Communication regarding such matters should be limited to a reasonable number of follow-up inquiries per applicant in order to ensure efficient processing.&#xD;
+&#xD;
+2.4.10 ISED will endeavour to make funding decisions within 60-90 business days after a CFP period closes.&#xD;
+&#xD;
+2.4.11 Should there be technical difficulties accessing or using the web-based system, applicants should contact the program through the AI Compute Access Fund contact form.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Business Process" id="id-f40c90bd796348d0ac8c7176b4c5f4e3"/>
+    <element xsi:type="archimate:BusinessProcess" name="Business Process" id="id-77e6a1cb148f496e9a7649b34d6cefac"/>
+    <element xsi:type="archimate:BusinessProcess" name="Step 2: Submit your statement of interest (SOI)" id="id-292da1fc907640eebb0e747caf54d00c">
+      <documentation>2.3 Step 2: Submit your statement of interest (SOI)&#xD;
+2.3.1 Interested applicants are required to submit an SOI in order to confirm basic eligibility and that their AI innovation(s) is(are) aligned with the program objectives, as described in section 1.1.&#xD;
+&#xD;
+2.3.2 The SOI can be accessed through the AI Compute Access Fund online portal. In the SOI, applicants will be asked to provide:&#xD;
+&#xD;
+Business information (such as legal name, operating name, business number, business type, head office address, industry sector and sub-sector);&#xD;
+Confirmation that they meet the eligibility criteria (as described in section 1.2);&#xD;
+A high-level overview of your proposal and how it is aligned with the Program objectives (as described is section 1.1)&#xD;
+The targeted industry sector;&#xD;
+estimated annual compute cost;&#xD;
+summary of proposal; and&#xD;
+Contact information of the business representative&#xD;
+2.3.3 Applicants must meet all criteria outlined in the Statement of Interest to be eligible for the full application process.&#xD;
+&#xD;
+2.3.4 Upon submission of an SOI, ISED will acknowledge receipt, review the information, and provide a response within five business days, either inviting the applicant to submit a full application in the next CFP period or notifying them that their proposal will not proceed due to ineligibility or misalignment with program objectives.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Business Process" id="id-3aeaf7e0dd544d8082fd465b3e6ef8ee"/>
+    <element xsi:type="archimate:BusinessProcess" name="Step 1: Address any questions, concerns, or other feedback from working group members &lt;regarding Principles>" id="id-92976d30624a43aca23b9313e9570904"/>
+    <element xsi:type="archimate:BusinessProcess" name="Step 2: Seek DAB approval of the new Principle" id="id-2aa95c04ca324fa69b352c316e6fcd97"/>
+    <element xsi:type="archimate:BusinessProcess" name="Step 3: Update the &lt;BDM> Principles catalogue with the new Principle &amp; socialize the update with &lt;BDM> project teams" id="id-de7eea0643fd4afda0fd8d09928e9b1f"/>
   </folder>
   <folder name="Application" id="id-4c073bc2342b490eae44200c8635c571" type="application">
     <element xsi:type="archimate:ApplicationService" name="GCcollab File Sharing (Application Service)" id="id-04a7463bf90b4892a9691959fc467461">
@@ -16457,6 +16525,264 @@ This document serves as the authoritative reference (&quot;the bible&quot;) for 
     <element xsi:type="archimate:Requirement" name="Meet domain-specific standards" id="id-aa9c56c203d542f19be1c446c14406bf">
       <documentation>	Meet domain-specific standards: Certified Data Assets must adhere to any relevant domain-specific standards and requirements, such as financial regulations for financial data, ensuring compliance with industry norms.</documentation>
     </element>
+    <element xsi:type="archimate:Goal" name="A. Accelerate Canadian AI innovation and commercialization by supporting the costliest component in the AI innovation value chain – compute [Objective]" id="id-5e4cb6af59fa4b57abe60d4e75b5f112"/>
+    <element xsi:type="archimate:Goal" name="B. Target support to Canadian AI SMEs engaging in research and development (R&amp;D)/compute projects with a concrete pathway to commercialization [Objective]" id="id-79059864bcae4ed4a76db6f7344fc316"/>
+    <element xsi:type="archimate:Goal" name="C. Support use of a diverse range of external compute suppliers so companies can stay competitive in a rapidly changing industry [Objective]" id="id-475c569843f543d88837d28bd94efd71"/>
+    <element xsi:type="archimate:Principle" name="BDM Architecture Principles 2026-03" id="id-061df61c9f5d4a6291063d7e9192c1a8"/>
+    <element xsi:type="archimate:Principle" name="P1: Maximize the use of the core Benefit Delivery Platform technology​" id="id-271eebf94b864e6cb14cf645caa5309a">
+      <documentation>Principle 1: Maximize the use of the core Benefit Delivery Platform technology​&#xD;
+BDM follows the Right Solution Selection Guidance for Benefit Delivery Capabilities​&#xD;
+1. If Cúram support the capability and meets the needs, use Cúram. Otherwise,​&#xD;
+2. If ESDC (or GC) has an enterprise solution that is sustainable and scalable, not considered legacy, not on the list for Technical Debt Remediation, and does not hinder modernization, use the enterprise solution. Otherwise,&#xD;
+3. If a technology to build a new solution is available on the market, procure the technology and build a new solution. Otherwise,​&#xD;
+4. Build a custom (bespoke) solution specifically for BDM (or ESDC). Ensure that ESDC has the budget, capacity and skills to support and evolve the solution once its built.&#xD;
+&#xD;
+Rationale:&#xD;
+BDM shall bring new technologies and innovations that are needed for modernizing benefit delivery. BDM should, at the same time, maximize return on investments and reuse existing solutions where they are fit for purpose. And, finally, BDM needs to be able to prevent Tech Sprawl, i.e. overbuying technology or buying multiple similar tools for the same purpose.&#xD;
+&#xD;
+Implications:&#xD;
+• When evaluating options for new solutions, Architecture team will provide recommendations following this principle.&#xD;
+• If building a new solution may present opportunity to enhance or modernize enterprise solution(s), such opportunities will be identified as architecture options and presented to BDM ARC for endorsement and EARB for approval.&#xD;
+• The guidance is expected to be followed by BDM partners - Qualified Supplier Working Group.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="P2: Minimize investment and dependency to legacy applications​" id="id-75e096a063fe46a0a40d0c226af3c141">
+      <documentation>Principle 2: Minimize investment and dependency to legacy applications​&#xD;
+Statement: &#xD;
+BDM must minimize investment in and modifications to legacy systems, especially those slated for decommissioning, to prevent increased complexity, risk, and technical debt.&#xD;
+&#xD;
+Rationale: &#xD;
+Modernization efforts prioritize long-term strategic value by minimizing investment in legacy systems—defined as those slated for retirement in the Target State Architecture—which are often outdated and misaligned with enterprise goals. Continued investment risks operational disruptions, increased maintenance costs, and technical debt, diverting resources from scalable, innovative solutions. By focusing on sustainable transformation, it supports cost efficiency, agility, and alignment with the enterprise’s future vision.&#xD;
+&#xD;
+Implications:&#xD;
+• The target state will maintain a single system of record; during transition phases, any temporary duplication must be actively managed, tracked, and reconciled.​&#xD;
+• Transactions must be processed in either the new or legacy system, not both, unless justified, documented, and approved as part of a formal transitional strategy.​&#xD;
+• Data cleansing or changes to support migration must occur outside legacy system modifications, adhering to defined data governance principles.​&#xD;
+• Where coexistence with legacy systems is required, a defined strategy (e.g., manual interventions) must be documented to ensure operational continuity.​&#xD;
+• Any remaining dependencies on legacy systems must include an exit plan aligned with the technology roadmap to support decommissioning and reduce technical debt.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="P3: Favour strategic over interim and tactical solutions" id="id-7a8f1cd9f65244bd9f35b999c3ba4055">
+      <documentation>Principle 3: Favour strategic over interim and tactical solutions​&#xD;
+Statement:&#xD;
+BDM will favour investment in strategic solutions and technologies over investment in interim and tactical ones.&#xD;
+&#xD;
+Rationale:&#xD;
+Strategic benefit delivery platform solutions and technologies are those that are selected and deployed with a &#xD;
+plan to support service delivery over a long term (10+ years). Tactical and interim solutions are both &#xD;
+expected to be replaced by strategic solutions, either in a relatively short time period (tactical) or over longer &#xD;
+term (interim).&#xD;
+&#xD;
+Implications:&#xD;
+• Investments in interim and tactical solutions, unless required for legislative, significant business value/savings, or service continuity reasons, will be presented as architecture options with a generally lower EA alignment score than strategic solutions.&#xD;
+• BDM will support investments in interim and tactical solutions that are expected to deliver immediate business outcomes when they do not constitute an obstacle to the BDM implementation or significantly increase BDM technical debt.&#xD;
+• Establish and monitor metrics for identified business outcomes throughout the lifecycle of the investment.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="P4: Treat data as an asset" id="id-ba9501edff1b42409c6a1b7ec47a55ac">
+      <documentation>Principle 4: Treat data as an asset​&#xD;
+Statement:&#xD;
+BDM solutions and stakeholders have the data they need, which is fit for use, discoverable, and available. The use of this asset is appropriate, ethical, and generates social and economic value. Treating data as an asset enables better outcomes for citizens.&#xD;
+&#xD;
+Rationale:&#xD;
+BDM must treat data as an asset: * Government of Canada Enterprise Architecture Framework - Canada.ca (https://www.canada.ca/en/government/system/digital-government/policies-standards/government-canada-enterprise-architecture-framework.html)&#xD;
+&#xD;
+To ensure products and services have the data they need&#xD;
+&#xD;
+To support and inspire greater use and availability of data&#xD;
+&#xD;
+To ensure data use is appropriate, citizen- and business-centric, and ethical&#xD;
+&#xD;
+To ensure data is well managed, secure, and fit for use&#xD;
+&#xD;
+To unlock future potential by combining with other sources to serve citizens better&#xD;
+&#xD;
+Implications:&#xD;
+• BDM will strive to enable data driven approach to decision making to benefit clients.&#xD;
+• BDM will enable data-as-a-service approach by enabling access to authoritative sources of data whenever possible.&#xD;
+• Transferring and replicating data will be done judiciously and only when necessary for functional or performance reasons.&#xD;
+• Data Architecture deliverables will be endorsed by the appropriate architecture governing bodies.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="P15: API-First" id="id-bbdfba5670164f1e8f74094efc9ae04e">
+      <documentation>Principle 15: API-First&#xD;
+&#xD;
+Statement&#xD;
+All system-to-system interactions are expected to be exposed and consumed via well-defined, standards-based APIs as the primary method of communication. Alternative integration approaches must be limited, justified, and governed.&#xD;
+&#xD;
+Rationale&#xD;
+Direct backend integrations (such as shared databases or file transfers) tightly couple systems, creating brittle dependencies where changes in one system propagate to others, increasing maintenance costs and limiting future modernization. &#xD;
+API-based system-to-system communication provides a consistent, standardized interaction model that enables systems to remain decoupled, modularized, reusable, and evolving independently, enforces mandatory GC security protocols, and reduces reliance on custom, point-to-point integrations. This aligns with the Government Canada’s Service and Digital Target - Enterprise Architecture (https://www.canada.ca/en/government/system/digital-government/policies-standards/service-digital-target-enterprise-architecture-white-paper.html), which promotes interoperability, reuse, and the reduction of data silos across government.&#xD;
+&#xD;
+Implications&#xD;
+• Default API Integration: All BDM cross-system data exchange is expected to use published, standards-based APIs as the default approach, including GraphQL for data-querying operations, OpenAPI/REST for standard CRUD (create, read, update, delete) interactions, and AsyncAPI for event-driven patterns.&#xD;
+• No Backdoor Access: Direct access to production databases, shared filesystems, shared memory, and ungoverned internal shortcuts are not permitted by default.&#xD;
+• APIs as Products: APIs must be designed and managed as products, with clearly defined ownership, discoverability through an API catalog, well-documented contracts, service expectations (e.g., SLAs), and lifecycle management from publication to retirement.&#xD;
+• Design for Public Consumption: APIs must be designed with the assumption that they will eventually be consumed by third parties or the Canadian public, even if currently only intended for internal use.&#xD;
+• Internet-First Architecture: API communication must be designed with the assumption that it may occur over the public internet. Zero-Trust network design, including transport-layer encryption (HTTPS/TLS) and gateway-mediated authentication, must be baked in from the start, even within GC networks.&#xD;
+• Platform and Vendor Neutrality: API implementations must remain technology-neutral, vendor-agnostic, and designed to abstract underlying systems, enabling portability  across hybrid environments (on-prem, cloud, and SaaS).&#xD;
+• Enterprise Pattern Alignment: API designs must align with Government of Canada Standards on APIs, enterprise integration patterns, including mandatory routing through secure API gateways and using shared data models, to ensure consistency and interoperability across systems.&#xD;
+• Governance and Exceptions: Alternative integration approaches may be considered where API-based interaction is not feasible. Such cases must be formally documented, include a clear justification and transition roadmap where applicable, and be reviewed through the established architecture governance process.&#xD;
+&#xD;
+&#xD;
+The following resources were referenced in the creation of this principle:&#xD;
+• Policy on Government Security- Canada.ca (https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16578)&#xD;
+• Service and Digital Target Enterprise Architecture White Paper - Canada.ca (https://www.canada.ca/en/government/system/digital-government/policies-standards/service-digital-target-enterprise-architecture-white-paper.html)&#xD;
+• Government of Canada Standards on APIs - Canada.ca (https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/government-canada-standards-apis.html)&#xD;
+• API Guidance - Canada.ca (https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/enabling-interoperability/api-guidance.html)&#xD;
+• ESDC API Architecture Guardrails (https://014gc.sharepoint.com/:w:/r/sites/SAS-SAS/Documents/EA%20Body%20of%20Knowledge/Architecture%20Patterns/API%20Guardrails/ESDC%20API%20Architecture%20Guardrails.docx?d=wee31b2b3e89547e0931a7e8d5b570429&amp;csf=1&amp;web=1&amp;e=o66Rx8)</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="P6: Solutions must be interoperable and replaceable " id="id-764c88158d5e41c98d62bb8de5515d18">
+      <documentation>Principle 6: Solutions must be interoperable and replaceable &#xD;
+Statement:&#xD;
+Open standards by default, proprietary by exception. SaaS and COTS that support open standards are considered open solutions.&#xD;
+&#xD;
+Rationale:&#xD;
+In an ideal scenario, solutions (or their components) are interoperable and substitutable: each one can be substituted easily and independently. This can be achieved only when solutions support open standards.&#xD;
+&#xD;
+Implications:&#xD;
+• Open standards and industry best practices are and will continue to be embedded in BDM architecture and functional and non-functional requirements.&#xD;
+• When proprietary solutions are selected over open standards they must be identified and granted an exception by the appropriate governing body.&#xD;
+• Processes must be defined and used within BDM to evaluate specific open standards.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="P7: Privacy by design " id="id-a31184fef48a4ff7ae20e64ec1de4269">
+      <documentation>Principle 7: Privacy by design &#xD;
+Statement:&#xD;
+Respect client’s rights to privacy and identify and address privacy requirements early and throughout the service and solution design process.&#xD;
+&#xD;
+Rationale:&#xD;
+Protection of clients’ personal information is required for any business process and corresponding IT solution that collects, stores and leverages client personal information. To ensure the protection of privacy without impeding or delaying service delivery privacy, requirements need to be addressed early in the solutioning process. Also, we need to be able to track privacy requirements back to business needs and to ensure that how service and solution designs meet the requirements.&#xD;
+&#xD;
+Implications:&#xD;
+Collecting, processing, storing and sharing clients’ personal information is designed based on the lawful basis and authorities for doing so.&#xD;
+• Privacy considerations are key to legislation, operational policy, service and business rules design. Through architecture and solution design, BDM will ensure that their intent regarding privacy is maintained in implementation and privacy risks minimized.&#xD;
+• BDM will seek to reduce constraints related to data collection and data access and sharing, while maintaining a focus on privacy.&#xD;
+• Consideration will be given to the full lifecycle of information management within a system and how that can affect privacy concerns.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="P8: Security by design" id="id-d01937d715184434be3a761b293273b8">
+      <documentation>Principle 8: Security by design​&#xD;
+Statement:&#xD;
+BDM will embed security into all business practices and IT solutions from the outset, ensuring the protection of people and enterprise assets. This includes securing development pipelines and third-party components, with supply chain trust informing architectural decisions.​​&#xD;
+&#xD;
+Rationale:&#xD;
+Proactively integrating confidentiality, integrity, and availability into IM/IT solutions strengthens public trust, reduces risk, and improves resilience. This includes securing systems and the tools, services, and components used to build and deliver them. Evaluating the origin and trustworthiness of third-party suppliers, especially those from high-risk jurisdictions, helps prevent compromise. Supply chain vulnerabilities can emerge at any stage, so early risk assessments and secure design practices are essential to avoid costly retrofits and support obligations like monitoring, access control, and reporting.​&#xD;
+&#xD;
+Implications:&#xD;
+BDM will appropriately safeguard personal information in accordance with privacy legislation, while also delivering services consistent with the principles of digital government.​&#xD;
+• Security considerations will span the full lifecycle of information management within a system.​&#xD;
+• Security monitoring and reporting must be performed as an ongoing function, not one-time effort, and must be integral part of the operations.​&#xD;
+• Least privilege and privileged access control will be implemented from the start, in alignment with mandatory procedures outlined in the Directive on Security Management.​&#xD;
+• BDM will consider the origin, trustworthiness, and potential risks with third-party components and services, especially when sourced from jurisdictions that may pose national security concerns.​&#xD;
+• Lifecycle Integration: Security controls from ITSG-33 (e.g., SA-12 (https://www.cyber.gc.ca/en/guidance/annex-3a-security-control-catalogue-itsg-33#a315sa12), SA-13 (https://www.cyber.gc.ca/en/guidance/annex-3a-security-control-catalogue-itsg-33#a315sa13), SA-19 (https://www.cyber.gc.ca/en/guidance/annex-3a-security-control-catalogue-itsg-33#a315sa19)) should be thoughtfully integrated across the system lifecycle, based on context and risk.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="P9: Integrity &amp; quality by design" id="id-d909d7d6b03d44d1b7712de6a4bf69ea">
+      <documentation>Principle 9: Integrity &amp; quality by design​&#xD;
+Statement:&#xD;
+BDM will embed integrity and quality controls up-front and throughout processes and services.​&#xD;
+&#xD;
+Rationale:&#xD;
+Embedded approach to integrity and quality management is required to move away from “pay-and-chase” &#xD;
+model and enable continuous service improvement.&#xD;
+&#xD;
+Implications:&#xD;
+• BDM will ease burden of proof on clients, based on risk and complexity profile, while maintaining compliance and integrity checks. &#xD;
+• Client risk, priority and complexity profile will result from integrity and quality controls embedded in processes and services.&#xD;
+• Quality and continuous improvement will be embedded in all processes. </documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="P10: Cloud Smart" id="id-aba54e3101e94cc099f462e68da5353b">
+      <documentation>Principle 10: Cloud Smart​&#xD;
+Statement:&#xD;
+BDM will leverage cloud services providers &amp; cloud-native services where appropriate and available.&#xD;
+&#xD;
+Rationale:&#xD;
+• Optimizing use of cloud services maximizes business value, reduces accumulated technical debt, and continues to evolve the service-focused culture of ESDC. Most cloud providers also offer a rich set of managed services that provide functionalities to relieve the work of managing backend software or infrastructure. Leveraging cloud service providers and the managed services they offer instead of procuring or developing them provides opportunities for huge savings in time and operational overhead.&#xD;
+&#xD;
+Implications:&#xD;
+• BDM will leverage cloud where applicable, available and where it meets BDM security requirements.​&#xD;
+• All cloud deployment options (including SaaS) will be explored and evaluated as part of the solution design.​&#xD;
+• BDM will ensure that requirements for performance, availability, and both horizontal and vertical scalability (including peak traffic periods) are met by all BDM&#xD;
+solutions and components (new and legacy) and the hosting infrastructure.​&#xD;
+• Roles and responsibilities, governance, methods, skills, finances, and culture must shift to fully yield the agility of cloud services​&#xD;
+• The model will incentivize the continuous optimization of cloud consumption and provide agility to pivot to new technology choices.​&#xD;
+• Cloud native services will be leveraged where advantageous, balancing ease of use with portability concerns, and ensuring alignment with project goals and&#xD;
+timelines.​&#xD;
+• Vendor lock-in will be mitigated.​</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="P11: Minimize Customizations to Commercial Off The Shelf (COTS) Product Functionalities​" id="id-350de38732af4a54b1c84aaa4776a866">
+      <documentation>Principle 11: Minimize Customizations to Commercial Off The Shelf (COTS) Product Functionalities​&#xD;
+Statement:&#xD;
+Minimize customizations to Cúram or other COTS products (including SaaS), restricting them to cases where they are essential to meet critical business requirements.​&#xD;
+&#xD;
+Rationale:&#xD;
+Minimizing customizations to Cúram and other COTS products (including SaaS) leverages out-of-the-box (OOTB) capabilities, configurations, extensions, and integrations, reducing technical debt, enhancing scalability, and lowering development costs. Excessive customizations - including bespoke integrations or intermediary components designed to bridge systems—can increase effort, cost, and delivery delays, while undermining agility and long-term enterprise value.​&#xD;
+&#xD;
+Implications:&#xD;
+• Customizations are considered only as a last resort after exhausting all OOTB and configuration options, including vendor-provided tools for SaaS. ​&#xD;
+• All customization requests require approval by BDM Governance, which will assess cost, support implications, strategic alignment, and determine the governance level that will grant approval. ​&#xD;
+• Project teams must plan customizations to mitigate impacts on agility, delivery schedules, and scalability, with periodic reviews to migrate custom code back to OOTB where feasible. ​&#xD;
+• Customization proposals must include a technical debt and scaling impact assessment.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="P12: Just-in-Time &amp; Just-Enough Architecture" id="id-b982e3b2827b40939ff2ac4d5168519d">
+      <documentation>Principle 12: Just-in-Time &amp; Just-Enough Architecture&#xD;
+Statement:&#xD;
+BDM will prioritize making architecture decisions just in time for when they are needed, and with a level of detail that is just enough to meet requirements and not slow down projects.​&#xD;
+&#xD;
+Rationale:&#xD;
+Agile methodologies require that decisions be made at the right time. If decisions are made too early, technologies and circumstances may change by the time implementation is set to begin, and decisions made too late will slow down projects.​&#xD;
+&#xD;
+For architecture, just enough is ideal. If architecture is too detailed, it falls back to the waterfall method and slows down projects. If not enough, consistency and reuse are lost.&#xD;
+&#xD;
+Implications:&#xD;
+• BDM project teams will work to identify when decisions will need to be made to ensure decisions are made on-time, but not too early.​&#xD;
+• Project teams will manage and keep track of decisions for the future and have a plan in place for when it is time to proceed with those decisions.​&#xD;
+• Product owners and architects will participate in ongoing collaboration as sometimes design decisions by product owners can trigger architecture changes.​&#xD;
+• BDM will respect the schedules of projects as they are, with the understanding that decisions will be made if and when the time is right.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="P13: Strive Towards Automation" id="id-815707ff27f1444b9697f0efe68f4baf">
+      <documentation>Principle 13: Strive Towards Automation&#xD;
+Statement:&#xD;
+BDM will prioritize automating routine tasks where possible to reduce the workload on project teams.​&#xD;
+&#xD;
+Rationale:&#xD;
+Minimizing manual intervention and automating tasks where possible increases efficiency in time and costs, allowing project teams to focus their time on other priorities. Automated tasks are also less error-prone than manual tasks.​ &#xD;
+Routine tasks are relatively easy to automate since they typically require less specific knowledge.&#xD;
+&#xD;
+Implications:&#xD;
+• BDM will explore for opportunities to introduce automation into routine tasks where it is possible to do so with current tools and minimal effort.​&#xD;
+• Project teams are assigned to tasks that require more complex knowledge, while simple routine tasks are automated.​&#xD;
+• Teams will make themselves aware of the impacts and risks involved with automating tasks and have a plan in place for how to assure automated tasks are&#xD;
+done correctly and with a desirable level of quality.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="P14: Timely and Reliable Service Delivery" id="id-8dba50112027493ab62a4c70b03b7fa1">
+      <documentation>Principle 14: Timely and Reliable Service Delivery&#xD;
+Statement:&#xD;
+BDM will ensure that critical Government of Canada services are continuously available where possible and necessary, enabling timely and uninterrupted service delivery to Canadians.&#xD;
+&#xD;
+Rationale:&#xD;
+Canadians and Government of Canada employees access services at all times and from multiple locations and expect them to be reliably available and responsive. Service demand can change rapidly, and digital services must scale efficiently while remaining operationally resilient. Ensuring high availability, secure access, and sustainable operations is essential to maintaining public trust and supporting uninterrupted government service delivery. ​&#xD;
+&#xD;
+Implications:&#xD;
+• Mission-Critical services will support 24/7 availability and response times will meet user and business needs.​&#xD;
+• Non-Mission-Critical services will support availability to the level that they require and strive for high availability where necessary and cost-effective.​&#xD;
+• Applications will remain accessible from any location using secure authentication.​&#xD;
+• Zero-downtime deployments for both planned and unplanned maintenance will be supported where possible and cost-effective.​&#xD;
+• Architecture &amp; systems will be designed under the assumption that failures will happen and strive to handle errors gracefully.​&#xD;
+• Systems will be designed to allow performance and behaviour to be monitored actively.​&#xD;
+• Architectures will be designed to support new technology insertion with minimal disruption to existing programs and services.</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="P5: Architecture must enable delivery of client-centric and outcome-based services" id="id-88501d7a44084e768b9e381ae0c00e6b">
+      <documentation>Principle 5: Architecture must enable delivery of client-centric and outcome-based services&#xD;
+Statement:&#xD;
+Recognize that government products and services should ultimately improve people’s lives. Architect digital products and services for outcomes rather than outputs, prioritizing according to client needs and ensuring alignment to BDM Programme vision.&#xD;
+&#xD;
+Rationale:&#xD;
+BDM target state characteristics include digitally enabled services and responsive, proactive, inclusive, accessible service experience. BDM goals include:&#xD;
+• Empowering clients to self-serve by providing an accessible, seamless and end-to-end service delivery option through the digital channel;&#xD;
+• Leveraging the support of public, private sector partners and non-governmental organizations to optimize and deliver a better, more impactful client outcomes.&#xD;
+• Digital services need to connect to the real world. BDM needs address all aspects of a service, and make sure it adds up to something that meets user needs.&#xD;
+&#xD;
+Implications:&#xD;
+• Broader understanding of end-to-end service design.&#xD;
+• BDM will design and implement new digital channel solutions that will enable seamless and accessible client self-service.&#xD;
+• BDM will encourage and work with service delivery partners to change their existing systems or develop new end-user applications for their staff and clients to submit data to ESDC in a digital format.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="BDM Architecture Principles follow and build on GC Digital Standards which, in turn, ensure that proposed architectural designs are aligned with the GC EA Framework. The alignment is assessed as part of BDM updates to GC EARB." id="id-a6b8eeac7e1648078ce0f684860b41e6"/>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Plateau" name="3rd Annual 2022 Digital Transformation in Government Conference (Plateau)" id="id-50a58ac56ba54b23834dc68b028ca8a0">
@@ -17020,6 +17346,7 @@ The establishment of these certification levels and risk tiering allows organiza
 For further context, this document primarily focuses on Product/Report Certification; however, Appendix 7- Asset Certification Checklist (Purview Aligned) provides a checklist outlining the steps required to execute Asset Certification, with an emphasis on using Microsoft Purview as a tool for end-to-end process delivery.&#xD;
 </documentation>
     </element>
+    <element xsi:type="archimate:ImplementationEvent" name="BDM Principles were recently refreshed in March 2026 (approved by DAB), with 4 new Principles added, and 3 revisions to existing principles [Implementation Event]" id="id-e2c4ccbd1f2a476bb64d661f5cfb48bd"/>
   </folder>
   <folder name="Other" id="id-3b6502d62be54bf79bb29134a011622f" type="other">
     <element xsi:type="archimate:Junction" name="Junction" id="id-483568e04e5345cc8bc005461b6854a2" type="or"/>
@@ -18115,6 +18442,8 @@ The Data Certification Lifecycle Overview provides a comprehensive framework for
     </element>
     <element xsi:type="archimate:Grouping" name="CTV News: 7 Takeaways" id="id-35aaa66700de4146a3677faa4e06e9bc"/>
     <element xsi:type="archimate:Grouping" name="Build a stronger, more independent and resilient Canada for all" id="id-f2a17b362e864338a07eecd1baeb41ce"/>
+    <element xsi:type="archimate:Grouping" name="STEPS TO ADOPT NEW PRINCIPLE #15 API-FIRST" id="id-12ea1a2519c34161810ce172dff42ccb"/>
+    <element xsi:type="archimate:Grouping" name="PREVIOUS BDM ARCHITECTURE PRINCIPLES NO LONGER APPEARING IN CATALOGUE - FOR INVESTIGATION" id="id-02e1c2c2c6da4de6a329b19170fb12a9"/>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
     <element xsi:type="archimate:SpecializationRelationship" id="id-1fc9998b537248f0ab8efd6853b77d65" source="id-bbea9bb53b0d449e8af710c22edf18bc" target="id-a7f8beac2a2c416c96b351c66b79510c"/>
@@ -20860,6 +21189,42 @@ building a new solution.</documentation>
     <element xsi:type="archimate:CompositionRelationship" id="id-13d6465408b04909b3f69006935be4c4" source="id-72fd11f75f42493b9ddb75aa23802c9f" target="id-4aec95c3cf754a408cc7fb09ed0d8f52"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-ac6ee2d125364d9ebdd76a1cf4102774" source="id-cf5a74c801234ed1ba9444754c6ebe1d" target="id-fed880ca42be488c87312614abe55aa2"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-c3a859ddd4e248da8f491798976218c2" source="id-72fd11f75f42493b9ddb75aa23802c9f" target="id-cf5a74c801234ed1ba9444754c6ebe1d"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-46578845dc414a5fb2e958696baeb15b" source="id-a16c1fa73f70425e91bce1c8d4c275a8" target="id-292da1fc907640eebb0e747caf54d00c"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-1449fe0454e344a68f7972c18784b260" source="id-292da1fc907640eebb0e747caf54d00c" target="id-c2f4e3f13b5f4f8cba177ef321de57ce"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-90e3c4da589e4e758b4b2a29f65197b2" source="id-92976d30624a43aca23b9313e9570904" target="id-2aa95c04ca324fa69b352c316e6fcd97"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-856af2ef12e943c29f69a1499f0dec11" source="id-2aa95c04ca324fa69b352c316e6fcd97" target="id-de7eea0643fd4afda0fd8d09928e9b1f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a3860b90d9a944d0b23c77f05ee01cfc" source="id-12ea1a2519c34161810ce172dff42ccb" target="id-de7eea0643fd4afda0fd8d09928e9b1f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-dee703a89b9b40df83db8ffa18af40d1" source="id-12ea1a2519c34161810ce172dff42ccb" target="id-2aa95c04ca324fa69b352c316e6fcd97"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-1cb0c6424e074e329b4691582a61b5c1" source="id-12ea1a2519c34161810ce172dff42ccb" target="id-92976d30624a43aca23b9313e9570904"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-72bc623d27bf45cf81b1163840eb92c3" source="id-02e1c2c2c6da4de6a329b19170fb12a9" target="id-bdbd6fc420e74ecab253eae15cf04466"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-cc09d1bc5e4c428da4365d25e891af0c" source="id-02e1c2c2c6da4de6a329b19170fb12a9" target="id-69e5f4be952c4f06ae8d1cc0f413351d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-9f8ea12b4a374586a1e1e48269703d7c" source="id-02e1c2c2c6da4de6a329b19170fb12a9" target="id-1d256dfef75e495f8ffbfc15d58baf0d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6cffc518490c4fa4ac10f88323a346c8" source="id-02e1c2c2c6da4de6a329b19170fb12a9" target="id-53b6e54de1bb4557b029eee71fbedc57"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e3bcd222347447a88a4f3fc69a182a62" source="id-02e1c2c2c6da4de6a329b19170fb12a9" target="id-d77b8af94a164801a0ba5152b8546ef5"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2245555d7f5746a587d2487803750a4b" source="id-02e1c2c2c6da4de6a329b19170fb12a9" target="id-56b41d7123854032bfe19de52ad503ee"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2df2065a871448c6904b8a928d246de4" source="id-02e1c2c2c6da4de6a329b19170fb12a9" target="id-4ab5396b7dc14a6290bd96b387b12a64"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-f4c64838e82d41eb8230a760d1417512" source="id-02e1c2c2c6da4de6a329b19170fb12a9" target="id-fa759735ab1f46768e8f2808bae8a829"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c00e91b529d740c4802130efe073b37e" source="id-02e1c2c2c6da4de6a329b19170fb12a9" target="id-56d8ffb8dc334dd1b2234042cddd7a9b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5c7d2df8197b40049de7d5c6b11d62ed" source="id-02e1c2c2c6da4de6a329b19170fb12a9" target="id-0f57c0fdc26343a3981638f94e9c52a2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e379a47547064547bb3cbe5dcad4f139" source="id-02e1c2c2c6da4de6a329b19170fb12a9" target="id-ab61845b987e4128828f4a1c8eb5d008"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b50f24d969ca49a88a54b1021ea94858" source="id-02e1c2c2c6da4de6a329b19170fb12a9" target="id-ae2c1ded93c2431abb4044f8ee1df60b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2edfd2f2263c43989f7daa7af028f806" source="id-02e1c2c2c6da4de6a329b19170fb12a9" target="id-e590b5f3a2b14e7a80981424e9c84007"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e62e879ee09f4daaa37259af0dcf5465" source="id-02e1c2c2c6da4de6a329b19170fb12a9" target="id-4ce39fe6e8e248a3b778dad948f9fe0a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-21cf87fb2d524fddad789bac7eb75f8f" source="id-061df61c9f5d4a6291063d7e9192c1a8" target="id-b982e3b2827b40939ff2ac4d5168519d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5aa7274ba38d4218b81fef303a1248fd" source="id-061df61c9f5d4a6291063d7e9192c1a8" target="id-88501d7a44084e768b9e381ae0c00e6b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-de39f890dfd844f1adb42208fe1a103a" source="id-061df61c9f5d4a6291063d7e9192c1a8" target="id-815707ff27f1444b9697f0efe68f4baf"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-9fc50c2cab434e408231cc42c62c721a" source="id-061df61c9f5d4a6291063d7e9192c1a8" target="id-ba9501edff1b42409c6a1b7ec47a55ac"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-03bf92815e424bfdb7055a826f47c0fa" source="id-061df61c9f5d4a6291063d7e9192c1a8" target="id-aba54e3101e94cc099f462e68da5353b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d251871e4e6c4104bd0c368331dd267c" source="id-061df61c9f5d4a6291063d7e9192c1a8" target="id-75e096a063fe46a0a40d0c226af3c141"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-42570ce465064778afd62b53b9bff9b4" source="id-061df61c9f5d4a6291063d7e9192c1a8" target="id-350de38732af4a54b1c84aaa4776a866"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-74046fdf13d44bdcae6b1cdb0e6f7e66" source="id-061df61c9f5d4a6291063d7e9192c1a8" target="id-271eebf94b864e6cb14cf645caa5309a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7b4ed883c9594f7a941d685ee2b0710c" source="id-061df61c9f5d4a6291063d7e9192c1a8" target="id-8dba50112027493ab62a4c70b03b7fa1"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a0157b4e56cd4f96ae54a4a5f76f29a0" source="id-061df61c9f5d4a6291063d7e9192c1a8" target="id-d01937d715184434be3a761b293273b8"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-0da73c81933143b89d500a572e573f90" source="id-061df61c9f5d4a6291063d7e9192c1a8" target="id-d909d7d6b03d44d1b7712de6a4bf69ea"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8c92cf9a347d43188356d9cb442fec9a" source="id-061df61c9f5d4a6291063d7e9192c1a8" target="id-bbdfba5670164f1e8f74094efc9ae04e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5bec9f313efb47c9b39e27e77737cd91" source="id-061df61c9f5d4a6291063d7e9192c1a8" target="id-a31184fef48a4ff7ae20e64ec1de4269"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-cb32c31631fd4b12872af9b8846e6b6b" source="id-061df61c9f5d4a6291063d7e9192c1a8" target="id-764c88158d5e41c98d62bb8de5515d18"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-f414fae3917b419a87d6ccf028132800" source="id-061df61c9f5d4a6291063d7e9192c1a8" target="id-7a8f1cd9f65244bd9f35b999c3ba4055"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -28690,6 +29055,64 @@ v0.1.20260504</content>
         </child>
         <documentation>https://budget.canada.ca/update-miseajour/2026/report-rapport/intro-en.html</documentation>
       </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="GC AI Compute Access Fund Program" id="id-693162ea3a51483c916c993ebace282f">
+        <child xsi:type="archimate:Note" id="id-edd498792239497b90c314dd17cecc15" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="16" y="15" width="445" height="118"/>
+          <content>Archimate View: GC AI Compute Access Fund&#xD;
+Overview, Analysis</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-47bcb7b3aa804d5d985b1324c7b28642" textAlignment="1">
+          <bounds x="341" y="75" width="120" height="58"/>
+          <content>(DRAFT)&#xD;
+2026-05-11&#xD;
+v0.1.20260519</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-e1d5b3cf55da4a3ba3225c233f20e38c" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
+          <bounds x="466" y="15" width="205" height="68"/>
+          <content>DIAGRAM NOT YET ENDORSED</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-7fdc2fc7ad1244fdb8332af2d96c5870" archimateElement="id-5e4cb6af59fa4b57abe60d4e75b5f112">
+          <bounds x="168" y="208" width="214" height="117"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-fb24dca078af4805bebc480ed0b4d70c" archimateElement="id-79059864bcae4ed4a76db6f7344fc316">
+          <bounds x="168" y="324" width="214" height="101"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-e4576193fd8046459a25bd4d9f2ec6c3" archimateElement="id-475c569843f543d88837d28bd94efd71">
+          <bounds x="168" y="424" width="214" height="90"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-dfa6a1bac6f444b692375feee7c408a9" archimateElement="id-47540b5e887b4aaf924d5689279da128">
+          <bounds x="495" y="214" width="214" height="70"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-656a00155092487b8358dce28efae576" archimateElement="id-17c0216af1054fc490d7328d02cd1c35">
+          <bounds x="495" y="283" width="214" height="66"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-4432a794725c40c6ac51ca2bf7a58256" archimateElement="id-ee4fdd6b35664d72b1574b338ea59b4a">
+          <bounds x="797" y="36" width="152" height="85"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-36cc4a165d6240d3b7e09cad1c5decc5" archimateElement="id-a16c1fa73f70425e91bce1c8d4c275a8">
+          <bounds x="778" y="206" width="214" height="47"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3441f4fcb6414f49af2b3c24ca3cebf7" source="id-36cc4a165d6240d3b7e09cad1c5decc5" target="id-2a4abbb5c8134067b1c3e5126d335b1f" archimateRelationship="id-46578845dc414a5fb2e958696baeb15b"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-bdf88612a07b4d138d295da18a3614a5" targetConnections="id-368b32b6c9774f51ac187b3c9fca1963" archimateElement="id-c2f4e3f13b5f4f8cba177ef321de57ce">
+          <bounds x="778" y="348" width="214" height="41"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-ba1555cef9174d46930b48e5dc3cb3fb" archimateElement="id-f40c90bd796348d0ac8c7176b4c5f4e3">
+          <bounds x="1305" y="308" width="152" height="85"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-2349a466ff36449eb688cc8abdaa0a98" archimateElement="id-77e6a1cb148f496e9a7649b34d6cefac">
+          <bounds x="1156" y="154" width="152" height="85"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-2a4abbb5c8134067b1c3e5126d335b1f" targetConnections="id-3441f4fcb6414f49af2b3c24ca3cebf7" archimateElement="id-292da1fc907640eebb0e747caf54d00c">
+          <bounds x="778" y="283" width="214" height="40"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-368b32b6c9774f51ac187b3c9fca1963" source="id-2a4abbb5c8134067b1c3e5126d335b1f" target="id-bdf88612a07b4d138d295da18a3614a5" archimateRelationship="id-1449fe0454e344a68f7972c18784b260"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-99c073d3627a4db7b856bbb848c0348b" archimateElement="id-3aeaf7e0dd544d8082fd465b3e6ef8ee">
+          <bounds x="1159" y="373" width="152" height="85"/>
+        </child>
+        <documentation>https://ised-isde.canada.ca/site/ised/en/canadian-sovereign-ai-compute-strategy/ai-compute-access-fund/program-guide-ai-compute-access-fund&#xD;
+&#xD;
+</documentation>
+      </element>
     </folder>
     <folder name="CDOB-EDA How We Work" id="id-6bc3d130505346c0ab5ebfe1ade10b0e">
       <element xsi:type="archimate:ArchimateDiagramModel" name="EDA FY2025-26 Outcomes" id="id-83de9092f2cd440a9ce0cdb5870185c9">
@@ -30817,7 +31240,7 @@ Overview, Analysis</content>
           <bounds x="331" y="65" width="120" height="58"/>
           <content>(DRAFT)&#xD;
 2026-04-27&#xD;
-v0.1.20260427</content>
+v0.1.20260504</content>
         </child>
         <child xsi:type="archimate:Note" id="id-6eedd851e2004f6fb2396cf87b5657a6" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
           <bounds x="456" y="5" width="205" height="68"/>
@@ -36930,6 +37353,129 @@ v0.1.20260429</content>
             <bounds x="634" y="34" width="143" height="73"/>
           </child>
         </child>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="BDM Architecture Principles 2026-03" id="id-8a5bf68e477d4ecd91853185884d7891">
+        <child xsi:type="archimate:DiagramObject" id="id-d392eda243bf4245b1f8c90ae5554d22" archimateElement="id-061df61c9f5d4a6291063d7e9192c1a8">
+          <bounds x="24" y="240" width="1035" height="313"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1313151676d34948af66931185b81545" source="id-d392eda243bf4245b1f8c90ae5554d22" target="id-291bb66312da4b4fa837178343ad21e5" archimateRelationship="id-21cf87fb2d524fddad789bac7eb75f8f"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8c58e7a22b994a89a57233a07966a391" source="id-d392eda243bf4245b1f8c90ae5554d22" target="id-3a754213b2c84996aeb50b2c6741c522" archimateRelationship="id-5aa7274ba38d4218b81fef303a1248fd"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9eb8c4d4e29649fda9e6978b051601fe" source="id-d392eda243bf4245b1f8c90ae5554d22" target="id-7b3a1cd174f645df9d71fc3724f0da73" archimateRelationship="id-de39f890dfd844f1adb42208fe1a103a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7a3d7c1dde6a470b90ac2e1713d60733" source="id-d392eda243bf4245b1f8c90ae5554d22" target="id-00842a9a17ba45ce8a77f7c72fbc0de6" archimateRelationship="id-9fc50c2cab434e408231cc42c62c721a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9fbedeadbf65422c9146b13db9e26204" source="id-d392eda243bf4245b1f8c90ae5554d22" target="id-30066a7579ec473791e4c75ec3d3b80e" archimateRelationship="id-03bf92815e424bfdb7055a826f47c0fa"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c6b85fbc830f42d181674e221733e531" source="id-d392eda243bf4245b1f8c90ae5554d22" target="id-3696d53f0f49454fadc97fbc4480c512" archimateRelationship="id-d251871e4e6c4104bd0c368331dd267c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-02f79e80a60f43b7ab6c5e7ee40bec46" source="id-d392eda243bf4245b1f8c90ae5554d22" target="id-3dcfb0b0f8454d2995777bc6c4f96754" archimateRelationship="id-42570ce465064778afd62b53b9bff9b4"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e30cdba5dcfb4806bc790c0686ba8ee2" source="id-d392eda243bf4245b1f8c90ae5554d22" target="id-abb1bb9c7554429da8a1911cd060c70f" archimateRelationship="id-74046fdf13d44bdcae6b1cdb0e6f7e66"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3631289e007f408fa25a9d030a9f5650" source="id-d392eda243bf4245b1f8c90ae5554d22" target="id-1232e8d7a19b44d3bb0cdfa7645e5779" archimateRelationship="id-7b4ed883c9594f7a941d685ee2b0710c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1fa02545c1dd4e0098fb7a47d9ad79d0" source="id-d392eda243bf4245b1f8c90ae5554d22" target="id-a46b0bf3dc534868a2073b3535ef0971" archimateRelationship="id-a0157b4e56cd4f96ae54a4a5f76f29a0"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9a800cc86009481f95a7490bdd5ca434" source="id-d392eda243bf4245b1f8c90ae5554d22" target="id-ebef943543264ebfb61aeb018778c2eb" archimateRelationship="id-0da73c81933143b89d500a572e573f90"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-508fd2c749e64e8d9a5b34e192173087" source="id-d392eda243bf4245b1f8c90ae5554d22" target="id-5d2833c4a1734f0a8dd48a078bec030b" archimateRelationship="id-8c92cf9a347d43188356d9cb442fec9a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-70cca454491c4985a59236bdf880dcd8" source="id-d392eda243bf4245b1f8c90ae5554d22" target="id-0e22a0e6b036463598363edb2563c67d" archimateRelationship="id-5bec9f313efb47c9b39e27e77737cd91"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-df6739faed794e5e969b963b0f887b0b" source="id-d392eda243bf4245b1f8c90ae5554d22" target="id-2b16a783d57a4750b90374bc8d46e825" archimateRelationship="id-cb32c31631fd4b12872af9b8846e6b6b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-935e90aff8184b97b042fa6ceb10f90e" source="id-d392eda243bf4245b1f8c90ae5554d22" target="id-4f7ab9eab1f44ae69ebdf146c82a9f54" archimateRelationship="id-f414fae3917b419a87d6ccf028132800"/>
+          <child xsi:type="archimate:DiagramObject" id="id-291bb66312da4b4fa837178343ad21e5" targetConnections="id-1313151676d34948af66931185b81545" archimateElement="id-b982e3b2827b40939ff2ac4d5168519d">
+            <bounds x="214" y="216" width="193" height="85"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3a754213b2c84996aeb50b2c6741c522" targetConnections="id-8c58e7a22b994a89a57233a07966a391" archimateElement="id-88501d7a44084e768b9e381ae0c00e6b">
+            <bounds x="828" y="24" width="193" height="85"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7b3a1cd174f645df9d71fc3724f0da73" targetConnections="id-9eb8c4d4e29649fda9e6978b051601fe" archimateElement="id-815707ff27f1444b9697f0efe68f4baf">
+            <bounds x="420" y="216" width="193" height="85"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-00842a9a17ba45ce8a77f7c72fbc0de6" targetConnections="id-7a3d7c1dde6a470b90ac2e1713d60733" archimateElement="id-ba9501edff1b42409c6a1b7ec47a55ac">
+            <bounds x="624" y="24" width="193" height="85"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-30066a7579ec473791e4c75ec3d3b80e" targetConnections="id-9fbedeadbf65422c9146b13db9e26204" archimateElement="id-aba54e3101e94cc099f462e68da5353b">
+            <bounds x="828" y="120" width="193" height="85"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3696d53f0f49454fadc97fbc4480c512" targetConnections="id-c6b85fbc830f42d181674e221733e531" archimateElement="id-75e096a063fe46a0a40d0c226af3c141">
+            <bounds x="214" y="24" width="193" height="85"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3dcfb0b0f8454d2995777bc6c4f96754" targetConnections="id-02f79e80a60f43b7ab6c5e7ee40bec46" archimateElement="id-350de38732af4a54b1c84aaa4776a866">
+            <bounds x="12" y="216" width="193" height="85"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-abb1bb9c7554429da8a1911cd060c70f" targetConnections="id-e30cdba5dcfb4806bc790c0686ba8ee2" archimateElement="id-271eebf94b864e6cb14cf645caa5309a">
+            <bounds x="12" y="24" width="193" height="85"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1232e8d7a19b44d3bb0cdfa7645e5779" targetConnections="id-3631289e007f408fa25a9d030a9f5650" archimateElement="id-8dba50112027493ab62a4c70b03b7fa1">
+            <bounds x="624" y="216" width="193" height="85"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a46b0bf3dc534868a2073b3535ef0971" targetConnections="id-1fa02545c1dd4e0098fb7a47d9ad79d0" archimateElement="id-d01937d715184434be3a761b293273b8">
+            <bounds x="420" y="120" width="193" height="85"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ebef943543264ebfb61aeb018778c2eb" targetConnections="id-9a800cc86009481f95a7490bdd5ca434" archimateElement="id-d909d7d6b03d44d1b7712de6a4bf69ea">
+            <bounds x="624" y="120" width="193" height="85"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5d2833c4a1734f0a8dd48a078bec030b" targetConnections="id-508fd2c749e64e8d9a5b34e192173087" archimateElement="id-bbdfba5670164f1e8f74094efc9ae04e">
+            <bounds x="828" y="216" width="193" height="85"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0e22a0e6b036463598363edb2563c67d" targetConnections="id-70cca454491c4985a59236bdf880dcd8" archimateElement="id-a31184fef48a4ff7ae20e64ec1de4269">
+            <bounds x="214" y="120" width="193" height="85"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-2b16a783d57a4750b90374bc8d46e825" targetConnections="id-df6739faed794e5e969b963b0f887b0b" archimateElement="id-764c88158d5e41c98d62bb8de5515d18">
+            <bounds x="12" y="120" width="193" height="85"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-4f7ab9eab1f44ae69ebdf146c82a9f54" targetConnections="id-935e90aff8184b97b042fa6ceb10f90e" archimateElement="id-7a8f1cd9f65244bd9f35b999c3ba4055">
+            <bounds x="420" y="24" width="193" height="85"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:Note" id="id-a5619d27eb7848c0920f4b383c9a77b9" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="10" y="6" width="519" height="88"/>
+          <content>Archimate View: BDM Architecture Principles 2026-03&#xD;
+&#xD;
+Addition of P15: API-First</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-f184e110d1d74909aaabc22cbfae5a1e" textAlignment="1">
+          <bounds x="409" y="36" width="120" height="58"/>
+          <content>(DRAFT)&#xD;
+2026-06-03&#xD;
+v0.1.20260603</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-6dfc36bd79e24ecaa96574e311f7c95e" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
+          <bounds x="540" y="6" width="325" height="102"/>
+          <content>DIAGRAM TO BE ENDORSED AT BDM DAWG</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-85f3ed81c32c447f9abf79eb207dfbd7" archimateElement="id-e2c4ccbd1f2a476bb64d661f5cfb48bd">
+          <bounds x="899" y="7" width="193" height="115"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-2dd9cce4c545485197aa97721c6e1014" textAlignment="1" archimateElement="id-12ea1a2519c34161810ce172dff42ccb">
+          <bounds x="10" y="108" width="637" height="121"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-0ff962304bf94e86a2ae59ff68373535" source="id-2dd9cce4c545485197aa97721c6e1014" target="id-aa2d75516c704eb8b861ebc5677d87e0" archimateRelationship="id-a3860b90d9a944d0b23c77f05ee01cfc"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cb6ec6601026487a8bda6c2d2ceb284f" source="id-2dd9cce4c545485197aa97721c6e1014" target="id-efacc3fbebc24e5c8d50078a7963d8c3" archimateRelationship="id-dee703a89b9b40df83db8ffa18af40d1"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-27d2633718144871ac75deafa6612501" source="id-2dd9cce4c545485197aa97721c6e1014" target="id-af6cb6e3dec04b19af46837d800c909e" archimateRelationship="id-1cb0c6424e074e329b4691582a61b5c1"/>
+          <child xsi:type="archimate:DiagramObject" id="id-aa2d75516c704eb8b861ebc5677d87e0" targetConnections="id-ffae6d0db3a748d7b8538e82829d1f4b id-0ff962304bf94e86a2ae59ff68373535" archimateElement="id-de7eea0643fd4afda0fd8d09928e9b1f">
+            <bounds x="444" y="24" width="181" height="85"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-efacc3fbebc24e5c8d50078a7963d8c3" targetConnections="id-6d5d84104bf14931973976957de814dc id-cb6ec6601026487a8bda6c2d2ceb284f" archimateElement="id-2aa95c04ca324fa69b352c316e6fcd97">
+            <bounds x="228" y="24" width="181" height="85"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-ffae6d0db3a748d7b8538e82829d1f4b" source="id-efacc3fbebc24e5c8d50078a7963d8c3" target="id-aa2d75516c704eb8b861ebc5677d87e0" archimateRelationship="id-856af2ef12e943c29f69a1499f0dec11"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-af6cb6e3dec04b19af46837d800c909e" targetConnections="id-27d2633718144871ac75deafa6612501" archimateElement="id-92976d30624a43aca23b9313e9570904">
+            <bounds x="12" y="24" width="181" height="85"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-6d5d84104bf14931973976957de814dc" source="id-af6cb6e3dec04b19af46837d800c909e" target="id-efacc3fbebc24e5c8d50078a7963d8c3" archimateRelationship="id-90e3c4da589e4e758b4b2a29f65197b2"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-6d44da5553654affb0ae781e7c194ce9" archimateElement="id-a6b8eeac7e1648078ce0f684860b41e6">
+          <bounds x="804" y="133" width="288" height="96"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a2ce26c9e7a541dea66257748047dc42" archimateElement="id-55d55497ca8c46b0a4963c50bebefbcf">
+          <bounds x="660" y="133" width="137" height="84"/>
+        </child>
+        <documentation>BDM Architecture Principles - API-First Principle (Draft)&#xD;
+https://014gc.sharepoint.com/sites/66251/SitePages/BDM-Architecture-Principle.aspx&#xD;
+BDM DAWG&#xD;
+June 3, 2026&#xD;
+&#xD;
+PROBLEM WORTH SOLVING&#xD;
+As BDM progresses with multiple programs (e.g., OAS, EI, CPP) and parallel platform development (Standalone UA, Curam SPM, iSAMS, Knowledge Management, Contact Center as Service, Common  Benefit Platform, Operational Data Platform, and etc.), there is a growing risk of fragmented integration patterns, tightly coupled solutions, and duplicated capabilities emerging across the ecosystem. &#xD;
+Without a consistent integration approach that prioritizes loose coupling, independently evolving components may adopt ad-hoc patterns, ranging from point-to-point integrations to custom solutions. This fragmentation will reduce interoperability across programs, slow delivery, increases architectural complexity, and accumulate of technical debt over time.&#xD;
+&#xD;
+THE VISION&#xD;
+BDM will adopt an API-first architecture principle to ensure that all systems and platforms evolve with a consistent, reusable, and interoperable integration model, preventing fragmentation and enabling decoupled channels, cross-program capabilities, readiness for external consumption and solid foundation for future AI-driven services.&#xD;
+&#xD;
+The BDM Architecture Principles are a set of guidelines and guardrails to guide the development of the BDM Programme.&#xD;
+They expand on the guidelines of the IITB Architecture Principles, GC Digital Standards (https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) and GC Architecture Framework (https://www.canada.ca/en/government/system/digital-government/policies-standards/government-canada-enterprise-architecture-framework.html), but are tailored to the specific environment and implementation goals of the BDM Programme.&#xD;
+BDM currently maintains 14 principles, detailed on the BDM Architecture Principles (https://014gc.sharepoint.com/sites/66251/SitePages/BDM-Architecture-Principle.aspx) SharePoint page.&#xD;
+The catalogue was recently refreshed in March 2026 (approved by DAB), with 4 new principles added, and revisions made to 3 existing principles.</documentation>
       </element>
     </folder>
     <folder name="Open Standards" id="id-9a5f5b0aab5846b68706de66461d4024">
