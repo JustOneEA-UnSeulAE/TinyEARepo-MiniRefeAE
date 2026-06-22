@@ -5762,8 +5762,8 @@ NOTE: This is a new and emerging category and will be further refined as the RAC
     <element xsi:type="archimate:BusinessRole" name="EDA-ADE Team Member" id="id-2712ad631968455688f3489aeca44ca5"/>
     <element xsi:type="archimate:BusinessRole" name="EDA-ADE Team Management" id="id-44fe57a8be0f4f6b98c082978e3e1b57"/>
     <element xsi:type="archimate:BusinessRole" name="SPO Administrator" id="id-0da23a2448ab4a228cb2d6a4f184c0c6"/>
-    <element xsi:type="archimate:BusinessRole" name="EDA-ADE Collaborators" id="id-55634a984c404f18894e70a8f8ad8b21"/>
-    <element xsi:type="archimate:BusinessRole" name="CDOB-DGDPD Collaborators" id="id-abee3e90cb54441e9724ccf06a6826f9"/>
+    <element xsi:type="archimate:BusinessRole" name="EDA-ADE Collaborator" id="id-55634a984c404f18894e70a8f8ad8b21"/>
+    <element xsi:type="archimate:BusinessRole" name="CDOB-DGDPD Collaborator" id="id-abee3e90cb54441e9724ccf06a6826f9"/>
     <element xsi:type="archimate:BusinessRole" name="Employment and Social Development Canada (ESDC) (Business Role)" id="id-4fcfa6f5796e49a1aef8fdc0085fb79b"/>
     <element xsi:type="archimate:BusinessCollaboration" name="Twelve Federal Departments, Agencies, and Crown Corps (Business Collaboration)" id="id-8385718bf5114f85be40a9161db0c4fb">
       <documentation>12 federal departments, agencies, and Crown Corporations&#xD;
@@ -7348,6 +7348,7 @@ Contact information of the business representative&#xD;
     <element xsi:type="archimate:BusinessRole" name="USER / ENTITY LAYER [Business Role]" id="id-ac9e16c475b441e385caa8da1c2b4758"/>
     <element xsi:type="archimate:BusinessObject" name="SOAR Playbooks (Logic Apps)[Business Object]" id="id-918f806faf4643f2b4e1d717ca94c784"/>
     <element xsi:type="archimate:BusinessProcess" name="01-User Activity [Business Process]" id="id-43c297bffe2d4ee09c63a2584e7dfd34"/>
+    <element xsi:type="archimate:BusinessRole" name="EDA-CoP Co-Chair" id="id-6002c82f1b694179af7e936a3c6a6850"/>
   </folder>
   <folder name="Application" id="id-4c073bc2342b490eae44200c8635c571" type="application">
     <element xsi:type="archimate:ApplicationService" name="GCcollab File Sharing (Application Service)" id="id-04a7463bf90b4892a9691959fc467461">
@@ -7495,12 +7496,80 @@ Accepted file formats:: txt, jpg, jpeg, png, bmp, gif, pdf, doc, docx, xls, xlsx
     <element xsi:type="archimate:ApplicationService" name="UofO Zoom Web Site &amp; Links (Application Service)" id="id-f6f7331d5bad4fada935fd1a78cf4fa7"/>
     <element xsi:type="archimate:ApplicationService" name="UofO Zoom Recording File Sharing (Application Service)" id="id-c7a816bfcfbc4a1984636c159f59565c"/>
     <element xsi:type="archimate:ApplicationService" name="UofO Zoom Video Streaming (Application Service)" id="id-802fb767cdf44da8b8c928e6ec3d2844"/>
-    <element xsi:type="archimate:DataObject" name="LIBRARY: EDA Team ADE" id="id-662dd88fcfd74dc5891651bf314d113c"/>
-    <element xsi:type="archimate:DataObject" name="LIBRARY: EDA-ADE" id="id-0a3838068e2648148ca5630580d2f43e"/>
-    <element xsi:type="archimate:DataObject" name="LIBRARY: EDA Organisation ADE" id="id-74e9599aae9c4dbbbc0960adeb8fb3bb"/>
-    <element xsi:type="archimate:DataObject" name="LIBRARY: EDA-CDOB Collab ADE-DGDPD" id="id-c4162656107e42aa990ba10d621b43bc"/>
-    <element xsi:type="archimate:DataObject" name="LIBRARY: EDMA MANAGEMENT-GESTION GADE" id="id-7d598db0c5154acd8a13a9fac98f79c3"/>
-    <element xsi:type="archimate:ApplicationInterface" name="SPO SITE: EDA Team ADE" id="id-02719f2a36104a6a8b809c91108edae1"/>
+    <element xsi:type="archimate:DataObject" name="LIBRARY: EDA Team ADE" id="id-662dd88fcfd74dc5891651bf314d113c">
+      <documentation>https://014gc.sharepoint.com/sites/EDATeamADE/Shared%20Documents/Forms/AllItems.aspx&#xD;
+&#xD;
+TOP-MOST LEVEL FOLDERS:&#xD;
+1. General &#xD;
+2. ADMINISTRATION &#xD;
+3. DATA ARTICLES DE DONNÉES&#xD;
+4. DIRECTION DGDPD-CDOB DIRECTION&#xD;
+5. EA ENGAGEMENTS dAE&#xD;
+6. TRAINING-FORMATION</documentation>
+    </element>
+    <element xsi:type="archimate:DataObject" name="LIBRARY: EDA-ADE" id="id-0a3838068e2648148ca5630580d2f43e">
+      <documentation>https://014gc.sharepoint.com/sites/EDATeamADE/EDAADE/Forms/AllItems.aspx&#xD;
+&#xD;
+TOP-MOST LEVEL FOLDERS:&#xD;
+1. ASSESSMENT-ÉVALUATION&#xD;
+2. LIBRARY-BIBLIOTHÈQUE&#xD;
+3. PUBLISHED-PUBLIÉ</documentation>
+    </element>
+    <element xsi:type="archimate:DataObject" name="LIBRARY: EDA Organisation ADE" id="id-74e9599aae9c4dbbbc0960adeb8fb3bb">
+      <documentation>https://014gc.sharepoint.com/sites/EDATeamADE/EDA%20Organisation%20ADE/Forms/AllItems.aspx&#xD;
+&#xD;
+TOP-MOST LEVEL FOLDERS:&#xD;
+1. ASSESSMENT-ÉVALUATION&#xD;
+2. BRIEFS-BREFFAGE&#xD;
+3. COMMUNICATIONS&#xD;
+4. EDA-INITIATIVES-ADE&#xD;
+5. GOVERNANCE-GOUVERNANCE&#xD;
+6. WORK MANAGEMENT</documentation>
+    </element>
+    <element xsi:type="archimate:DataObject" name="LIBRARY: EDA-CDOB Collab ADE-DGDPD" id="id-c4162656107e42aa990ba10d621b43bc">
+      <documentation>https://014gc.sharepoint.com/sites/EDATeamADE/EDACDOB%20Collab%20ADEDGDPD/Forms/AllItems.aspx&#xD;
+&#xD;
+TOP-MOST LEVEL FOLDERS:&#xD;
+1. ASSESSMENT-ÉVALUATION&#xD;
+2. Chief Data Officer Council (CDOC)&#xD;
+3. CONSULTATION&#xD;
+4. PRESENTATIONs&#xD;
+5. PUBLISHED-PUBLIÉ&#xD;
+6. USER GUIDE de l'UTILISATEUR</documentation>
+    </element>
+    <element xsi:type="archimate:DataObject" name="LIBRARY: EDMA MANAGEMENT-GESTION GADE" id="id-7d598db0c5154acd8a13a9fac98f79c3">
+      <documentation>&lt;Managed by Data Architecture Director/Managers>&#xD;
+&lt;RESTRICTED ACCESS></documentation>
+    </element>
+    <element xsi:type="archimate:ApplicationInterface" name="SPO SITE: EDA Team ADE" id="id-02719f2a36104a6a8b809c91108edae1">
+      <documentation>https://014gc.sharepoint.com/sites/EDATeamADE&#xD;
+&#xD;
+PERMISSIONS&#xD;
+==============================&#xD;
+ CDOB DGDPD Collaborator&#xD;
+SharePoint Group	Read&#xD;
+	&#xD;
+ EDA Organisation ADE Stakeholders&#xD;
+SharePoint Group	Read&#xD;
+	&#xD;
+ EDA Team ADE Members&#xD;
+SharePoint Group	Edit&#xD;
+	&#xD;
+ EDA Team ADE Owners&#xD;
+SharePoint Group	Full Control&#xD;
+	&#xD;
+ EDA Team ADE Visitors&#xD;
+SharePoint Group	Read&#xD;
+	&#xD;
+ EDM Team GDE&#xD;
+SharePoint Group	Contribute, Read&#xD;
+	&#xD;
+ EDMA-GADE Management Team&#xD;
+SharePoint Group	Edit&#xD;
+	&#xD;
+ EDMA-MNGT-GADE&#xD;
+SharePoint Group	Edit</documentation>
+    </element>
     <element xsi:type="archimate:DataObject" name="Data" id="id-f97ead1bb796486cb3e781a6672f5540"/>
     <element xsi:type="archimate:ApplicationComponent" name="Mathematical Algorithms" id="id-f3d3ea42ce434a58846c85df73994374"/>
     <element xsi:type="archimate:ApplicationComponent" name="Learning Models" id="id-bd3145f2f0fb42648320c778bac2ea47"/>
@@ -7678,8 +7747,20 @@ Priority = low.</documentation>
     <element xsi:type="archimate:ApplicationFunction" name="Enterprise Data Warehouse" id="id-c2772279ed5f426f9939949d2fbe9037"/>
     <element xsi:type="archimate:DataObject" name="Enterprise Data Reference Model" id="id-b34bccc03c3e4b98b9077700bb6bad99"/>
     <element xsi:type="archimate:ApplicationService" name="Enterprise Data Catalogue (Application Service)" id="id-b1066c745eae4ce3bbaa20eba6332c65"/>
-    <element xsi:type="archimate:DataObject" name="LIBRARY: EDA-ESDC Collab ADE-EDSC" id="id-ff8ccf5fcfe5418b81a0de17dd04f395"/>
-    <element xsi:type="archimate:DataObject" name="LIBRARY: EDA-CoP - CdP-ADE" id="id-c21b3c7b81954b9b89f766df88097b2b"/>
+    <element xsi:type="archimate:DataObject" name="LIBRARY: EDA-ESDC Collab ADE-EDSC" id="id-ff8ccf5fcfe5418b81a0de17dd04f395">
+      <documentation>https://014gc.sharepoint.com/sites/EDATeamADE/EDAESDC%20Collab%20ADEEDSC/Forms/AllItems.aspx&#xD;
+&#xD;
+TOP-MOST LEVEL FOLDERS:&#xD;
+1. COLLABORATION</documentation>
+    </element>
+    <element xsi:type="archimate:DataObject" name="LIBRARY: EDA-CoP - CdP-ADE" id="id-c21b3c7b81954b9b89f766df88097b2b">
+      <documentation>https://014gc.sharepoint.com/sites/EDATeamADE/EDACoP%20%20CdPADE/Forms/AllItems.aspx&#xD;
+&#xD;
+TOP-MOST LEVEL FOLDERS:&#xD;
+1. ADMINISTRATION&#xD;
+2. PAST RECORDINGs&#xD;
+3. PRESENTATIONs</documentation>
+    </element>
     <element xsi:type="archimate:ApplicationService" name="Azure Monitor [Application Service]" id="id-951bee9ebc7b4db8a41b1616b1b07918"/>
     <element xsi:type="archimate:DataObject" name="Diagnostic Logs [Data Object]" id="id-57976774fd3047978af5f50543a5962c"/>
     <element xsi:type="archimate:DataObject" name="Activity Logs [Data Object]" id="id-30739ad75c9f41fe9a38660463a70380"/>
@@ -7691,6 +7772,15 @@ Priority = low.</documentation>
     <element xsi:type="archimate:ApplicationProcess" name="02-Platform Logs (Lake, Warehouse, AI, Identity) [Application Process]" id="id-203af272773c4662a60920fd9d3da6f8"/>
     <element xsi:type="archimate:ApplicationProcess" name="07-Risk Scoring + Alerts [Application Process]" id="id-21a5aec66c1f4597b9ae776ed9db613e"/>
     <element xsi:type="archimate:ApplicationProcess" name="Dashboards / SOC / Audit [Application Process]" id="id-55c7ea4c472c4cc1970c8a535537e412"/>
+    <element xsi:type="archimate:DataObject" name="SPO SITE: DGPSS-DPDSSPB-CDO (Ima Okonny)" id="id-1c87b97f88494e31be81a73ac3a47e57">
+      <documentation>https://014gc.sharepoint.com/sites/DGPSS-DPDSSPB-CDO&#xD;
+&lt;only 1 Library>&#xD;
+Managed by Office of CDO</documentation>
+    </element>
+    <element xsi:type="archimate:DataObject" name="SPO SITE: Chief Data Office - Bureau de la dirigeante principale des données" id="id-75f09442e8cc459488ec470390d2438b">
+      <documentation>https://014gc.sharepoint.com/sites/CDO?FollowSite=1&amp;SiteName=Chief%20Data%20Office%20-%20Bureau%20de%20la%20dirigeante%20principale%20des%20donn%C3%A9es&#xD;
+Managed by Office of CDO</documentation>
+    </element>
   </folder>
   <folder name="Technology &amp; Physical" id="id-e073686aface40f7a970252f84a16b34" type="technology">
     <element xsi:type="archimate:Artifact" name="Model" id="id-cde5d10003e84d168bae6540d857644c"/>
@@ -18495,6 +18585,7 @@ The Data Certification Lifecycle Overview provides a comprehensive framework for
     <element xsi:type="archimate:Grouping" name="RESPONSE &amp; AUTOMATION LAYER [Grouping]" id="id-bf750f9fd32e40fba80edd679ee0c9b0"/>
     <element xsi:type="archimate:Grouping" name="REPORTING &amp; GOVERNANCE LAYER [Grouping]" id="id-4c4083b9a0c4446985a4339a98c71f26"/>
     <element xsi:type="archimate:Grouping" name="DATA FLOW (END-TO-END) [Grouping]" id="id-297ea7486bda4f9b84e11ffa9a290878"/>
+    <element xsi:type="archimate:Grouping" name="CDO Sites" id="id-6aac688f392c47cb97c2d00c5d586f0b"/>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
     <element xsi:type="archimate:SpecializationRelationship" id="id-1fc9998b537248f0ab8efd6853b77d65" source="id-bbea9bb53b0d449e8af710c22edf18bc" target="id-a7f8beac2a2c416c96b351c66b79510c"/>
@@ -21329,6 +21420,9 @@ building a new solution.</documentation>
     <element xsi:type="archimate:CompositionRelationship" id="id-264fc532da184eba97537d610c6e3c5f" source="id-297ea7486bda4f9b84e11ffa9a290878" target="id-43c297bffe2d4ee09c63a2584e7dfd34"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-57b69eef40c34faea24368559d5be8ab" source="id-297ea7486bda4f9b84e11ffa9a290878" target="id-b5d0637d9b1048ccab7869d8e948543a"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-a828ee1cad06480a8c5c81b8bc7672e9" source="id-297ea7486bda4f9b84e11ffa9a290878" target="id-203af272773c4662a60920fd9d3da6f8"/>
+    <element xsi:type="archimate:AccessRelationship" name="Edit" id="id-6a0d4b08942a4fa4aa28d1d3a313bb59" source="id-6002c82f1b694179af7e936a3c6a6850" target="id-c21b3c7b81954b9b89f766df88097b2b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d6ac9acfed674322baa61675f9f7be24" source="id-6aac688f392c47cb97c2d00c5d586f0b" target="id-1c87b97f88494e31be81a73ac3a47e57"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-78b06052d6db4af982085b0acf0b22b9" source="id-6aac688f392c47cb97c2d00c5d586f0b" target="id-75f09442e8cc459488ec470390d2438b"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -29485,7 +29579,7 @@ v0.1.20260424</content>
           <child xsi:type="archimate:DiagramObject" id="id-6e6e157ddaf0408a96c18e8d3bc89b50" targetConnections="id-d50d9662214e4eb7a1f7887541929232 id-3dc601c7d3ca45c19c18703665872943 id-96a2794fdc37457eb7c107997cb66a3b id-23dd93db69fa472ea95dabbf7329cf31" archimateElement="id-c4162656107e42aa990ba10d621b43bc">
             <bounds x="24" y="216" width="133" height="55"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="id-ac441d6964ff4375969ea3719eb5ac6f" targetConnections="id-d564f03354124991a8e060879590c365 id-bf6f0ed2b904474db660a4921e212819 id-a723b54806514c0684b98d8c494e2952" archimateElement="id-c21b3c7b81954b9b89f766df88097b2b">
+          <child xsi:type="archimate:DiagramObject" id="id-ac441d6964ff4375969ea3719eb5ac6f" targetConnections="id-d564f03354124991a8e060879590c365 id-bf6f0ed2b904474db660a4921e212819 id-a723b54806514c0684b98d8c494e2952 id-87f35490ec144605be2b23bfe69237d1" archimateElement="id-c21b3c7b81954b9b89f766df88097b2b">
             <bounds x="24" y="336" width="133" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-ccc8a361ca9c4e63997984b8c2712822" targetConnections="id-361ed3d8082f462f86a6c486746f9adc id-15944b9287a34f31ae9cc257a70f3439 id-5e111236e95745c3a30cc1bc05fef6e3 id-138722201ce448f18eeb8e4552246140" archimateElement="id-ff8ccf5fcfe5418b81a0de17dd04f395">
@@ -29505,7 +29599,7 @@ v0.1.20260424</content>
           </sourceConnection>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-955803e6903b41bb9fd9169b0032902b" archimateElement="id-44fe57a8be0f4f6b98c082978e3e1b57">
-          <bounds x="828" y="616" width="116" height="55"/>
+          <bounds x="828" y="635" width="116" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-948d39f771024a83971a328f3176df1b" source="id-955803e6903b41bb9fd9169b0032902b" target="id-3241c7748dfb459a8a5fbcbc1762a964" archimateRelationship="id-1bb5f8333f8d428992ea881fdf060d08"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-486c404004174dfe8e1593e45326882c" source="id-955803e6903b41bb9fd9169b0032902b" target="id-4939801ca20942019b1b5725d5052a32" archimateRelationship="id-2cd25076b24c44889e9aac7ce698c605">
             <bendpoint startX="-139" startY="-21" endX="149" endY="-24"/>
@@ -29592,13 +29686,24 @@ v0.1.20260424</content>
           <bounds x="994" y="501" width="116" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-60a8a816285d40e1832a44d03811f58e" source="id-b9abcd9a9a5a44398631597bc550364b" target="id-4cb42488055941269104f2f9cf3f63bf" archimateRelationship="id-c61d6b7e02554ede9e8a4cc166e6221b"/>
         </child>
-        <documentation>TOP-MOST LEVEL FOLDERS:&#xD;
-1. General &#xD;
-2. ADMINISTRATION &#xD;
-3. DATA ARTICLES DE DONNÉES&#xD;
-4. DIRECTION DGDPD-CDOB DIRECTION&#xD;
-5. EA ENGAGEMENTS dAE&#xD;
-6. TRAINING-FORMATION</documentation>
+        <child xsi:type="archimate:DiagramObject" id="id-7c08d704ef3147f39bd0311b6cccfae9" archimateElement="id-6002c82f1b694179af7e936a3c6a6850">
+          <bounds x="828" y="564" width="116" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-87f35490ec144605be2b23bfe69237d1" source="id-7c08d704ef3147f39bd0311b6cccfae9" target="id-ac441d6964ff4375969ea3719eb5ac6f" archimateRelationship="id-6a0d4b08942a4fa4aa28d1d3a313bb59">
+            <bendpoint startX="-142" startY="9" endX="161" endY="12"/>
+          </sourceConnection>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-7a2ab18daede4929a44c06fcd2f489cc" textAlignment="1" fillColor="#80ffff" archimateElement="id-6aac688f392c47cb97c2d00c5d586f0b">
+          <bounds x="492" y="696" width="181" height="164"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f07816ddfd0e479b80fe0c748006506d" source="id-7a2ab18daede4929a44c06fcd2f489cc" target="id-619fd1386e234ff6a40e41425bf6a20c" archimateRelationship="id-d6ac9acfed674322baa61675f9f7be24"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-72f9f16f3b364eeeaa81030c2c41305f" source="id-7a2ab18daede4929a44c06fcd2f489cc" target="id-aa1c0cda1feb4667aaec465db24b8cef" archimateRelationship="id-78b06052d6db4af982085b0acf0b22b9"/>
+          <child xsi:type="archimate:DiagramObject" id="id-619fd1386e234ff6a40e41425bf6a20c" targetConnections="id-f07816ddfd0e479b80fe0c748006506d" fillColor="#00d5d5" archimateElement="id-1c87b97f88494e31be81a73ac3a47e57">
+            <bounds x="24" y="24" width="133" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-aa1c0cda1feb4667aaec465db24b8cef" targetConnections="id-72f9f16f3b364eeeaa81030c2c41305f" fillColor="#00d5d5" archimateElement="id-75f09442e8cc459488ec470390d2438b">
+            <bounds x="13" y="84" width="156" height="73"/>
+          </child>
+        </child>
+        <documentation>SEE EACH LIBRARY FOR TOP-LEVEL Folders, and Library URL</documentation>
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="EDA Role" id="id-882c34fa3b8143a3a7f342163e113837">
         <child xsi:type="archimate:Note" id="id-1770454b795a44f4a6167042cc80e97e" font="1|Segoe UI|16.2|1|WINDOWS|1|-27|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1">
