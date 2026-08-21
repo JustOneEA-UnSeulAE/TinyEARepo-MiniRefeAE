@@ -16917,6 +16917,179 @@ Implications:&#xD;
 • BDM will encourage and work with service delivery partners to change their existing systems or develop new end-user applications for their staff and clients to submit data to ESDC in a digital format.</documentation>
     </element>
     <element xsi:type="archimate:Value" name="BDM Architecture Principles follow and build on GC Digital Standards which, in turn, ensure that proposed architectural designs are aligned with the GC EA Framework. The alignment is assessed as part of BDM updates to GC EARB." id="id-a6b8eeac7e1648078ce0f684860b41e6"/>
+    <element xsi:type="archimate:Principle" name="1. Data is an Enterprise Asset [Assessment Principle]" id="id-149752aa68ab45e9952c2b99418fa817">
+      <documentation>1. Data is an Enterprise Asset&#xD;
+What&#xD;
+Initiative data models should be designed with an enterprise perspective and leverage common enterprise business concepts wherever possible.&#xD;
+Why&#xD;
+The Data Strategy identifies data as a shared, protected enterprise asset and calls for integrated data that enables horizontal views across programs, services, policies, and channels. Common enterprise concepts improve interoperability and reduce duplication. [ESDC1_2023...2025-10-22 | PDF]&#xD;
+Impact&#xD;
+•	Reduced data silos&#xD;
+•	Improved cross-program analytics&#xD;
+•	Greater data sharing and reuse&#xD;
+•	Simplified integration efforts</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="2. Enterprise Meaning Before Local Implementation [Assessment Principle]" id="id-b848e32b191c4d1ebef8a9a45b9d701d">
+      <documentation>2. Enterprise Meaning Before Local Implementation&#xD;
+What&#xD;
+Business concepts should be mapped to enterprise concepts before solution-specific physical or application designs are finalized.&#xD;
+Why&#xD;
+The Data Strategy identifies Enterprise Data Architecture as a foundational capability and emphasizes early consideration of data in departmental initiatives. Enterprise meaning must be established before technology choices are made. [ESDC1_2023...2025-10-22 | PDF]&#xD;
+Impact&#xD;
+•	Consistent business vocabulary&#xD;
+•	Improved solution interoperability&#xD;
+•	Reduced rework during implementation</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="3. Traceability and Transparency [Assessment Principle]" id="id-8da1afca49ab4e46bc0793ac49afcce9">
+      <documentation>3. Traceability and Transparency&#xD;
+What&#xD;
+Initiatives must document how their data model aligns, partially aligns, or intentionally deviates from EDRM concepts.&#xD;
+Why&#xD;
+The EARB Data Scoring Guide promotes clear, open, and consistent assessments with documented rationale supporting decisions. Transparency strengthens governance and trust. [ESDC-CDOB...re - GUIDE | PDF]&#xD;
+Impact&#xD;
+•	Improved governance oversight&#xD;
+•	Better architectural decision-making&#xD;
+•	Reusable assessment artefacts</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="4. Alignment by Default, Exception by Justification [Assessment Principle]" id="id-23e9bafdafec4bf49e4f4c024782f3e9">
+      <documentation>4. Alignment by Default, Exception by Justification&#xD;
+What&#xD;
+Alignment with EDRM is the expected approach. Deviations are permitted when supported by documented rationale and approved through governance.&#xD;
+Why&#xD;
+Data governance requires clear accountability, stewardship, and standards while allowing flexibility for specific business contexts. The Data Strategy recognizes adaptive governance while maintaining enterprise direction. [ESDC1_2023...2025-10-22 | PDF]&#xD;
+Impact&#xD;
+•	Balanced governance&#xD;
+•	Reduced unnecessary exceptions&#xD;
+•	Improved compliance with enterprise standards</documentation>
+    </element>
+    <element xsi:type="archimate:Principle" name="5. Architecture Across Boundaries [Assessment Principle]" id="id-59f7f219ca0040bea2c10acce23ed59c">
+      <documentation>5. Architecture Across Boundaries&#xD;
+What&#xD;
+Data designs should maximize interoperability across programs, services, branches, and external partners.&#xD;
+Why&#xD;
+The Data Strategy calls for integrated data, enterprise-wide sharing, and enhanced collaboration across organizational boundaries. The EARB Data Score Guide also promotes architecture that enables data use across boundaries. [ESDC1_2023...2025-10-22 | PDF], [ESDC-CDOB...re - GUIDE | PDF]&#xD;
+Impact&#xD;
+•	Better client-centric services&#xD;
+•	More effective data integration&#xD;
+•	Reduced duplication of enterprise capabilities</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="1. Promote Adoption of Enterprise Data Standards [Objective]" id="id-5fa5320f86574ef6b5bd124c75204569">
+      <documentation>Objective 1&#xD;
+Promote Adoption of Enterprise Data Standards&#xD;
+Initiatives leverage EDRM concepts, business entities, and relationships when defining new or modified data assets.&#xD;
+Success measures&#xD;
+•	Enterprise concepts reused where applicable.&#xD;
+•	New concepts justified when introduced.&#xD;
+•	Duplicate enterprise concepts minimized.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="2. Establish Data Model Traceability [Objective]" id="id-8d59e9196bbd4c2abb789b0e2efeb4e9">
+      <documentation>Objective 2&#xD;
+Establish Data Model Traceability&#xD;
+Initiatives demonstrate how solution-level data structures relate to EDRM business concepts.&#xD;
+Success measures&#xD;
+•	Mapping completed and documented.&#xD;
+•	Coverage of major business entities identified.&#xD;
+•	Data stewardship impacts understood.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="3. Improve Enterprise Integration Readiness [Objective]" id="id-abbd87cc67c64dfca534da86c519bb29">
+      <documentation>Objective 3&#xD;
+Improve Enterprise Integration Readiness&#xD;
+Initiatives identify opportunities for integration, information sharing, analytics, and reuse through EDRM alignment.&#xD;
+Success measures&#xD;
+•	Common entities identified.&#xD;
+•	Cross-program impacts assessed.&#xD;
+•	Integration opportunities documented.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="4. Strengthen Data Governance and Stewardship [Objective]" id="id-0c5145414d9746a6b1ac412a5cbbeafb">
+      <documentation>Objective 4&#xD;
+Strengthen Data Governance and Stewardship&#xD;
+Initiatives clearly identify ownership, stewardship, and management implications of enterprise data assets.&#xD;
+Success measures&#xD;
+•	Data stewards identified.&#xD;
+•	Enterprise data impacts assessed.&#xD;
+•	Governance considerations documented.</documentation>
+    </element>
+    <element xsi:type="archimate:Goal" name="5. Enable Informed Exception Management [Objective]" id="id-b2c59ded4a5c481cbf5b47a125f816b6">
+      <documentation>Objective 5&#xD;
+Enable Informed Exception Management&#xD;
+Initiatives unable to align with EDRM provide a transparent rationale and identify any resulting enterprise impacts.&#xD;
+Success measures&#xD;
+•	Exceptions documented.&#xD;
+•	Risks understood.&#xD;
+•	Mitigations identified.&#xD;
+•	Governance approval obtained where required.</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="A. Full EDRM Alignment [Expected Outcome]" id="id-067de8a8e25b4a6d935931c4e135f2f0">
+      <documentation>Outcome A&#xD;
+Full EDRM Alignment&#xD;
+Definition&#xD;
+The initiative has completed a mapping exercise and demonstrates that its conceptual or business data model substantially aligns with EDRM concepts and relationships.&#xD;
+Expected Evidence&#xD;
+•	Business data model produced.&#xD;
+•	EDRM mapping completed.&#xD;
+•	Alignment findings documented.&#xD;
+•	Variances identified and justified.&#xD;
+Desired Result&#xD;
+Enterprise interoperability is maximized and future integration costs are minimized.</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="B. Partial Alignment with Managed Variances [Expected Outcome]" id="id-a20b2db857364691a8e54077f228c59a">
+      <documentation>Outcome B&#xD;
+Partial Alignment with Managed Variances&#xD;
+Definition&#xD;
+The initiative aligns to applicable EDRM concepts but requires additional initiative-specific concepts not currently represented within the enterprise model.&#xD;
+Expected Evidence&#xD;
+•	Completed mapping exercise.&#xD;
+•	Areas of alignment documented.&#xD;
+•	Variances documented.&#xD;
+•	Recommendation provided to evolve the EDRM where appropriate.&#xD;
+Desired Result&#xD;
+Specific business requirements are met while maintaining enterprise consistency.</documentation>
+    </element>
+    <element xsi:type="archimate:Outcome" name="C. Alignment Not Required with Approved Rationale [Expected Outcome]" id="id-b86a33d8f66e406ea2387db14fad6267">
+      <documentation>Outcome C&#xD;
+Alignment Not Required with Approved Rationale&#xD;
+Definition&#xD;
+The initiative demonstrates that EDRM alignment is not applicable or would provide limited business value.&#xD;
+Acceptable Examples&#xD;
+•	Technology-only initiative with no business data creation or management.&#xD;
+•	Infrastructure or platform upgrade with no material change to business data.&#xD;
+•	Temporary or transitional solution.&#xD;
+•	Legislative or externally mandated model requiring a prescribed structure.&#xD;
+•	Specialized domain outside current EDRM scope.&#xD;
+Expected Evidence&#xD;
+•	Written rationale.&#xD;
+•	Impact assessment.&#xD;
+•	Risks and mitigations documented.&#xD;
+•	Governance review completed.&#xD;
+Desired Result&#xD;
+Exceptions remain transparent, controlled, and auditable.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="1. EDRM Applicability [Assessment Criterion]" id="id-b6c029d954e0460198afa71c0ca44650">
+      <documentation>EDRM Applicability	Has the initiative determined whether EDRM applies to the solution?</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="2. Model Alignment [Assessment Criterion]" id="id-9b8deec8aa9c4bdfac80f69db10591ee">
+      <documentation>Model Alignment	Are business concepts aligned to EDRM entities and relationships?</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="3. Mapping Completeness [Assessment Criterion]" id="id-11e9d0781ebf406581decedcbc4d45cd">
+      <documentation>Mapping Completeness	Has a documented mapping exercise been completed?</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="4. Variance Management [Assessment Criterion]" id="id-a20756e602554f1da2b2fbd88b95f948">
+      <documentation>Variance Management	Are deviations clearly documented and justified?</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="8. Exception Governance [Assessment Criterion]" id="id-34113fc834ec490c95906c390869ba68">
+      <documentation>Exception Governance	Where alignment is not required, is the rationale complete and defensible?</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="5. Enterprise Reuse [Assessment Criterion]" id="id-c71ebf53da8645a5bd14d04900e83083">
+      <documentation>Enterprise Reuse	Does the initiative reuse enterprise concepts rather than creating duplicates?</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="6. Stewardship Alignment [Assessment Criterion]" id="id-38fed42a3bb347a98ce3eb49e466b691">
+      <documentation>Stewardship Alignment	Have data ownership and stewardship implications been identified?</documentation>
+    </element>
+    <element xsi:type="archimate:Assessment" name="7. Integration Readiness [Assessment Criterion]" id="id-ae8d3731d84a49489d7cd1707c699fc3">
+      <documentation>Integration Readiness	Does the model support enterprise integration and data sharing?</documentation>
+    </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-861798a5dcc2418eab64cdaefdeeb080" type="implementation_migration">
     <element xsi:type="archimate:Plateau" name="3rd Annual 2022 Digital Transformation in Government Conference (Plateau)" id="id-50a58ac56ba54b23834dc68b028ca8a0">
@@ -18586,6 +18759,10 @@ The Data Certification Lifecycle Overview provides a comprehensive framework for
     <element xsi:type="archimate:Grouping" name="REPORTING &amp; GOVERNANCE LAYER [Grouping]" id="id-4c4083b9a0c4446985a4339a98c71f26"/>
     <element xsi:type="archimate:Grouping" name="DATA FLOW (END-TO-END) [Grouping]" id="id-297ea7486bda4f9b84e11ffa9a290878"/>
     <element xsi:type="archimate:Grouping" name="CDO Sites" id="id-6aac688f392c47cb97c2d00c5d586f0b"/>
+    <element xsi:type="archimate:Grouping" name="EDRM ALIGNMENT PRINCIPLES" id="id-c6af4cb596d54b2694acbf589c1dc026"/>
+    <element xsi:type="archimate:Grouping" name="EDRM ALIGNMENT OBJECTIVES" id="id-de7f6e6e7211492ab05c637d5baa5a89"/>
+    <element xsi:type="archimate:Grouping" name="EDRM ALIGNMENT EXPECTED OUTCOMES" id="id-3865fed0cb5e4b559bb2473860f09053"/>
+    <element xsi:type="archimate:Grouping" name="EDRM ALIGNMENT ASSESSMENT CRITERIA" id="id-11b7b7bbe1704a238a65bb9123f5a675"/>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
     <element xsi:type="archimate:SpecializationRelationship" id="id-1fc9998b537248f0ab8efd6853b77d65" source="id-bbea9bb53b0d449e8af710c22edf18bc" target="id-a7f8beac2a2c416c96b351c66b79510c"/>
@@ -21423,6 +21600,27 @@ building a new solution.</documentation>
     <element xsi:type="archimate:AccessRelationship" name="Edit" id="id-6a0d4b08942a4fa4aa28d1d3a313bb59" source="id-6002c82f1b694179af7e936a3c6a6850" target="id-c21b3c7b81954b9b89f766df88097b2b"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-d6ac9acfed674322baa61675f9f7be24" source="id-6aac688f392c47cb97c2d00c5d586f0b" target="id-1c87b97f88494e31be81a73ac3a47e57"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-78b06052d6db4af982085b0acf0b22b9" source="id-6aac688f392c47cb97c2d00c5d586f0b" target="id-75f09442e8cc459488ec470390d2438b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-610c0233ae3942e38fa33ce0fcb6413b" source="id-c6af4cb596d54b2694acbf589c1dc026" target="id-149752aa68ab45e9952c2b99418fa817"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-15b1c068bf584501b5089629962d3ff0" source="id-c6af4cb596d54b2694acbf589c1dc026" target="id-b848e32b191c4d1ebef8a9a45b9d701d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-cce1de39940a4875b7fcb0f5134b73b5" source="id-c6af4cb596d54b2694acbf589c1dc026" target="id-8da1afca49ab4e46bc0793ac49afcce9"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8891522be98742238d79fabd2a13d2d4" source="id-c6af4cb596d54b2694acbf589c1dc026" target="id-23e9bafdafec4bf49e4f4c024782f3e9"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6c58d3b5bc7846a48833e1eb92833223" source="id-c6af4cb596d54b2694acbf589c1dc026" target="id-59f7f219ca0040bea2c10acce23ed59c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c7a34fa46b97405ba3684599a17025b5" source="id-de7f6e6e7211492ab05c637d5baa5a89" target="id-abbd87cc67c64dfca534da86c519bb29"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ecd3f401afb042f1bdf28fb5fd86b57b" source="id-de7f6e6e7211492ab05c637d5baa5a89" target="id-0c5145414d9746a6b1ac412a5cbbeafb"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-850ca22d245142d8ad842a6ef4cddccf" source="id-de7f6e6e7211492ab05c637d5baa5a89" target="id-8d59e9196bbd4c2abb789b0e2efeb4e9"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2f8731c36f66467880b9cbc37ae6199f" source="id-de7f6e6e7211492ab05c637d5baa5a89" target="id-b2c59ded4a5c481cbf5b47a125f816b6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-674ef5bbecfd42dfb8640d5c7a624450" source="id-de7f6e6e7211492ab05c637d5baa5a89" target="id-5fa5320f86574ef6b5bd124c75204569"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a78b2b349e5c4e71a0cb06d208b86291" source="id-3865fed0cb5e4b559bb2473860f09053" target="id-067de8a8e25b4a6d935931c4e135f2f0"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-04b5681fef394a2b9fd3c35da597dd1e" source="id-3865fed0cb5e4b559bb2473860f09053" target="id-a20b2db857364691a8e54077f228c59a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-bb35e3cc95a448d68074065ae6a17c7d" source="id-3865fed0cb5e4b559bb2473860f09053" target="id-b86a33d8f66e406ea2387db14fad6267"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ccebdc26abdd43818978dc2510b90f2b" source="id-11b7b7bbe1704a238a65bb9123f5a675" target="id-38fed42a3bb347a98ce3eb49e466b691"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-322d49ab15554918a3fb94361a9974f9" source="id-11b7b7bbe1704a238a65bb9123f5a675" target="id-b6c029d954e0460198afa71c0ca44650"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d5058942851a44b98b2ee3a706f8a788" source="id-11b7b7bbe1704a238a65bb9123f5a675" target="id-a20756e602554f1da2b2fbd88b95f948"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-1922d3759a504974af4a3f14b555c45b" source="id-11b7b7bbe1704a238a65bb9123f5a675" target="id-c71ebf53da8645a5bd14d04900e83083"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b20bfbade71141babee7815e3f696908" source="id-11b7b7bbe1704a238a65bb9123f5a675" target="id-11e9d0781ebf406581decedcbc4d45cd"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-351ca36cb0834863b52d7f2aec730d4e" source="id-11b7b7bbe1704a238a65bb9123f5a675" target="id-ae8d3731d84a49489d7cd1707c699fc3"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d5e602b5c76b4df7a6e440239c690e0f" source="id-11b7b7bbe1704a238a65bb9123f5a675" target="id-9b8deec8aa9c4bdfac80f69db10591ee"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e5dbbd6e574148dca008c44be82e4dd4" source="id-11b7b7bbe1704a238a65bb9123f5a675" target="id-34113fc834ec490c95906c390869ba68"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -32166,7 +32364,7 @@ EDFP Behavioural Analytics and Monitoring</content>
           <bounds x="452" y="18" width="120" height="58"/>
           <content>(DRAFT)&#xD;
 2026-06-18&#xD;
-v0.1.20260618</content>
+v0.1.20260805</content>
         </child>
         <child xsi:type="archimate:Note" id="id-44bdb67786394b7e86fed1c0e8fe0262" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
           <bounds x="583" y="-12" width="205" height="68"/>
@@ -34282,6 +34480,132 @@ v0.1.20251119</content>
 https://014gc.sharepoint.com/:w:/r/sites/EACollab/Shared%20Documents/IF-Labour%20Program%20Online%20Employee%20Portal%20(LP%20OEP)/Documentation/IF-Labour%20Program%20Online%20Employee%20Portal%20Business%20Case_04162025_EN_v2.docx&#xD;
 &#xD;
 </documentation>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="CDOB-EDRM Alignment Score" id="id-2c3b57ddeb0d4b9cb42e1ffe3b714669">
+        <child xsi:type="archimate:Note" id="id-e83f9409ad694d5e82f4bbd2c879628c" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="10" y="11" width="560" height="88"/>
+          <content>Archimate View: CDOB: EARB: Scoring of IT Initiatives' Alignment With EDRM</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-0bcd75a9f5fb40ec98fe83b7aecec27b" textAlignment="1">
+          <bounds x="450" y="41" width="120" height="58"/>
+          <content>(DRAFT)&#xD;
+2026-08-21&#xD;
+v0.1.20260821</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-8418eae9c23a432897dc3ab1cd1a8ef8" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#ffffff" fillColor="#ff0000" textPosition="1">
+          <bounds x="581" y="11" width="205" height="68"/>
+          <content>DIAGRAM NOT ENDORSED</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-771aceb72f884fd7af761e3214cc228b" textAlignment="1" archimateElement="id-c6af4cb596d54b2694acbf589c1dc026">
+          <bounds x="10" y="120" width="205" height="409"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c8b0ec1c0d414f7a9242a5cb4275416c" source="id-771aceb72f884fd7af761e3214cc228b" target="id-f8f8935f30bd419d81e0966d4225357d" archimateRelationship="id-610c0233ae3942e38fa33ce0fcb6413b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a649e3c34604449399933f2b8b4d3b7b" source="id-771aceb72f884fd7af761e3214cc228b" target="id-83ec78fa06c14719834ccdf1976a00e2" archimateRelationship="id-15b1c068bf584501b5089629962d3ff0"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-56d08dba04084466b79c9415e78d26b8" source="id-771aceb72f884fd7af761e3214cc228b" target="id-79344ad378894f7fac6732e765e86448" archimateRelationship="id-cce1de39940a4875b7fcb0f5134b73b5"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f63a32fbb59b474192e3d5b7a5a2e2e0" source="id-771aceb72f884fd7af761e3214cc228b" target="id-1292f658bd104b7e95142ef55fcfac64" archimateRelationship="id-8891522be98742238d79fabd2a13d2d4"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9eb7ea5fa7d046339fd341c1b5eeda61" source="id-771aceb72f884fd7af761e3214cc228b" target="id-1fa3c9b5e7a74c1dafb9b679c7c6c122" archimateRelationship="id-6c58d3b5bc7846a48833e1eb92833223"/>
+          <child xsi:type="archimate:DiagramObject" id="id-f8f8935f30bd419d81e0966d4225357d" targetConnections="id-c8b0ec1c0d414f7a9242a5cb4275416c" archimateElement="id-149752aa68ab45e9952c2b99418fa817">
+            <bounds x="12" y="24" width="174" height="61"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-83ec78fa06c14719834ccdf1976a00e2" targetConnections="id-a649e3c34604449399933f2b8b4d3b7b" archimateElement="id-b848e32b191c4d1ebef8a9a45b9d701d">
+            <bounds x="12" y="96" width="174" height="73"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-79344ad378894f7fac6732e765e86448" targetConnections="id-56d08dba04084466b79c9415e78d26b8" archimateElement="id-8da1afca49ab4e46bc0793ac49afcce9">
+            <bounds x="12" y="180" width="174" height="61"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1292f658bd104b7e95142ef55fcfac64" targetConnections="id-f63a32fbb59b474192e3d5b7a5a2e2e0" archimateElement="id-23e9bafdafec4bf49e4f4c024782f3e9">
+            <bounds x="12" y="252" width="174" height="73"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1fa3c9b5e7a74c1dafb9b679c7c6c122" targetConnections="id-9eb7ea5fa7d046339fd341c1b5eeda61" archimateElement="id-59f7f219ca0040bea2c10acce23ed59c">
+            <bounds x="12" y="336" width="174" height="61"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-78f21cfe691a4e93b81b6319d6decfcc" textAlignment="1" archimateElement="id-de7f6e6e7211492ab05c637d5baa5a89">
+          <bounds x="228" y="120" width="205" height="409"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2f0dbc4ca5214ceeaa3c790829339d31" source="id-78f21cfe691a4e93b81b6319d6decfcc" target="id-23cc577224dd4aa0bc3f0e7675a71da1" archimateRelationship="id-c7a34fa46b97405ba3684599a17025b5"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2519a3231395413dad2c0b0999c8c824" source="id-78f21cfe691a4e93b81b6319d6decfcc" target="id-7ebbd1a81cd34c0ab738e948688e649d" archimateRelationship="id-ecd3f401afb042f1bdf28fb5fd86b57b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-de5e64c1b61c470bb33b8ea8664def79" source="id-78f21cfe691a4e93b81b6319d6decfcc" target="id-309cb4f03ea7439cb372bd3debcfd08f" archimateRelationship="id-850ca22d245142d8ad842a6ef4cddccf"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-229b390514174c11a093bf46c230fc66" source="id-78f21cfe691a4e93b81b6319d6decfcc" target="id-80fea6e163694a32b3f906489631d68c" archimateRelationship="id-2f8731c36f66467880b9cbc37ae6199f"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-86f910f680b04b1586bc763f39109de6" source="id-78f21cfe691a4e93b81b6319d6decfcc" target="id-7baaff9912e24edab38854f2736d7d4e" archimateRelationship="id-674ef5bbecfd42dfb8640d5c7a624450"/>
+          <child xsi:type="archimate:DiagramObject" id="id-23cc577224dd4aa0bc3f0e7675a71da1" targetConnections="id-2f0dbc4ca5214ceeaa3c790829339d31" archimateElement="id-abbd87cc67c64dfca534da86c519bb29">
+            <bounds x="12" y="168" width="174" height="61"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7ebbd1a81cd34c0ab738e948688e649d" targetConnections="id-2519a3231395413dad2c0b0999c8c824" archimateElement="id-0c5145414d9746a6b1ac412a5cbbeafb">
+            <bounds x="12" y="240" width="174" height="61"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-309cb4f03ea7439cb372bd3debcfd08f" targetConnections="id-de5e64c1b61c470bb33b8ea8664def79" archimateElement="id-8d59e9196bbd4c2abb789b0e2efeb4e9">
+            <bounds x="12" y="108" width="174" height="49"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-80fea6e163694a32b3f906489631d68c" targetConnections="id-229b390514174c11a093bf46c230fc66" archimateElement="id-b2c59ded4a5c481cbf5b47a125f816b6">
+            <bounds x="12" y="312" width="174" height="61"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7baaff9912e24edab38854f2736d7d4e" targetConnections="id-86f910f680b04b1586bc763f39109de6" archimateElement="id-5fa5320f86574ef6b5bd124c75204569">
+            <bounds x="12" y="36" width="174" height="61"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-53c5c5912fad47808aba4bde6cf2083d" textAlignment="1" archimateElement="id-3865fed0cb5e4b559bb2473860f09053">
+          <bounds x="444" y="120" width="205" height="409"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-44534e8da8a449deae3e10aab20d7527" source="id-53c5c5912fad47808aba4bde6cf2083d" target="id-eabc58f0df12446f904ed1de6c8bed74" archimateRelationship="id-a78b2b349e5c4e71a0cb06d208b86291"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f70e0f4c9ad84acfb911aefe2292d736" source="id-53c5c5912fad47808aba4bde6cf2083d" target="id-996f86bf4e1141798902fd125259d088" archimateRelationship="id-04b5681fef394a2b9fd3c35da597dd1e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f3058052d68e4ec693749658283e8128" source="id-53c5c5912fad47808aba4bde6cf2083d" target="id-9b184710c36b4642972215d69fa4c0ff" archimateRelationship="id-bb35e3cc95a448d68074065ae6a17c7d"/>
+          <child xsi:type="archimate:DiagramObject" id="id-eabc58f0df12446f904ed1de6c8bed74" targetConnections="id-44534e8da8a449deae3e10aab20d7527" archimateElement="id-067de8a8e25b4a6d935931c4e135f2f0">
+            <bounds x="12" y="48" width="174" height="73"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-996f86bf4e1141798902fd125259d088" targetConnections="id-f70e0f4c9ad84acfb911aefe2292d736" archimateElement="id-a20b2db857364691a8e54077f228c59a">
+            <bounds x="12" y="148" width="174" height="73"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9b184710c36b4642972215d69fa4c0ff" targetConnections="id-f3058052d68e4ec693749658283e8128" archimateElement="id-b86a33d8f66e406ea2387db14fad6267">
+            <bounds x="12" y="252" width="174" height="73"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a0547e6c17a4416780d61622f9b9dd7d" textAlignment="1" archimateElement="id-11b7b7bbe1704a238a65bb9123f5a675">
+          <bounds x="660" y="120" width="205" height="433"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-67d1c507ec6c4596b6b44832df0d81a5" source="id-a0547e6c17a4416780d61622f9b9dd7d" target="id-b3df6e27f78143ca9c9a3ca8ee45c6f6" archimateRelationship="id-ccebdc26abdd43818978dc2510b90f2b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-12cf59b1dbf54a56a3b9698ecdbbfbd2" source="id-a0547e6c17a4416780d61622f9b9dd7d" target="id-72ed5a5b5430451fb3f3aafedae2a1db" archimateRelationship="id-322d49ab15554918a3fb94361a9974f9"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-03994d29e524467990e14d831d2a7285" source="id-a0547e6c17a4416780d61622f9b9dd7d" target="id-a930524879594a61a6d085f102b0110f" archimateRelationship="id-d5058942851a44b98b2ee3a706f8a788"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2fac9cb9c5f24fba815c33a87b08189e" source="id-a0547e6c17a4416780d61622f9b9dd7d" target="id-fddb7b9a47154067894c615be0415f91" archimateRelationship="id-1922d3759a504974af4a3f14b555c45b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b9752240ce0046e69c052c76191b4004" source="id-a0547e6c17a4416780d61622f9b9dd7d" target="id-a8aecdd45b094f39838ef1db910a9dfd" archimateRelationship="id-b20bfbade71141babee7815e3f696908"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f5e2763f440d49ffae59ab75efa866bc" source="id-a0547e6c17a4416780d61622f9b9dd7d" target="id-7c4b32abca724dfe87cec881327158d5" archimateRelationship="id-351ca36cb0834863b52d7f2aec730d4e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3fb55432cc624e0e9d490f25f3f46d03" source="id-a0547e6c17a4416780d61622f9b9dd7d" target="id-8dcda38c90d04d9089d1e48131b652a1" archimateRelationship="id-d5e602b5c76b4df7a6e440239c690e0f"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8fcbae4e78e648649413e8617a316e12" source="id-a0547e6c17a4416780d61622f9b9dd7d" target="id-a60ba434a2084d31abd5bf165680957b" archimateRelationship="id-e5dbbd6e574148dca008c44be82e4dd4"/>
+          <child xsi:type="archimate:DiagramObject" id="id-b3df6e27f78143ca9c9a3ca8ee45c6f6" targetConnections="id-67d1c507ec6c4596b6b44832df0d81a5" archimateElement="id-38fed42a3bb347a98ce3eb49e466b691">
+            <bounds x="12" y="268" width="174" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-72ed5a5b5430451fb3f3aafedae2a1db" targetConnections="id-12cf59b1dbf54a56a3b9698ecdbbfbd2" archimateElement="id-b6c029d954e0460198afa71c0ca44650">
+            <bounds x="12" y="36" width="174" height="43"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a930524879594a61a6d085f102b0110f" targetConnections="id-03994d29e524467990e14d831d2a7285" archimateElement="id-a20756e602554f1da2b2fbd88b95f948">
+            <bounds x="12" y="172" width="174" height="49"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-fddb7b9a47154067894c615be0415f91" targetConnections="id-2fac9cb9c5f24fba815c33a87b08189e" archimateElement="id-c71ebf53da8645a5bd14d04900e83083">
+            <bounds x="12" y="220" width="174" height="49"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a8aecdd45b094f39838ef1db910a9dfd" targetConnections="id-b9752240ce0046e69c052c76191b4004" archimateElement="id-11e9d0781ebf406581decedcbc4d45cd">
+            <bounds x="12" y="119" width="174" height="54"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7c4b32abca724dfe87cec881327158d5" targetConnections="id-f5e2763f440d49ffae59ab75efa866bc" archimateElement="id-ae8d3731d84a49489d7cd1707c699fc3">
+            <bounds x="12" y="322" width="174" height="49"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-8dcda38c90d04d9089d1e48131b652a1" targetConnections="id-3fb55432cc624e0e9d490f25f3f46d03" archimateElement="id-9b8deec8aa9c4bdfac80f69db10591ee">
+            <bounds x="12" y="78" width="174" height="42"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a60ba434a2084d31abd5bf165680957b" targetConnections="id-8fcbae4e78e648649413e8617a316e12" archimateElement="id-34113fc834ec490c95906c390869ba68">
+            <bounds x="12" y="370" width="174" height="49"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:Note" id="id-161a82b08b36425783d96449f5b38de2" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#fcffc6">
+          <bounds x="876" y="120" width="344" height="268"/>
+          <content>All initiatives presented to EARB must demonstrate one of the following:&#xD;
+1. Alignment with the Enterprise Data Reference Model (EDRM);&#xD;
+2. Completion of an EDRM mapping exercise identifying alignments and variances; or&#xD;
+3. A documented and supportable rationale explaining why EDRM alignment is not required.</content>
+        </child>
+        <documentation>Recommended EARB Expected Decision Statement&#xD;
+All initiatives presented to EARB must demonstrate one of the following:&#xD;
+1.	Alignment with the Enterprise Data Reference Model (EDRM);&#xD;
+2.	Completion of an EDRM mapping exercise identifying alignments and variances; or&#xD;
+3.	A documented and supportable rationale explaining why EDRM alignment is not required.&#xD;
+The assessment must include sufficient evidence to support enterprise data governance, interoperability, stewardship, and strategic data management objectives. [ESDC1_2023...2025-10-22 | PDF], [ESDC-CDOB...re - GUIDE | PDF]&#xD;
+This structure should fit naturally alongside the existing EARB Data Alignment scoring methodology and could be introduced as either a new Data Architecture Alignment criterion within the Data Score or as a standalone mandatory EARB gate assessment.</documentation>
       </element>
     </folder>
     <folder name="ESDC" id="id-d9cf8c4239664ac5a9826592dc24d057">
