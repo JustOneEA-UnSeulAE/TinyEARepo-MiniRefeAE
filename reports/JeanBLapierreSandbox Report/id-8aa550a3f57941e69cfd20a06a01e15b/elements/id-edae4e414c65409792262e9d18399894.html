@@ -48,16 +48,9 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<div class="convertlinks documentation" style="white-space:pre-wrap">1.9 An entity plays a role in each association
-DESCRIPTION
-The attributes of the association include attributes of the roles played by the associated entities: these must not be confused with attributes of the entity itself.  For example, an employee number is an attribute of the association between a person in the role of employee, and an organization in the role of employer.  This is evident because a person may have more than one concurrent employee number if they have more than one concurrent employment.  Conversely, the legal name of an employee is an attribute of the entity playing the role, the person, because there is only one, even when that person engages in multiple employments.  Note however, that if it is desired to record the name given by an employee to an employer, it may be necessary to record an employment name as well.   Care should always be taken to ensure that roles are not confused with the underlying entities.
-RATIONALE
-&#8226;	Attributes often belong to a relationship, not the entity itself.
-&#8226;	Confusing roles with entities causes data duplication and error.
-IMPLICATION
-&#8226;	Model role attributes on associations, not entities.
-&#8226;	Explicitly name and define roles in associations.
-&#8226;	Validate that entity attributes remain invariant across roles.</div>
+						<div class="documentation" style="white-space:pre-wrap"><div class="markdown-body"><p>1.9 An entity plays a role in each association<br/>DESCRIPTION<br/>The attributes of the association include attributes of the roles played by the associated entities: these must not be confused with attributes of the entity itself.  For example, an employee number is an attribute of the association between a person in the role of employee, and an organization in the role of employer.  This is evident because a person may have more than one concurrent employee number if they have more than one concurrent employment.  Conversely, the legal name of an employee is an attribute of the entity playing the role, the person, because there is only one, even when that person engages in multiple employments.  Note however, that if it is desired to record the name given by an employee to an employer, it may be necessary to record an employment name as well.   Care should always be taken to ensure that roles are not confused with the underlying entities.<br/>RATIONALE<br/>•	Attributes often belong to a relationship, not the entity itself.<br/>•	Confusing roles with entities causes data duplication and error.<br/>IMPLICATION<br/>•	Model role attributes on associations, not entities.<br/>•	Explicitly name and define roles in associations.<br/>•	Validate that entity attributes remain invariant across roles.</p>
+</div></div>
+                        <div class="convertlinks documentation" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">
