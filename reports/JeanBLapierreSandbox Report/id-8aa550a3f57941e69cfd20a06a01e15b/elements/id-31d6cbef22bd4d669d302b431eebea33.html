@@ -48,76 +48,12 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<div class="convertlinks documentation" style="white-space:pre-wrap">Step 2: Lineage Discovery &amp; Data Profiling
-
-The Lineage Discovery and Data Profiling step is a crucial phase in the data certification process. It lays the groundwork for ensuring that data assets are accurately represented and that the quality of reports derived from these assets is reliable. Poorly executed lineage discovery and data profiling can lead to significant inaccuracies in reporting, potentially compromising organizational decision-making and accountability.
-Lineage Discovery (Initial)
-Identify Upstream Systems: Begin by identifying all upstream systems that contribute data to the final report/product. This includes columns, tables, databases, views, applications, and other sources that serve as the origin points for the data.
-Identify Downstream Consumers: Next, determine who the downstream consumers of the data are, including teams, departments, or systems that utilize the data (gathered in step 1). Understanding these relationships helps clarify the impact of data quality on various reporting functionalities.
-Capture Known Transformations (ETL, SQL, Power Bi, Excel, etc.): Document all known transformations applied to the data, including Extraction, Transformation, and Loading (ETL) processes, SQL queries, Excel manipulations, and any other processing undertaken.
-Transformations are at the heart of this process and must be captured with meticulous attention to detail. Collaborating closely with the Business Data Steward is essential to ensure that transformations accurately reflect the intended purpose of the data. This collaboration is particularly crucial for high-risk transformations - such as pivots, deduplications, filterings, aggregations, calculations, and counts - where incorrect application can lead to erroneous conclusions and reports.
-Data Profiling:
-Product Level vs. Asset Level Profiling
-This section explains what data profiling means in our operating model, how profiling is applied after report or product intake, and how product level profiling differs from traditional data asset profiling in both intent and execution.
-In this playbook, data profiling is not treated as a single, universal activity. Instead, it is a context dependent discipline applied at different points in the data lifecycle, for different reasons.
-Data profiling is the structured assessment of data behavior, quality, and risk relative to a defined scope and purpose.
-The scope and purpose determine:
-&#8226;	what is inspected
-&#8226;	how deeply it is inspected
-&#8226;	how results are interpreted
-&#8226;	how findings are used downstream
-Profiling in this model occurs after initial report or data product intake has been completed.
-At this stage:
-&#8226;	Business objectives are known
-&#8226;	Key questions, KPIs, and dimensions are agreed
-&#8226;	Refresh cadence and decision context are defined
-As a result, profiling is not exploratory (&#8220;what data do we have?&#8221;) It is confirmatory and evaluative:
-Can the available data safely and correctly support the agreed product or report requirements?
-Profiling is therefore a risk reduction and readiness gate, not a discovery exercise.
-Product Level (Report Level) Data Profiling
-Product level data profiling evaluates data in the context of how it will be used by a specific report or data product.
-It assesses:
-&#8226;	Whether the data supports the agreed KPIs and dimensions
-&#8226;	Whether aggregation, joins, and grain behave as expected
-&#8226;	Whether data quality is sufficient for the intended decisions
-&#8226;	Where assumptions, limitations, or risks must be communicated
-The unit of analysis is the product behavior, not the dataset in isolation.
-Product profiling answers questions such as:
-&#8226;	Does the data behave correctly at the report&#8217;s grain?
-&#8226;	Are metrics safe to aggregate in the intended views?
-&#8226;	Do known data quality issues materially affect conclusions?
-&#8226;	Are trends interpretable and stable for decision making?
-&#8226;	What must users not infer from this product?
-This makes product profiling decision centric, not data centric.
-At the product level, data quality checks are selective and contextual. For example:
-&#8226;	Completeness is assessed only for fields used by the product
-&#8226;	Accuracy is evaluated in terms of outcome reliability, not field by field perfection
-&#8226;	Duplicates are assessed based on KPI impact, not raw counts
-&#8226;	Timeliness is judged against decision cadence, not system SLAs
-The guiding question is always: Does this data issue change the meaning or reliability of the product&#8217;s outputs?
-Key Differences in Practice
-Purpose and Scope
-The following table contrasts two essential dimensions of data profiling: Product Profiling and Asset Profiling. Product Profiling focuses on validating the fitness of specific data for a particular product, ensuring that only the data utilized in that product aligns with its objectives. This process is decision-centric and occurs after the intake phase and before the build process. In contrast, Asset Profiling assesses the intrinsic quality of the entire dataset, adopting a data-centric perspective. This comprehensive evaluation takes place during the data ingestion or onboarding process, allowing for a thorough understanding of the dataset's quality and reliability before it is utilized in any product.
-Dimension	Product Profiling	Asset Profiling
-Primary goal	Validate fitness for a specific product	Assess intrinsic dataset quality
-Scope	Only data used by the product	Entire dataset
-Perspective	Decision centric	Data centric
-Timing	After intake, before build	During ingestion or onboarding
-
-Data Quality Checks (Critical Distinction)
-Quality Dimension	Product Profiling	Asset Profiling
-Completeness	Is missing data acceptable for this KPI?	What % of values are missing?
-Accuracy	Are outcomes reliable for decisions?	Are field values correct?
-Consistency	Do KPIs behave consistently across views?	Do fields align across datasets?
-Timeliness	Is freshness acceptable for decision cycle?	Is data updated as designed?
-Uniqueness	Do duplicates distort metrics?	Are rows duplicated?
-Product profiling reframes quality from absolute correctness to decision impact.
-
-The Lineage Discovery and Data Profiling phase is vital for achieving high levels of accuracy and reliability in data reporting. By rigorously identifying upstream sources, documenting all transformations, and conducting comprehensive data profiling, organizations can ensure that their data assets meet quality standards and effectively support business needs. This thorough approach mitigates risks associated with data inaccuracies and enhances stakeholders' confidence in the reporting outcomes based on these data assets.
-To facilitate the execution of this step, a checklist is available in Appendix 2 (Post Intake Data Profiling Checklist (Operational)). This template serves as a foundational tool to guide users in documenting data profiling activities. This template can be customized to fit the specific needs of each data product, enabling a more efficient approach while ensuring that all critical elements are addressed.
-
-
-</div>
+						<div class="documentation" style="white-space:pre-wrap"><div class="markdown-body"><p>Step 2: Lineage Discovery &amp; Data Profiling</p>
+<p>The Lineage Discovery and Data Profiling step is a crucial phase in the data certification process. It lays the groundwork for ensuring that data assets are accurately represented and that the quality of reports derived from these assets is reliable. Poorly executed lineage discovery and data profiling can lead to significant inaccuracies in reporting, potentially compromising organizational decision-making and accountability.<br/>Lineage Discovery (Initial)<br/>Identify Upstream Systems: Begin by identifying all upstream systems that contribute data to the final report/product. This includes columns, tables, databases, views, applications, and other sources that serve as the origin points for the data.<br/>Identify Downstream Consumers: Next, determine who the downstream consumers of the data are, including teams, departments, or systems that utilize the data (gathered in step 1). Understanding these relationships helps clarify the impact of data quality on various reporting functionalities.<br/>Capture Known Transformations (ETL, SQL, Power Bi, Excel, etc.): Document all known transformations applied to the data, including Extraction, Transformation, and Loading (ETL) processes, SQL queries, Excel manipulations, and any other processing undertaken.<br/>Transformations are at the heart of this process and must be captured with meticulous attention to detail. Collaborating closely with the Business Data Steward is essential to ensure that transformations accurately reflect the intended purpose of the data. This collaboration is particularly crucial for high-risk transformations - such as pivots, deduplications, filterings, aggregations, calculations, and counts - where incorrect application can lead to erroneous conclusions and reports.<br/>Data Profiling:<br/>Product Level vs. Asset Level Profiling<br/>This section explains what data profiling means in our operating model, how profiling is applied after report or product intake, and how product level profiling differs from traditional data asset profiling in both intent and execution.<br/>In this playbook, data profiling is not treated as a single, universal activity. Instead, it is a context dependent discipline applied at different points in the data lifecycle, for different reasons.<br/>Data profiling is the structured assessment of data behavior, quality, and risk relative to a defined scope and purpose.<br/>The scope and purpose determine:<br/>•	what is inspected<br/>•	how deeply it is inspected<br/>•	how results are interpreted<br/>•	how findings are used downstream<br/>Profiling in this model occurs after initial report or data product intake has been completed.<br/>At this stage:<br/>•	Business objectives are known<br/>•	Key questions, KPIs, and dimensions are agreed<br/>•	Refresh cadence and decision context are defined<br/>As a result, profiling is not exploratory (“what data do we have?”) It is confirmatory and evaluative:<br/>Can the available data safely and correctly support the agreed product or report requirements?<br/>Profiling is therefore a risk reduction and readiness gate, not a discovery exercise.<br/>Product Level (Report Level) Data Profiling<br/>Product level data profiling evaluates data in the context of how it will be used by a specific report or data product.<br/>It assesses:<br/>•	Whether the data supports the agreed KPIs and dimensions<br/>•	Whether aggregation, joins, and grain behave as expected<br/>•	Whether data quality is sufficient for the intended decisions<br/>•	Where assumptions, limitations, or risks must be communicated<br/>The unit of analysis is the product behavior, not the dataset in isolation.<br/>Product profiling answers questions such as:<br/>•	Does the data behave correctly at the report’s grain?<br/>•	Are metrics safe to aggregate in the intended views?<br/>•	Do known data quality issues materially affect conclusions?<br/>•	Are trends interpretable and stable for decision making?<br/>•	What must users not infer from this product?<br/>This makes product profiling decision centric, not data centric.<br/>At the product level, data quality checks are selective and contextual. For example:<br/>•	Completeness is assessed only for fields used by the product<br/>•	Accuracy is evaluated in terms of outcome reliability, not field by field perfection<br/>•	Duplicates are assessed based on KPI impact, not raw counts<br/>•	Timeliness is judged against decision cadence, not system SLAs<br/>The guiding question is always: Does this data issue change the meaning or reliability of the product’s outputs?<br/>Key Differences in Practice<br/>Purpose and Scope<br/>The following table contrasts two essential dimensions of data profiling: Product Profiling and Asset Profiling. Product Profiling focuses on validating the fitness of specific data for a particular product, ensuring that only the data utilized in that product aligns with its objectives. This process is decision-centric and occurs after the intake phase and before the build process. In contrast, Asset Profiling assesses the intrinsic quality of the entire dataset, adopting a data-centric perspective. This comprehensive evaluation takes place during the data ingestion or onboarding process, allowing for a thorough understanding of the dataset's quality and reliability before it is utilized in any product.<br/>Dimension	Product Profiling	Asset Profiling<br/>Primary goal	Validate fitness for a specific product	Assess intrinsic dataset quality<br/>Scope	Only data used by the product	Entire dataset<br/>Perspective	Decision centric	Data centric<br/>Timing	After intake, before build	During ingestion or onboarding</p>
+<p>Data Quality Checks (Critical Distinction)<br/>Quality Dimension	Product Profiling	Asset Profiling<br/>Completeness	Is missing data acceptable for this KPI?	What % of values are missing?<br/>Accuracy	Are outcomes reliable for decisions?	Are field values correct?<br/>Consistency	Do KPIs behave consistently across views?	Do fields align across datasets?<br/>Timeliness	Is freshness acceptable for decision cycle?	Is data updated as designed?<br/>Uniqueness	Do duplicates distort metrics?	Are rows duplicated?<br/>Product profiling reframes quality from absolute correctness to decision impact.</p>
+<p>The Lineage Discovery and Data Profiling phase is vital for achieving high levels of accuracy and reliability in data reporting. By rigorously identifying upstream sources, documenting all transformations, and conducting comprehensive data profiling, organizations can ensure that their data assets meet quality standards and effectively support business needs. This thorough approach mitigates risks associated with data inaccuracies and enhances stakeholders' confidence in the reporting outcomes based on these data assets.<br/>To facilitate the execution of this step, a checklist is available in Appendix 2 (Post Intake Data Profiling Checklist (Operational)). This template serves as a foundational tool to guide users in documenting data profiling activities. This template can be customized to fit the specific needs of each data product, enabling a more efficient approach while ensuring that all critical elements are addressed.</p>
+</div></div>
+                        <div class="convertlinks documentation" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">
