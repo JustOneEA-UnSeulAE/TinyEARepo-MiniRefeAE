@@ -4026,6 +4026,98 @@ Date modified: 2025-12-02</documentation>
     <element xsi:type="archimate:Capability" name="AC-4. Data Observability [Application Capability]" id="id-d04f65901a7c4ce68be0affce22ce53b"/>
     <element xsi:type="archimate:Capability" name="AC-6. VISUALIZATION [Application Capability]" id="id-a7c3a5ff7a554a928855447f681c06bf"/>
     <element xsi:type="archimate:Capability" name="AC-5. AUTOMATION [Application Capability]" id="id-484707013df84ff9be723377852f667d"/>
+    <element xsi:type="archimate:CourseOfAction" name="1.1 A new era of investment, productivity, and growth in Canada" id="id-5305f64d97ab484e855950ecf26244b7"/>
+    <element xsi:type="archimate:CourseOfAction" name="1.2 Making Canada the best place to invest" id="id-400f77b0944649748771bcfc6c4a6cc9"/>
+    <element xsi:type="archimate:CourseOfAction" name="1.5 Building a net-zero economy" id="id-bd2e1e85d8cf41e3bbd5a80b29896824"/>
+    <element xsi:type="archimate:CourseOfAction" name="1.3 Building a cleaner, more competitive economy" id="id-3579b763f498442ebfc1753f1324e372"/>
+    <element xsi:type="archimate:CourseOfAction" name="1.4 Unlocking the full potential of Canada's natural resources" id="id-8ca239bde5434d67b9161cc8c0a43f7f"/>
+    <element xsi:type="archimate:CourseOfAction" name="1.6 Strengthening competition" id="id-ffb200b33ba74a4999664a75fb793bd0"/>
+    <element xsi:type="archimate:CourseOfAction" name="2.1 Focusing on what we can control" id="id-79e14e95aa4e40ae8d78ef56a743fc06"/>
+    <element xsi:type="archimate:CourseOfAction" name="2.2 Building a stronger, more sovereign economy" id="id-4e1e389af3a94cbaaae53dc742c022f2"/>
+    <element xsi:type="archimate:CourseOfAction" name="2.3 Diversifying trade and deepening ties with reliable partners" id="id-a01f6e3b266c4c04a75bc57e72a02aa5"/>
+    <element xsi:type="archimate:CourseOfAction" name="2.5 Building one Canadian economy" id="id-96fd1f70b620419aad6dc043d1640869"/>
+    <element xsi:type="archimate:CourseOfAction" name="2.4 Helping Canadians and their businesses navigate change" id="id-964f2392b4fe423c9bcc9c63788e82e4"/>
+    <element xsi:type="archimate:CourseOfAction" name="3.1 Delivering a boost today" id="id-68922c3156ed448194c9699d8c6b1aac">
+      <documentation>In a more uncertain world, too many Canadians are feeling the pressure of rising costs. That is why Budget 2026 includes concrete measures that address the immediate needs of Canadians and makes investments to build a stronger Canadian economy. By reducing energy and fuel costs, ensuring that child care is more affordable and accessible, lowering food and grocery bills, and strengthening support for workers earning low wages and low-income caregivers, we are giving Canadians the boost they need today.&#xD;
+&#xD;
+Providing more help with groceries and everyday essentials&#xD;
+Building a stronger economy will deliver lasting benefits for Canadians, but those gains will take time. Right now, many families are still feeling the pressure of high grocery bills and other everyday costs.&#xD;
+&#xD;
+To provide more support now, we introduced the Canada Groceries and Essentials Benefit. This benefit provides quarterly support to more than 12 million individuals and families with low or modest incomes, and is indexed annually to keep pace with the cost of living. Introduced in January 2026 to help offset higher food costs, this benefit has continued to provide additional relief, with a one-time 50% top-up in June 2026 and a 25% increase in the benefit for five years beginning in July 2026. To provide more help with the cost of groceries and other essentials:&#xD;
+&#xD;
+Budget 2026 proposes to enhance this benefit again through the 2027 Canada Groceries and Essentials Benefit Supplement, which would provide a one-time 50% increase for the 2026-27 benefit year, delivered in early 2027. The Supplement would provide up to $339 for a single person without children and up to $679 for a couple with two children. Combined with the June 2026 top-up and the 25% increase in the benefit as of July 2026, this supplement would bring total support in 2026-27 to up to about $1,290 for a single person without children and $2,570 for a couple with two children. It would provide $4.1 billion in additional support to Canadians and is expected to lift an additional 120,000 people out of poverty in 2027.&#xD;
+Budget 2026 also expands and stabilises funding for Nutrition North Canada and associated initiatives, which help lower the cost of imported foods and support local food harvesting and distribution initiatives in remote northern communities.&#xD;
+&#xD;
+Budget 2026 proposes to provide $610.3 million over four years, starting in 2027-28, $118.1 million in 2031-32, and $117 million ongoing to ensure that Nutrition North Canada can maintain and enhance these essential supports.&#xD;
+&#xD;
+Strengthening support for workers earning low wages&#xD;
+Working should give people a real chance to build a good life and get ahead, but for many Canadians earning lower wages, everyday costs can still put that goal out of reach. The Canada Workers Benefit provides a refundable tax credit to supplement the earnings of about 3 million low- and modest-income workers each year. This helps them work and contribute to Canada's economy while giving them the boost they need to keep enough money in their pockets.&#xD;
+&#xD;
+However, the existing minimum earnings threshold of $3,000 per year means some people with very low earnings do not qualify, despite being workers. Recipients also automatically receive part of the following year's benefit in advance, based on their entitlement from the previous year. This means when their circumstances change, some may receive advance payments that exceed the support they ultimately qualify for.&#xD;
+&#xD;
+To better target the benefit to workers who need help most:&#xD;
+&#xD;
+Budget 2026 proposes to introduce the Build Canada Workers Benefit, building on and enhancing the existing Canada Workers Benefit. The new benefit would lower the minimum earnings threshold from $3,000 to $500, and from $1,150 to $200 for the disability supplement. It would also increase the maximum benefit to $1,859 for single individuals without children and $3,143 for families, up from $1,709 and $2,943 respectively under the existing benefit.&#xD;
+These enhancements would increase benefits for about 1.9 million low-income workers, including 180,000 new recipients, starting with the 2027 taxation year. Workers with the lowest earnings could receive up to $675 more, or nearly $1,000 more for those eligible for the disability supplement. Taken together, the Build Canada Workers Benefit would lift an estimated 240,000 people out of poverty and help make work pay for more Canadians.&#xD;
+&#xD;
+To better target support to workers based on their current circumstances:&#xD;
+&#xD;
+Budget 2026 also proposes to reduce advance payments by half for the 2027 taxation year, beginning in July 2027, and eliminate advance payments starting with the 2028 taxation year. Workers who are entitled to the Build Canada Workers Benefit would instead receive their full entitlement after filing their tax return for the year.&#xD;
+Making the Canada Caregiver Credit refundable&#xD;
+As Canadians, we take care of each other when help is needed. Caregivers, both paid and unpaid, provide essential support to Canadians with health conditions. More than half of Canadian women are caregivers, with about one quarter of women providing unpaid care to adults with long-term medical conditions or disabilities. These caregivers help family, friends, and people in need remain in their homes and communities.&#xD;
+&#xD;
+However, many caregivers have incomes too low to pay tax and therefore do not fully benefit from the existing Canada Caregiver Credit. Making the credit refundable would extend meaningful support to more caregivers and protect and recognise the crucial role they play in keeping our communities and families together and safe. That is why Budget 2026 proposes to:&#xD;
+&#xD;
+Make the Canada Caregiver Credit fully refundable, providing $845 million in additional support over four years, starting in 2027-28, and $245 million per year ongoing. 585,000 caregivers would receive support, including 180,000 who currently receive no benefit. Caregivers would receive up to $1,260 annually (for 2027, indexed thereafter). Making the credit refundable would lift an estimated additional 15,000 individuals out of poverty.&#xD;
+&#xD;
+Lowering costs for Canadians at the pump&#xD;
+Global conflict and ongoing supply disruptions in the Middle East are driving up fuel prices around the world. To help Canadians and businesses manage the rising costs of fuel, we temporarily suspended the federal fuel excise tax on gasoline, diesel fuel, and aviation fuels, effective April 20, 2026.&#xD;
+&#xD;
+This suspension reduced Canadians' bills at the pump by up to 10 cents per litre on regular gasoline and up to 4 cents on diesel.&#xD;
+&#xD;
+In September 2026, we announced that this temporary tax relief would be extended until the end of January 2027. Fuel excise tax rates will then be restored to 50% of their pre-suspension levels until the end of March 2027, before returning to their standard rates on April 1, 2027. This is a responsible measure that addresses a root cause of affordability challenges for Canadians now—the cost of transportation—while balancing fiscal prudence.&#xD;
+&#xD;
+Extending the tax relief into early 2027 lowers costs at the pump and across supply chains. It provides important relief to truckers and businesses in the food, agriculture, housing, construction, and delivery sectors. For Canadians, it means continuing to save more than $5 every time they fill a typical 50-litre tank of gasoline while the full relief remains in place. The extension is expected to provide an additional $2.9 billion in fuel tax relief, bringing total estimated tax relief for Canadians to $5.3 billion in 2026-27.&#xD;
+&#xD;
+$2 billion investment, retrofitting 1 million homes to save Canadians $1 billion per year&#xD;
+Heating is one of the biggest expenses for Canadians during the winter months, and too often, that money goes to the most expensive and least efficient ways to heat a home. Over seven million households in Canada still heat their homes with oil, propane, diesel, electric baseboards, or outdated furnaces, leaving many families with excessively high energy bills. We are working to give Canadians more choice over how they heat and cool their homes and more control over what they pay for energy.&#xD;
+&#xD;
+For many Canadians, heat pumps offer a better option. Heat pumps provide efficient heating in winter and cooling in summer, lowering household energy bills while improving year-round comfort. Families that switch from oil, propane, or electric resistance heating can save an average of over $1,400 a year.&#xD;
+&#xD;
+Supporting home retrofits will create opportunities for heating, ventilation, and air conditioning (HVAC) contractors, installers, energy advisors, suppliers, and other skilled trades across the country. Canada's retrofit industry, which employs approximately 174,000 workers, helps households lower their energy bills through heat pumps and other energy-saving upgrades.&#xD;
+&#xD;
+On October 8, we announced new measures to make it easier for households to switch to heat pumps while supporting the businesses that deliver those services.&#xD;
+&#xD;
+To lower Canadians' energy bills, the new National Heat Pump Rebate Program will help up to 820,000 households install eligible cold-climate heat pumps. This program would provide enhanced support for lower-income households and provide approvals within 24 hours so Canadians can quickly replace expensive and inefficient heating systems. We announced more than $2 billion over eight years, starting in 2026-27, to Environment and Climate Change Canada to support this effort.&#xD;
+To help Canadian building and business owners tackle deep retrofits in commercial, institutional, and mid- or high-rise multi-unit residential buildings, we announced the renewal of the Deep Retrofit Accelerator Initiative, providing $107.1 million over three years, starting in 2027-28, to Environment and Climate Change Canada to support its renewal.&#xD;
+Securing the future of a Canada-wide early learning and child care system&#xD;
+Affordable, high-quality child care gives children a good start in life, helps parents work or study, and allows families to save more for the future, while enabling more parents to participate in Canada's economy.&#xD;
+&#xD;
+In 2021, the federal government launched a transformative plan to build a Canada-wide early learning and child care system alongside provinces, territories, and Indigenous partners.&#xD;
+&#xD;
+As a result, average child care fees in regulated spaces have fallen by at least 50% across the country. Families are now saving thousands of dollars each year—up to $11,255 per child—and more child care spaces are on the way. Governments have also announced measures to create more than 250,000 new affordable, high-quality child care spaces across Canada. &#xD;
+&#xD;
+Over $70 billion in signed agreements with provinces and territories has been announced since 2021 to keep child care affordable, including more than $39 billion starting in 2026-27. These investments help parents enter or remain in the workforce, supporting household incomes and Canada's economic growth. In 2025, the labour force participation rate among mothers aged 25 to 54 with young children reached almost 80%—nearly a record high.&#xD;
+&#xD;
+The federal government is committed to ensuring that Canadian families and children can continue to benefit from affordable, high-quality child care for years to come. In June 2026, we announced an investment of up to $5.4 billion over two years to keep child care affordable and provide stability while federal, provincial, and territorial governments work to strengthen the system for the future.&#xD;
+&#xD;
+In September 2026, we built on this by announcing a four-year extension to the Canada–Ontario arrangement of the federal government's Canada-wide Early Learning and Child Care Agreement. Through the extension, Ontario will receive nearly $12 billion in federal funding over the next four years, from March 31, 2027, to March 31, 2031.  </documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="3.2 Providing a bridge to tomorrow" id="id-a2d7057a3c3846eeb66875ca28c739c6"/>
+    <element xsi:type="archimate:CourseOfAction" name="3.3 Supporting a healthy and secure future" id="id-e910973805e64f6fa66e1f68cd94605a"/>
+    <element xsi:type="archimate:CourseOfAction" name="3.4 Growing our skilled workforce to build Canada Strong" id="id-c5852c8a198e40dba6ce294817c69cce"/>
+    <element xsi:type="archimate:CourseOfAction" name="4.2 Connecting communities" id="id-9af818623fa64d96be63f7e48b57d25d"/>
+    <element xsi:type="archimate:CourseOfAction" name="4.3 Advancing reconciliation with Indigenous Peoples" id="id-3af03535c8a24602bef11d6edf8e1782"/>
+    <element xsi:type="archimate:CourseOfAction" name="4.4 Building a more inclusive Canada" id="id-1bde200c72d34196828bfd142dfa6a0d"/>
+    <element xsi:type="archimate:CourseOfAction" name="4.1 Bringing Canadians together by celebrating our stories and places" id="id-e444c3977e394b5c95ed489b328d6a30"/>
+    <element xsi:type="archimate:CourseOfAction" name="5.2 Keeping Canadians safe at home" id="id-aa68cc90615b4834aea3f74d86af6501"/>
+    <element xsi:type="archimate:CourseOfAction" name="5.3 Protecting Canadians from digital and financial threats" id="id-9779ad9cbb544e88a6b0a63750d81836"/>
+    <element xsi:type="archimate:CourseOfAction" name="5.4 Strengthening disaster preparedness" id="id-f4f4dcac89b64de29a8a3242a42be5da"/>
+    <element xsi:type="archimate:CourseOfAction" name="5.1 Defending Canada" id="id-a01e3a4fa51d4c438316c324ba17106e"/>
+    <element xsi:type="archimate:CourseOfAction" name="6.1 Simplifying the tax system" id="id-e9d7a14349fe45cfbb89b8c449e70d77"/>
+    <element xsi:type="archimate:CourseOfAction" name="6.4 Getting more value from public assets" id="id-fd86a3c9be274001818ecaa68690af25"/>
+    <element xsi:type="archimate:CourseOfAction" name="6.2 Making government work better for Canadians" id="id-ade1018315ff435a9f44b617ddeec1be"/>
+    <element xsi:type="archimate:CourseOfAction" name="6.3 Lowering the costs of government" id="id-8a326ff7cfa140b48cdaa2a44b2ae213"/>
   </folder>
   <folder name="Business" id="id-fb9c94c240434273aa6d6f5df1a73407" type="business">
     <element xsi:type="archimate:BusinessEvent" name="EA Requests SAS Feedback" id="id-a7ebf3b84a7545f6a5b2e8eaca445cb6"/>
@@ -18602,11 +18694,11 @@ Data portability: Ensure the contract allows you to take your data to a new prov
 Termination: The contract should include a clear process for terminating the agreement and specify that the provider must securely delete your data within a reasonable and specified timeframe.&#xD;
 Disaster recovery: Include details about the provider's disaster recovery and business continuity plans. </documentation>
     </element>
-    <element xsi:type="archimate:Grouping" name="GLOBAL GENERATIONAL SHIFTS" id="id-a1c59e258b854adba5a9f42d78885d05"/>
-    <element xsi:type="archimate:Grouping" name="CANADA CAN ACHIEVE ITS AMBITION" id="id-acb7bea5fc004007accb8f751c8465c6">
+    <element xsi:type="archimate:Grouping" name="1. POSITION OF STRENGTH" id="id-a1c59e258b854adba5a9f42d78885d05"/>
+    <element xsi:type="archimate:Grouping" name="2. THE RIGHT PLAN" id="id-acb7bea5fc004007accb8f751c8465c6">
       <documentation>Canada can achieve its ambition</documentation>
     </element>
-    <element xsi:type="archimate:Grouping" name="Grouping" id="id-83398d185ccb4bef99dc9dd744b43d56"/>
+    <element xsi:type="archimate:Grouping" name="3. CANADA'S INVESTMENT SUPERCYCLE HAS ALREADY STARTED" id="id-83398d185ccb4bef99dc9dd744b43d56"/>
     <element xsi:type="archimate:Grouping" name="Streamline SIN Issuance and Delivery (Grouping)" id="id-7e07fdc841104a8d981e3cc68143914e">
       <documentation>Drivers to streamline SIN issuance and delivery by implementing automation and digitization into the process</documentation>
     </element>
@@ -18763,6 +18855,18 @@ The Data Certification Lifecycle Overview provides a comprehensive framework for
     <element xsi:type="archimate:Grouping" name="EDRM ALIGNMENT OBJECTIVES" id="id-de7f6e6e7211492ab05c637d5baa5a89"/>
     <element xsi:type="archimate:Grouping" name="EDRM ALIGNMENT EXPECTED OUTCOMES" id="id-3865fed0cb5e4b559bb2473860f09053"/>
     <element xsi:type="archimate:Grouping" name="EDRM ALIGNMENT ASSESSMENT CRITERIA" id="id-11b7b7bbe1704a238a65bb9123f5a675"/>
+    <element xsi:type="archimate:Grouping" name="4. A STRONG AND UNITED CANADA" id="id-e25cdc1f15de486ea37c416de5011b4d"/>
+    <element xsi:type="archimate:Grouping" name="5. A SAFE AND SOVEREIGN CANADA" id="id-7d87a1c9dfa04e6c9487d131f9374c61">
+      <documentation>Canada can achieve its ambition</documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="1. POSITION OF STRENGTH" id="id-9006183edd3a41d8b7a5ccd152b8b2a5"/>
+    <element xsi:type="archimate:Grouping" name="2. A MORE COMPETITIVE AND CONNECTED CANADA" id="id-24c6b8bef7044ba1ad303ff4ddf0addd">
+      <documentation>Canada can achieve its ambition</documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="3. A MORE AFFORDABLE LIFE" id="id-7d49dd5c539944a982f4afd641e6e32d"/>
+    <element xsi:type="archimate:Grouping" name="6. A MORE EFFICIENT GOVERNMENT" id="id-8fb466351ddb44ce8865041346ece0e3">
+      <documentation>Canada can achieve its ambition</documentation>
+    </element>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
     <element xsi:type="archimate:SpecializationRelationship" id="id-1fc9998b537248f0ab8efd6853b77d65" source="id-bbea9bb53b0d449e8af710c22edf18bc" target="id-a7f8beac2a2c416c96b351c66b79510c"/>
@@ -21621,6 +21725,33 @@ building a new solution.</documentation>
     <element xsi:type="archimate:CompositionRelationship" id="id-351ca36cb0834863b52d7f2aec730d4e" source="id-11b7b7bbe1704a238a65bb9123f5a675" target="id-ae8d3731d84a49489d7cd1707c699fc3"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-d5e602b5c76b4df7a6e440239c690e0f" source="id-11b7b7bbe1704a238a65bb9123f5a675" target="id-9b8deec8aa9c4bdfac80f69db10591ee"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-e5dbbd6e574148dca008c44be82e4dd4" source="id-11b7b7bbe1704a238a65bb9123f5a675" target="id-34113fc834ec490c95906c390869ba68"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4e91ca70a2e14695b6e5c29bb702f700" source="id-9006183edd3a41d8b7a5ccd152b8b2a5" target="id-5305f64d97ab484e855950ecf26244b7"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-724cd39a9b2d4cea811603748d6f17dc" source="id-9006183edd3a41d8b7a5ccd152b8b2a5" target="id-400f77b0944649748771bcfc6c4a6cc9"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6e3b78cf40574e07bf69ea844673946c" source="id-9006183edd3a41d8b7a5ccd152b8b2a5" target="id-bd2e1e85d8cf41e3bbd5a80b29896824"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ac95e4a9d8d94ac89ae50be0308581d6" source="id-9006183edd3a41d8b7a5ccd152b8b2a5" target="id-3579b763f498442ebfc1753f1324e372"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-603067d139b2480eba776ca94e8edc19" source="id-9006183edd3a41d8b7a5ccd152b8b2a5" target="id-8ca239bde5434d67b9161cc8c0a43f7f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-85d1cb272d4e4b34a0069e2153bc2b16" source="id-9006183edd3a41d8b7a5ccd152b8b2a5" target="id-ffb200b33ba74a4999664a75fb793bd0"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-45af28447bfd44aea89ce0af0786f4d7" source="id-24c6b8bef7044ba1ad303ff4ddf0addd" target="id-96fd1f70b620419aad6dc043d1640869"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-975116771d8643fb928052ee618fb8e7" source="id-24c6b8bef7044ba1ad303ff4ddf0addd" target="id-79e14e95aa4e40ae8d78ef56a743fc06"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-11dcc27a23524ad0b47ff99cd274b85d" source="id-24c6b8bef7044ba1ad303ff4ddf0addd" target="id-4e1e389af3a94cbaaae53dc742c022f2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c72f263984fd407388d3ab7a06be6874" source="id-24c6b8bef7044ba1ad303ff4ddf0addd" target="id-a01f6e3b266c4c04a75bc57e72a02aa5"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e2a4abe061e6421a855de77f78cc4ad6" source="id-24c6b8bef7044ba1ad303ff4ddf0addd" target="id-964f2392b4fe423c9bcc9c63788e82e4"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3997de7c2e684b09b8f29a0c14038222" source="id-7d49dd5c539944a982f4afd641e6e32d" target="id-a2d7057a3c3846eeb66875ca28c739c6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-f5b107cf752e42bcb631eebe77c93fd5" source="id-7d49dd5c539944a982f4afd641e6e32d" target="id-e910973805e64f6fa66e1f68cd94605a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4fd77929cdf04979a9901bc4acc7c7ea" source="id-7d49dd5c539944a982f4afd641e6e32d" target="id-c5852c8a198e40dba6ce294817c69cce"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ed26114c060b48e38fa9282af76df4f8" source="id-7d49dd5c539944a982f4afd641e6e32d" target="id-68922c3156ed448194c9699d8c6b1aac"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-084a0770aa654dc4a1f817f785d92aa1" source="id-e25cdc1f15de486ea37c416de5011b4d" target="id-e444c3977e394b5c95ed489b328d6a30"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-eea3a05ad973440bb1161205db9f8ce8" source="id-e25cdc1f15de486ea37c416de5011b4d" target="id-9af818623fa64d96be63f7e48b57d25d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3055bce159264af39f342d7cad2a1c4d" source="id-e25cdc1f15de486ea37c416de5011b4d" target="id-1bde200c72d34196828bfd142dfa6a0d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-90d4974964d049ecb19f9cc861b761d5" source="id-e25cdc1f15de486ea37c416de5011b4d" target="id-3af03535c8a24602bef11d6edf8e1782"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ecfe60e191ca4a3489df2c5244cf7ef9" source="id-7d87a1c9dfa04e6c9487d131f9374c61" target="id-a01e3a4fa51d4c438316c324ba17106e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-13584206b1ed4e4ba2f1f84d14c2d290" source="id-7d87a1c9dfa04e6c9487d131f9374c61" target="id-f4f4dcac89b64de29a8a3242a42be5da"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6750118fdba0491fae4f887a0659b0a1" source="id-7d87a1c9dfa04e6c9487d131f9374c61" target="id-aa68cc90615b4834aea3f74d86af6501"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e346d98dbb3b4626b065c05154a78cf3" source="id-7d87a1c9dfa04e6c9487d131f9374c61" target="id-9779ad9cbb544e88a6b0a63750d81836"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-fccb0d3392b849da99bb457703bfdc89" source="id-8fb466351ddb44ce8865041346ece0e3" target="id-8a326ff7cfa140b48cdaa2a44b2ae213"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-871456e1ddfe455da6cc7fab8d35e02c" source="id-8fb466351ddb44ce8865041346ece0e3" target="id-e9d7a14349fe45cfbb89b8c449e70d77"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e3e44039930d452da7ae7948367d2cd4" source="id-8fb466351ddb44ce8865041346ece0e3" target="id-fd86a3c9be274001818ecaa68690af25"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2c3e32e85e3c4cb68ee5c1c666987a0c" source="id-8fb466351ddb44ce8865041346ece0e3" target="id-ade1018315ff435a9f44b617ddeec1be"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -29508,6 +29639,152 @@ v0.1.20260519</content>
         <documentation>https://ised-isde.canada.ca/site/ised/en/canadian-sovereign-ai-compute-strategy/ai-compute-access-fund/program-guide-ai-compute-access-fund&#xD;
 &#xD;
 </documentation>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="GC BUDGET 2026" id="id-cdf62ea2f2a04f63a27223a3b4ae8228">
+        <child xsi:type="archimate:Note" id="id-19dd0123ba1f41da994e7d563af237b0" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
+          <bounds x="4" y="2" width="450" height="62"/>
+          <content>Canada: Budget 2026 (High Level)&#xD;
+Masters Of Our Destiny</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-dabf4f10e8be4a2e959f583d3a914251" font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#ffffff">
+          <bounds x="276" y="36" width="177" height="28"/>
+          <content>Version: v0.1.20261106</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-e2d581e7b22446959e315b995f8d02de" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fillColor="#ff0000" textPosition="1">
+          <bounds x="465" y="8" width="169" height="49"/>
+          <content>DRAFT</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-b43a538edd0c4f26a6ba8869c1718552" font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#ffffff">
+          <bounds x="355" y="8" width="99" height="28"/>
+          <content>2026-11-05</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-8625c8315b834194935d61c292272851" textAlignment="1" archimateElement="id-e25cdc1f15de486ea37c416de5011b4d">
+          <bounds x="11" y="336" width="421" height="169"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f949f852d6944da183ed5831999e2904" source="id-8625c8315b834194935d61c292272851" target="id-09adb191d7e34717ac8bbdbe06f90ae0" archimateRelationship="id-084a0770aa654dc4a1f817f785d92aa1"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-14e1c70b6d7f4f3ebcae0ba4e939f29f" source="id-8625c8315b834194935d61c292272851" target="id-2c4516d540a2439384096163edc870f4" archimateRelationship="id-eea3a05ad973440bb1161205db9f8ce8"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c0f6d65ca8ee4ed7b18514256a0e446a" source="id-8625c8315b834194935d61c292272851" target="id-ab16d104322d4b30b91be7485b634c96" archimateRelationship="id-3055bce159264af39f342d7cad2a1c4d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-de221e299c3040c28656abebbb082e21" source="id-8625c8315b834194935d61c292272851" target="id-be72daeff7da43a1886fd0bd4f7a95ce" archimateRelationship="id-90d4974964d049ecb19f9cc861b761d5"/>
+          <child xsi:type="archimate:DiagramObject" id="id-09adb191d7e34717ac8bbdbe06f90ae0" targetConnections="id-f949f852d6944da183ed5831999e2904" archimateElement="id-e444c3977e394b5c95ed489b328d6a30">
+            <bounds x="12" y="24" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-2c4516d540a2439384096163edc870f4" targetConnections="id-14e1c70b6d7f4f3ebcae0ba4e939f29f" archimateElement="id-9af818623fa64d96be63f7e48b57d25d">
+            <bounds x="214" y="24" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ab16d104322d4b30b91be7485b634c96" targetConnections="id-c0f6d65ca8ee4ed7b18514256a0e446a" archimateElement="id-1bde200c72d34196828bfd142dfa6a0d">
+            <bounds x="214" y="90" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-be72daeff7da43a1886fd0bd4f7a95ce" targetConnections="id-de221e299c3040c28656abebbb082e21" archimateElement="id-3af03535c8a24602bef11d6edf8e1782">
+            <bounds x="12" y="90" width="192" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-127301cd22c941c8a43808b7235fcf81" textAlignment="1" archimateElement="id-7d87a1c9dfa04e6c9487d131f9374c61">
+          <bounds x="444" y="336" width="421" height="169"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8de74d4b16bd4928ad97de34d324162a" source="id-127301cd22c941c8a43808b7235fcf81" target="id-487ff5f972e34a7698c4f34a39963822" archimateRelationship="id-ecfe60e191ca4a3489df2c5244cf7ef9"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2820175870554b25bc62e7527a56c5da" source="id-127301cd22c941c8a43808b7235fcf81" target="id-927c57eb42e94284bda4cec06f64eb06" archimateRelationship="id-13584206b1ed4e4ba2f1f84d14c2d290"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-916cf9e7eb0745748d3dc288755f8dfa" source="id-127301cd22c941c8a43808b7235fcf81" target="id-542cc998d6244492837502dd0937ea7d" archimateRelationship="id-6750118fdba0491fae4f887a0659b0a1"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f21a9d1a123f49cd90b8a860d377781a" source="id-127301cd22c941c8a43808b7235fcf81" target="id-5b972ac085dc4fb5b58be2bcf8d46734" archimateRelationship="id-e346d98dbb3b4626b065c05154a78cf3"/>
+          <child xsi:type="archimate:DiagramObject" id="id-487ff5f972e34a7698c4f34a39963822" targetConnections="id-8de74d4b16bd4928ad97de34d324162a" archimateElement="id-a01e3a4fa51d4c438316c324ba17106e">
+            <bounds x="12" y="24" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-927c57eb42e94284bda4cec06f64eb06" targetConnections="id-2820175870554b25bc62e7527a56c5da" archimateElement="id-f4f4dcac89b64de29a8a3242a42be5da">
+            <bounds x="214" y="90" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-542cc998d6244492837502dd0937ea7d" targetConnections="id-916cf9e7eb0745748d3dc288755f8dfa" archimateElement="id-aa68cc90615b4834aea3f74d86af6501">
+            <bounds x="214" y="24" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5b972ac085dc4fb5b58be2bcf8d46734" targetConnections="id-f21a9d1a123f49cd90b8a860d377781a" archimateElement="id-9779ad9cbb544e88a6b0a63750d81836">
+            <bounds x="12" y="90" width="192" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-96bbe8046be745d08c5fb3992d8c571e" textAlignment="1" archimateElement="id-9006183edd3a41d8b7a5ccd152b8b2a5">
+          <bounds x="11" y="80" width="421" height="245"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c600f27d4b77485785e5a3a0c523440d" source="id-96bbe8046be745d08c5fb3992d8c571e" target="id-1248792586f64c3186a7d28c1f9512a7" archimateRelationship="id-4e91ca70a2e14695b6e5c29bb702f700"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7c1698647ea3474ea013142e2535c2d5" source="id-96bbe8046be745d08c5fb3992d8c571e" target="id-3e629b4d77874246a2a8c2aa70f34359" archimateRelationship="id-724cd39a9b2d4cea811603748d6f17dc"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-dbbc4bf3c993427ebf36185dcac1f473" source="id-96bbe8046be745d08c5fb3992d8c571e" target="id-6359810170fa414cba5ebe0befc5b094" archimateRelationship="id-6e3b78cf40574e07bf69ea844673946c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3f68416f98d84f5dbc7418509c1765bb" source="id-96bbe8046be745d08c5fb3992d8c571e" target="id-7552c1f3955b42709b037378f682f5a5" archimateRelationship="id-ac95e4a9d8d94ac89ae50be0308581d6"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-966371daedad4fa48212ef24e834c598" source="id-96bbe8046be745d08c5fb3992d8c571e" target="id-65e726472df2433f97cf02bf3c75c7db" archimateRelationship="id-603067d139b2480eba776ca94e8edc19"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-308374f32ceb4a788f24e87a0a6da32f" source="id-96bbe8046be745d08c5fb3992d8c571e" target="id-ec71155414044296b9832a75888f8de5" archimateRelationship="id-85d1cb272d4e4b34a0069e2153bc2b16"/>
+          <child xsi:type="archimate:DiagramObject" id="id-1248792586f64c3186a7d28c1f9512a7" targetConnections="id-c600f27d4b77485785e5a3a0c523440d" archimateElement="id-5305f64d97ab484e855950ecf26244b7">
+            <bounds x="13" y="29" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3e629b4d77874246a2a8c2aa70f34359" targetConnections="id-7c1698647ea3474ea013142e2535c2d5" archimateElement="id-400f77b0944649748771bcfc6c4a6cc9">
+            <bounds x="216" y="29" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-6359810170fa414cba5ebe0befc5b094" targetConnections="id-dbbc4bf3c993427ebf36185dcac1f473" archimateElement="id-bd2e1e85d8cf41e3bbd5a80b29896824">
+            <bounds x="13" y="168" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7552c1f3955b42709b037378f682f5a5" targetConnections="id-3f68416f98d84f5dbc7418509c1765bb" archimateElement="id-3579b763f498442ebfc1753f1324e372">
+            <bounds x="13" y="96" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-65e726472df2433f97cf02bf3c75c7db" targetConnections="id-966371daedad4fa48212ef24e834c598" archimateElement="id-8ca239bde5434d67b9161cc8c0a43f7f">
+            <bounds x="216" y="96" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ec71155414044296b9832a75888f8de5" targetConnections="id-308374f32ceb4a788f24e87a0a6da32f" archimateElement="id-ffb200b33ba74a4999664a75fb793bd0">
+            <bounds x="216" y="168" width="192" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3154a5e9b5e841009f9e347cf22e5d60" textAlignment="1" archimateElement="id-24c6b8bef7044ba1ad303ff4ddf0addd">
+          <bounds x="444" y="80" width="421" height="245"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-802ea27b1ff84cd1ba292900c3e7967e" source="id-3154a5e9b5e841009f9e347cf22e5d60" target="id-e94944922c2b4a7a8e9827778f91e31d" archimateRelationship="id-45af28447bfd44aea89ce0af0786f4d7"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2071ff4171114a4a8835b6022fb88442" source="id-3154a5e9b5e841009f9e347cf22e5d60" target="id-6ae15cff5f904cedbe9e6247e5f734a3" archimateRelationship="id-975116771d8643fb928052ee618fb8e7"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4eed60b4d32742af87ab48f7b5cce0bb" source="id-3154a5e9b5e841009f9e347cf22e5d60" target="id-5d9bbe22f8704d5d9e3d4c3faf7af65b" archimateRelationship="id-11dcc27a23524ad0b47ff99cd274b85d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3e7dc8be615149f199de1f0938a6b76b" source="id-3154a5e9b5e841009f9e347cf22e5d60" target="id-96b8a107ba2a4ff1b0e8f75ac1ee2ce6" archimateRelationship="id-c72f263984fd407388d3ab7a06be6874"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b2485f67ebec49e480d64c7ad2f48a11" source="id-3154a5e9b5e841009f9e347cf22e5d60" target="id-4d6604e18f574a6f9c4e810734fd7a04" archimateRelationship="id-e2a4abe061e6421a855de77f78cc4ad6"/>
+          <child xsi:type="archimate:DiagramObject" id="id-e94944922c2b4a7a8e9827778f91e31d" targetConnections="id-802ea27b1ff84cd1ba292900c3e7967e" archimateElement="id-96fd1f70b620419aad6dc043d1640869">
+            <bounds x="120" y="180" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-6ae15cff5f904cedbe9e6247e5f734a3" targetConnections="id-2071ff4171114a4a8835b6022fb88442" archimateElement="id-79e14e95aa4e40ae8d78ef56a743fc06">
+            <bounds x="12" y="36" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5d9bbe22f8704d5d9e3d4c3faf7af65b" targetConnections="id-4eed60b4d32742af87ab48f7b5cce0bb" archimateElement="id-4e1e389af3a94cbaaae53dc742c022f2">
+            <bounds x="216" y="36" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-96b8a107ba2a4ff1b0e8f75ac1ee2ce6" targetConnections="id-3e7dc8be615149f199de1f0938a6b76b" archimateElement="id-a01f6e3b266c4c04a75bc57e72a02aa5">
+            <bounds x="12" y="108" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-4d6604e18f574a6f9c4e810734fd7a04" targetConnections="id-b2485f67ebec49e480d64c7ad2f48a11" archimateElement="id-964f2392b4fe423c9bcc9c63788e82e4">
+            <bounds x="216" y="108" width="192" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1b449a8830e74e439dacc9542165f85f" textAlignment="1" archimateElement="id-7d49dd5c539944a982f4afd641e6e32d">
+          <bounds x="876" y="80" width="421" height="173"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-989908403f1e46a392c1655625fa48b1" source="id-1b449a8830e74e439dacc9542165f85f" target="id-689fe9956dbc439ab80313df654a17f6" archimateRelationship="id-3997de7c2e684b09b8f29a0c14038222"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-323d402e5d364322b55d0ee62f74135c" source="id-1b449a8830e74e439dacc9542165f85f" target="id-b45c01216d094fab99377d5855d82297" archimateRelationship="id-f5b107cf752e42bcb631eebe77c93fd5"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8e15b684d30a4cb98054a2a25b94e838" source="id-1b449a8830e74e439dacc9542165f85f" target="id-67275afe357e41faaa1dee1964d48968" archimateRelationship="id-4fd77929cdf04979a9901bc4acc7c7ea"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-82ff13a3d149412c9c822036a7f3581c" source="id-1b449a8830e74e439dacc9542165f85f" target="id-3c6554fd30024da0af766f43c8cf9096" archimateRelationship="id-ed26114c060b48e38fa9282af76df4f8"/>
+          <child xsi:type="archimate:DiagramObject" id="id-689fe9956dbc439ab80313df654a17f6" targetConnections="id-989908403f1e46a392c1655625fa48b1" archimateElement="id-a2d7057a3c3846eeb66875ca28c739c6">
+            <bounds x="216" y="30" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b45c01216d094fab99377d5855d82297" targetConnections="id-323d402e5d364322b55d0ee62f74135c" archimateElement="id-e910973805e64f6fa66e1f68cd94605a">
+            <bounds x="14" y="96" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-67275afe357e41faaa1dee1964d48968" targetConnections="id-8e15b684d30a4cb98054a2a25b94e838" archimateElement="id-c5852c8a198e40dba6ce294817c69cce">
+            <bounds x="216" y="96" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3c6554fd30024da0af766f43c8cf9096" targetConnections="id-82ff13a3d149412c9c822036a7f3581c" archimateElement="id-68922c3156ed448194c9699d8c6b1aac">
+            <bounds x="14" y="30" width="192" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-37dbbf80676146469b9d062ccbcfde8e" textAlignment="1" archimateElement="id-8fb466351ddb44ce8865041346ece0e3">
+          <bounds x="876" y="336" width="421" height="169"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c76984f5ae144de58525ff06cd3203b7" source="id-37dbbf80676146469b9d062ccbcfde8e" target="id-d2b13e4089984000a5eb461ff846185d" archimateRelationship="id-2c3e32e85e3c4cb68ee5c1c666987a0c"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-871349d5939f4c708ac4ac5f025ea492" source="id-37dbbf80676146469b9d062ccbcfde8e" target="id-0c556036344c489ead6278fdcbb257ee" archimateRelationship="id-fccb0d3392b849da99bb457703bfdc89"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ebe675267047444eab711e3eb611bf09" source="id-37dbbf80676146469b9d062ccbcfde8e" target="id-e705d1ecec5c48e1b6629125944b0981" archimateRelationship="id-e3e44039930d452da7ae7948367d2cd4"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cb933ff0b4794486b48b2e204fb8e887" source="id-37dbbf80676146469b9d062ccbcfde8e" target="id-5d10a4df85474063b5f99821e9e07ba6" archimateRelationship="id-871456e1ddfe455da6cc7fab8d35e02c"/>
+          <child xsi:type="archimate:DiagramObject" id="id-5d10a4df85474063b5f99821e9e07ba6" targetConnections="id-cb933ff0b4794486b48b2e204fb8e887" archimateElement="id-e9d7a14349fe45cfbb89b8c449e70d77">
+            <bounds x="12" y="24" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e705d1ecec5c48e1b6629125944b0981" targetConnections="id-ebe675267047444eab711e3eb611bf09" archimateElement="id-fd86a3c9be274001818ecaa68690af25">
+            <bounds x="214" y="90" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d2b13e4089984000a5eb461ff846185d" targetConnections="id-c76984f5ae144de58525ff06cd3203b7" archimateElement="id-ade1018315ff435a9f44b617ddeec1be">
+            <bounds x="214" y="24" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0c556036344c489ead6278fdcbb257ee" targetConnections="id-871349d5939f4c708ac4ac5f025ea492" archimateElement="id-8a326ff7cfa140b48cdaa2a44b2ae213">
+            <bounds x="12" y="90" width="192" height="55"/>
+          </child>
+        </child>
+        <documentation>https://budget.canada.ca/2026/report-rapport/toc-tdm-en.html</documentation>
       </element>
     </folder>
     <folder name="CDOB-EDA How We Work" id="id-6bc3d130505346c0ab5ebfe1ade10b0e">
