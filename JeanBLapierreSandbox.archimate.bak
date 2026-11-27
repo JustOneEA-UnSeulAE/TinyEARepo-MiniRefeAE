@@ -7441,6 +7441,455 @@ Contact information of the business representative&#xD;
     <element xsi:type="archimate:BusinessObject" name="SOAR Playbooks (Logic Apps)[Business Object]" id="id-918f806faf4643f2b4e1d717ca94c784"/>
     <element xsi:type="archimate:BusinessProcess" name="01-User Activity [Business Process]" id="id-43c297bffe2d4ee09c63a2584e7dfd34"/>
     <element xsi:type="archimate:BusinessRole" name="EDA-CoP Co-Chair" id="id-6002c82f1b694179af7e936a3c6a6850"/>
+    <element xsi:type="archimate:BusinessRole" name="Employment and Social Development Canada (ESDC) [Business Role]" id="id-4d5ec21e11004ddc93c0a258a0f36fe5">
+      <documentation>Employment and Social Development Canada (ESDC)&#xD;
+Probably the single largest stakeholder.&#xD;
+Uses disability-related data in:&#xD;
+•	Canada Disability Benefit administration&#xD;
+•	Opportunities Fund for Persons with Disabilities&#xD;
+•	Labour market participation programs&#xD;
+•	Workplace accessibility initiatives&#xD;
+•	Disability Inclusion Action Plan reporting&#xD;
+•	Social development policy analysis&#xD;
+Potential usage:&#xD;
+•	Eligibility adjudication&#xD;
+•	Client segmentation&#xD;
+•	Outcome measurement&#xD;
+•	Program reporting&#xD;
+•	Funding allocations&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Service Canada [Business Role]" id="id-5b80e81b4e794fc896333edf5fb883c2">
+      <documentation>Service Canada&#xD;
+Uses disability classifications when administering:&#xD;
+•	Canada Pension Plan Disability (CPP-D)&#xD;
+•	Disability-related service channels&#xD;
+•	Benefits intake and case management&#xD;
+Potential usage:&#xD;
+•	Client profile management&#xD;
+•	Service accommodations&#xD;
+•	Program navigation&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name=" [Business Role]" id="id-f744d805bb674ec3a9839b076c0ea394">
+      <documentation>Statistics Canada&#xD;
+One of the most important stakeholders.&#xD;
+Programs include:&#xD;
+•	Canadian Survey on Disability&#xD;
+•	Labour force analytics&#xD;
+•	Socioeconomic outcome research&#xD;
+Potential usage:&#xD;
+•	Cross-program comparability&#xD;
+•	Data integration&#xD;
+•	National disability indicators&#xD;
+A government-wide disability type reference standard would likely require alignment with Statistics Canada's disability concepts.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Treasury Board Secretariat / OCHRO [Business Role]" id="id-50ef3a9984a047c1b781f4fc6895b5f9">
+      <documentation>Treasury Board of Canada Secretariat (TBS)&#xD;
+Uses disability classifications for:&#xD;
+•	Government-wide workforce reporting&#xD;
+•	Accessibility Strategy implementation&#xD;
+•	Employment Equity Act reporting&#xD;
+Potential usage:&#xD;
+•	HR analytics&#xD;
+•	Diversity reporting&#xD;
+•	Accessibility performance measurement&#xD;
+&#xD;
+&#xD;
+Office of the Chief Human Resources Officer (OCHRO)&#xD;
+Uses disability classifications within:&#xD;
+•	Self-identification systems&#xD;
+•	Employment equity reporting&#xD;
+•	Accommodation programs&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Veterans Affairs Canada [Business Role]" id="id-38a3e827157148d18ce6e61d152d4734">
+      <documentation>Veterans Affairs Canada (VAC)&#xD;
+Extensive use of disability data:&#xD;
+•	Disability benefits&#xD;
+•	Rehabilitation services&#xD;
+•	Medical adjudication&#xD;
+•	Case management&#xD;
+Potential usage:&#xD;
+•	Disability assessment categories&#xD;
+•	Rehabilitation planning&#xD;
+•	Benefits adjudication&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Public Services and Procurement Canada (PSPC) [Business Role]" id="id-25ca06c3be1f4e7ebc0678b519b2685c">
+      <documentation>Public Services and Procurement Canada (PSPC)&#xD;
+Particularly through:&#xD;
+•	Accessibility initiatives&#xD;
+•	Accessible procurement&#xD;
+•	Government workplace accommodation programs&#xD;
+Potential usage:&#xD;
+•	Accommodation reporting&#xD;
+•	Accessibility metrics&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Accessibility Standards Canada [Business Role]" id="id-dcd4761b3f174d8cb51b329504468053">
+      <documentation>Accessibility Standards Canada&#xD;
+A major stakeholder because disability classifications affect:&#xD;
+•	Accessibility standards development&#xD;
+•	Measurement frameworks&#xD;
+•	Reporting consistency&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Provincial disability benefit programs [Business Role]" id="id-6ec6efde4b994a989c281b2c4bfc1a99">
+      <documentation>Provincial and Territorial Governments&#xD;
+Every province and territory would be affected.&#xD;
+Examples:&#xD;
+•	Ontario Ministry for Seniors and Accessibility&#xD;
+•	Ministry of Social Development and Poverty Reduction (BC)&#xD;
+•	Retraite Québec&#xD;
+•	Alberta Seniors, Community and Social Services&#xD;
+Potential impacts:&#xD;
+•	Disability income supports&#xD;
+•	Accessibility programs&#xD;
+•	Social assistance systems&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Major disability insurers (Sun Life, Canada Life, Manulife, iA) [Business Role]" id="id-c4d498ef226e401281bd3bea6ed2e9f9"/>
+    <element xsi:type="archimate:BusinessRole" name="National disability advocacy organizations (CCD, CNIB, Inclusion Canada, CMHA) [Business Role]" id="id-fc9d26e2ca8f48d79ec5ce85e8722a85"/>
+    <element xsi:type="archimate:BusinessRole" name="1. Business Steward (Policy and Governance Lead) [Business Role]" id="id-82fb709fbc30407ebb24414493fc8583">
+      <documentation>Skill Area	Purpose&#xD;
+Disability Policy	Understand federal disability programs and legislation&#xD;
+Public Policy Analysis	Assess impacts of code changes&#xD;
+Program Operations	Understand how data affects benefits and services&#xD;
+Reference Data Governance	Manage authoritative code sets&#xD;
+Business Architecture	Understand enterprise-wide business capabilities&#xD;
+Stakeholder Engagement	Coordinate across departments&#xD;
+Knowledge Areas&#xD;
+•	Canada Disability Benefit&#xD;
+•	CPP Disability&#xD;
+•	Accessible Canada Act&#xD;
+•	Employment Equity Act&#xD;
+•	United Nations Convention on the Rights of Persons with Disabilities (UNCRPD)&#xD;
+•	Government of Canada accessibility initiatives&#xD;
+Ideal Backgrounds&#xD;
+•	Senior Policy Analyst&#xD;
+•	Director-level Program Expert&#xD;
+•	Enterprise Data Steward&#xD;
+•	Accessibility Program Lead&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="2. Enterprise Data Steward [Business Role]" id="id-188ce820bde545d3bba61536574a8213">
+      <documentation>&#xD;
+This role ensures the disability type standard remains usable and interoperable across government.&#xD;
+Required Skillsets&#xD;
+Data Governance&#xD;
+•	DAMA-DMBOK principles&#xD;
+•	Data stewardship&#xD;
+•	Metadata management&#xD;
+•	Reference data management&#xD;
+•	Master data management&#xD;
+Data Quality&#xD;
+•	Data quality frameworks&#xD;
+•	Data lineage&#xD;
+•	Data harmonization&#xD;
+•	Cross-system integration&#xD;
+Metadata Standards&#xD;
+•	ISO 11179 metadata registry concepts&#xD;
+•	Government of Canada Enterprise Data Reference Standards&#xD;
+•	Controlled vocabulary management&#xD;
+•	Semantic interoperability&#xD;
+Desired Certifications&#xD;
+•	Certified Data Management Professional (CDMP)&#xD;
+•	DGSP (Data Governance and Stewardship Professional)&#xD;
+•	DAMA certifications&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="3. Disability Domain Subject Matter Expert [Business Role]" id="id-9f9dcfd583a54b1fbe3a1964054799e6">
+      <documentation>3. Disability Domain Subject Matter Expert&#xD;
+This is arguably the most critical role.&#xD;
+Without disability expertise, reference data becomes medically biased or operationally unusable.&#xD;
+Required Skillsets&#xD;
+Disability Models&#xD;
+Understanding:&#xD;
+•	Medical Model&#xD;
+•	Functional Model&#xD;
+•	Social Model&#xD;
+•	Human Rights Model of Disability&#xD;
+Disability Categories&#xD;
+Knowledge of:&#xD;
+•	Physical disabilities&#xD;
+•	Cognitive disabilities&#xD;
+•	Intellectual disabilities&#xD;
+•	Learning disabilities&#xD;
+•	Mental health disabilities&#xD;
+•	Sensory disabilities&#xD;
+•	Neurodevelopmental disabilities&#xD;
+•	Episodic disabilities&#xD;
+Accessibility Standards&#xD;
+Knowledge of:&#xD;
+•	WCAG&#xD;
+•	EN 301 549&#xD;
+•	Accessible Canada Act standards&#xD;
+•	Accessibility Standards Canada work products&#xD;
+Desired Experience&#xD;
+•	Disability advocacy&#xD;
+•	Accessibility policy&#xD;
+•	Rehabilitation services&#xD;
+•	Human rights or accessibility regulation&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="4. Statistical Classification Specialist [Business Role]" id="id-e43101d349564f79a78614c386df2f37">
+      <documentation>4. Statistical Classification Specialist&#xD;
+Many government classifications fail because they are operationally driven but statistically incompatible.&#xD;
+Required Skillsets&#xD;
+Classification Design&#xD;
+•	Taxonomy design&#xD;
+•	Ontology development&#xD;
+•	Hierarchical classification structures&#xD;
+•	Crosswalk creation&#xD;
+Statistical Standards&#xD;
+•	Statistics Canada standards&#xD;
+•	National classifications&#xD;
+•	International standards alignment&#xD;
+Examples&#xD;
+Ability to map disability types against:&#xD;
+•	Canadian Survey on Disability concepts&#xD;
+•	WHO International Classification of Functioning (ICF)&#xD;
+•	Employment Equity reporting categories&#xD;
+•	Provincial disability classifications&#xD;
+Typical Background&#xD;
+•	Statistics Canada analyst&#xD;
+•	Classification specialist&#xD;
+•	Data standards architect&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="5. Accessibility and Inclusion Specialist [Business Role]" id="id-d06b81715ee24a8588e7fa828de57377">
+      <documentation>5. Accessibility and Inclusion Specialist&#xD;
+The steward should ensure disability codes do not merely classify impairments but support inclusion outcomes.&#xD;
+Required Skillsets&#xD;
+•	Accessibility assessments&#xD;
+•	Barrier identification&#xD;
+•	Equity analysis&#xD;
+•	Inclusive design&#xD;
+•	User-centred service design&#xD;
+Key Activities&#xD;
+Review whether code structures:&#xD;
+•	Reflect lived experience&#xD;
+•	Avoid stigmatizing terminology&#xD;
+•	Support accessibility reporting&#xD;
+•	Enable accommodation planning&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="6. Privacy and Ethics Advisor [Business Role]" id="id-439bccfc9f8e4793a200d386a56b39d7">
+      <documentation>6. Privacy and Ethics Advisor&#xD;
+Disability information is highly sensitive personal data.&#xD;
+Required Skillsets&#xD;
+Privacy&#xD;
+•	Privacy Impact Assessments (PIA)&#xD;
+•	Privacy Act&#xD;
+•	Personal information management&#xD;
+Ethics&#xD;
+•	Data ethics&#xD;
+•	Responsible use of disability data&#xD;
+•	Bias assessment&#xD;
+•	Equity impact assessments&#xD;
+Important Questions&#xD;
+The advisor should routinely challenge:&#xD;
+•	Is disability type necessary to collect?&#xD;
+•	Is the level of detail appropriate?&#xD;
+•	Could the data be misused?&#xD;
+•	Does categorization create unintended harms?&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="7. Enterprise Architect / Information Architect [Business Role]" id="id-7235a8d5333e4e85bb78581852d454bd">
+      <documentation>7. Enterprise Architect / Information Architect&#xD;
+This role ensures the standard can be implemented consistently.&#xD;
+Required Skillsets&#xD;
+Enterprise Architecture&#xD;
+•	Government of Canada Enterprise Architecture&#xD;
+•	Business architecture&#xD;
+•	Information architecture&#xD;
+Data Architecture&#xD;
+•	Canonical models&#xD;
+•	Data interoperability&#xD;
+•	Data exchange standards&#xD;
+•	API enablement&#xD;
+Standards Expertise&#xD;
+•	GC Data Reference Standards&#xD;
+•	GC Digital Standards&#xD;
+•	Open Government requirements&#xD;
+Typical Background&#xD;
+•	Enterprise Architect&#xD;
+•	Data Architect&#xD;
+•	Information Architect&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="8. Service Delivery and Operations Expert [Business Role]" id="id-9c5d259066544c77ab74726726de1e6a">
+      <documentation>8. Service Delivery and Operations Expert&#xD;
+Many disability classifications are theoretically sound but impossible to apply consistently at intake.&#xD;
+Required Skillsets&#xD;
+•	Service design&#xD;
+•	Benefits administration&#xD;
+•	Case management&#xD;
+•	Business process analysis&#xD;
+•	Human-centred design&#xD;
+Experience Should Include&#xD;
+•	Front-line service delivery&#xD;
+•	Adjudication processes&#xD;
+•	Accessibility accommodations&#xD;
+•	Client-facing digital services&#xD;
+Likely sources:&#xD;
+•	Service Canada&#xD;
+•	Veterans Affairs Canada&#xD;
+•	Provincial disability programs&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="9. Indigenous and Equity Expertise [Business Role]" id="id-3663d87748114d61a6d9ad875b28ff1b">
+      <documentation>9. Indigenous and Equity Expertise&#xD;
+A Government-wide disability standard should not be developed without considering equity implications.&#xD;
+Required Skillsets&#xD;
+GBA Plus&#xD;
+•	Gender-Based Analysis Plus&#xD;
+•	Equity analysis&#xD;
+Indigenous Engagement&#xD;
+•	First Nations&#xD;
+•	Inuit&#xD;
+•	Métis distinctions-based considerations&#xD;
+Key Concern&#xD;
+Concepts and reporting approaches that work in one community may be inappropriate in another.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="10. Stakeholder Engagement and Partnership Management [Business Role]" id="id-12c18d9b40c34638bc179613e90e018c">
+      <documentation>10. Stakeholder Engagement and Partnership Management&#xD;
+A steward must continuously engage with organizations beyond ESDC.&#xD;
+Required Skillsets&#xD;
+•	Intergovernmental relations&#xD;
+•	Consensus building&#xD;
+•	Standards governance&#xD;
+•	Consultation management&#xD;
+Stakeholders&#xD;
+Federal:&#xD;
+•	ESDC&#xD;
+•	Service Canada&#xD;
+•	Statistics Canada&#xD;
+•	Treasury Board Secretariat&#xD;
+•	Veterans Affairs Canada&#xD;
+•	Indigenous Services Canada&#xD;
+•	Health Canada&#xD;
+External:&#xD;
+•	CIHI&#xD;
+•	Provincial governments&#xD;
+•	Workers' compensation boards&#xD;
+•	Insurance industry&#xD;
+•	Disability advocacy organizations&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Public Services and Procurement Canada (PSPC) [Business Role]" id="id-93bed602578a4a92ad3d9d2f58b776bd">
+      <documentation>Public Services and Procurement Canada (PSPC)&#xD;
+Particularly through:&#xD;
+•	Accessibility initiatives&#xD;
+•	Accessible procurement&#xD;
+•	Government workplace accommodation programs&#xD;
+Potential usage:&#xD;
+•	Accommodation reporting&#xD;
+•	Accessibility metrics&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Canadian Institute for Health Information (CIHI) [Business Role]" id="id-db01dabfc1fc4b5c9fe9ea90969d87b2">
+      <documentation>Canadian Institute for Health Information (CIHI)&#xD;
+Although not a federal department, CIHI is a major pan-Canadian stakeholder.&#xD;
+Uses disability-related concepts in:&#xD;
+•	Health system reporting&#xD;
+•	Functional status reporting&#xD;
+•	Rehabilitation datasets&#xD;
+Potential usage:&#xD;
+•	Interoperability&#xD;
+•	National indicators&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Canadian Institutes of Health Research (CIHR) [Business Role]" id="id-b3226b0224094e519d84bfc0a6e2c6b0">
+      <documentation>Canadian Institutes of Health Research (CIHR)&#xD;
+Uses disability classifications for:&#xD;
+•	Research funding&#xD;
+•	Population health studies&#xD;
+•	Health outcomes research&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Public Health Agency of Canada (PHAC) [Business Role]" id="id-e0c105f0c6904277b5483aa70bd6c31c">
+      <documentation>Public Health Agency of Canada (PHAC)&#xD;
+Potential usage:&#xD;
+•	Population health surveillance&#xD;
+•	Health inequalities research&#xD;
+•	Public health reporting&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Health Canada [Business Role]" id="id-7a163b0c9e9f4b56aba5ff70e000e058">
+      <documentation>Health Canada&#xD;
+Uses disability-related information for:&#xD;
+•	Policy development&#xD;
+•	Health equity analysis&#xD;
+•	Indigenous health initiatives&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Office of the Accessibility Commissioner [Business Role]" id="id-d95945573c154b7ea5c795ce4048caaa">
+      <documentation>Office of the Accessibility Commissioner&#xD;
+Potential usage:&#xD;
+•	Compliance oversight&#xD;
+•	Accessibility trend analysis&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Public Service Pension and Benefits Organizations [Business Role]" id="id-3b8d4923872c4cddabf67bdaaefdc219">
+      <documentation>Public Service Pension and Benefits Organizations&#xD;
+Potential usage:&#xD;
+•	Long-term disability programs&#xD;
+•	Accommodation processes&#xD;
+•	Return-to-work programs&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Canadian Human Rights Commission (CHRC) [Business Role]" id="id-dff2fbaeddd3440fb959ae5f65d96b03">
+      <documentation>Canadian Human Rights Commission (CHRC)&#xD;
+Potential usage:&#xD;
+•	Accessibility monitoring&#xD;
+•	Systemic discrimination analysis&#xD;
+•	Rights-based reporting&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Public Service Commission of Canada [Business Role]" id="id-499a2db51d104ce4a0c160b7e0f2f48e">
+      <documentation>Public Service Commission of Canada&#xD;
+Uses disability classifications in:&#xD;
+•	Employment equity recruitment&#xD;
+•	Workforce representation statistics</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Postsecondary Institutions [Business Role]" id="id-238bed6f29b448c8acb0e8285b5762eb">
+      <documentation>Postsecondary institutions&#xD;
+Large universities collect disability information for accommodations.&#xD;
+Examples:&#xD;
+•	University of Toronto&#xD;
+•	University of British Columbia&#xD;
+•	McGill University&#xD;
+•	Carleton University&#xD;
+•	University of Ottawa&#xD;
+Potential impacts:&#xD;
+•	Accessibility services&#xD;
+•	Student accommodation systems&#xD;
+•	Reporting and research&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessRole" name="Disability advocacy organizations [Business Role]" id="id-92c1a2d9c495447eb1634b720d207008">
+      <documentation>Disability advocacy organizations&#xD;
+These groups would likely expect consultation on any standard.&#xD;
+Major examples:&#xD;
+•	Council of Canadians with Disabilities (CCD)&#xD;
+•	Canadian National Institute for the Blind (CNIB)&#xD;
+•	March of Dimes Canada&#xD;
+•	Inclusion Canada&#xD;
+•	Canadian Mental Health Association (CMHA)&#xD;
+•	Rick Hansen Foundation&#xD;
+•	Spinal Cord Injury Canada&#xD;
+•	Autism Alliance of Canada&#xD;
+Potential concerns:&#xD;
+•	Appropriate categorization&#xD;
+•	Person-centred language&#xD;
+•	Distinction between medical and social models of disability&#xD;
+•	Reporting implications&#xD;
+</documentation>
+    </element>
   </folder>
   <folder name="Application" id="id-4c073bc2342b490eae44200c8635c571" type="application">
     <element xsi:type="archimate:ApplicationService" name="GCcollab File Sharing (Application Service)" id="id-04a7463bf90b4892a9691959fc467461">
@@ -7873,6 +8322,7 @@ Managed by Office of CDO</documentation>
       <documentation>https://014gc.sharepoint.com/sites/CDO?FollowSite=1&amp;SiteName=Chief%20Data%20Office%20-%20Bureau%20de%20la%20dirigeante%20principale%20des%20donn%C3%A9es&#xD;
 Managed by Office of CDO</documentation>
     </element>
+    <element xsi:type="archimate:DataObject" name="GC Disability Type [Data Object]" id="id-4345d926a8824ff8ba5505242ae9417d"/>
   </folder>
   <folder name="Technology &amp; Physical" id="id-e073686aface40f7a970252f84a16b34" type="technology">
     <element xsi:type="archimate:Artifact" name="Model" id="id-cde5d10003e84d168bae6540d857644c"/>
@@ -18933,6 +19383,29 @@ The Data Certification Lifecycle Overview provides a comprehensive framework for
     <element xsi:type="archimate:Grouping" name="6. A MORE EFFICIENT GOVERNMENT" id="id-8fb466351ddb44ce8865041346ece0e3">
       <documentation>Canada can achieve its ambition</documentation>
     </element>
+    <element xsi:type="archimate:Grouping" name="Non-Government of Canada Stakeholders (Policy, accessibility and governance organizations)" id="id-7cefc575bed24908b28de387c258694e">
+      <documentation>2. Policy, accessibility and governance organizations&#xD;
+&#xD;
+Major insurers&#xD;
+•	Sun Life&#xD;
+•	Canada Life&#xD;
+•	Manulife&#xD;
+•	Desjardins Insurance&#xD;
+•	Industrial Alliance (iA Financial Group)&#xD;
+•	GreenShield&#xD;
+Potential impacts:&#xD;
+•	Disability claim processing&#xD;
+•	Return-to-work programs&#xD;
+•	Data exchange with governments&#xD;
+•	Reporting harmonization&#xD;
+________________________________________&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:Grouping" name="Government of Canada Organization Stakeholders (Federal organizations with a direct operational stake)" id="id-3d50be47ac7541d59955d2e44f2560ac"/>
+    <element xsi:type="archimate:Grouping" name="Multi-Disciplinary Stewardship Team" id="id-ab5cb5652bb54879833691238930d54a"/>
+    <element xsi:type="archimate:Grouping" name="Statistical and research organizations" id="id-27a4cfc9c6554d36a79fc9a9c206d20d"/>
+    <element xsi:type="archimate:Grouping" name="Health and disability support organizations" id="id-44592ca5f0514f2ca01380307078a840"/>
+    <element xsi:type="archimate:Grouping" name="Federal workforce and pension organizations" id="id-e8e0d1f78d3f445489ce368e9edfab19"/>
   </folder>
   <folder name="Relations" id="id-2ea02f25b8764d039f4b3e7e236fed25" type="relations">
     <element xsi:type="archimate:SpecializationRelationship" id="id-1fc9998b537248f0ab8efd6853b77d65" source="id-bbea9bb53b0d449e8af710c22edf18bc" target="id-a7f8beac2a2c416c96b351c66b79510c"/>
@@ -21821,6 +22294,47 @@ building a new solution.</documentation>
     <element xsi:type="archimate:AssociationRelationship" id="id-58f9840fa9944236b283ce3ba1edd215" source="id-bf3f02972d9c4e379b96960e4389ef7c" target="id-a2d7057a3c3846eeb66875ca28c739c6"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-f46ec9d2aabf4e50ac5596b73470dd77" source="id-a309e78ba8d2421c901ae1d27fc83429" target="id-a2d7057a3c3846eeb66875ca28c739c6"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-a6ab8f950c55418192c31484986a81ff" source="id-d5a010b155184d43b00e5dc7b63f0ba5" target="id-a2d7057a3c3846eeb66875ca28c739c6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-19664af786ae4aca9387c0c8b2248012" source="id-7cefc575bed24908b28de387c258694e" target="id-dcd4761b3f174d8cb51b329504468053"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-55b3af28623d4cfe94ba7485a5ed42c0" source="id-7cefc575bed24908b28de387c258694e" target="id-6ec6efde4b994a989c281b2c4bfc1a99"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-db6895ec837d4f8abf3ece4bafa1b58a" source="id-7cefc575bed24908b28de387c258694e" target="id-c4d498ef226e401281bd3bea6ed2e9f9"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-dfe701b7f9d7496aae2ebc7fab9c4ccb" source="id-7cefc575bed24908b28de387c258694e" target="id-fc9d26e2ca8f48d79ec5ce85e8722a85"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-686203c411c64f12a13c189c9dfb3bac" source="id-3d50be47ac7541d59955d2e44f2560ac" target="id-5b80e81b4e794fc896333edf5fb883c2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6b0e954180e14b2f91e515a5ab5ef3e0" source="id-3d50be47ac7541d59955d2e44f2560ac" target="id-f744d805bb674ec3a9839b076c0ea394"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-67dc19982bfb40b4b8e139418a1d8f75" source="id-3d50be47ac7541d59955d2e44f2560ac" target="id-25ca06c3be1f4e7ebc0678b519b2685c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3e589e1817974b639fa3fc0ee3f39b95" source="id-3d50be47ac7541d59955d2e44f2560ac" target="id-38a3e827157148d18ce6e61d152d4734"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2db5171ad5114663b410c7e8c063d48b" source="id-3d50be47ac7541d59955d2e44f2560ac" target="id-4d5ec21e11004ddc93c0a258a0f36fe5"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3b47edf4406f4f9aaaa7c29a36367426" source="id-3d50be47ac7541d59955d2e44f2560ac" target="id-50ef3a9984a047c1b781f4fc6895b5f9"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-5169dc672cdf427bac531cb6ce431200" source="id-4345d926a8824ff8ba5505242ae9417d" target="id-3d50be47ac7541d59955d2e44f2560ac"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-47407f97919745b6a66fd3e3f15dd28e" source="id-4345d926a8824ff8ba5505242ae9417d" target="id-7cefc575bed24908b28de387c258694e"/>
+    <element xsi:type="archimate:AssociationRelationship" name="STEWARD or CO-STEWARD" id="id-d34bb8fe3a334ea6a05f5890c67d8908" source="id-4d5ec21e11004ddc93c0a258a0f36fe5" target="id-4345d926a8824ff8ba5505242ae9417d"/>
+    <element xsi:type="archimate:AssociationRelationship" name="OCIO, POLICY, DIRECTIVE, GUIDANCE" id="id-3adfb3bfcd15480dbff4aa319fdf2e1f" source="id-50ef3a9984a047c1b781f4fc6895b5f9" target="id-4345d926a8824ff8ba5505242ae9417d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-86368be8d6a64eb5bd83846456ab29aa" source="id-ab5cb5652bb54879833691238930d54a" target="id-7235a8d5333e4e85bb78581852d454bd"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b7ce755c9f2f41dc86f8e8456f0b336b" source="id-ab5cb5652bb54879833691238930d54a" target="id-82fb709fbc30407ebb24414493fc8583"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4630c7106cdb40c8a97fa36ac65220c7" source="id-ab5cb5652bb54879833691238930d54a" target="id-188ce820bde545d3bba61536574a8213"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-176eedf4dd8e4444aa271a2059b601cb" source="id-ab5cb5652bb54879833691238930d54a" target="id-9c5d259066544c77ab74726726de1e6a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a4016956b7af4c299f8aa1d61a1e9f2b" source="id-ab5cb5652bb54879833691238930d54a" target="id-9f9dcfd583a54b1fbe3a1964054799e6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4861df43e36848d6bb70c823447c939d" source="id-ab5cb5652bb54879833691238930d54a" target="id-e43101d349564f79a78614c386df2f37"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d60a3ce8f99c49fdb056f209c6bee0f7" source="id-ab5cb5652bb54879833691238930d54a" target="id-12c18d9b40c34638bc179613e90e018c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8b143cf5bd2b48abac39c7d7f3ec1c65" source="id-ab5cb5652bb54879833691238930d54a" target="id-d06b81715ee24a8588e7fa828de57377"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ddfc849bb68140f88c74d5e270e6a223" source="id-ab5cb5652bb54879833691238930d54a" target="id-3663d87748114d61a6d9ad875b28ff1b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-bb8dcb926d5b4da4a57843ffe22e58d6" source="id-ab5cb5652bb54879833691238930d54a" target="id-439bccfc9f8e4793a200d386a56b39d7"/>
+    <element xsi:type="archimate:CompositionRelationship" name="STEWARD ROLEs" id="id-b529186d2076490f83d65cf790d7cac9" source="id-4d5ec21e11004ddc93c0a258a0f36fe5" target="id-ab5cb5652bb54879833691238930d54a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4257b58e98f144f49940049e2722f878" source="id-3d50be47ac7541d59955d2e44f2560ac" target="id-93bed602578a4a92ad3d9d2f58b776bd"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-041b496842b4480892ef31c9d477d25e" source="id-7cefc575bed24908b28de387c258694e" target="id-50ef3a9984a047c1b781f4fc6895b5f9"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3998e05c8db448a59c7cab427d270122" source="id-27a4cfc9c6554d36a79fc9a9c206d20d" target="id-db01dabfc1fc4b5c9fe9ea90969d87b2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-165849b4646e4774b05414bae8aee144" source="id-27a4cfc9c6554d36a79fc9a9c206d20d" target="id-b3226b0224094e519d84bfc0a6e2c6b0"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-ff2f602915124257b19f69ed5cb93c86" source="id-27a4cfc9c6554d36a79fc9a9c206d20d" target="id-4345d926a8824ff8ba5505242ae9417d"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-32ec6e3140c6452aa52c7eeda47e85a7" source="id-44592ca5f0514f2ca01380307078a840" target="id-7a163b0c9e9f4b56aba5ff70e000e058"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3d2af19abd174109ac12cb13b3f41885" source="id-44592ca5f0514f2ca01380307078a840" target="id-e0c105f0c6904277b5483aa70bd6c31c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-69115bdd5ede4b96be5677cec6fd6077" source="id-44592ca5f0514f2ca01380307078a840" target="id-dff2fbaeddd3440fb959ae5f65d96b03"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-f1f0d92be1dc4962850e034c10510c6e" source="id-44592ca5f0514f2ca01380307078a840" target="id-d95945573c154b7ea5c795ce4048caaa"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-0edd9a09a6ee402f820b508625bf85ca" source="id-e8e0d1f78d3f445489ce368e9edfab19" target="id-3b8d4923872c4cddabf67bdaaefdc219"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-41d373f4c4614f32adb9086d7167db05" source="id-e8e0d1f78d3f445489ce368e9edfab19" target="id-499a2db51d104ce4a0c160b7e0f2f48e"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-2b29ac9648ee46038c76422cba3cb70e" source="id-44592ca5f0514f2ca01380307078a840" target="id-4345d926a8824ff8ba5505242ae9417d"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-deebf6582d8748b0be98b9e006f026a0" source="id-e8e0d1f78d3f445489ce368e9edfab19" target="id-4345d926a8824ff8ba5505242ae9417d"/>
+    <element xsi:type="archimate:AssociationRelationship" name="BUSINESS OWNER" id="id-8fca964a66194c7e9e019ba253f7f116" source="id-4d5ec21e11004ddc93c0a258a0f36fe5" target="id-4345d926a8824ff8ba5505242ae9417d"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-d676f3ef38c64ef1bfab66a1364d2805" source="id-238bed6f29b448c8acb0e8285b5762eb" target="id-4345d926a8824ff8ba5505242ae9417d"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-3079137ce47e426ab95370d3f6800367" source="id-92c1a2d9c495447eb1634b720d207008" target="id-4345d926a8824ff8ba5505242ae9417d"/>
   </folder>
   <folder name="Views" id="id-e95b9bd9af9641dd95e8d88989249a9c" type="diagrams">
     <folder name="AEA-DTiG Conference" id="id-74e9492d36164a83981af6dc125acd39">
@@ -25083,6 +25597,202 @@ From ADM SEP WG for Data and Information Final Report</content>
         <child xsi:type="archimate:DiagramObject" id="id-aa9607ab80fa43328f3e2be89f736db8" archimateElement="id-c0f80f23ec2f4ca7ba0b47b31de12e26">
           <bounds x="1116" y="268" width="136" height="55"/>
         </child>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="GC Disability Type Stewardship" id="id-8bd8acf0bd474ab8a88569f8dd81ff46">
+        <child xsi:type="archimate:Note" id="id-36a8b54c8e1543a39279743edc34f60f" font="1|Segoe UI|13.8|3|WINDOWS|1|-23|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#a6ebf2">
+          <bounds x="14" y="12" width="450" height="62"/>
+          <content>GC Disability Type&#xD;
+Reference Data Stewardship by ESDC</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-23e87fe856424a1e9264dab1c6944db7" font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#ffffff">
+          <bounds x="287" y="12" width="177" height="28"/>
+          <content>Version: v0.1.20261127</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-9ff5952049954c119b793e4b0e6a490f" font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fillColor="#ff0000" textPosition="1">
+          <bounds x="475" y="18" width="169" height="49"/>
+          <content>DRAFT</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-2652b9e4ccb54e09b750d3a48f40e75b" font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#ffffff">
+          <bounds x="365" y="46" width="99" height="28"/>
+          <content>2026-12-09</content>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-61e8bbe8895841789f65fcb70154a018" targetConnections="id-a9a7d0e2bf1c4e02a7390d9c65b6c61c id-67d299d6cf90404a894e8f217c4ff124 id-1bdccda0e2f849f384752976194fcb36 id-04539e4be83147f9aa9f3831604c5436 id-fb2bc12d5e394b01aa8460889ece3f41 id-fff9514948a8448b9730cec039539dd5 id-caa944b0d93a4d749f1b5aebcf168098 id-dd1c7b68cf684ce497d7c0df7f39d881" archimateElement="id-4345d926a8824ff8ba5505242ae9417d">
+          <bounds x="60" y="180" width="144" height="192"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e81dbff5e5b04dc79a628ff8860d64b7" source="id-61e8bbe8895841789f65fcb70154a018" target="id-83011f4b41354c5aa14addc84541deac" archimateRelationship="id-5169dc672cdf427bac531cb6ce431200">
+            <bendpoint startX="214" startY="21" endX="-260" endY="-89"/>
+          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9c3147df66ae4f13a2250650a1e91ea1" source="id-61e8bbe8895841789f65fcb70154a018" target="id-7ca8b3d3f76b4841abe73fc193e08a15" archimateRelationship="id-47407f97919745b6a66fd3e3f15dd28e"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-7ca8b3d3f76b4841abe73fc193e08a15" targetConnections="id-9c3147df66ae4f13a2250650a1e91ea1" textAlignment="1" archimateElement="id-7cefc575bed24908b28de387c258694e">
+          <bounds x="252" y="312" width="204" height="323"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8ee12ef477434e299601fb1919a728da" source="id-7ca8b3d3f76b4841abe73fc193e08a15" target="id-83afa761f4cc44d2b671407cc2ea81da" archimateRelationship="id-19664af786ae4aca9387c0c8b2248012"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-dc8eb17f2a344b6f80041fddda6ef6cd" source="id-7ca8b3d3f76b4841abe73fc193e08a15" target="id-e394bac84c1f4f1e98fc7ba13e4b778b" archimateRelationship="id-55b3af28623d4cfe94ba7485a5ed42c0"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-dc9dcc15bbf548f6b929ad9b2b0513e6" source="id-7ca8b3d3f76b4841abe73fc193e08a15" target="id-e65dfd6c49104c4eaa4e3f21feb69837" archimateRelationship="id-db6895ec837d4f8abf3ece4bafa1b58a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5fbeb9953b9d4ecfa6a2ec7bb947039c" source="id-7ca8b3d3f76b4841abe73fc193e08a15" target="id-85f04c3e87144606b7a9a6321376e7bc" archimateRelationship="id-dfe701b7f9d7496aae2ebc7fab9c4ccb"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b4755dc5823c477e99cd1db3f1fdce6a" source="id-7ca8b3d3f76b4841abe73fc193e08a15" target="id-f6951df513e447f9ad8d57614759ec1a" archimateRelationship="id-041b496842b4480892ef31c9d477d25e">
+            <bendpoint startX="127" startY="-146" endX="-125" endY="43"/>
+          </sourceConnection>
+          <child xsi:type="archimate:DiagramObject" id="id-83afa761f4cc44d2b671407cc2ea81da" targetConnections="id-8ee12ef477434e299601fb1919a728da" archimateElement="id-dcd4761b3f174d8cb51b329504468053">
+            <bounds x="12" y="53" width="180" height="37"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e394bac84c1f4f1e98fc7ba13e4b778b" targetConnections="id-dc8eb17f2a344b6f80041fddda6ef6cd" archimateElement="id-6ec6efde4b994a989c281b2c4bfc1a99">
+            <bounds x="12" y="95" width="180" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e65dfd6c49104c4eaa4e3f21feb69837" targetConnections="id-dc9dcc15bbf548f6b929ad9b2b0513e6" archimateElement="id-c4d498ef226e401281bd3bea6ed2e9f9">
+            <bounds x="12" y="155" width="180" height="73"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-85f04c3e87144606b7a9a6321376e7bc" targetConnections="id-5fbeb9953b9d4ecfa6a2ec7bb947039c" archimateElement="id-fc9d26e2ca8f48d79ec5ce85e8722a85">
+            <bounds x="12" y="233" width="180" height="83"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-83011f4b41354c5aa14addc84541deac" targetConnections="id-e81dbff5e5b04dc79a628ff8860d64b7" textAlignment="1" archimateElement="id-3d50be47ac7541d59955d2e44f2560ac">
+          <bounds x="504" y="137" width="204" height="498"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2bbf35b90b8e47b0b0d9342789bc9b8a" source="id-83011f4b41354c5aa14addc84541deac" target="id-f696f8f3cc1644c2acd1dccc05bbcdfd" archimateRelationship="id-686203c411c64f12a13c189c9dfb3bac"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ac1cac9cdbef4b9b869bf52ed07ed489" source="id-83011f4b41354c5aa14addc84541deac" target="id-e9451cba1fd1491e911ccc8da4568b34" archimateRelationship="id-6b0e954180e14b2f91e515a5ab5ef3e0"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-85faae4f11e94e7d9f72dbd107771ae7" source="id-83011f4b41354c5aa14addc84541deac" target="id-faf565ffecc64c50865ba8d321e2b888" archimateRelationship="id-67dc19982bfb40b4b8e139418a1d8f75"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3392300115cc4a78837ee55192a33898" source="id-83011f4b41354c5aa14addc84541deac" target="id-695484a395d949039654780ca4c760b7" archimateRelationship="id-3e589e1817974b639fa3fc0ee3f39b95"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-73fe63217044488b832c20480bfe1b8a" source="id-83011f4b41354c5aa14addc84541deac" target="id-c5cb3c67544b46f0a55775c072ca1a96" archimateRelationship="id-2db5171ad5114663b410c7e8c063d48b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-af99965b9b1146279f65b51a550b5b8e" source="id-83011f4b41354c5aa14addc84541deac" target="id-f6951df513e447f9ad8d57614759ec1a" archimateRelationship="id-3b47edf4406f4f9aaaa7c29a36367426"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a4b5776d85f7464baae2c7987e714fa3" source="id-83011f4b41354c5aa14addc84541deac" target="id-6b79c594d8b6412dbd44734f2ed55ee1" archimateRelationship="id-4257b58e98f144f49940049e2722f878"/>
+          <child xsi:type="archimate:DiagramObject" id="id-e9451cba1fd1491e911ccc8da4568b34" targetConnections="id-ac1cac9cdbef4b9b869bf52ed07ed489" archimateElement="id-f744d805bb674ec3a9839b076c0ea394">
+            <bounds x="12" y="184" width="180" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-faf565ffecc64c50865ba8d321e2b888" targetConnections="id-85faae4f11e94e7d9f72dbd107771ae7" archimateElement="id-25ca06c3be1f4e7ebc0678b519b2685c">
+            <bounds x="12" y="364" width="180" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-695484a395d949039654780ca4c760b7" targetConnections="id-3392300115cc4a78837ee55192a33898" archimateElement="id-38a3e827157148d18ce6e61d152d4734">
+            <bounds x="12" y="304" width="180" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-c5cb3c67544b46f0a55775c072ca1a96" targetConnections="id-73fe63217044488b832c20480bfe1b8a" archimateElement="id-4d5ec21e11004ddc93c0a258a0f36fe5">
+            <bounds x="12" y="60" width="180" height="55"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-a9a7d0e2bf1c4e02a7390d9c65b6c61c" source="id-c5cb3c67544b46f0a55775c072ca1a96" target="id-61e8bbe8895841789f65fcb70154a018" archimateRelationship="id-d34bb8fe3a334ea6a05f5890c67d8908">
+              <bendpoint startX="-242" startY="-16" endX="232" endY="-67"/>
+            </sourceConnection>
+            <sourceConnection xsi:type="archimate:Connection" id="id-105681e469984b6fbbba4ca31070d52d" source="id-c5cb3c67544b46f0a55775c072ca1a96" target="id-ab2583ba0cac436681a57776200bc02c" archimateRelationship="id-b529186d2076490f83d65cf790d7cac9"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-fff9514948a8448b9730cec039539dd5" source="id-c5cb3c67544b46f0a55775c072ca1a96" target="id-61e8bbe8895841789f65fcb70154a018" archimateRelationship="id-8fca964a66194c7e9e019ba253f7f116"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f6951df513e447f9ad8d57614759ec1a" targetConnections="id-af99965b9b1146279f65b51a550b5b8e id-b4755dc5823c477e99cd1db3f1fdce6a" archimateElement="id-50ef3a9984a047c1b781f4fc6895b5f9">
+            <bounds x="12" y="120" width="180" height="55"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-67d299d6cf90404a894e8f217c4ff124" source="id-f6951df513e447f9ad8d57614759ec1a" target="id-61e8bbe8895841789f65fcb70154a018" archimateRelationship="id-3adfb3bfcd15480dbff4aa319fdf2e1f">
+              <bendpoint startX="-245" startY="-22" endX="229" endY="-14"/>
+            </sourceConnection>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f696f8f3cc1644c2acd1dccc05bbcdfd" targetConnections="id-2bbf35b90b8e47b0b0d9342789bc9b8a" archimateElement="id-5b80e81b4e794fc896333edf5fb883c2">
+            <bounds x="13" y="244" width="180" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-6b79c594d8b6412dbd44734f2ed55ee1" targetConnections="id-a4b5776d85f7464baae2c7987e714fa3" archimateElement="id-93bed602578a4a92ad3d9d2f58b776bd">
+            <bounds x="12" y="424" width="180" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-ab2583ba0cac436681a57776200bc02c" targetConnections="id-105681e469984b6fbbba4ca31070d52d" textAlignment="1" archimateElement="id-ab5cb5652bb54879833691238930d54a">
+          <bounds x="1044" y="137" width="360" height="372"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a8d2c4e72dae4ba6a2f73c00ae7926b7" source="id-ab2583ba0cac436681a57776200bc02c" target="id-92d20c6409e04954a93fd24d54ad2c18" archimateRelationship="id-86368be8d6a64eb5bd83846456ab29aa"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-125b67ea24254e0ca370bae6db7014cf" source="id-ab2583ba0cac436681a57776200bc02c" target="id-71c47143b5414f9787fef1107b5db017" archimateRelationship="id-b7ce755c9f2f41dc86f8e8456f0b336b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-861156c46b364b60b5a5137a8236cef5" source="id-ab2583ba0cac436681a57776200bc02c" target="id-09f6f1ab4c8640829952d6da014c2a9b" archimateRelationship="id-4630c7106cdb40c8a97fa36ac65220c7"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-60c34a42fc344a51a8738d172c41b401" source="id-ab2583ba0cac436681a57776200bc02c" target="id-28ff931ca41e4f65a9cb899d9abc1c64" archimateRelationship="id-176eedf4dd8e4444aa271a2059b601cb"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-55147869c8454bf48b8ef2112151d70c" source="id-ab2583ba0cac436681a57776200bc02c" target="id-e26b36937c1142bb8b46cd208f80a707" archimateRelationship="id-a4016956b7af4c299f8aa1d61a1e9f2b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3044b55cd0b14823ac0d394fee4ff7b1" source="id-ab2583ba0cac436681a57776200bc02c" target="id-5315313925aa49039d1df5a3550f8031" archimateRelationship="id-4861df43e36848d6bb70c823447c939d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f6589d9fa02a4fdaa9f44bfc81efa6d4" source="id-ab2583ba0cac436681a57776200bc02c" target="id-cc9ee716d85b4601b900a71d789d0456" archimateRelationship="id-d60a3ce8f99c49fdb056f209c6bee0f7"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f15c5c8a5c1d43bd8c6915ad698211b4" source="id-ab2583ba0cac436681a57776200bc02c" target="id-6e6210bb417d4909b842fd19bed7a474" archimateRelationship="id-8b143cf5bd2b48abac39c7d7f3ec1c65"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9e2ef940e95e488fa9fb92b21428103e" source="id-ab2583ba0cac436681a57776200bc02c" target="id-98b1311679e44ec28bc994a173d6ddca" archimateRelationship="id-ddfc849bb68140f88c74d5e270e6a223"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1ee5d91d263747a3845417b7691462cc" source="id-ab2583ba0cac436681a57776200bc02c" target="id-c6c670d967534d039175502df9fdd63e" archimateRelationship="id-bb8dcb926d5b4da4a57843ffe22e58d6"/>
+          <child xsi:type="archimate:DiagramObject" id="id-92d20c6409e04954a93fd24d54ad2c18" targetConnections="id-a8d2c4e72dae4ba6a2f73c00ae7926b7" archimateElement="id-7235a8d5333e4e85bb78581852d454bd">
+            <bounds x="176" y="70" width="168" height="53"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-71c47143b5414f9787fef1107b5db017" targetConnections="id-125b67ea24254e0ca370bae6db7014cf" archimateElement="id-82fb709fbc30407ebb24414493fc8583">
+            <bounds x="12" y="24" width="152" height="66"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-09f6f1ab4c8640829952d6da014c2a9b" targetConnections="id-861156c46b364b60b5a5137a8236cef5" archimateElement="id-188ce820bde545d3bba61536574a8213">
+            <bounds x="12" y="99" width="152" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-28ff931ca41e4f65a9cb899d9abc1c64" targetConnections="id-60c34a42fc344a51a8738d172c41b401" archimateElement="id-9c5d259066544c77ab74726726de1e6a">
+            <bounds x="176" y="128" width="168" height="56"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e26b36937c1142bb8b46cd208f80a707" targetConnections="id-55147869c8454bf48b8ef2112151d70c" archimateElement="id-9f9dcfd583a54b1fbe3a1964054799e6">
+            <bounds x="12" y="159" width="152" height="68"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5315313925aa49039d1df5a3550f8031" targetConnections="id-3044b55cd0b14823ac0d394fee4ff7b1" archimateElement="id-e43101d349564f79a78614c386df2f37">
+            <bounds x="12" y="231" width="152" height="67"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-cc9ee716d85b4601b900a71d789d0456" targetConnections="id-f6589d9fa02a4fdaa9f44bfc81efa6d4" archimateElement="id-12c18d9b40c34638bc179613e90e018c">
+            <bounds x="176" y="272" width="168" height="81"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-6e6210bb417d4909b842fd19bed7a474" targetConnections="id-f15c5c8a5c1d43bd8c6915ad698211b4" archimateElement="id-d06b81715ee24a8588e7fa828de57377">
+            <bounds x="12" y="302" width="152" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-98b1311679e44ec28bc994a173d6ddca" targetConnections="id-9e2ef940e95e488fa9fb92b21428103e" archimateElement="id-3663d87748114d61a6d9ad875b28ff1b">
+            <bounds x="176" y="197" width="168" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-c6c670d967534d039175502df9fdd63e" targetConnections="id-1ee5d91d263747a3845417b7691462cc" archimateElement="id-439bccfc9f8e4793a200d386a56b39d7">
+            <bounds x="176" y="24" width="168" height="41"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-0de00838180743c3b95f00eec1813366" textAlignment="1" archimateElement="id-27a4cfc9c6554d36a79fc9a9c206d20d">
+          <bounds x="29" y="490" width="205" height="145"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c06bbb4bb8a846308c20e4d55be2fd1a" source="id-0de00838180743c3b95f00eec1813366" target="id-19c4f4d9ecde4393b12f769dbc990473" archimateRelationship="id-3998e05c8db448a59c7cab427d270122"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d052d98f9c5d40bd8395680546d25aba" source="id-0de00838180743c3b95f00eec1813366" target="id-b179f10e314e4517b0edfc57cb523559" archimateRelationship="id-165849b4646e4774b05414bae8aee144"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1bdccda0e2f849f384752976194fcb36" source="id-0de00838180743c3b95f00eec1813366" target="id-61e8bbe8895841789f65fcb70154a018" archimateRelationship="id-ff2f602915124257b19f69ed5cb93c86"/>
+          <child xsi:type="archimate:DiagramObject" id="id-19c4f4d9ecde4393b12f769dbc990473" targetConnections="id-c06bbb4bb8a846308c20e4d55be2fd1a" archimateElement="id-db01dabfc1fc4b5c9fe9ea90969d87b2">
+            <bounds x="12" y="26" width="180" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b179f10e314e4517b0edfc57cb523559" targetConnections="id-d052d98f9c5d40bd8395680546d25aba" archimateElement="id-b3226b0224094e519d84bfc0a6e2c6b0">
+            <bounds x="12" y="86" width="180" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-5ef41bec305348f88f8af298321cea10" textAlignment="1" archimateElement="id-44592ca5f0514f2ca01380307078a840">
+          <bounds x="756" y="252" width="205" height="276"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-67f7c22c52174b74a41d2baaab1f0862" source="id-5ef41bec305348f88f8af298321cea10" target="id-25464099153242c2b5c12bd7d3faa765" archimateRelationship="id-32ec6e3140c6452aa52c7eeda47e85a7"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-47b1afdb220d4c73b278add6254a3528" source="id-5ef41bec305348f88f8af298321cea10" target="id-8653cc13dc7b4a4a819cd16a119da1b9" archimateRelationship="id-3d2af19abd174109ac12cb13b3f41885"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c9c3bffb4d21493f8a1c94af84d06bb5" source="id-5ef41bec305348f88f8af298321cea10" target="id-12091f69155d4d95895c9699448e0a4f" archimateRelationship="id-69115bdd5ede4b96be5677cec6fd6077"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e873d284fb1c46cfb8d5b3556f6a1aef" source="id-5ef41bec305348f88f8af298321cea10" target="id-d88c4733b7b24a258696bb3f1788d341" archimateRelationship="id-f1f0d92be1dc4962850e034c10510c6e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-04539e4be83147f9aa9f3831604c5436" source="id-5ef41bec305348f88f8af298321cea10" target="id-61e8bbe8895841789f65fcb70154a018" archimateRelationship="id-2b29ac9648ee46038c76422cba3cb70e">
+            <bendpoint startX="-385" startY="-29" endX="341" endY="85"/>
+          </sourceConnection>
+          <child xsi:type="archimate:DiagramObject" id="id-25464099153242c2b5c12bd7d3faa765" targetConnections="id-67f7c22c52174b74a41d2baaab1f0862" archimateElement="id-7a163b0c9e9f4b56aba5ff70e000e058">
+            <bounds x="12" y="36" width="180" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-8653cc13dc7b4a4a819cd16a119da1b9" targetConnections="id-47b1afdb220d4c73b278add6254a3528" archimateElement="id-e0c105f0c6904277b5483aa70bd6c31c">
+            <bounds x="12" y="84" width="180" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-12091f69155d4d95895c9699448e0a4f" targetConnections="id-c9c3bffb4d21493f8a1c94af84d06bb5" archimateElement="id-dff2fbaeddd3440fb959ae5f65d96b03">
+            <bounds x="12" y="144" width="180" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d88c4733b7b24a258696bb3f1788d341" targetConnections="id-e873d284fb1c46cfb8d5b3556f6a1aef" archimateElement="id-d95945573c154b7ea5c795ce4048caaa">
+            <bounds x="12" y="206" width="180" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-53a48383fbd947c8a9a53d977524b606" textAlignment="1" archimateElement="id-e8e0d1f78d3f445489ce368e9edfab19">
+          <bounds x="756" y="539" width="397" height="96"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4cb83f7cf8fe45c8b2ed147f50bffcb4" source="id-53a48383fbd947c8a9a53d977524b606" target="id-c3b2c2b76ac04545ab391e3f0fc8dc16" archimateRelationship="id-0edd9a09a6ee402f820b508625bf85ca"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-76aebf177d9040d0886a5743a8091b48" source="id-53a48383fbd947c8a9a53d977524b606" target="id-e553a9d5e0ac4fa3b75456c86bf9544e" archimateRelationship="id-41d373f4c4614f32adb9086d7167db05"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-fb2bc12d5e394b01aa8460889ece3f41" source="id-53a48383fbd947c8a9a53d977524b606" target="id-61e8bbe8895841789f65fcb70154a018" archimateRelationship="id-deebf6582d8748b0be98b9e006f026a0"/>
+          <child xsi:type="archimate:DiagramObject" id="id-c3b2c2b76ac04545ab391e3f0fc8dc16" targetConnections="id-4cb83f7cf8fe45c8b2ed147f50bffcb4" archimateElement="id-3b8d4923872c4cddabf67bdaaefdc219">
+            <bounds x="192" y="24" width="192" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e553a9d5e0ac4fa3b75456c86bf9544e" targetConnections="id-76aebf177d9040d0886a5743a8091b48" archimateElement="id-499a2db51d104ce4a0c160b7e0f2f48e">
+            <bounds x="12" y="24" width="168" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a054536d87514035bc511364d780ed74" archimateElement="id-238bed6f29b448c8acb0e8285b5762eb">
+          <bounds x="1186" y="563" width="192" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-caa944b0d93a4d749f1b5aebcf168098" source="id-a054536d87514035bc511364d780ed74" target="id-61e8bbe8895841789f65fcb70154a018" archimateRelationship="id-d676f3ef38c64ef1bfab66a1364d2805"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-1beeda818b574253a43ad17c562c12ca" archimateElement="id-92c1a2d9c495447eb1634b720d207008">
+          <bounds x="768" y="142" width="180" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-dd1c7b68cf684ce497d7c0df7f39d881" source="id-1beeda818b574253a43ad17c562c12ca" target="id-61e8bbe8895841789f65fcb70154a018" archimateRelationship="id-3079137ce47e426ab95370d3f6800367"/>
+        </child>
+        <documentation>Organization	Likely Role&#xD;
+ESDC	Business owner&#xD;
+Service Canada	Program operator&#xD;
+Statistics Canada	Classification and measurement expertise&#xD;
+Treasury Board Secretariat	Enterprise policy and standards&#xD;
+Accessibility Standards Canada	Accessibility alignment&#xD;
+Health Canada	Health domain expertise&#xD;
+PHAC	Population reporting&#xD;
+Veterans Affairs Canada	Operational stakeholder&#xD;
+Indigenous Services Canada	Program stakeholder&#xD;
+CIHI	Interoperability partner&#xD;
+</documentation>
       </element>
     </folder>
     <folder name="GC Cloud" id="id-2f1b981ade6245e3af52fa93ff7017b1">
@@ -30500,7 +31210,7 @@ v0.1.20260302A</content>
           <sourceConnection xsi:type="archimate:Connection" id="id-6d441b2e9b05412c95c949fde450e625" source="id-2c2b621146d447d7bff2870c487e9055" target="id-c8582b7784094093a77191c2ae0480dd" archimateRelationship="id-dcf8eade2fe949789bc8aad72974f146"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-a8557df1fef84c96b1c3abbc7f4af0d2" archimateElement="id-bcb3f69cfb6044fe955ee22650c78be6">
-          <bounds x="456" y="392" width="148" height="55"/>
+          <bounds x="456" y="390" width="148" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-eb043abf220246c5ab8bb62d60b8b5fc" source="id-a8557df1fef84c96b1c3abbc7f4af0d2" target="id-10d6c7578b4046ce871f7d43c6aa4226" archimateRelationship="id-1471eebbeebb45be9f97becf4e8b38ac"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-c6101b14d23a4b289bd9a190497a068c" archimateElement="id-7708c9f9d898474abd57c67105a60441">
@@ -30531,7 +31241,7 @@ v0.1.20260302A</content>
           <sourceConnection xsi:type="archimate:Connection" id="id-3b4e857832944c168c82ecbc315a6aa8" source="id-b4b6be46105c4c78bce30418bb126569" target="id-d0ecc8fcafea4d38ac5dd018be9e3e6e" archimateRelationship="id-8a580800ae4a49e4a20a91f943e916b7"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-1675eade82ea4912946c958caf83a3c0" archimateElement="id-2b03ac06fa244cd7a28c67129be2e53c">
-          <bounds x="411" y="331" width="148" height="55"/>
+          <bounds x="288" y="338" width="148" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-b789e1de1f124e32b204382a31a03f73" source="id-1675eade82ea4912946c958caf83a3c0" target="id-a843981476fd475c8c9a845a4a9bf02e" archimateRelationship="id-f72b608517a64959bc1fd320911e7946"/>
         </child>
       </element>
